@@ -1,16 +1,13 @@
+using UnityEditor.SearchService;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class DeadZone : MonoBehaviour
 {
-    public GameObject DeadMenu;
-    public GameConrroller Controller;
-
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (!collision.CompareTag("Player")) return;
+        if (collision.CompareTag("Player")) return;
 
-        Controller.StopGame();
-        DeadMenu.SetActive(true);
+        SceneManager.LoadScene(0);
     }
 }

@@ -1,9 +1,10 @@
+using UnityEditor.SearchService;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class Restart : MonoBehaviour
 {
-    public int SceneIndex = 0;
+    public int SceneIndex;
 
     public void Loader() 
     { 
