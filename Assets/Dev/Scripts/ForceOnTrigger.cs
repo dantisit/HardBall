@@ -1,11 +1,11 @@
 using UnityEngine;
-using UnityEngine.UI; // для работы со UI
+using UnityEngine.UI; 
 
 public class ForceOnTrigger : MonoBehaviour
 {
-    public float chargeSpeed = 10f; // скорость накопления силы
-    public float maxForce = 20f;    // максимальная сила
-    public Slider forceSlider;      // ссылка на UI Slider
+    public float chargeSpeed = 10f; 
+    public float maxForce = 20f;    
+    public Slider forceSlider;      
 
     private Rigidbody2D playerRigidbody;
     private float currentForce = 0f;
@@ -15,7 +15,7 @@ public class ForceOnTrigger : MonoBehaviour
     {
         if (forceSlider != null)
         {
-            forceSlider.gameObject.SetActive(false); // скрываем слайдер по умолчанию
+            forceSlider.gameObject.SetActive(false); 
             forceSlider.minValue = 0;
             forceSlider.maxValue = maxForce;
             forceSlider.value = 0;
@@ -32,7 +32,7 @@ public class ForceOnTrigger : MonoBehaviour
         {
             playerRigidbody = other.GetComponent<Rigidbody2D>();
             if (forceSlider != null)
-                forceSlider.gameObject.SetActive(true); // показываем слайдер
+                forceSlider.gameObject.SetActive(true);
         }
     }
 
@@ -42,8 +42,8 @@ public class ForceOnTrigger : MonoBehaviour
         {
             playerRigidbody = null;
             if (forceSlider != null)
-                forceSlider.gameObject.SetActive(false); // скрываем слайдер
-            currentForce = 0f; // сбрасываем заряд
+                forceSlider.gameObject.SetActive(false); 
+            currentForce = 0f; 
             isCharging = false;
         }
     }
@@ -64,18 +64,16 @@ public class ForceOnTrigger : MonoBehaviour
                 if (currentForce > maxForce)
                     currentForce = maxForce;
 
-                // обновляем значение слайдера
                 if (forceSlider != null)
                     forceSlider.value = currentForce;
             }
 
             if (Input.GetKeyUp(KeyCode.Space) && isCharging)
             {
-                Vector2 forceDirection = Vector2.up; // направление силы
+                Vector2 forceDirection = Vector2.up; 
                 playerRigidbody.AddForce(forceDirection * currentForce, ForceMode2D.Impulse);
                 isCharging = false;
 
-                // сбрасываем значение слайдера после применения силы
                 if (forceSlider != null)
                     forceSlider.value = 0;
             }

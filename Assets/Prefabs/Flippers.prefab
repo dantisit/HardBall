@@ -387,7 +387,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7632881850363366432}
-  - component: {fileID: 162341077368622367}
+  - component: {fileID: 69717410617641577}
   m_Layer: 0
   m_Name: Flippers
   m_TagString: Untagged
@@ -412,7 +412,7 @@ Transform:
   - {fileID: 6789013011545732484}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &162341077368622367
+--- !u!114 &69717410617641577
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -421,10 +421,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 5773248131117057114}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ddb004a021059ef4d9baa453cc3f6d23, type: 3}
+  m_Script: {fileID: 11500000, guid: b933e6406ca32754db80fb657cd53e30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   leftFlipper: {fileID: 7946344871126131441}
   rightFlipper: {fileID: 2388562286269967253}
-  motorSpeed: -5000
-  motorTorque: 5000
+  motorSpeed: 1000
+  motorTorque: 10000

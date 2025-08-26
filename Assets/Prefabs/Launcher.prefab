@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8674696381234495152}
   - component: {fileID: 8185341121428850084}
   - component: {fileID: 4149593006074418662}
-  - component: {fileID: 3587427799881367083}
+  - component: {fileID: 6438451710689436}
   m_Layer: 0
   m_Name: Launcher
   m_TagString: Untagged
@@ -164,7 +164,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &3587427799881367083
+--- !u!114 &6438451710689436
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -173,11 +173,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 327132833910478188}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 14a1a6adebbce8447b53e41998b694b8, type: 3}
+  m_Script: {fileID: 11500000, guid: ffe2ab8e97434d849beae70b109df469, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  chargeSpeed: 30
-  maxForce: 30
+  chargeSpeed: 10
+  maxForce: 20
   forceSlider: {fileID: 0}
 --- !u!1 &4490573542020835089
 GameObject:
