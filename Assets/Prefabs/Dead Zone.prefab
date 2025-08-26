@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5004806289814652420}
   - component: {fileID: 6340949438213557550}
   - component: {fileID: 8348566786440761883}
-  - component: {fileID: 5919618966724429441}
+  - component: {fileID: 3043621416272430773}
   m_Layer: 0
   m_Name: Dead Zone
   m_TagString: Untagged
@@ -163,7 +163,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &5919618966724429441
+--- !u!114 &3043621416272430773
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -172,6 +172,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 711314295932676645}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 247a7de630ab80c4b8f2939cd73cd03f, type: 3}
+  m_Script: {fileID: 11500000, guid: 1451bd36e4a6e8b4e8d7b273eedb6065, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

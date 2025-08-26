@@ -219,8 +219,8 @@ GameObject:
   - component: {fileID: 3560031847599294076}
   - component: {fileID: 3050904712423497382}
   - component: {fileID: 7262339003995533339}
-  - component: {fileID: 2754014285729179497}
-  - component: {fileID: 5084044195524920981}
+  - component: {fileID: 6191344610246610542}
+  - component: {fileID: 2192670303797620116}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -372,7 +372,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &2754014285729179497
+--- !u!114 &6191344610246610542
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -381,11 +381,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 8292812914133953184}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e57df5f36924d34ca4fd3297a7441bc, type: 3}
+  m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   forceStrength: 10
---- !u!114 &5084044195524920981
+--- !u!114 &2192670303797620116
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -394,7 +394,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 8292812914133953184}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 469f390911e58f548a677d4a032abfc0, type: 3}
+  m_Script: {fileID: 11500000, guid: b82af90f71aef0a4bbc8a3f452c12c93, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHits: 3
+  maxHits: 5
