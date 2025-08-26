@@ -251,8 +251,8 @@ GameObject:
   - component: {fileID: 1860388425601539948}
   - component: {fileID: 2006494214261785306}
   - component: {fileID: 8528631403617466763}
-  - component: {fileID: 7503769850347115680}
-  - component: {fileID: -5993142089008224384}
+  - component: {fileID: 1448830309223889015}
+  - component: {fileID: 6320335348682830006}
   m_Layer: 0
   m_Name: Jug
   m_TagString: Untagged
@@ -395,7 +395,7 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0.5}
   m_Radius: 0.5
---- !u!114 &7503769850347115680
+--- !u!114 &1448830309223889015
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -404,20 +404,20 @@ MonoBehaviour:
   m_GameObject: {fileID: 6724869176145027067}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e57df5f36924d34ca4fd3297a7441bc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  forceStrength: 10
---- !u!114 &-5993142089008224384
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6724869176145027067}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 469f390911e58f548a677d4a032abfc0, type: 3}
+  m_Script: {fileID: 11500000, guid: 432f15736faa1a64ca4475c4768237b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   maxHits: 1
+--- !u!114 &6320335348682830006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6724869176145027067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25441337716f8ea409bf63a8ee8a0773, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  forceStrength: 10

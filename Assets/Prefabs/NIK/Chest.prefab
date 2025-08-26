@@ -173,7 +173,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5897467582464775650}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e57df5f36924d34ca4fd3297a7441bc, type: 3}
+  m_Script: {fileID: 11500000, guid: 25441337716f8ea409bf63a8ee8a0773, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   forceStrength: 10
@@ -186,7 +186,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5897467582464775650}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 469f390911e58f548a677d4a032abfc0, type: 3}
+  m_Script: {fileID: 11500000, guid: 432f15736faa1a64ca4475c4768237b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHits: 3
+  maxHits: 4
