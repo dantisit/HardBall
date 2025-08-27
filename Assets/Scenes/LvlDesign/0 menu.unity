@@ -1332,8 +1332,8 @@ GameObject:
   - component: {fileID: 708458037}
   - component: {fileID: 708458036}
   - component: {fileID: 708458035}
-  - component: {fileID: 708458038}
   - component: {fileID: 708458039}
+  - component: {fileID: 708458040}
   m_Layer: 5
   m_Name: 1
   m_TagString: Untagged
@@ -1405,7 +1405,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 708458038}
+      - m_Target: {fileID: 708458040}
         m_TargetAssemblyTypeName: Restart, Assembly-CSharp
         m_MethodName: Loader
         m_Mode: 1
@@ -1455,19 +1455,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 708458033}
   m_CullTransparentMesh: 1
---- !u!114 &708458038
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 708458033}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b8fb93b719a3c754bb7ccdad8c5285ba, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  SceneIndex: 1
 --- !u!114 &708458039
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1483,6 +1470,19 @@ MonoBehaviour:
   buttonText: {fileID: 1562730475}
   normalColor: {r: 0.79215693, g: 0.654902, b: 0.654902, a: 1}
   highlightColor: {r: 1, g: 0.7233923, b: 0, a: 1}
+--- !u!114 &708458040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 708458033}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ca4c564b2c6cf1409445d8409c871b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SceneIndex: 1
 --- !u!1 &768415023
 GameObject:
   m_ObjectHideFlags: 0
@@ -1668,8 +1668,8 @@ GameObject:
   - component: {fileID: 775629418}
   - component: {fileID: 775629417}
   - component: {fileID: 775629416}
-  - component: {fileID: 775629419}
   - component: {fileID: 775629420}
+  - component: {fileID: 775629421}
   m_Layer: 5
   m_Name: 3
   m_TagString: Untagged
@@ -1741,7 +1741,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 775629419}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: Restart, Assembly-CSharp
         m_MethodName: Loader
         m_Mode: 1
@@ -1791,19 +1791,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 775629414}
   m_CullTransparentMesh: 1
---- !u!114 &775629419
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 775629414}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b8fb93b719a3c754bb7ccdad8c5285ba, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  SceneIndex: 3
 --- !u!114 &775629420
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1819,6 +1806,19 @@ MonoBehaviour:
   buttonText: {fileID: 589890275}
   normalColor: {r: 0.79215693, g: 0.654902, b: 0.654902, a: 1}
   highlightColor: {r: 1, g: 0.7233923, b: 0, a: 1}
+--- !u!114 &775629421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 775629414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ca4c564b2c6cf1409445d8409c871b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SceneIndex: 0
 --- !u!1 &873470297
 GameObject:
   m_ObjectHideFlags: 0
@@ -2244,8 +2244,8 @@ GameObject:
   - component: {fileID: 913341904}
   - component: {fileID: 913341903}
   - component: {fileID: 913341902}
-  - component: {fileID: 913341905}
   - component: {fileID: 913341906}
+  - component: {fileID: 913341907}
   m_Layer: 5
   m_Name: 2
   m_TagString: Untagged
@@ -2317,7 +2317,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 913341905}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: Restart, Assembly-CSharp
         m_MethodName: Loader
         m_Mode: 1
@@ -2367,19 +2367,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 913341900}
   m_CullTransparentMesh: 1
---- !u!114 &913341905
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 913341900}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b8fb93b719a3c754bb7ccdad8c5285ba, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  SceneIndex: 2
 --- !u!114 &913341906
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2395,6 +2382,19 @@ MonoBehaviour:
   buttonText: {fileID: 604736090}
   normalColor: {r: 0.79215693, g: 0.654902, b: 0.654902, a: 1}
   highlightColor: {r: 1, g: 0.7233923, b: 0, a: 1}
+--- !u!114 &913341907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 913341900}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ca4c564b2c6cf1409445d8409c871b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SceneIndex: 0
 --- !u!1 &946764538
 GameObject:
   m_ObjectHideFlags: 0
@@ -2502,7 +2502,6 @@ GameObject:
   - component: {fileID: 1086915364}
   - component: {fileID: 1086915363}
   - component: {fileID: 1086915362}
-  - component: {fileID: 1086915361}
   - component: {fileID: 1086915365}
   m_Layer: 5
   m_Name: Back
@@ -2531,19 +2530,6 @@ RectTransform:
   m_AnchoredPosition: {x: 250, y: -300}
   m_SizeDelta: {x: 400, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1086915361
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1086915359}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b8fb93b719a3c754bb7ccdad8c5285ba, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  SceneIndex: 3
 --- !u!114 &1086915362
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4336,7 +4322,7 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: eba2bbfce5ded3446bdfdf47394fd6cd, type: 3}
   m_Resource: {fileID: 8300000, guid: eba2bbfce5ded3446bdfdf47394fd6cd, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.05
+  m_Volume: 0.2
   m_Pitch: 1
   Loop: 1
   Mute: 0
