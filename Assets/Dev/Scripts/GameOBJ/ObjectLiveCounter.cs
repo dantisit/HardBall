@@ -1,8 +1,9 @@
+using Lean.Pool;
 using UnityEngine;
 
 public class ObjectLiveCounter : MonoBehaviour
 {
-    public GameObject Effect;
+    public LeanGameObjectPool EffectPool;
     public int maxHits = 5; // количество попаданий до уничтожения
     private int currentHits = 0; // текущие попадания
     
@@ -14,8 +15,14 @@ public class ObjectLiveCounter : MonoBehaviour
 
         if ( !(currentHits >= maxHits) ) return;
 
-            Effect.GetComponent<ChestDestroyEffect>()?.Effect();
-            transform.parent.GetComponent<ParentDestroyer>()?.CheckChildren();
+            if (EffectPool != null) 
+            {
+                EffectPool.Spawn(transform.position); 
+            }
+
+            // Куда нибудь сюда можно вставить выпадение ресурсов из сундука
+            
+            transform.parent.GetComponent<ParentDestroyer>()?.CheckChildren(); // Проверяем остались ли дочерние объекты у родительского, если нет - уничтожаем родительский об
             Destroy(gameObject);
     }
 }
