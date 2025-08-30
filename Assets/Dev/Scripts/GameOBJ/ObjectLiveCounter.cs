@@ -1,21 +1,77 @@
+using Lean.Pool;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class ObjectLiveCounter : MonoBehaviour
 {
-    public GameObject Effect;
-    public int maxHits = 5; // количество попаданий до уничтожения
-    private int currentHits = 0; // текущие попадания
-    
+    [SerializeField] private LeanGameObjectPool EffectPool;
+    [SerializeField] private Transform HealthLineTransform;
+    [SerializeField] private GameObject HealthLine;
+    [SerializeField] private GameObject OpenChest;
+    [SerializeField] private GameObject OpenChestsFolder;
+
+    public float maxHits = 5f; // количество попаданий до уничтожения
+    private float currentHits = 0f; // текущие попадания
+
+    private float maxWidth; // Максимальная ширина полоски здоровья
+
+    private void Start()
+    {
+        if (HealthLineTransform != null)
+        {
+            maxWidth = HealthLineTransform.localScale.x;
+        }
+    }
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        if (collision == null || collision.gameObject == null) return;
         if (!collision.gameObject.CompareTag("Player")) return;
-        
-            currentHits++;
 
-        if ( !(currentHits >= maxHits) ) return;
+        currentHits++;
+        UpdateFill();
 
-            Effect.GetComponent<ChestDestroyEffect>()?.Effect();
-            transform.parent.GetComponent<ParentDestroyer>()?.CheckChildren();
-            Destroy(gameObject);
+        if (currentHits < maxHits) return;
+
+        // Эффект при уничтожении
+        if (EffectPool != null)
+        {
+            EffectPool.Spawn(transform.position);
+        }
+
+        // Открытие сундука
+        if (OpenChest != null) 
+        {
+            // Создаём открытый сундук и привязываем его к остальным
+            GameObject newOpenChest = Instantiate(OpenChest, transform);
+            newOpenChest.transform.SetParent(OpenChestsFolder.transform, worldPositionStays: true);
+            newOpenChest.transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z);
+        } 
+         
+
+        // Здесь можно вставить выпадение ресурсов и т.д.
+        transform.parent?.GetComponent<ParentDestroyer>()?.CheckChildren();
+
+        Destroy(gameObject);
+    }
+
+    private void UpdateFill()
+    {
+        if (HealthLine == null || HealthLineTransform == null) return;
+
+        // Визуально: чем больше попаданий, тем меньше полоска
+        float t = Mathf.Clamp01(currentHits / maxHits); // 0..1
+
+        // Уменьшаем ширину пропорционально
+        Vector3 newLocalScale = HealthLineTransform.localScale;
+        newLocalScale.x = maxWidth * (1f - t);
+        HealthLineTransform.localScale = newLocalScale;
+
+        // Опционально: если достигли нуля, можно скрыть полоску
+        // HealthLine.SetActive(t < 1f);
+        if (HealthLine != null)
+        {
+            HealthLine.SetActive(t < 1f); // скрыть когда достигли полного
+        }
     }
 }
