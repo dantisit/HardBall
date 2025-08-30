@@ -8,7 +8,7 @@ public class ObjectLiveCounter : MonoBehaviour
     [SerializeField] private Transform HealthLineTransform;
     [SerializeField] private GameObject HealthLine;
     [SerializeField] private GameObject OpenChest;
-    [SerializeField] private GameObject OpenChests;
+    [SerializeField] private GameObject OpenChestsFolder;
 
     public float maxHits = 5f; // количество попаданий до уничтожения
     private float currentHits = 0f; // текущие попадания
@@ -44,7 +44,7 @@ public class ObjectLiveCounter : MonoBehaviour
         {
             // Создаём открытый сундук и привязываем его к остальным
             GameObject newOpenChest = Instantiate(OpenChest, transform);
-            newOpenChest.transform.SetParent(OpenChests.transform, worldPositionStays: true);
+            newOpenChest.transform.SetParent(OpenChestsFolder.transform, worldPositionStays: true);
             newOpenChest.transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z);
         } 
          

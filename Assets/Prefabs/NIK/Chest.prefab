@@ -193,9 +193,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   EffectPool: {fileID: 8094584035439693868}
-  HealthLineTransform: {fileID: 4240562599831646040}
+  HealthLineTransform: {fileID: 1300280744503811556}
   HealthLine: {fileID: 9182635744677514458}
   OpenChest: {fileID: 8282577288890936122, guid: 3adced99c7852454f86572b726057d3c, type: 3}
+  OpenChestsFolder: {fileID: 0}
   maxHits: 4
 --- !u!114 &8094584035439693868
 MonoBehaviour:
@@ -263,7 +264,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1325732908896864530, guid: a1e20e82d3ba9ff42adbbe28120f526a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 1.3
       objectReference: {fileID: 0}
     - target: {fileID: 1325732908896864530, guid: a1e20e82d3ba9ff42adbbe28120f526a, type: 3}
       propertyPath: m_LocalPosition.y
@@ -318,14 +319,14 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a1e20e82d3ba9ff42adbbe28120f526a, type: 3}
+--- !u!4 &1300280744503811556 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1376348229471954361, guid: a1e20e82d3ba9ff42adbbe28120f526a, type: 3}
+  m_PrefabInstance: {fileID: 77197941970303069}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1402783395897946447 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1325732908896864530, guid: a1e20e82d3ba9ff42adbbe28120f526a, type: 3}
-  m_PrefabInstance: {fileID: 77197941970303069}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &4240562599831646040 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4308750950232905477, guid: a1e20e82d3ba9ff42adbbe28120f526a, type: 3}
   m_PrefabInstance: {fileID: 77197941970303069}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &9182635744677514458 stripped
