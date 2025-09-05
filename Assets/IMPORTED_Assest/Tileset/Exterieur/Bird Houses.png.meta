@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 1640c38303bfd8144838ccb30f25982a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8735939974558619897
+    second: Bird Houses_0
+  - first:
+      213: 6430262102248719688
+    second: Bird Houses_1
+  - first:
+      213: 2189599698008374054
+    second: Bird Houses_2
+  - first:
+      213: -360938795130838212
+    second: Bird Houses_3
+  - first:
+      213: -1364647862937305316
+    second: Bird Houses_4
+  - first:
+      213: 2547297710007411501
+    second: Bird Houses_5
+  - first:
+      213: -2482066522000447233
+    second: Bird Houses_6
+  - first:
+      213: 8586897002017856984
+    second: Bird Houses_7
+  - first:
+      213: -2136893751823570032
+    second: Bird Houses_8
+  - first:
+      213: -1772157224881326661
+    second: Bird Houses_9
+  - first:
+      213: 4828528982775397964
+    second: Bird Houses_10
+  - first:
+      213: 3424787019186792716
+    second: Bird Houses_11
+  - first:
+      213: 5696547155820707077
+    second: Bird Houses_12
+  - first:
+      213: 6414604947436100348
+    second: Bird Houses_13
+  - first:
+      213: -7442946979217219461
+    second: Bird Houses_14
+  - first:
+      213: -7673561088029010156
+    second: Bird Houses_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bird Houses_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 294
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7076c4dc0e4b3c680800000000000000
+      internalID: -8735939974558619897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird Houses_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 203
+        width: 27
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84501312051ec3950800000000000000
+      internalID: 6430262102248719688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird Houses_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 287
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b77180355036e10800000000000000
+      internalID: 2189599698008374054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird Houses_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 246
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33a1920410bdfaf0800000000000000
+      internalID: -360938795130838212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird Houses_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 239
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f3026bffbcf0de0800000000000000
+      internalID: -1364647862937305316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird Houses_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 206
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23682665c1d95320800000000000000
+      internalID: 2547297710007411501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird Houses_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 193
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8264716aded8dd0800000000000000
+      internalID: -2482066522000447233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird Houses_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 156
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd1428f359ca2770800000000000000
+      internalID: 8586897002017856984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird Houses_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 153
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bedc7547a3852e0800000000000000
+      internalID: -2136893751823570032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird Houses_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 145
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb57ecca4680867e0800000000000000
+      internalID: -1772157224881326661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird Houses_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 129
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e7106f681620340800000000000000
+      internalID: 4828528982775397964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird Houses_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 74
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c096ffd06a9478f20800000000000000
+      internalID: 3424787019186792716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird Houses_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 124
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d74f4e4733e0f40800000000000000
+      internalID: 5696547155820707077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird Houses_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 105
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa5462b631450950800000000000000
+      internalID: 6414604947436100348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird Houses_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 57
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70e0b5282755b890800000000000000
+      internalID: -7442946979217219461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird Houses_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41755c1c8d8028590800000000000000
+      internalID: -7673561088029010156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bird Houses_0: -8735939974558619897
+      Bird Houses_1: 6430262102248719688
+      Bird Houses_10: 4828528982775397964
+      Bird Houses_11: 3424787019186792716
+      Bird Houses_12: 5696547155820707077
+      Bird Houses_13: 6414604947436100348
+      Bird Houses_14: -7442946979217219461
+      Bird Houses_15: -7673561088029010156
+      Bird Houses_2: 2189599698008374054
+      Bird Houses_3: -360938795130838212
+      Bird Houses_4: -1364647862937305316
+      Bird Houses_5: 2547297710007411501
+      Bird Houses_6: -2482066522000447233
+      Bird Houses_7: 8586897002017856984
+      Bird Houses_8: -2136893751823570032
+      Bird Houses_9: -1772157224881326661
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 659a99782d97c024fbd52dadd7c473e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4685516606300754774
+    second: Tilesets_Temple_inside2_Rasak_0
+  - first:
+      213: -87038034543071065
+    second: Tilesets_Temple_inside2_Rasak_1
+  - first:
+      213: -5814523305161524522
+    second: Tilesets_Temple_inside2_Rasak_2
+  - first:
+      213: 4307922758826941684
+    second: Tilesets_Temple_inside2_Rasak_3
+  - first:
+      213: 2958235937128564246
+    second: Tilesets_Temple_inside2_Rasak_4
+  - first:
+      213: -599417114387210008
+    second: Tilesets_Temple_inside2_Rasak_5
+  - first:
+      213: -3597213400180632631
+    second: Tilesets_Temple_inside2_Rasak_6
+  - first:
+      213: 867558412920436100
+    second: Tilesets_Temple_inside2_Rasak_7
+  - first:
+      213: -755591100742455722
+    second: Tilesets_Temple_inside2_Rasak_8
+  - first:
+      213: -8922340005493316680
+    second: Tilesets_Temple_inside2_Rasak_9
+  - first:
+      213: 5041644113377371586
+    second: Tilesets_Temple_inside2_Rasak_10
+  - first:
+      213: -7194589456368398612
+    second: Tilesets_Temple_inside2_Rasak_11
+  - first:
+      213: 313195659681532107
+    second: Tilesets_Temple_inside2_Rasak_12
+  - first:
+      213: -3676715492136282675
+    second: Tilesets_Temple_inside2_Rasak_13
+  - first:
+      213: -1402170224774925906
+    second: Tilesets_Temple_inside2_Rasak_14
+  - first:
+      213: -7678770322708274598
+    second: Tilesets_Temple_inside2_Rasak_15
+  - first:
+      213: -268005844783238138
+    second: Tilesets_Temple_inside2_Rasak_16
+  - first:
+      213: -3272111834581223413
+    second: Tilesets_Temple_inside2_Rasak_17
+  - first:
+      213: -4870425157651860777
+    second: Tilesets_Temple_inside2_Rasak_18
+  - first:
+      213: 5943236633640291867
+    second: Tilesets_Temple_inside2_Rasak_19
+  - first:
+      213: -410937299165233734
+    second: Tilesets_Temple_inside2_Rasak_20
+  - first:
+      213: -2216214007378023095
+    second: Tilesets_Temple_inside2_Rasak_21
+  - first:
+      213: -5475819352468534836
+    second: Tilesets_Temple_inside2_Rasak_22
+  - first:
+      213: -4971425167515265955
+    second: Tilesets_Temple_inside2_Rasak_23
+  - first:
+      213: -9030421350333418166
+    second: Tilesets_Temple_inside2_Rasak_24
+  - first:
+      213: 8979422874892424357
+    second: Tilesets_Temple_inside2_Rasak_25
+  - first:
+      213: 2328061885185927785
+    second: Tilesets_Temple_inside2_Rasak_26
+  - first:
+      213: 8542980711021472551
+    second: Tilesets_Temple_inside2_Rasak_27
+  - first:
+      213: 4338463449269081549
+    second: Tilesets_Temple_inside2_Rasak_28
+  - first:
+      213: 5637557725390240739
+    second: Tilesets_Temple_inside2_Rasak_29
+  - first:
+      213: -5099478311886277364
+    second: Tilesets_Temple_inside2_Rasak_30
+  - first:
+      213: -6681496279812531106
+    second: Tilesets_Temple_inside2_Rasak_31
+  - first:
+      213: 1875530627492192409
+    second: Tilesets_Temple_inside2_Rasak_32
+  - first:
+      213: -1158114298226236085
+    second: Tilesets_Temple_inside2_Rasak_33
+  - first:
+      213: -4734136088742908863
+    second: Tilesets_Temple_inside2_Rasak_34
+  - first:
+      213: -4764230353767853369
+    second: Tilesets_Temple_inside2_Rasak_35
+  - first:
+      213: 2584663639428942859
+    second: Tilesets_Temple_inside2_Rasak_36
+  - first:
+      213: 6219243388721470512
+    second: Tilesets_Temple_inside2_Rasak_37
+  - first:
+      213: 725802881277894850
+    second: Tilesets_Temple_inside2_Rasak_38
+  - first:
+      213: -9092126375150073726
+    second: Tilesets_Temple_inside2_Rasak_39
+  - first:
+      213: -645068808217902013
+    second: Tilesets_Temple_inside2_Rasak_40
+  - first:
+      213: -1624011713711304598
+    second: Tilesets_Temple_inside2_Rasak_41
+  - first:
+      213: 6465774166144942444
+    second: Tilesets_Temple_inside2_Rasak_42
+  - first:
+      213: -6105407920436660072
+    second: Tilesets_Temple_inside2_Rasak_43
+  - first:
+      213: -4636248598012049519
+    second: Tilesets_Temple_inside2_Rasak_44
+  - first:
+      213: -641756325673067137
+    second: Tilesets_Temple_inside2_Rasak_45
+  - first:
+      213: 2939499084844941207
+    second: Tilesets_Temple_inside2_Rasak_46
+  - first:
+      213: -1672723506306824736
+    second: Tilesets_Temple_inside2_Rasak_47
+  - first:
+      213: 206204297619522239
+    second: Tilesets_Temple_inside2_Rasak_48
+  - first:
+      213: 1876263628861323703
+    second: Tilesets_Temple_inside2_Rasak_49
+  - first:
+      213: -2634397467956441922
+    second: Tilesets_Temple_inside2_Rasak_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 646
+        width: 22
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65310cb478c460140800000000000000
+      internalID: 4685516606300754774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 719
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0bc156e57cacef0800000000000000
+      internalID: -87038034543071065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 719
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dafd915cd9ae4fa0800000000000000
+      internalID: -5814523305161524522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 559
+        width: 46
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc53bfbce0d8cb30800000000000000
+      internalID: 4307922758826941684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 626
+        width: 116
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616c75259e3cd0920800000000000000
+      internalID: 2958235937128564246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 623
+        width: 215
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e029a07f417ea7f0800000000000000
+      internalID: -599417114387210008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 646
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c355fca871241ec0800000000000000
+      internalID: -3597213400180632631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 629
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4853600b7cf2a0c00800000000000000
+      internalID: 867558412920436100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 644
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65eaccca5e99385f0800000000000000
+      internalID: -755591100742455722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 590
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3605f990b7d2480800000000000000
+      internalID: -8922340005493316680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 599
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c52ccdfb9487f540800000000000000
+      internalID: 5041644113377371586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 599
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee046c020fa72c90800000000000000
+      internalID: -7194589456368398612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 597
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc803880bc1b85400800000000000000
+      internalID: 313195659681532107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 597
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc59a0f6dbea9fcc0800000000000000
+      internalID: -3676715492136282675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 601
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea139ad0c9d7a8ce0800000000000000
+      internalID: -1402170224774925906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 600
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52692b43178f6590800000000000000
+      internalID: -7678770322708274598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 597
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60477f7aa1ad74cf0800000000000000
+      internalID: -268005844783238138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 598
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b083f627f9f1792d0800000000000000
+      internalID: -3272111834581223413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 193
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2f80daf16c86cb0800000000000000
+      internalID: -4870425157651860777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 415
+        width: 46
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ec73cca3e9a7250800000000000000
+      internalID: 5943236633640291867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 415
+        width: 46
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd3c4224be0c4af0800000000000000
+      internalID: -410937299165233734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 552
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94decff2a1d6e31e0800000000000000
+      internalID: -2216214007378023095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 552
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc947e1af4bf104b0800000000000000
+      internalID: -5475819352468534836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 552
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54d0de5623f10bb0800000000000000
+      internalID: -4971425167515265955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 552
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45f54980af7da280800000000000000
+      internalID: -9030421350333418166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 552
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4daf997815d9c70800000000000000
+      internalID: 8979422874892424357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 551
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a22a133ffee4020800000000000000
+      internalID: 2328061885185927785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 554
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72be27ba1b3ce8670800000000000000
+      internalID: 8542980711021472551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 552
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc513bc5581553c30800000000000000
+      internalID: 4338463449269081549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 452
+        width: 146
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebf4a6d1e0ac3e40800000000000000
+      internalID: 5637557725390240739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 312
+        width: 56
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05b5385e730b39b0800000000000000
+      internalID: -5099478311886277364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 479
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c1ea9988e8643a0800000000000000
+      internalID: -6681496279812531106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 239
+        width: 141
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990a9013b29370a10800000000000000
+      internalID: 1875530627492192409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 239
+        width: 90
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45ace48e2d8defe0800000000000000
+      internalID: -1158114298226236085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 431
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c2f105f48fc4eb0800000000000000
+      internalID: -4734136088742908863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 193
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c298873cbd02edb0800000000000000
+      internalID: -4764230353767853369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 287
+        width: 98
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cc70cc2e19ed320800000000000000
+      internalID: 2584663639428942859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 239
+        width: 190
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c907c39e03f4650800000000000000
+      internalID: 6219243388721470512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 194
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0268300e1921a00800000000000000
+      internalID: 725802881277894850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 220
+        width: 14
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2884834eb3742d180800000000000000
+      internalID: -9092126375150073726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 143
+        width: 98
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344cc7e26514c07f0800000000000000
+      internalID: -645068808217902013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 46
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a601a2563f95679e0800000000000000
+      internalID: -1624011713711304598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 202
+        width: 146
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6187f2d85b0bb950800000000000000
+      internalID: 6465774166144942444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 152
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898348d18db354ba0800000000000000
+      internalID: -6105407920436660072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 98
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197c619c67cb8afb0800000000000000
+      internalID: -4636248598012049519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 96
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d95ef95060817f0800000000000000
+      internalID: -641756325673067137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 40
+        width: 17
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fb4c1f7d23bc820800000000000000
+      internalID: 2939499084844941207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 76
+        width: 14
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5c22f55da49c8e0800000000000000
+      internalID: -1672723506306824736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 4
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb245c657b59cd200800000000000000
+      internalID: 206204297619522239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 8
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9b34f54d3d90a10800000000000000
+      internalID: 1876263628861323703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets_Temple_inside2_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 0
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc8445e57db07bd0800000000000000
+      internalID: -2634397467956441922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tilesets_Temple_inside2_Rasak_0: 4685516606300754774
+      Tilesets_Temple_inside2_Rasak_1: -87038034543071065
+      Tilesets_Temple_inside2_Rasak_10: 5041644113377371586
+      Tilesets_Temple_inside2_Rasak_11: -7194589456368398612
+      Tilesets_Temple_inside2_Rasak_12: 313195659681532107
+      Tilesets_Temple_inside2_Rasak_13: -3676715492136282675
+      Tilesets_Temple_inside2_Rasak_14: -1402170224774925906
+      Tilesets_Temple_inside2_Rasak_15: -7678770322708274598
+      Tilesets_Temple_inside2_Rasak_16: -268005844783238138
+      Tilesets_Temple_inside2_Rasak_17: -3272111834581223413
+      Tilesets_Temple_inside2_Rasak_18: -4870425157651860777
+      Tilesets_Temple_inside2_Rasak_19: 5943236633640291867
+      Tilesets_Temple_inside2_Rasak_2: -5814523305161524522
+      Tilesets_Temple_inside2_Rasak_20: -410937299165233734
+      Tilesets_Temple_inside2_Rasak_21: -2216214007378023095
+      Tilesets_Temple_inside2_Rasak_22: -5475819352468534836
+      Tilesets_Temple_inside2_Rasak_23: -4971425167515265955
+      Tilesets_Temple_inside2_Rasak_24: -9030421350333418166
+      Tilesets_Temple_inside2_Rasak_25: 8979422874892424357
+      Tilesets_Temple_inside2_Rasak_26: 2328061885185927785
+      Tilesets_Temple_inside2_Rasak_27: 8542980711021472551
+      Tilesets_Temple_inside2_Rasak_28: 4338463449269081549
+      Tilesets_Temple_inside2_Rasak_29: 5637557725390240739
+      Tilesets_Temple_inside2_Rasak_3: 4307922758826941684
+      Tilesets_Temple_inside2_Rasak_30: -5099478311886277364
+      Tilesets_Temple_inside2_Rasak_31: -6681496279812531106
+      Tilesets_Temple_inside2_Rasak_32: 1875530627492192409
+      Tilesets_Temple_inside2_Rasak_33: -1158114298226236085
+      Tilesets_Temple_inside2_Rasak_34: -4734136088742908863
+      Tilesets_Temple_inside2_Rasak_35: -4764230353767853369
+      Tilesets_Temple_inside2_Rasak_36: 2584663639428942859
+      Tilesets_Temple_inside2_Rasak_37: 6219243388721470512
+      Tilesets_Temple_inside2_Rasak_38: 725802881277894850
+      Tilesets_Temple_inside2_Rasak_39: -9092126375150073726
+      Tilesets_Temple_inside2_Rasak_4: 2958235937128564246
+      Tilesets_Temple_inside2_Rasak_40: -645068808217902013
+      Tilesets_Temple_inside2_Rasak_41: -1624011713711304598
+      Tilesets_Temple_inside2_Rasak_42: 6465774166144942444
+      Tilesets_Temple_inside2_Rasak_43: -6105407920436660072
+      Tilesets_Temple_inside2_Rasak_44: -4636248598012049519
+      Tilesets_Temple_inside2_Rasak_45: -641756325673067137
+      Tilesets_Temple_inside2_Rasak_46: 2939499084844941207
+      Tilesets_Temple_inside2_Rasak_47: -1672723506306824736
+      Tilesets_Temple_inside2_Rasak_48: 206204297619522239
+      Tilesets_Temple_inside2_Rasak_49: 1876263628861323703
+      Tilesets_Temple_inside2_Rasak_5: -599417114387210008
+      Tilesets_Temple_inside2_Rasak_50: -2634397467956441922
+      Tilesets_Temple_inside2_Rasak_6: -3597213400180632631
+      Tilesets_Temple_inside2_Rasak_7: 867558412920436100
+      Tilesets_Temple_inside2_Rasak_8: -755591100742455722
+      Tilesets_Temple_inside2_Rasak_9: -8922340005493316680
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

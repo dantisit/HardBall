@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: 4d3ee8552b1c2c14c930f53370357a74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 261245553375317251
+    second: A2_Dungeon_Rasak_0
+  - first:
+      213: 3600944097804964333
+    second: A2_Dungeon_Rasak_1
+  - first:
+      213: -8759439998250602981
+    second: A2_Dungeon_Rasak_2
+  - first:
+      213: -7298424232325954125
+    second: A2_Dungeon_Rasak_3
+  - first:
+      213: -5883577323847555368
+    second: A2_Dungeon_Rasak_4
+  - first:
+      213: 4349252273279948801
+    second: A2_Dungeon_Rasak_5
+  - first:
+      213: 4713973332345987496
+    second: A2_Dungeon_Rasak_6
+  - first:
+      213: -9137927866065361040
+    second: A2_Dungeon_Rasak_7
+  - first:
+      213: -4902971545846919473
+    second: A2_Dungeon_Rasak_8
+  - first:
+      213: -1908894802939334955
+    second: A2_Dungeon_Rasak_9
+  - first:
+      213: -5687998524351450819
+    second: A2_Dungeon_Rasak_10
+  - first:
+      213: 456610692957747578
+    second: A2_Dungeon_Rasak_11
+  - first:
+      213: -6147445371483745171
+    second: A2_Dungeon_Rasak_12
+  - first:
+      213: 7868012144244241023
+    second: A2_Dungeon_Rasak_13
+  - first:
+      213: -3668076012640839084
+    second: A2_Dungeon_Rasak_14
+  - first:
+      213: -8522762799800864675
+    second: A2_Dungeon_Rasak_15
+  - first:
+      213: -3586271846898510430
+    second: A2_Dungeon_Rasak_16
+  - first:
+      213: -1993769737305088021
+    second: A2_Dungeon_Rasak_17
+  - first:
+      213: 1588802224249718714
+    second: A2_Dungeon_Rasak_18
+  - first:
+      213: -1642443994322203140
+    second: A2_Dungeon_Rasak_19
+  - first:
+      213: -3809748396034034187
+    second: A2_Dungeon_Rasak_20
+  - first:
+      213: 954333271134977967
+    second: A2_Dungeon_Rasak_21
+  - first:
+      213: 1275686692969423516
+    second: A2_Dungeon_Rasak_22
+  - first:
+      213: 3429259668761096347
+    second: A2_Dungeon_Rasak_23
+  - first:
+      213: 8042464331996844843
+    second: A2_Dungeon_Rasak_24
+  - first:
+      213: 2090404121465584088
+    second: A2_Dungeon_Rasak_25
+  - first:
+      213: 7437212664121936832
+    second: A2_Dungeon_Rasak_26
+  - first:
+      213: 7238760485762912524
+    second: A2_Dungeon_Rasak_27
+  - first:
+      213: -6140250394013242940
+    second: A2_Dungeon_Rasak_28
+  - first:
+      213: 605385933821244390
+    second: A2_Dungeon_Rasak_29
+  - first:
+      213: 7773009397425675465
+    second: A2_Dungeon_Rasak_30
+  - first:
+      213: -1906923328795186082
+    second: A2_Dungeon_Rasak_31
+  - first:
+      213: -8461931687560909812
+    second: A2_Dungeon_Rasak_32
+  - first:
+      213: 4414699176994473599
+    second: A2_Dungeon_Rasak_33
+  - first:
+      213: 6630693466092114832
+    second: A2_Dungeon_Rasak_34
+  - first:
+      213: -8295640344733108297
+    second: A2_Dungeon_Rasak_35
+  - first:
+      213: -5905400091655619091
+    second: A2_Dungeon_Rasak_36
+  - first:
+      213: -6842048933811481288
+    second: A2_Dungeon_Rasak_37
+  - first:
+      213: 1960136513847604624
+    second: A2_Dungeon_Rasak_38
+  - first:
+      213: 5744513003025426378
+    second: A2_Dungeon_Rasak_39
+  - first:
+      213: -4211920442794606297
+    second: A2_Dungeon_Rasak_40
+  - first:
+      213: 2933695034189028013
+    second: A2_Dungeon_Rasak_41
+  - first:
+      213: 3950373020407963984
+    second: A2_Dungeon_Rasak_42
+  - first:
+      213: -4842533356466194393
+    second: A2_Dungeon_Rasak_43
+  - first:
+      213: -9176145816184454845
+    second: A2_Dungeon_Rasak_44
+  - first:
+      213: 1306695543030510631
+    second: A2_Dungeon_Rasak_45
+  - first:
+      213: -4060336151619415812
+    second: A2_Dungeon_Rasak_46
+  - first:
+      213: 7247106974076255462
+    second: A2_Dungeon_Rasak_47
+  - first:
+      213: -4886644294280021796
+    second: A2_Dungeon_Rasak_48
+  - first:
+      213: 3429907338856419535
+    second: A2_Dungeon_Rasak_49
+  - first:
+      213: -525905771806046867
+    second: A2_Dungeon_Rasak_50
+  - first:
+      213: -5596896565738755817
+    second: A2_Dungeon_Rasak_51
+  - first:
+      213: -2628762645468798267
+    second: A2_Dungeon_Rasak_52
+  - first:
+      213: 603872895921141912
+    second: A2_Dungeon_Rasak_53
+  - first:
+      213: 60263179250500692
+    second: A2_Dungeon_Rasak_54
+  - first:
+      213: 5445520871873518871
+    second: A2_Dungeon_Rasak_55
+  - first:
+      213: -5268448016125236116
+    second: A2_Dungeon_Rasak_56
+  - first:
+      213: -5875147733334659890
+    second: A2_Dungeon_Rasak_57
+  - first:
+      213: -659897652631831660
+    second: A2_Dungeon_Rasak_58
+  - first:
+      213: -7989684674995812813
+    second: A2_Dungeon_Rasak_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 481
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d0618527120a300800000000000000
+      internalID: 261245553375317251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 564
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de154bd049f19f130800000000000000
+      internalID: 3600944097804964333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 527
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1eace82bb7307680800000000000000
+      internalID: -8759439998250602981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 563
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5cb1454d9c6ba90800000000000000
+      internalID: -7298424232325954125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 527
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6e583b895595ea0800000000000000
+      internalID: -5883577323847555368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 538
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108596336e5ab5c30800000000000000
+      internalID: 4349252273279948801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 145
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1a52325c56b6140800000000000000
+      internalID: 4713973332345987496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 541
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077e708450f8f2180800000000000000
+      internalID: -9137927866065361040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 533
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce42f92b5525fbb0800000000000000
+      internalID: -4902971545846919473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de263d5a4e3285e0800000000000000
+      internalID: -1908894802939334955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 515
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31f5197a7b2011b0800000000000000
+      internalID: -5687998524351450819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 483
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79346a8105365600800000000000000
+      internalID: 456610692957747578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 454
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6497945103efaaa0800000000000000
+      internalID: -6147445371483745171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 469
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f723322db5bc03d60800000000000000
+      internalID: 7868012144244241023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 445
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a59610d40681dc0800000000000000
+      internalID: -3668076012640839084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 437
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50b4fc936019b980800000000000000
+      internalID: -8522762799800864675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 383
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a551a191c00b3ec0800000000000000
+      internalID: -3586271846898510430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 434
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef9104ccf4b454e0800000000000000
+      internalID: -1993769737305088021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 420
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab741c2843f8c0610800000000000000
+      internalID: 1588802224249718714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 383
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd83f2a3edd439e0800000000000000
+      internalID: -1642443994322203140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 419
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5f6cac40e012bc0800000000000000
+      internalID: -3809748396034034187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 394
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf3657cd097e3d00800000000000000
+      internalID: 954333271134977967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 397
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92a223d94624b110800000000000000
+      internalID: 1275686692969423516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 389
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90341fef7d279f20800000000000000
+      internalID: 3429259668761096347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23db6bf2b29c9f60800000000000000
+      internalID: 8042464331996844843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 371
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9f7f8197b920d10800000000000000
+      internalID: 2090404121465584088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 339
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb46049389463760800000000000000
+      internalID: 7437212664121936832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 310
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0158082f4e357460800000000000000
+      internalID: 7238760485762912524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 325
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c963e09cc279caa0800000000000000
+      internalID: -6140250394013242940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 301
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3fe61ac43c66800800000000000000
+      internalID: 605385933821244390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 293
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc94512dd64fdb60800000000000000
+      internalID: 7773009397425675465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 239
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ce145f55f3985e0800000000000000
+      internalID: -1906923328795186082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 290
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c6f41a6fd219a80800000000000000
+      internalID: -8461931687560909812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 276
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7607fae289244d30800000000000000
+      internalID: 4414699176994473599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 239
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0939ce49394f40c50800000000000000
+      internalID: 6630693466092114832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 275
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7b8c30f07ffdc80800000000000000
+      internalID: -8295640344733108297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 244
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedbe40a7edcb0ea0800000000000000
+      internalID: -5905400091655619091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 149
+        width: 78
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8359354deb82c01a0800000000000000
+      internalID: -6842048933811481288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 253
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095b82b26cdc33b10800000000000000
+      internalID: 1960136513847604624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 245
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac761f8f32c98bf40800000000000000
+      internalID: 5744513003025426378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72185094ca04c85c0800000000000000
+      internalID: -4211920442794606297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 227
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa1a28171496b820800000000000000
+      internalID: 2933695034189028013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 195
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05124b3055b82d630800000000000000
+      internalID: 3950373020407963984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 181
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7283ad2b19ddbccb0800000000000000
+      internalID: -4842533356466194393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 157
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341832b5ff7c7a080800000000000000
+      internalID: -9176145816184454845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 149
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7247be75ca0522210800000000000000
+      internalID: 1306695543030510631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 95
+        width: 146
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf05c0e58c9c6a7c0800000000000000
+      internalID: -4060336151619415812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 146
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec32176565e29460800000000000000
+      internalID: 7247106974076255462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 132
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8ffb7a7e62f2cb0800000000000000
+      internalID: -4886644294280021796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 95
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0da016d8a799f20800000000000000
+      internalID: 3429907338856419535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 131
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d654c26ac7b93b8f0800000000000000
+      internalID: -525905771806046867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 109
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719a9822a34d352b0800000000000000
+      internalID: -5596896565738755817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 101
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2240e3d42c48bd0800000000000000
+      internalID: -2628762645468798267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898bdda0333616800800000000000000
+      internalID: 603872895921141912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 83
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4540340da0916d000800000000000000
+      internalID: 60263179250500692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 103
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d1ff0a160629b40800000000000000
+      internalID: 5445520871873518871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 37
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c6e395176b2e6b0800000000000000
+      internalID: -5268448016125236116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 13
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc65afa348477ea0800000000000000
+      internalID: -5875147733334659890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_58
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 5
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bf3cac49297d6f0800000000000000
+      internalID: -659897652631831660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Dungeon_Rasak_59
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3360e778e10fe1190800000000000000
+      internalID: -7989684674995812813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      A2_Dungeon_Rasak_0: 261245553375317251
+      A2_Dungeon_Rasak_1: 3600944097804964333
+      A2_Dungeon_Rasak_10: -5687998524351450819
+      A2_Dungeon_Rasak_11: 456610692957747578
+      A2_Dungeon_Rasak_12: -6147445371483745171
+      A2_Dungeon_Rasak_13: 7868012144244241023
+      A2_Dungeon_Rasak_14: -3668076012640839084
+      A2_Dungeon_Rasak_15: -8522762799800864675
+      A2_Dungeon_Rasak_16: -3586271846898510430
+      A2_Dungeon_Rasak_17: -1993769737305088021
+      A2_Dungeon_Rasak_18: 1588802224249718714
+      A2_Dungeon_Rasak_19: -1642443994322203140
+      A2_Dungeon_Rasak_2: -8759439998250602981
+      A2_Dungeon_Rasak_20: -3809748396034034187
+      A2_Dungeon_Rasak_21: 954333271134977967
+      A2_Dungeon_Rasak_22: 1275686692969423516
+      A2_Dungeon_Rasak_23: 3429259668761096347
+      A2_Dungeon_Rasak_24: 8042464331996844843
+      A2_Dungeon_Rasak_25: 2090404121465584088
+      A2_Dungeon_Rasak_26: 7437212664121936832
+      A2_Dungeon_Rasak_27: 7238760485762912524
+      A2_Dungeon_Rasak_28: -6140250394013242940
+      A2_Dungeon_Rasak_29: 605385933821244390
+      A2_Dungeon_Rasak_3: -7298424232325954125
+      A2_Dungeon_Rasak_30: 7773009397425675465
+      A2_Dungeon_Rasak_31: -1906923328795186082
+      A2_Dungeon_Rasak_32: -8461931687560909812
+      A2_Dungeon_Rasak_33: 4414699176994473599
+      A2_Dungeon_Rasak_34: 6630693466092114832
+      A2_Dungeon_Rasak_35: -8295640344733108297
+      A2_Dungeon_Rasak_36: -5905400091655619091
+      A2_Dungeon_Rasak_37: -6842048933811481288
+      A2_Dungeon_Rasak_38: 1960136513847604624
+      A2_Dungeon_Rasak_39: 5744513003025426378
+      A2_Dungeon_Rasak_4: -5883577323847555368
+      A2_Dungeon_Rasak_40: -4211920442794606297
+      A2_Dungeon_Rasak_41: 2933695034189028013
+      A2_Dungeon_Rasak_42: 3950373020407963984
+      A2_Dungeon_Rasak_43: -4842533356466194393
+      A2_Dungeon_Rasak_44: -9176145816184454845
+      A2_Dungeon_Rasak_45: 1306695543030510631
+      A2_Dungeon_Rasak_46: -4060336151619415812
+      A2_Dungeon_Rasak_47: 7247106974076255462
+      A2_Dungeon_Rasak_48: -4886644294280021796
+      A2_Dungeon_Rasak_49: 3429907338856419535
+      A2_Dungeon_Rasak_5: 4349252273279948801
+      A2_Dungeon_Rasak_50: -525905771806046867
+      A2_Dungeon_Rasak_51: -5596896565738755817
+      A2_Dungeon_Rasak_52: -2628762645468798267
+      A2_Dungeon_Rasak_53: 603872895921141912
+      A2_Dungeon_Rasak_54: 60263179250500692
+      A2_Dungeon_Rasak_55: 5445520871873518871
+      A2_Dungeon_Rasak_56: -5268448016125236116
+      A2_Dungeon_Rasak_57: -5875147733334659890
+      A2_Dungeon_Rasak_58: -659897652631831660
+      A2_Dungeon_Rasak_59: -7989684674995812813
+      A2_Dungeon_Rasak_6: 4713973332345987496
+      A2_Dungeon_Rasak_7: -9137927866065361040
+      A2_Dungeon_Rasak_8: -4902971545846919473
+      A2_Dungeon_Rasak_9: -1908894802939334955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

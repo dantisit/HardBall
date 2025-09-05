@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: bcfa35b248190ad4b8d6a866989fc7b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2089582122845650558
+    second: Tileset_Japanese_Castle_Rasak_0
+  - first:
+      213: -1714059340873288823
+    second: Tileset_Japanese_Castle_Rasak_1
+  - first:
+      213: 5500334787419024734
+    second: Tileset_Japanese_Castle_Rasak_2
+  - first:
+      213: -8971685983438287745
+    second: Tileset_Japanese_Castle_Rasak_3
+  - first:
+      213: 2844141603401831828
+    second: Tileset_Japanese_Castle_Rasak_4
+  - first:
+      213: -1654293844094735678
+    second: Tileset_Japanese_Castle_Rasak_5
+  - first:
+      213: 187719264846832497
+    second: Tileset_Japanese_Castle_Rasak_6
+  - first:
+      213: 7354838259352655893
+    second: Tileset_Japanese_Castle_Rasak_7
+  - first:
+      213: 5272531803515468776
+    second: Tileset_Japanese_Castle_Rasak_8
+  - first:
+      213: -49914038824215676
+    second: Tileset_Japanese_Castle_Rasak_9
+  - first:
+      213: -9084302805997869805
+    second: Tileset_Japanese_Castle_Rasak_10
+  - first:
+      213: 5134164977290034479
+    second: Tileset_Japanese_Castle_Rasak_11
+  - first:
+      213: -7116736849472678482
+    second: Tileset_Japanese_Castle_Rasak_12
+  - first:
+      213: 1965059439124534415
+    second: Tileset_Japanese_Castle_Rasak_13
+  - first:
+      213: -8948008970380972579
+    second: Tileset_Japanese_Castle_Rasak_14
+  - first:
+      213: -5936734075767215847
+    second: Tileset_Japanese_Castle_Rasak_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Japanese_Castle_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 768
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28147ce51205003e0800000000000000
+      internalID: -2089582122845650558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Japanese_Castle_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 9
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983be476c107638e0800000000000000
+      internalID: -1714059340873288823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Japanese_Castle_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 7
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5da5ddd85d155c40800000000000000
+      internalID: 5500334787419024734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Japanese_Castle_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 194
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c4fc0d12b2e7380800000000000000
+      internalID: -8971685983438287745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Japanese_Castle_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 62
+        width: 120
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4951da928bb687720800000000000000
+      internalID: 2844141603401831828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Japanese_Castle_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 47
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca2e9c7384ca09e0800000000000000
+      internalID: -1654293844094735678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Japanese_Castle_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 47
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17361b24da9ea9200800000000000000
+      internalID: 187719264846832497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Japanese_Castle_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 9
+        width: 150
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518da25ed62a11660800000000000000
+      internalID: 7354838259352655893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Japanese_Castle_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 26
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb3d7f7dbbcb2940800000000000000
+      internalID: 5272531803515468776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Japanese_Castle_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bd396327bae4ff0800000000000000
+      internalID: -49914038824215676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Japanese_Castle_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 50
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315a9688ab21ee180800000000000000
+      internalID: -9084302805997869805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Japanese_Castle_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dbf9948d7304740800000000000000
+      internalID: 5134164977290034479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Japanese_Castle_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea59f3f9a854c3d90800000000000000
+      internalID: -7116736849472678482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Japanese_Castle_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 11
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84db87062b454b10800000000000000
+      internalID: 1965059439124534415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Japanese_Castle_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 4
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddee61004942d380800000000000000
+      internalID: -8948008970380972579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Japanese_Castle_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91920ffefcb7c9da0800000000000000
+      internalID: -5936734075767215847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Japanese_Castle_Rasak_0: -2089582122845650558
+      Tileset_Japanese_Castle_Rasak_1: -1714059340873288823
+      Tileset_Japanese_Castle_Rasak_10: -9084302805997869805
+      Tileset_Japanese_Castle_Rasak_11: 5134164977290034479
+      Tileset_Japanese_Castle_Rasak_12: -7116736849472678482
+      Tileset_Japanese_Castle_Rasak_13: 1965059439124534415
+      Tileset_Japanese_Castle_Rasak_14: -8948008970380972579
+      Tileset_Japanese_Castle_Rasak_15: -5936734075767215847
+      Tileset_Japanese_Castle_Rasak_2: 5500334787419024734
+      Tileset_Japanese_Castle_Rasak_3: -8971685983438287745
+      Tileset_Japanese_Castle_Rasak_4: 2844141603401831828
+      Tileset_Japanese_Castle_Rasak_5: -1654293844094735678
+      Tileset_Japanese_Castle_Rasak_6: 187719264846832497
+      Tileset_Japanese_Castle_Rasak_7: 7354838259352655893
+      Tileset_Japanese_Castle_Rasak_8: 5272531803515468776
+      Tileset_Japanese_Castle_Rasak_9: -49914038824215676
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2249 @@
+fileFormatVersion: 2
+guid: ab6b4e0eff2bc33459a0c59ab0db953f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4361394628038458595
+    second: Tileset_SmithAndWorkshop_Rasak_0
+  - first:
+      213: 7741291535980176051
+    second: Tileset_SmithAndWorkshop_Rasak_1
+  - first:
+      213: -5608712512344893259
+    second: Tileset_SmithAndWorkshop_Rasak_2
+  - first:
+      213: -3636819387478646706
+    second: Tileset_SmithAndWorkshop_Rasak_3
+  - first:
+      213: 6126245307051076670
+    second: Tileset_SmithAndWorkshop_Rasak_4
+  - first:
+      213: 7340969420255044688
+    second: Tileset_SmithAndWorkshop_Rasak_5
+  - first:
+      213: -7306109608477905303
+    second: Tileset_SmithAndWorkshop_Rasak_6
+  - first:
+      213: -8702152569514947044
+    second: Tileset_SmithAndWorkshop_Rasak_7
+  - first:
+      213: -2098236771228682935
+    second: Tileset_SmithAndWorkshop_Rasak_8
+  - first:
+      213: -8079810769209605266
+    second: Tileset_SmithAndWorkshop_Rasak_9
+  - first:
+      213: -2818480048471374148
+    second: Tileset_SmithAndWorkshop_Rasak_10
+  - first:
+      213: 3769461570849352541
+    second: Tileset_SmithAndWorkshop_Rasak_11
+  - first:
+      213: 8301006938561036799
+    second: Tileset_SmithAndWorkshop_Rasak_12
+  - first:
+      213: -1041004771472098052
+    second: Tileset_SmithAndWorkshop_Rasak_13
+  - first:
+      213: -759501125053168733
+    second: Tileset_SmithAndWorkshop_Rasak_14
+  - first:
+      213: 8984831574923016204
+    second: Tileset_SmithAndWorkshop_Rasak_15
+  - first:
+      213: 5306124412444273599
+    second: Tileset_SmithAndWorkshop_Rasak_16
+  - first:
+      213: -8962044056063314939
+    second: Tileset_SmithAndWorkshop_Rasak_17
+  - first:
+      213: -4509765714716205109
+    second: Tileset_SmithAndWorkshop_Rasak_18
+  - first:
+      213: -4925606588906577581
+    second: Tileset_SmithAndWorkshop_Rasak_19
+  - first:
+      213: -948659024182623595
+    second: Tileset_SmithAndWorkshop_Rasak_20
+  - first:
+      213: -4397639712949479768
+    second: Tileset_SmithAndWorkshop_Rasak_21
+  - first:
+      213: 2581553769880485562
+    second: Tileset_SmithAndWorkshop_Rasak_22
+  - first:
+      213: 4095059876014376003
+    second: Tileset_SmithAndWorkshop_Rasak_23
+  - first:
+      213: -441249530024999354
+    second: Tileset_SmithAndWorkshop_Rasak_24
+  - first:
+      213: -5095063215830734465
+    second: Tileset_SmithAndWorkshop_Rasak_25
+  - first:
+      213: -2667288128417393372
+    second: Tileset_SmithAndWorkshop_Rasak_26
+  - first:
+      213: 1079173802346394324
+    second: Tileset_SmithAndWorkshop_Rasak_27
+  - first:
+      213: -3873189989202285118
+    second: Tileset_SmithAndWorkshop_Rasak_28
+  - first:
+      213: 5621550403786328272
+    second: Tileset_SmithAndWorkshop_Rasak_29
+  - first:
+      213: 6869101127258210381
+    second: Tileset_SmithAndWorkshop_Rasak_30
+  - first:
+      213: -3034467875890459452
+    second: Tileset_SmithAndWorkshop_Rasak_31
+  - first:
+      213: 6974741163186840874
+    second: Tileset_SmithAndWorkshop_Rasak_32
+  - first:
+      213: 6326314303245382077
+    second: Tileset_SmithAndWorkshop_Rasak_33
+  - first:
+      213: -1889779312013239871
+    second: Tileset_SmithAndWorkshop_Rasak_34
+  - first:
+      213: 3062715123202977427
+    second: Tileset_SmithAndWorkshop_Rasak_35
+  - first:
+      213: -8262824157067618864
+    second: Tileset_SmithAndWorkshop_Rasak_36
+  - first:
+      213: -4454757093029714032
+    second: Tileset_SmithAndWorkshop_Rasak_37
+  - first:
+      213: -8956286420684618511
+    second: Tileset_SmithAndWorkshop_Rasak_38
+  - first:
+      213: -7999038896602233912
+    second: Tileset_SmithAndWorkshop_Rasak_39
+  - first:
+      213: -374648142372988711
+    second: Tileset_SmithAndWorkshop_Rasak_40
+  - first:
+      213: -3280564800538516475
+    second: Tileset_SmithAndWorkshop_Rasak_41
+  - first:
+      213: -7208508855858320171
+    second: Tileset_SmithAndWorkshop_Rasak_42
+  - first:
+      213: 3813075082388808664
+    second: Tileset_SmithAndWorkshop_Rasak_43
+  - first:
+      213: 570622090108500628
+    second: Tileset_SmithAndWorkshop_Rasak_44
+  - first:
+      213: -5187148155597669997
+    second: Tileset_SmithAndWorkshop_Rasak_45
+  - first:
+      213: 3152877725966468556
+    second: Tileset_SmithAndWorkshop_Rasak_46
+  - first:
+      213: 4362804625683923666
+    second: Tileset_SmithAndWorkshop_Rasak_47
+  - first:
+      213: 4161314311953743287
+    second: Tileset_SmithAndWorkshop_Rasak_48
+  - first:
+      213: -3701690468461006264
+    second: Tileset_SmithAndWorkshop_Rasak_49
+  - first:
+      213: -4135636856525896381
+    second: Tileset_SmithAndWorkshop_Rasak_50
+  - first:
+      213: -303346958345015091
+    second: Tileset_SmithAndWorkshop_Rasak_51
+  - first:
+      213: -581055131443916171
+    second: Tileset_SmithAndWorkshop_Rasak_52
+  - first:
+      213: -3273597950315078768
+    second: Tileset_SmithAndWorkshop_Rasak_53
+  - first:
+      213: 6568929447806413414
+    second: Tileset_SmithAndWorkshop_Rasak_54
+  - first:
+      213: -9150319304733688592
+    second: Tileset_SmithAndWorkshop_Rasak_55
+  - first:
+      213: -8694810997880513687
+    second: Tileset_SmithAndWorkshop_Rasak_56
+  - first:
+      213: -372256952186781395
+    second: Tileset_SmithAndWorkshop_Rasak_57
+  - first:
+      213: 8053233201611973456
+    second: Tileset_SmithAndWorkshop_Rasak_58
+  - first:
+      213: -2649172780076871818
+    second: Tileset_SmithAndWorkshop_Rasak_59
+  - first:
+      213: 6202426137706965281
+    second: Tileset_SmithAndWorkshop_Rasak_60
+  - first:
+      213: 2089772548522276635
+    second: Tileset_SmithAndWorkshop_Rasak_61
+  - first:
+      213: -116069060207541928
+    second: Tileset_SmithAndWorkshop_Rasak_62
+  - first:
+      213: 561319962821004443
+    second: Tileset_SmithAndWorkshop_Rasak_63
+  - first:
+      213: -8337247063460786329
+    second: Tileset_SmithAndWorkshop_Rasak_64
+  - first:
+      213: -1110028761944719003
+    second: Tileset_SmithAndWorkshop_Rasak_65
+  - first:
+      213: -1566850900007214384
+    second: Tileset_SmithAndWorkshop_Rasak_66
+  - first:
+      213: -4201305076207400107
+    second: Tileset_SmithAndWorkshop_Rasak_67
+  - first:
+      213: -1055641941945524471
+    second: Tileset_SmithAndWorkshop_Rasak_68
+  - first:
+      213: -4569436143988800685
+    second: Tileset_SmithAndWorkshop_Rasak_69
+  - first:
+      213: 2554144633648876925
+    second: Tileset_SmithAndWorkshop_Rasak_70
+  - first:
+      213: 9204344421570961863
+    second: Tileset_SmithAndWorkshop_Rasak_71
+  - first:
+      213: 8443894951117122159
+    second: Tileset_SmithAndWorkshop_Rasak_72
+  - first:
+      213: 6564933337495439920
+    second: Tileset_SmithAndWorkshop_Rasak_73
+  - first:
+      213: 3223600363180896345
+    second: Tileset_SmithAndWorkshop_Rasak_74
+  - first:
+      213: -1734714176319172088
+    second: Tileset_SmithAndWorkshop_Rasak_75
+  - first:
+      213: 2052099186231803499
+    second: Tileset_SmithAndWorkshop_Rasak_76
+  - first:
+      213: 7812174863576786975
+    second: Tileset_SmithAndWorkshop_Rasak_77
+  - first:
+      213: -3811896380381135979
+    second: Tileset_SmithAndWorkshop_Rasak_78
+  - first:
+      213: -1636697343202158324
+    second: Tileset_SmithAndWorkshop_Rasak_79
+  - first:
+      213: -5965079348442850171
+    second: Tileset_SmithAndWorkshop_Rasak_80
+  - first:
+      213: 3024039319573925197
+    second: Tileset_SmithAndWorkshop_Rasak_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec77897e49c68c30800000000000000
+      internalID: 4361394628038458595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b226d803a79e6b60800000000000000
+      internalID: 7741291535980176051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 692
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8d46eafa9d922b0800000000000000
+      internalID: -5608712512344893259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 692
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40e419290c678dc0800000000000000
+      internalID: -3636819387478646706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 728
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ceea506abc40550800000000000000
+      internalID: 6126245307051076670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 726
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054ae492bcc50e560800000000000000
+      internalID: 7340969420255044688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 674
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e2b90450c7b9a90800000000000000
+      internalID: -7306109608477905303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 674
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e0fc0185ebb3780800000000000000
+      internalID: -8702152569514947044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 623
+        width: 151
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945704406c091e2e0800000000000000
+      internalID: -2098236771228682935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 673
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63c2e00aeebedf80800000000000000
+      internalID: -8079810769209605266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 728
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb68650345fb2e8d0800000000000000
+      internalID: -2818480048471374148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 677
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b26f4c351df4430800000000000000
+      internalID: 3769461570849352541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 678
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1cbfa74d9133370800000000000000
+      internalID: 8301006938561036799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 699
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc3be20dab9d81f0800000000000000
+      internalID: -1041004771472098052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 678
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a342b230c5b575f0800000000000000
+      internalID: -759501125053168733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 637
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08fff5b6b880bc70800000000000000
+      internalID: 8984831574923016204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 637
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbe4c14a0423a940800000000000000
+      internalID: 5306124412444273599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 629
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504f1f8f96c60a380800000000000000
+      internalID: -8962044056063314939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 646
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfda1ae9f71a61c0800000000000000
+      internalID: -4509765714716205109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 626
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35166e487eab4abb0800000000000000
+      internalID: -4925606588906577581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 657
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59240aac4afa5d2f0800000000000000
+      internalID: -948659024182623595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 635
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6de731bf178f2c0800000000000000
+      internalID: -4397639712949479768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 635
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abefb4ed97583d320800000000000000
+      internalID: 2581553769880485562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 594
+        width: 144
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344cacbb24394d830800000000000000
+      internalID: 4095059876014376003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 576
+        width: 31
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6464d89e3ed50e9f0800000000000000
+      internalID: -441249530024999354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 625
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79ef300003ba49b0800000000000000
+      internalID: -5095063215830734465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 632
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42590104493ebfad0800000000000000
+      internalID: -2667288128417393372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 578
+        width: 8
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2b3c30bdef9fe00800000000000000
+      internalID: 1079173802346394324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 575
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdaff1d93aaf3ac0800000000000000
+      internalID: -3873189989202285118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 575
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d843a8de42c30e40800000000000000
+      internalID: 5621550403786328272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 599
+        width: 89
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d400678c413f35f50800000000000000
+      internalID: 6869101127258210381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 590
+        width: 89
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc073f4b8763e5d0800000000000000
+      internalID: -3034467875890459452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 578
+        width: 94
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25eb0852224bc060800000000000000
+      internalID: 6974741163186840874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 496
+        width: 68
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1f96e27559bc750800000000000000
+      internalID: 6326314303245382077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 527
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9919b6ab726c5e0800000000000000
+      internalID: -1889779312013239871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 577
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39eeab67d23f08a20800000000000000
+      internalID: 3062715123202977427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 580
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5d77c153d845d80800000000000000
+      internalID: -8262824157067618864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 581
+        width: 89
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097ef45b6068d22c0800000000000000
+      internalID: -4454757093029714032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 530
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4407ce3f0e4b380800000000000000
+      internalID: -8956286420684618511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 531
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3cd771184bdf090800000000000000
+      internalID: -7999038896602233912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 532
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8191edf7bfccaf0800000000000000
+      internalID: -374648142372988711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 479
+        width: 242
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5046041f1b71972d0800000000000000
+      internalID: -3280564800538516475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 500
+        width: 8
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcae4e436b36fb90800000000000000
+      internalID: -7208508855858320171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 494
+        width: 31
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3adabb593cae430800000000000000
+      internalID: 3813075082388808664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 527
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a78e584c14be700800000000000000
+      internalID: 570622090108500628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 532
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39937443c3c8308b0800000000000000
+      internalID: -5187148155597669997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 335
+        width: 43
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5097c469541cb20800000000000000
+      internalID: 3152877725966468556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 480
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2425221bbcb8c30800000000000000
+      internalID: 4362804625683923666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 480
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd70c2b155ffb930800000000000000
+      internalID: 4161314311953743287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 480
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842beee9124f0acc0800000000000000
+      internalID: -3701690468461006264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 464
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345c2c6c0344b96c0800000000000000
+      internalID: -4135636856525896381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 452
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc076207c8b4acbf0800000000000000
+      internalID: -303346958345015091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 484
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5721e5fbf6dafe7f0800000000000000
+      internalID: -581055131443916171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 432
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bd50a2208d192d0800000000000000
+      internalID: -3273597950315078768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 432
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aaa137786892b50800000000000000
+      internalID: 6568929447806413414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 432
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcf2f3a219830180800000000000000
+      internalID: -9150319304733688592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 619
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b1c2ae673d55780800000000000000
+      internalID: -8694810997880513687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 431
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21ccb7364a75daf0800000000000000
+      internalID: -372256952186781395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_58
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 442
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053a673dde4d2cf60800000000000000
+      internalID: 8053233201611973456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_59
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 384
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f42e6746f3c3bd0800000000000000
+      internalID: -2649172780076871818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_60
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 384
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1292f9bd5b1731650800000000000000
+      internalID: 6202426137706965281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_61
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 384
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1778009f0d500d10800000000000000
+      internalID: 2089772548522276635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_62
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 394
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8518ae00ec3a36ef0800000000000000
+      internalID: -116069060207541928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 336
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c084d38853ac700800000000000000
+      internalID: 561319962821004443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_64
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 336
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f40c9e7f52c4c80800000000000000
+      internalID: -8337247063460786329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_65
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 336
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56181d1e8b26890f0800000000000000
+      internalID: -1110028761944719003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_66
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 346
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2a111786d614ae0800000000000000
+      internalID: -1566850900007214384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_67
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 240
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bcc9bea47f1b5c0800000000000000
+      internalID: -4201305076207400107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_68
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 240
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f55503f3b9951f0800000000000000
+      internalID: -1055641941945524471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_69
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 298
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35387b5790a1690c0800000000000000
+      internalID: -4569436143988800685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_70
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 258
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d8c990305227320800000000000000
+      internalID: 2554144633648876925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 144
+        width: 129
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1e5161c766cbf70800000000000000
+      internalID: 9204344421570961863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_72
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 165
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6aec0a68bdbe2570800000000000000
+      internalID: 8443894951117122159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_73
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 129
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a098386145b1b50800000000000000
+      internalID: 6564933337495439920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_74
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 115
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950b73173778cbc20800000000000000
+      internalID: 3223600363180896345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_75
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 73
+        width: 73
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80259a5c5ae0de7e0800000000000000
+      internalID: -1734714176319172088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_76
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ef63f56558a7c10800000000000000
+      internalID: 2052099186231803499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_77
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18eab2d5ab6a6c60800000000000000
+      internalID: 7812174863576786975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_78
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bf8c6307c691bc0800000000000000
+      internalID: -3811896380381135979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_79
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c091c9d10784949e0800000000000000
+      internalID: -1636697343202158324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_80
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c9b0bdfe7c73da0800000000000000
+      internalID: -5965079348442850171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SmithAndWorkshop_Rasak_81
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 15
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d84063dbb87f920800000000000000
+      internalID: 3024039319573925197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_SmithAndWorkshop_Rasak_0: 4361394628038458595
+      Tileset_SmithAndWorkshop_Rasak_1: 7741291535980176051
+      Tileset_SmithAndWorkshop_Rasak_10: -2818480048471374148
+      Tileset_SmithAndWorkshop_Rasak_11: 3769461570849352541
+      Tileset_SmithAndWorkshop_Rasak_12: 8301006938561036799
+      Tileset_SmithAndWorkshop_Rasak_13: -1041004771472098052
+      Tileset_SmithAndWorkshop_Rasak_14: -759501125053168733
+      Tileset_SmithAndWorkshop_Rasak_15: 8984831574923016204
+      Tileset_SmithAndWorkshop_Rasak_16: 5306124412444273599
+      Tileset_SmithAndWorkshop_Rasak_17: -8962044056063314939
+      Tileset_SmithAndWorkshop_Rasak_18: -4509765714716205109
+      Tileset_SmithAndWorkshop_Rasak_19: -4925606588906577581
+      Tileset_SmithAndWorkshop_Rasak_2: -5608712512344893259
+      Tileset_SmithAndWorkshop_Rasak_20: -948659024182623595
+      Tileset_SmithAndWorkshop_Rasak_21: -4397639712949479768
+      Tileset_SmithAndWorkshop_Rasak_22: 2581553769880485562
+      Tileset_SmithAndWorkshop_Rasak_23: 4095059876014376003
+      Tileset_SmithAndWorkshop_Rasak_24: -441249530024999354
+      Tileset_SmithAndWorkshop_Rasak_25: -5095063215830734465
+      Tileset_SmithAndWorkshop_Rasak_26: -2667288128417393372
+      Tileset_SmithAndWorkshop_Rasak_27: 1079173802346394324
+      Tileset_SmithAndWorkshop_Rasak_28: -3873189989202285118
+      Tileset_SmithAndWorkshop_Rasak_29: 5621550403786328272
+      Tileset_SmithAndWorkshop_Rasak_3: -3636819387478646706
+      Tileset_SmithAndWorkshop_Rasak_30: 6869101127258210381
+      Tileset_SmithAndWorkshop_Rasak_31: -3034467875890459452
+      Tileset_SmithAndWorkshop_Rasak_32: 6974741163186840874
+      Tileset_SmithAndWorkshop_Rasak_33: 6326314303245382077
+      Tileset_SmithAndWorkshop_Rasak_34: -1889779312013239871
+      Tileset_SmithAndWorkshop_Rasak_35: 3062715123202977427
+      Tileset_SmithAndWorkshop_Rasak_36: -8262824157067618864
+      Tileset_SmithAndWorkshop_Rasak_37: -4454757093029714032
+      Tileset_SmithAndWorkshop_Rasak_38: -8956286420684618511
+      Tileset_SmithAndWorkshop_Rasak_39: -7999038896602233912
+      Tileset_SmithAndWorkshop_Rasak_4: 6126245307051076670
+      Tileset_SmithAndWorkshop_Rasak_40: -374648142372988711
+      Tileset_SmithAndWorkshop_Rasak_41: -3280564800538516475
+      Tileset_SmithAndWorkshop_Rasak_42: -7208508855858320171
+      Tileset_SmithAndWorkshop_Rasak_43: 3813075082388808664
+      Tileset_SmithAndWorkshop_Rasak_44: 570622090108500628
+      Tileset_SmithAndWorkshop_Rasak_45: -5187148155597669997
+      Tileset_SmithAndWorkshop_Rasak_46: 3152877725966468556
+      Tileset_SmithAndWorkshop_Rasak_47: 4362804625683923666
+      Tileset_SmithAndWorkshop_Rasak_48: 4161314311953743287
+      Tileset_SmithAndWorkshop_Rasak_49: -3701690468461006264
+      Tileset_SmithAndWorkshop_Rasak_5: 7340969420255044688
+      Tileset_SmithAndWorkshop_Rasak_50: -4135636856525896381
+      Tileset_SmithAndWorkshop_Rasak_51: -303346958345015091
+      Tileset_SmithAndWorkshop_Rasak_52: -581055131443916171
+      Tileset_SmithAndWorkshop_Rasak_53: -3273597950315078768
+      Tileset_SmithAndWorkshop_Rasak_54: 6568929447806413414
+      Tileset_SmithAndWorkshop_Rasak_55: -9150319304733688592
+      Tileset_SmithAndWorkshop_Rasak_56: -8694810997880513687
+      Tileset_SmithAndWorkshop_Rasak_57: -372256952186781395
+      Tileset_SmithAndWorkshop_Rasak_58: 8053233201611973456
+      Tileset_SmithAndWorkshop_Rasak_59: -2649172780076871818
+      Tileset_SmithAndWorkshop_Rasak_6: -7306109608477905303
+      Tileset_SmithAndWorkshop_Rasak_60: 6202426137706965281
+      Tileset_SmithAndWorkshop_Rasak_61: 2089772548522276635
+      Tileset_SmithAndWorkshop_Rasak_62: -116069060207541928
+      Tileset_SmithAndWorkshop_Rasak_63: 561319962821004443
+      Tileset_SmithAndWorkshop_Rasak_64: -8337247063460786329
+      Tileset_SmithAndWorkshop_Rasak_65: -1110028761944719003
+      Tileset_SmithAndWorkshop_Rasak_66: -1566850900007214384
+      Tileset_SmithAndWorkshop_Rasak_67: -4201305076207400107
+      Tileset_SmithAndWorkshop_Rasak_68: -1055641941945524471
+      Tileset_SmithAndWorkshop_Rasak_69: -4569436143988800685
+      Tileset_SmithAndWorkshop_Rasak_7: -8702152569514947044
+      Tileset_SmithAndWorkshop_Rasak_70: 2554144633648876925
+      Tileset_SmithAndWorkshop_Rasak_71: 9204344421570961863
+      Tileset_SmithAndWorkshop_Rasak_72: 8443894951117122159
+      Tileset_SmithAndWorkshop_Rasak_73: 6564933337495439920
+      Tileset_SmithAndWorkshop_Rasak_74: 3223600363180896345
+      Tileset_SmithAndWorkshop_Rasak_75: -1734714176319172088
+      Tileset_SmithAndWorkshop_Rasak_76: 2052099186231803499
+      Tileset_SmithAndWorkshop_Rasak_77: 7812174863576786975
+      Tileset_SmithAndWorkshop_Rasak_78: -3811896380381135979
+      Tileset_SmithAndWorkshop_Rasak_79: -1636697343202158324
+      Tileset_SmithAndWorkshop_Rasak_8: -2098236771228682935
+      Tileset_SmithAndWorkshop_Rasak_80: -5965079348442850171
+      Tileset_SmithAndWorkshop_Rasak_81: 3024039319573925197
+      Tileset_SmithAndWorkshop_Rasak_9: -8079810769209605266
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

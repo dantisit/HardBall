@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: 4b4c7279b3fa9e7418deadce1d0ea27b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -183538651448395953
+    second: Tileset_Snow&Ice_Rasak_0
+  - first:
+      213: -2258014164937474725
+    second: Tileset_Snow&Ice_Rasak_1
+  - first:
+      213: 5380442104617543841
+    second: Tileset_Snow&Ice_Rasak_2
+  - first:
+      213: -7925875162443885643
+    second: Tileset_Snow&Ice_Rasak_3
+  - first:
+      213: 1467885715771014879
+    second: Tileset_Snow&Ice_Rasak_4
+  - first:
+      213: 2107446162859754500
+    second: Tileset_Snow&Ice_Rasak_5
+  - first:
+      213: -2485365662279739514
+    second: Tileset_Snow&Ice_Rasak_6
+  - first:
+      213: -2155363336427174927
+    second: Tileset_Snow&Ice_Rasak_7
+  - first:
+      213: 6616225752361586680
+    second: Tileset_Snow&Ice_Rasak_8
+  - first:
+      213: 1098469432885779098
+    second: Tileset_Snow&Ice_Rasak_9
+  - first:
+      213: 8197904789733636283
+    second: Tileset_Snow&Ice_Rasak_10
+  - first:
+      213: -7807582881826676766
+    second: Tileset_Snow&Ice_Rasak_11
+  - first:
+      213: -8154569916611467381
+    second: Tileset_Snow&Ice_Rasak_12
+  - first:
+      213: 5440275170482336307
+    second: Tileset_Snow&Ice_Rasak_13
+  - first:
+      213: 1735387287284454260
+    second: Tileset_Snow&Ice_Rasak_14
+  - first:
+      213: -9035491005795721390
+    second: Tileset_Snow&Ice_Rasak_15
+  - first:
+      213: 993688793622476889
+    second: Tileset_Snow&Ice_Rasak_16
+  - first:
+      213: -4667081135541903484
+    second: Tileset_Snow&Ice_Rasak_17
+  - first:
+      213: -1950783322582229779
+    second: Tileset_Snow&Ice_Rasak_18
+  - first:
+      213: -6552377947332790175
+    second: Tileset_Snow&Ice_Rasak_19
+  - first:
+      213: 7443743911822432635
+    second: Tileset_Snow&Ice_Rasak_20
+  - first:
+      213: -7842068467050186531
+    second: Tileset_Snow&Ice_Rasak_21
+  - first:
+      213: -7738697133648916086
+    second: Tileset_Snow&Ice_Rasak_22
+  - first:
+      213: -4277411565939421190
+    second: Tileset_Snow&Ice_Rasak_23
+  - first:
+      213: 2716332609405353451
+    second: Tileset_Snow&Ice_Rasak_24
+  - first:
+      213: -7240366044252246454
+    second: Tileset_Snow&Ice_Rasak_25
+  - first:
+      213: 535521934874421140
+    second: Tileset_Snow&Ice_Rasak_26
+  - first:
+      213: -3698467635420774395
+    second: Tileset_Snow&Ice_Rasak_27
+  - first:
+      213: -1391911902315107604
+    second: Tileset_Snow&Ice_Rasak_28
+  - first:
+      213: -6798488878751207240
+    second: Tileset_Snow&Ice_Rasak_29
+  - first:
+      213: -4786705269849371208
+    second: Tileset_Snow&Ice_Rasak_30
+  - first:
+      213: 6485811990435896292
+    second: Tileset_Snow&Ice_Rasak_31
+  - first:
+      213: -2699349816431101561
+    second: Tileset_Snow&Ice_Rasak_32
+  - first:
+      213: -7959179373003798
+    second: Tileset_Snow&Ice_Rasak_33
+  - first:
+      213: -5065053770064345496
+    second: Tileset_Snow&Ice_Rasak_34
+  - first:
+      213: -2284555890262910261
+    second: Tileset_Snow&Ice_Rasak_35
+  - first:
+      213: -6127080045764141029
+    second: Tileset_Snow&Ice_Rasak_36
+  - first:
+      213: -2396290150370341
+    second: Tileset_Snow&Ice_Rasak_37
+  - first:
+      213: 1659877353454756607
+    second: Tileset_Snow&Ice_Rasak_38
+  - first:
+      213: -6332723107592466939
+    second: Tileset_Snow&Ice_Rasak_39
+  - first:
+      213: -1811493068344791058
+    second: Tileset_Snow&Ice_Rasak_40
+  - first:
+      213: -3935937126586948917
+    second: Tileset_Snow&Ice_Rasak_41
+  - first:
+      213: 4772488233971269308
+    second: Tileset_Snow&Ice_Rasak_42
+  - first:
+      213: 3967266005971085291
+    second: Tileset_Snow&Ice_Rasak_43
+  - first:
+      213: 1810880334697002124
+    second: Tileset_Snow&Ice_Rasak_44
+  - first:
+      213: 983851100826334129
+    second: Tileset_Snow&Ice_Rasak_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 768
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f473dd5a190f37df0800000000000000
+      internalID: -183538651448395953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 115
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5df919941ce9a0e0800000000000000
+      internalID: -2258014164937474725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 95
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8a84c569b2baa40800000000000000
+      internalID: 5380442104617543841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 106
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3d0786882a10290800000000000000
+      internalID: -7925875162443885643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 117
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdeb663084afe5410800000000000000
+      internalID: 1467885715771014879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 117
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40404809e172f3d10800000000000000
+      internalID: 2107446162859754500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 125
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687dcd22915328dd0800000000000000
+      internalID: -2485365662279739514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 122
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f38b52177c9612e0800000000000000
+      internalID: -2155363336427174927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 117
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffcd4b744e81db50800000000000000
+      internalID: 6616225752361586680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 125
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a18c7112c8e3f00800000000000000
+      internalID: 1098469432885779098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 122
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8fb8ec8fec4c170800000000000000
+      internalID: 8197904789733636283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 128
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efdc4e3cb4e5a390800000000000000
+      internalID: -7807582881826676766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 123
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8769489dd525de80800000000000000
+      internalID: -8154569916611467381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 128
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3323af8917dbf7b40800000000000000
+      internalID: 5440275170482336307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 119
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47391561b85551810800000000000000
+      internalID: 1735387287284454260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 95
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f1f446dcc7b9280800000000000000
+      internalID: -9035491005795721390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 95
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958772961ba4acd00800000000000000
+      internalID: 993688793622476889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 108
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f191a3f623b3fb0800000000000000
+      internalID: -4667081135541903484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decdabf57ec6de4e0800000000000000
+      internalID: -1950783322582229779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 118
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168302f09f64115a0800000000000000
+      internalID: -6552377947332790175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 99
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79172f26ad7d4760800000000000000
+      internalID: 7443743911822432635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 99
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd87e2d37406b2390800000000000000
+      internalID: -7842068467050186531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 109
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81d58455ff9a9490800000000000000
+      internalID: -7738697133648916086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 102
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff880ee7d493a4c0800000000000000
+      internalID: -4277411565939421190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 102
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed7a63dd1a52b520800000000000000
+      internalID: 2716332609405353451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 101
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e6b80a17d058b90800000000000000
+      internalID: -7240366044252246454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 109
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497ae99cc5e8e6700800000000000000
+      internalID: 535521934874421140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 99
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5004779e7476cacc0800000000000000
+      internalID: -3698467635420774395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 187
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaaedfdf7feeace0800000000000000
+      internalID: -1391911902315107604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0379c726ae6a1a0800000000000000
+      internalID: -6798488878751207240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 73
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd432a0be4329db0800000000000000
+      internalID: -4786705269849371208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb96e954ab320a50800000000000000
+      internalID: 6485811990435896292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 63
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789bb1bc4abf98ad0800000000000000
+      internalID: -2699349816431101561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 52
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebb4c42b29b3eff0800000000000000
+      internalID: -7959179373003798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 52
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866cf039e6055b9b0800000000000000
+      internalID: -5065053770064345496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 52
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca5a5b9580ab40e0800000000000000
+      internalID: -2284555890262910261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1028d9392d38faa0800000000000000
+      internalID: -6127080045764141029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 8
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3fec8369c77fff0800000000000000
+      internalID: -2396290150370341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 0
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2e26798a1190710800000000000000
+      internalID: 1659877353454756607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 47
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e0b07c2e5ad18a0800000000000000
+      internalID: -6332723107592466939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 54
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefe93ce6a84cd6e0800000000000000
+      internalID: -1811493068344791058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2638f690eb069c0800000000000000
+      internalID: -3935937126586948917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeb69853c84b3240800000000000000
+      internalID: 4772488233971269308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7a367b96f8e0730800000000000000
+      internalID: 3967266005971085291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 124
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84fa58e11a812910800000000000000
+      internalID: 1810880334697002124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Snow&Ice_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b371a01d5757ad00800000000000000
+      internalID: 983851100826334129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Snow&Ice_Rasak_0: -183538651448395953
+      Tileset_Snow&Ice_Rasak_1: -2258014164937474725
+      Tileset_Snow&Ice_Rasak_10: 8197904789733636283
+      Tileset_Snow&Ice_Rasak_11: -7807582881826676766
+      Tileset_Snow&Ice_Rasak_12: -8154569916611467381
+      Tileset_Snow&Ice_Rasak_13: 5440275170482336307
+      Tileset_Snow&Ice_Rasak_14: 1735387287284454260
+      Tileset_Snow&Ice_Rasak_15: -9035491005795721390
+      Tileset_Snow&Ice_Rasak_16: 993688793622476889
+      Tileset_Snow&Ice_Rasak_17: -4667081135541903484
+      Tileset_Snow&Ice_Rasak_18: -1950783322582229779
+      Tileset_Snow&Ice_Rasak_19: -6552377947332790175
+      Tileset_Snow&Ice_Rasak_2: 5380442104617543841
+      Tileset_Snow&Ice_Rasak_20: 7443743911822432635
+      Tileset_Snow&Ice_Rasak_21: -7842068467050186531
+      Tileset_Snow&Ice_Rasak_22: -7738697133648916086
+      Tileset_Snow&Ice_Rasak_23: -4277411565939421190
+      Tileset_Snow&Ice_Rasak_24: 2716332609405353451
+      Tileset_Snow&Ice_Rasak_25: -7240366044252246454
+      Tileset_Snow&Ice_Rasak_26: 535521934874421140
+      Tileset_Snow&Ice_Rasak_27: -3698467635420774395
+      Tileset_Snow&Ice_Rasak_28: -1391911902315107604
+      Tileset_Snow&Ice_Rasak_29: -6798488878751207240
+      Tileset_Snow&Ice_Rasak_3: -7925875162443885643
+      Tileset_Snow&Ice_Rasak_30: -4786705269849371208
+      Tileset_Snow&Ice_Rasak_31: 6485811990435896292
+      Tileset_Snow&Ice_Rasak_32: -2699349816431101561
+      Tileset_Snow&Ice_Rasak_33: -7959179373003798
+      Tileset_Snow&Ice_Rasak_34: -5065053770064345496
+      Tileset_Snow&Ice_Rasak_35: -2284555890262910261
+      Tileset_Snow&Ice_Rasak_36: -6127080045764141029
+      Tileset_Snow&Ice_Rasak_37: -2396290150370341
+      Tileset_Snow&Ice_Rasak_38: 1659877353454756607
+      Tileset_Snow&Ice_Rasak_39: -6332723107592466939
+      Tileset_Snow&Ice_Rasak_4: 1467885715771014879
+      Tileset_Snow&Ice_Rasak_40: -1811493068344791058
+      Tileset_Snow&Ice_Rasak_41: -3935937126586948917
+      Tileset_Snow&Ice_Rasak_42: 4772488233971269308
+      Tileset_Snow&Ice_Rasak_43: 3967266005971085291
+      Tileset_Snow&Ice_Rasak_44: 1810880334697002124
+      Tileset_Snow&Ice_Rasak_45: 983851100826334129
+      Tileset_Snow&Ice_Rasak_5: 2107446162859754500
+      Tileset_Snow&Ice_Rasak_6: -2485365662279739514
+      Tileset_Snow&Ice_Rasak_7: -2155363336427174927
+      Tileset_Snow&Ice_Rasak_8: 6616225752361586680
+      Tileset_Snow&Ice_Rasak_9: 1098469432885779098
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

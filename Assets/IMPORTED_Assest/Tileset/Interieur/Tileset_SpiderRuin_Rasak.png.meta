@@ -1,0 +1,2327 @@
+fileFormatVersion: 2
+guid: dd02cfdd05458094691bd6a9c8a7e89d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1244297167619077534
+    second: Tileset_SpiderRuin_Rasak_0
+  - first:
+      213: -7681669252959464481
+    second: Tileset_SpiderRuin_Rasak_1
+  - first:
+      213: -1194803850631212274
+    second: Tileset_SpiderRuin_Rasak_2
+  - first:
+      213: -1744274939209484351
+    second: Tileset_SpiderRuin_Rasak_3
+  - first:
+      213: -632164432184158138
+    second: Tileset_SpiderRuin_Rasak_4
+  - first:
+      213: -7247884419147083736
+    second: Tileset_SpiderRuin_Rasak_5
+  - first:
+      213: -441341805712735153
+    second: Tileset_SpiderRuin_Rasak_6
+  - first:
+      213: 3819797425294107846
+    second: Tileset_SpiderRuin_Rasak_7
+  - first:
+      213: 3927649429103153648
+    second: Tileset_SpiderRuin_Rasak_8
+  - first:
+      213: 833395443538536534
+    second: Tileset_SpiderRuin_Rasak_9
+  - first:
+      213: -8580129506081813215
+    second: Tileset_SpiderRuin_Rasak_10
+  - first:
+      213: -5189336897695426128
+    second: Tileset_SpiderRuin_Rasak_11
+  - first:
+      213: 4384989066961880640
+    second: Tileset_SpiderRuin_Rasak_12
+  - first:
+      213: 8444285259581909100
+    second: Tileset_SpiderRuin_Rasak_13
+  - first:
+      213: -8035978420440581752
+    second: Tileset_SpiderRuin_Rasak_14
+  - first:
+      213: -269346455852758375
+    second: Tileset_SpiderRuin_Rasak_15
+  - first:
+      213: 3696806213775036787
+    second: Tileset_SpiderRuin_Rasak_16
+  - first:
+      213: 5886067793716451392
+    second: Tileset_SpiderRuin_Rasak_17
+  - first:
+      213: -2350045019263952395
+    second: Tileset_SpiderRuin_Rasak_18
+  - first:
+      213: 4478235808641343544
+    second: Tileset_SpiderRuin_Rasak_19
+  - first:
+      213: 7509829411975816853
+    second: Tileset_SpiderRuin_Rasak_20
+  - first:
+      213: 1082482409213553869
+    second: Tileset_SpiderRuin_Rasak_21
+  - first:
+      213: -1968062630404402890
+    second: Tileset_SpiderRuin_Rasak_22
+  - first:
+      213: 8212007876368106780
+    second: Tileset_SpiderRuin_Rasak_23
+  - first:
+      213: -1738316347819881982
+    second: Tileset_SpiderRuin_Rasak_24
+  - first:
+      213: 7599594789790917292
+    second: Tileset_SpiderRuin_Rasak_25
+  - first:
+      213: 1913958623897322325
+    second: Tileset_SpiderRuin_Rasak_26
+  - first:
+      213: 6336704197951202179
+    second: Tileset_SpiderRuin_Rasak_27
+  - first:
+      213: -5312310148142923564
+    second: Tileset_SpiderRuin_Rasak_28
+  - first:
+      213: -2478826484029890977
+    second: Tileset_SpiderRuin_Rasak_29
+  - first:
+      213: 474831758817999488
+    second: Tileset_SpiderRuin_Rasak_30
+  - first:
+      213: 5754587066711848666
+    second: Tileset_SpiderRuin_Rasak_31
+  - first:
+      213: 8028980980530554150
+    second: Tileset_SpiderRuin_Rasak_32
+  - first:
+      213: 464512435967615836
+    second: Tileset_SpiderRuin_Rasak_33
+  - first:
+      213: 2789648884588835666
+    second: Tileset_SpiderRuin_Rasak_34
+  - first:
+      213: 7097883148702342261
+    second: Tileset_SpiderRuin_Rasak_35
+  - first:
+      213: -1400264566786632016
+    second: Tileset_SpiderRuin_Rasak_36
+  - first:
+      213: 1320821843063468331
+    second: Tileset_SpiderRuin_Rasak_37
+  - first:
+      213: -2212561888173325396
+    second: Tileset_SpiderRuin_Rasak_38
+  - first:
+      213: 8775819682645182007
+    second: Tileset_SpiderRuin_Rasak_39
+  - first:
+      213: -3730576097766944944
+    second: Tileset_SpiderRuin_Rasak_40
+  - first:
+      213: 4748232139123952549
+    second: Tileset_SpiderRuin_Rasak_41
+  - first:
+      213: 1406473095830364306
+    second: Tileset_SpiderRuin_Rasak_42
+  - first:
+      213: -998395770775069273
+    second: Tileset_SpiderRuin_Rasak_43
+  - first:
+      213: -3323376578713660889
+    second: Tileset_SpiderRuin_Rasak_44
+  - first:
+      213: -6572098329689405
+    second: Tileset_SpiderRuin_Rasak_45
+  - first:
+      213: 1071009897871463204
+    second: Tileset_SpiderRuin_Rasak_46
+  - first:
+      213: 5665010017624608533
+    second: Tileset_SpiderRuin_Rasak_47
+  - first:
+      213: -2461196354739653311
+    second: Tileset_SpiderRuin_Rasak_48
+  - first:
+      213: 1356179881541718407
+    second: Tileset_SpiderRuin_Rasak_49
+  - first:
+      213: -714752017952063325
+    second: Tileset_SpiderRuin_Rasak_50
+  - first:
+      213: 1966497927929882044
+    second: Tileset_SpiderRuin_Rasak_51
+  - first:
+      213: -2634081022392202037
+    second: Tileset_SpiderRuin_Rasak_52
+  - first:
+      213: -1855293944183610823
+    second: Tileset_SpiderRuin_Rasak_53
+  - first:
+      213: 8273202223417863712
+    second: Tileset_SpiderRuin_Rasak_54
+  - first:
+      213: 1600304697909073657
+    second: Tileset_SpiderRuin_Rasak_55
+  - first:
+      213: 8617560643102963937
+    second: Tileset_SpiderRuin_Rasak_56
+  - first:
+      213: -921235618958763725
+    second: Tileset_SpiderRuin_Rasak_57
+  - first:
+      213: -848258927673809288
+    second: Tileset_SpiderRuin_Rasak_58
+  - first:
+      213: 4575478068600906703
+    second: Tileset_SpiderRuin_Rasak_59
+  - first:
+      213: -3016496875025420794
+    second: Tileset_SpiderRuin_Rasak_60
+  - first:
+      213: -8914123333547269019
+    second: Tileset_SpiderRuin_Rasak_61
+  - first:
+      213: 6206008077262924367
+    second: Tileset_SpiderRuin_Rasak_62
+  - first:
+      213: -6323658279842931990
+    second: Tileset_SpiderRuin_Rasak_63
+  - first:
+      213: -5444113653487729668
+    second: Tileset_SpiderRuin_Rasak_64
+  - first:
+      213: 9028730791404019690
+    second: Tileset_SpiderRuin_Rasak_65
+  - first:
+      213: -1150583848491276853
+    second: Tileset_SpiderRuin_Rasak_66
+  - first:
+      213: -689162890703931997
+    second: Tileset_SpiderRuin_Rasak_67
+  - first:
+      213: -5747809546948004684
+    second: Tileset_SpiderRuin_Rasak_68
+  - first:
+      213: 6945265492631359559
+    second: Tileset_SpiderRuin_Rasak_69
+  - first:
+      213: -2477689319378635868
+    second: Tileset_SpiderRuin_Rasak_70
+  - first:
+      213: -5846841124162784074
+    second: Tileset_SpiderRuin_Rasak_71
+  - first:
+      213: -7649117212169850103
+    second: Tileset_SpiderRuin_Rasak_72
+  - first:
+      213: 987964806207113749
+    second: Tileset_SpiderRuin_Rasak_73
+  - first:
+      213: -2138370165235946685
+    second: Tileset_SpiderRuin_Rasak_74
+  - first:
+      213: -4521136252375376640
+    second: Tileset_SpiderRuin_Rasak_75
+  - first:
+      213: 3535364898936438252
+    second: Tileset_SpiderRuin_Rasak_76
+  - first:
+      213: 4289254145809727527
+    second: Tileset_SpiderRuin_Rasak_77
+  - first:
+      213: 8896975135221243295
+    second: Tileset_SpiderRuin_Rasak_78
+  - first:
+      213: 2184170571674750671
+    second: Tileset_SpiderRuin_Rasak_79
+  - first:
+      213: -3202090514334820807
+    second: Tileset_SpiderRuin_Rasak_80
+  - first:
+      213: -8363795192459284674
+    second: Tileset_SpiderRuin_Rasak_81
+  - first:
+      213: -6726769557832123309
+    second: Tileset_SpiderRuin_Rasak_82
+  - first:
+      213: 4906068512611820001
+    second: Tileset_SpiderRuin_Rasak_83
+  - first:
+      213: 5403479246837209157
+    second: Tileset_SpiderRuin_Rasak_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 645
+        width: 25
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95b5fe6ea1a44110800000000000000
+      internalID: 1244297167619077534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 576
+        width: 289
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd39f4f738a356590800000000000000
+      internalID: -7681669252959464481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 720
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e039bda6a343b6fe0800000000000000
+      internalID: -1194803850631212274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 707
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c77dc13f271bc7e0800000000000000
+      internalID: -1744274939209484351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 704
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648d60c5cc91a37f0800000000000000
+      internalID: -632164432184158138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 704
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82056af85875a6b90800000000000000
+      internalID: -7247884419147083736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 728
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4486fd47f900e9f0800000000000000
+      internalID: -441341805712735153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 655
+        width: 121
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c46b982585a20530800000000000000
+      internalID: 3819797425294107846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 730
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f195ff9850d18630800000000000000
+      internalID: 3927649429103153648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 732
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6582b898db0d09b00800000000000000
+      internalID: 833395443538536534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 737
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d45277ca14de880800000000000000
+      internalID: -8580129506081813215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 687
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b95909f595cbf7b0800000000000000
+      internalID: -5189336897695426128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 689
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0460c30e25c9adc30800000000000000
+      internalID: 4384989066961880640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 194
+        width: 188
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68627f24b0203570800000000000000
+      internalID: 8444285259581909100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 682
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8893feaf3387a7090800000000000000
+      internalID: -8035978420440581752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 624
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ac26153d6134cf0800000000000000
+      internalID: -269346455852758375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 553
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37194873aa1bd4330800000000000000
+      internalID: 3696806213775036787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 637
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048165009738fa150800000000000000
+      internalID: 5886067793716451392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 576
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9989c8186f26fd0800000000000000
+      internalID: -2350045019263952395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 528
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8306082cdb3e52e30800000000000000
+      internalID: 4478235808641343544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 549
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5966998bf06483860800000000000000
+      internalID: 7509829411975816853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 576
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc68c41400c50f00800000000000000
+      internalID: 1082482409213553869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 575
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6315603077900b4e0800000000000000
+      internalID: -1968062630404402890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 575
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1581ab87a9e6f170800000000000000
+      internalID: 8212007876368106780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 575
+        width: 92
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a01fcdd7240e7e0800000000000000
+      internalID: -1738316347819881982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 575
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2a56a623f277960800000000000000
+      internalID: 7599594789790917292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 479
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55302345a3fbf8a10800000000000000
+      internalID: 1913958623897322325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 527
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383ab9d05ee70f750800000000000000
+      internalID: 6336704197951202179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 498
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d00d3be012e646b0800000000000000
+      internalID: -5312310148142923564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 383
+        width: 142
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e51973270799dd0800000000000000
+      internalID: -2478826484029890977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 497
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08abb6808f0f69600800000000000000
+      internalID: 474831758817999488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 479
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6ba64b2766cdf40800000000000000
+      internalID: 5754587066711848666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 527
+        width: 88
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62524e499abac6f60800000000000000
+      internalID: 8028980980530554150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53e9937997427600800000000000000
+      internalID: 464512435967615836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 481
+        width: 79
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2537bfd51e2d6b620800000000000000
+      internalID: 2789648884588835666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 480
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c52a71e1fb08260800000000000000
+      internalID: 7097883148702342261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 487
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6dd11abc2419ce0800000000000000
+      internalID: -1400264566786632016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 145
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21ff5fd770845210800000000000000
+      internalID: 1320821843063468331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 431
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca38cd37fa66b41e0800000000000000
+      internalID: -2212561888173325396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 431
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73682fc4189f9c970800000000000000
+      internalID: 8775819682645182007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 335
+        width: 193
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fc905fdc45a3cc0800000000000000
+      internalID: -3730576097766944944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 431
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab839b29fb15e140800000000000000
+      internalID: 4748232139123952549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 385
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290ec1f24dbc48310800000000000000
+      internalID: 1406473095830364306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 385
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad13b1165cf422f0800000000000000
+      internalID: -998395770775069273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 335
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7225be21c9ef0e1d0800000000000000
+      internalID: -3323376578713660889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 181
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c241ad16b6a8eff0800000000000000
+      internalID: -6572098329689405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 93
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4235e81e3ddfcde00800000000000000
+      internalID: 1071009897871463204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 287
+        width: 94
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f4b85b8982e9e40800000000000000
+      internalID: 5665010017624608533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 287
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145b14194f218ddd0800000000000000
+      internalID: -2461196354739653311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 287
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78153daba6e12d210800000000000000
+      internalID: 1356179881541718407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 325
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0497b93d0b416f0800000000000000
+      internalID: -714752017952063325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 287
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb56dcd42776a4b10800000000000000
+      internalID: 1966497927929882044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 385
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc07be144dd17bd0800000000000000
+      internalID: -2634081022392202037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 288
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932a00fccfba046e0800000000000000
+      internalID: -1855293944183610823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 241
+        width: 90
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e2bc1c69150d270800000000000000
+      internalID: 8273202223417863712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 192
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6524bd4ac653610800000000000000
+      internalID: 1600304697909073657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 247
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8f9824fb9b79770800000000000000
+      internalID: 8617560643102963937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 242
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3399681e51d1733f0800000000000000
+      internalID: -921235618958763725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_58
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 250
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876e272eff06a34f0800000000000000
+      internalID: -848258927673809288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_59
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 227
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc32c8cbf0d5f7f30800000000000000
+      internalID: 4575478068600906703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 194
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ea80203104326d0800000000000000
+      internalID: -3016496875025420794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 194
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564e4e3ae0caa4480800000000000000
+      internalID: -8914123333547269019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_62
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 199
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a2676277b202650800000000000000
+      internalID: 6206008077262924367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 194
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea11057c4add38a0800000000000000
+      internalID: -6323658279842931990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_64
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 195
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3820fe97f9274b0800000000000000
+      internalID: -5444113653487729668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 101
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef944a81de7c4d70800000000000000
+      internalID: 9028730791404019690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_66
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 102
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5206af51e4800f0800000000000000
+      internalID: -1150583848491276853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_67
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 158
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5f533900a9f66f0800000000000000
+      internalID: -689162890703931997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_68
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 149
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4b0959badab30b0800000000000000
+      internalID: -5747809546948004684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 147
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740121ffa2a826060800000000000000
+      internalID: 6945265492631359559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_70
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 143
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a338aef0ba7d9dd0800000000000000
+      internalID: -2477689319378635868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_71
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 95
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4b128b9f8dbdea0800000000000000
+      internalID: -5846841124162784074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_72
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 127
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9033a4b1c60e8d590800000000000000
+      internalID: -7649117212169850103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_73
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 107
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a009cb1c4f5bd00800000000000000
+      internalID: 987964806207113749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_74
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 98
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b61de0aabf252e0800000000000000
+      internalID: -2138370165235946685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_75
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 98
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d56005882b141c0800000000000000
+      internalID: -4521136252375376640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_76
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedbd78f4a3201130800000000000000
+      internalID: 3535364898936438252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_77
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 6
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7204c509bed768b30800000000000000
+      internalID: 4289254145809727527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_78
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 6
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d585e4fb7687b70800000000000000
+      internalID: 8896975135221243295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 6
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce098d009bbf4e10800000000000000
+      internalID: 2184170571674750671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_80
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 6
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936dc6284a3ef83d0800000000000000
+      internalID: -3202090514334820807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_81
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 47
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f2853f594ddeb80800000000000000
+      internalID: -8363795192459284674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_82
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 57
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c31832ab6b5a2a0800000000000000
+      internalID: -6726769557832123309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_83
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1e4f9915bd51440800000000000000
+      internalID: 4906068512611820001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SpiderRuin_Rasak_84
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 17
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5485de20fb30dfa40800000000000000
+      internalID: 5403479246837209157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_SpiderRuin_Rasak_0: 1244297167619077534
+      Tileset_SpiderRuin_Rasak_1: -7681669252959464481
+      Tileset_SpiderRuin_Rasak_10: -8580129506081813215
+      Tileset_SpiderRuin_Rasak_11: -5189336897695426128
+      Tileset_SpiderRuin_Rasak_12: 4384989066961880640
+      Tileset_SpiderRuin_Rasak_13: 8444285259581909100
+      Tileset_SpiderRuin_Rasak_14: -8035978420440581752
+      Tileset_SpiderRuin_Rasak_15: -269346455852758375
+      Tileset_SpiderRuin_Rasak_16: 3696806213775036787
+      Tileset_SpiderRuin_Rasak_17: 5886067793716451392
+      Tileset_SpiderRuin_Rasak_18: -2350045019263952395
+      Tileset_SpiderRuin_Rasak_19: 4478235808641343544
+      Tileset_SpiderRuin_Rasak_2: -1194803850631212274
+      Tileset_SpiderRuin_Rasak_20: 7509829411975816853
+      Tileset_SpiderRuin_Rasak_21: 1082482409213553869
+      Tileset_SpiderRuin_Rasak_22: -1968062630404402890
+      Tileset_SpiderRuin_Rasak_23: 8212007876368106780
+      Tileset_SpiderRuin_Rasak_24: -1738316347819881982
+      Tileset_SpiderRuin_Rasak_25: 7599594789790917292
+      Tileset_SpiderRuin_Rasak_26: 1913958623897322325
+      Tileset_SpiderRuin_Rasak_27: 6336704197951202179
+      Tileset_SpiderRuin_Rasak_28: -5312310148142923564
+      Tileset_SpiderRuin_Rasak_29: -2478826484029890977
+      Tileset_SpiderRuin_Rasak_3: -1744274939209484351
+      Tileset_SpiderRuin_Rasak_30: 474831758817999488
+      Tileset_SpiderRuin_Rasak_31: 5754587066711848666
+      Tileset_SpiderRuin_Rasak_32: 8028980980530554150
+      Tileset_SpiderRuin_Rasak_33: 464512435967615836
+      Tileset_SpiderRuin_Rasak_34: 2789648884588835666
+      Tileset_SpiderRuin_Rasak_35: 7097883148702342261
+      Tileset_SpiderRuin_Rasak_36: -1400264566786632016
+      Tileset_SpiderRuin_Rasak_37: 1320821843063468331
+      Tileset_SpiderRuin_Rasak_38: -2212561888173325396
+      Tileset_SpiderRuin_Rasak_39: 8775819682645182007
+      Tileset_SpiderRuin_Rasak_4: -632164432184158138
+      Tileset_SpiderRuin_Rasak_40: -3730576097766944944
+      Tileset_SpiderRuin_Rasak_41: 4748232139123952549
+      Tileset_SpiderRuin_Rasak_42: 1406473095830364306
+      Tileset_SpiderRuin_Rasak_43: -998395770775069273
+      Tileset_SpiderRuin_Rasak_44: -3323376578713660889
+      Tileset_SpiderRuin_Rasak_45: -6572098329689405
+      Tileset_SpiderRuin_Rasak_46: 1071009897871463204
+      Tileset_SpiderRuin_Rasak_47: 5665010017624608533
+      Tileset_SpiderRuin_Rasak_48: -2461196354739653311
+      Tileset_SpiderRuin_Rasak_49: 1356179881541718407
+      Tileset_SpiderRuin_Rasak_5: -7247884419147083736
+      Tileset_SpiderRuin_Rasak_50: -714752017952063325
+      Tileset_SpiderRuin_Rasak_51: 1966497927929882044
+      Tileset_SpiderRuin_Rasak_52: -2634081022392202037
+      Tileset_SpiderRuin_Rasak_53: -1855293944183610823
+      Tileset_SpiderRuin_Rasak_54: 8273202223417863712
+      Tileset_SpiderRuin_Rasak_55: 1600304697909073657
+      Tileset_SpiderRuin_Rasak_56: 8617560643102963937
+      Tileset_SpiderRuin_Rasak_57: -921235618958763725
+      Tileset_SpiderRuin_Rasak_58: -848258927673809288
+      Tileset_SpiderRuin_Rasak_59: 4575478068600906703
+      Tileset_SpiderRuin_Rasak_6: -441341805712735153
+      Tileset_SpiderRuin_Rasak_60: -3016496875025420794
+      Tileset_SpiderRuin_Rasak_61: -8914123333547269019
+      Tileset_SpiderRuin_Rasak_62: 6206008077262924367
+      Tileset_SpiderRuin_Rasak_63: -6323658279842931990
+      Tileset_SpiderRuin_Rasak_64: -5444113653487729668
+      Tileset_SpiderRuin_Rasak_65: 9028730791404019690
+      Tileset_SpiderRuin_Rasak_66: -1150583848491276853
+      Tileset_SpiderRuin_Rasak_67: -689162890703931997
+      Tileset_SpiderRuin_Rasak_68: -5747809546948004684
+      Tileset_SpiderRuin_Rasak_69: 6945265492631359559
+      Tileset_SpiderRuin_Rasak_7: 3819797425294107846
+      Tileset_SpiderRuin_Rasak_70: -2477689319378635868
+      Tileset_SpiderRuin_Rasak_71: -5846841124162784074
+      Tileset_SpiderRuin_Rasak_72: -7649117212169850103
+      Tileset_SpiderRuin_Rasak_73: 987964806207113749
+      Tileset_SpiderRuin_Rasak_74: -2138370165235946685
+      Tileset_SpiderRuin_Rasak_75: -4521136252375376640
+      Tileset_SpiderRuin_Rasak_76: 3535364898936438252
+      Tileset_SpiderRuin_Rasak_77: 4289254145809727527
+      Tileset_SpiderRuin_Rasak_78: 8896975135221243295
+      Tileset_SpiderRuin_Rasak_79: 2184170571674750671
+      Tileset_SpiderRuin_Rasak_8: 3927649429103153648
+      Tileset_SpiderRuin_Rasak_80: -3202090514334820807
+      Tileset_SpiderRuin_Rasak_81: -8363795192459284674
+      Tileset_SpiderRuin_Rasak_82: -6726769557832123309
+      Tileset_SpiderRuin_Rasak_83: 4906068512611820001
+      Tileset_SpiderRuin_Rasak_84: 5403479246837209157
+      Tileset_SpiderRuin_Rasak_9: 833395443538536534
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

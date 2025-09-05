@@ -1,0 +1,3393 @@
+fileFormatVersion: 2
+guid: a65bd2d745a753b458e1fa36fffd1889
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5434165680352462177
+    second: Tileset_Tannery_Painting_Laundry_Rasak_0
+  - first:
+      213: 4026330070513854434
+    second: Tileset_Tannery_Painting_Laundry_Rasak_1
+  - first:
+      213: 6712460299617198595
+    second: Tileset_Tannery_Painting_Laundry_Rasak_2
+  - first:
+      213: -2987704895571359824
+    second: Tileset_Tannery_Painting_Laundry_Rasak_3
+  - first:
+      213: -7931317757067239354
+    second: Tileset_Tannery_Painting_Laundry_Rasak_4
+  - first:
+      213: -600312797914063377
+    second: Tileset_Tannery_Painting_Laundry_Rasak_5
+  - first:
+      213: 8045631462644854573
+    second: Tileset_Tannery_Painting_Laundry_Rasak_6
+  - first:
+      213: 4216321539633663726
+    second: Tileset_Tannery_Painting_Laundry_Rasak_7
+  - first:
+      213: -5315492050790100128
+    second: Tileset_Tannery_Painting_Laundry_Rasak_8
+  - first:
+      213: 61206125927570624
+    second: Tileset_Tannery_Painting_Laundry_Rasak_9
+  - first:
+      213: -6762745776594210733
+    second: Tileset_Tannery_Painting_Laundry_Rasak_10
+  - first:
+      213: 6876586870372284246
+    second: Tileset_Tannery_Painting_Laundry_Rasak_11
+  - first:
+      213: 4864098580789918916
+    second: Tileset_Tannery_Painting_Laundry_Rasak_12
+  - first:
+      213: -2761777562468981518
+    second: Tileset_Tannery_Painting_Laundry_Rasak_13
+  - first:
+      213: 5670023049694959402
+    second: Tileset_Tannery_Painting_Laundry_Rasak_14
+  - first:
+      213: 4367242693796574617
+    second: Tileset_Tannery_Painting_Laundry_Rasak_15
+  - first:
+      213: -4407850812846878303
+    second: Tileset_Tannery_Painting_Laundry_Rasak_16
+  - first:
+      213: 2400458157757275082
+    second: Tileset_Tannery_Painting_Laundry_Rasak_17
+  - first:
+      213: -5502599149261252642
+    second: Tileset_Tannery_Painting_Laundry_Rasak_18
+  - first:
+      213: 3889473731232694260
+    second: Tileset_Tannery_Painting_Laundry_Rasak_19
+  - first:
+      213: 2822679801637831660
+    second: Tileset_Tannery_Painting_Laundry_Rasak_20
+  - first:
+      213: -5181180609457168868
+    second: Tileset_Tannery_Painting_Laundry_Rasak_21
+  - first:
+      213: -5441289636982521761
+    second: Tileset_Tannery_Painting_Laundry_Rasak_22
+  - first:
+      213: -7718148130094396889
+    second: Tileset_Tannery_Painting_Laundry_Rasak_23
+  - first:
+      213: -4636898067487622217
+    second: Tileset_Tannery_Painting_Laundry_Rasak_24
+  - first:
+      213: -6816595121285938812
+    second: Tileset_Tannery_Painting_Laundry_Rasak_25
+  - first:
+      213: -3117099197323141019
+    second: Tileset_Tannery_Painting_Laundry_Rasak_26
+  - first:
+      213: 4556670520184524784
+    second: Tileset_Tannery_Painting_Laundry_Rasak_27
+  - first:
+      213: -1866837482945743920
+    second: Tileset_Tannery_Painting_Laundry_Rasak_28
+  - first:
+      213: -3202035201518156859
+    second: Tileset_Tannery_Painting_Laundry_Rasak_29
+  - first:
+      213: -4196803000094783685
+    second: Tileset_Tannery_Painting_Laundry_Rasak_30
+  - first:
+      213: -3510089714895008270
+    second: Tileset_Tannery_Painting_Laundry_Rasak_31
+  - first:
+      213: 2597275631321467826
+    second: Tileset_Tannery_Painting_Laundry_Rasak_32
+  - first:
+      213: -237934552106023046
+    second: Tileset_Tannery_Painting_Laundry_Rasak_33
+  - first:
+      213: 8168912530075043024
+    second: Tileset_Tannery_Painting_Laundry_Rasak_34
+  - first:
+      213: 1087621399211604675
+    second: Tileset_Tannery_Painting_Laundry_Rasak_35
+  - first:
+      213: -1388515300703168491
+    second: Tileset_Tannery_Painting_Laundry_Rasak_36
+  - first:
+      213: -6550906544477956829
+    second: Tileset_Tannery_Painting_Laundry_Rasak_37
+  - first:
+      213: 437115191409056396
+    second: Tileset_Tannery_Painting_Laundry_Rasak_38
+  - first:
+      213: 2831944145747281397
+    second: Tileset_Tannery_Painting_Laundry_Rasak_39
+  - first:
+      213: -6301082758560559164
+    second: Tileset_Tannery_Painting_Laundry_Rasak_40
+  - first:
+      213: 119488989486903891
+    second: Tileset_Tannery_Painting_Laundry_Rasak_41
+  - first:
+      213: -4502209531982455715
+    second: Tileset_Tannery_Painting_Laundry_Rasak_42
+  - first:
+      213: 6403079281344256929
+    second: Tileset_Tannery_Painting_Laundry_Rasak_43
+  - first:
+      213: -8689223982593369565
+    second: Tileset_Tannery_Painting_Laundry_Rasak_44
+  - first:
+      213: -4115752733406258798
+    second: Tileset_Tannery_Painting_Laundry_Rasak_45
+  - first:
+      213: 7106178097186245548
+    second: Tileset_Tannery_Painting_Laundry_Rasak_46
+  - first:
+      213: 8803780985922458226
+    second: Tileset_Tannery_Painting_Laundry_Rasak_47
+  - first:
+      213: 8445362698587416873
+    second: Tileset_Tannery_Painting_Laundry_Rasak_48
+  - first:
+      213: 5371310864075801971
+    second: Tileset_Tannery_Painting_Laundry_Rasak_49
+  - first:
+      213: -3563201455552252637
+    second: Tileset_Tannery_Painting_Laundry_Rasak_50
+  - first:
+      213: -8390943845514510842
+    second: Tileset_Tannery_Painting_Laundry_Rasak_51
+  - first:
+      213: 6552124135939112063
+    second: Tileset_Tannery_Painting_Laundry_Rasak_52
+  - first:
+      213: 8834925070376048905
+    second: Tileset_Tannery_Painting_Laundry_Rasak_53
+  - first:
+      213: -5864933687660437035
+    second: Tileset_Tannery_Painting_Laundry_Rasak_54
+  - first:
+      213: -5690095859995671049
+    second: Tileset_Tannery_Painting_Laundry_Rasak_55
+  - first:
+      213: -3952221565129500800
+    second: Tileset_Tannery_Painting_Laundry_Rasak_56
+  - first:
+      213: 7459091921562458918
+    second: Tileset_Tannery_Painting_Laundry_Rasak_57
+  - first:
+      213: 5639867658955415429
+    second: Tileset_Tannery_Painting_Laundry_Rasak_58
+  - first:
+      213: 1680084815833726419
+    second: Tileset_Tannery_Painting_Laundry_Rasak_59
+  - first:
+      213: -2373718020204655635
+    second: Tileset_Tannery_Painting_Laundry_Rasak_60
+  - first:
+      213: 6283471538539171439
+    second: Tileset_Tannery_Painting_Laundry_Rasak_61
+  - first:
+      213: 9041451370124019587
+    second: Tileset_Tannery_Painting_Laundry_Rasak_62
+  - first:
+      213: 7583148756368994397
+    second: Tileset_Tannery_Painting_Laundry_Rasak_63
+  - first:
+      213: -6059168132261969093
+    second: Tileset_Tannery_Painting_Laundry_Rasak_64
+  - first:
+      213: 2492717402455445430
+    second: Tileset_Tannery_Painting_Laundry_Rasak_65
+  - first:
+      213: 1951934443993488425
+    second: Tileset_Tannery_Painting_Laundry_Rasak_66
+  - first:
+      213: 165592461299638420
+    second: Tileset_Tannery_Painting_Laundry_Rasak_67
+  - first:
+      213: -8962323248776218456
+    second: Tileset_Tannery_Painting_Laundry_Rasak_68
+  - first:
+      213: -1985381782616865287
+    second: Tileset_Tannery_Painting_Laundry_Rasak_69
+  - first:
+      213: -1017278424566368079
+    second: Tileset_Tannery_Painting_Laundry_Rasak_70
+  - first:
+      213: 229931287776258158
+    second: Tileset_Tannery_Painting_Laundry_Rasak_71
+  - first:
+      213: 1168362496273359574
+    second: Tileset_Tannery_Painting_Laundry_Rasak_72
+  - first:
+      213: 3795650027307807695
+    second: Tileset_Tannery_Painting_Laundry_Rasak_73
+  - first:
+      213: 5446971069059090100
+    second: Tileset_Tannery_Painting_Laundry_Rasak_74
+  - first:
+      213: -6949988215893898136
+    second: Tileset_Tannery_Painting_Laundry_Rasak_75
+  - first:
+      213: 5709722175822364996
+    second: Tileset_Tannery_Painting_Laundry_Rasak_76
+  - first:
+      213: 4234060753436795909
+    second: Tileset_Tannery_Painting_Laundry_Rasak_77
+  - first:
+      213: 6065171492369918101
+    second: Tileset_Tannery_Painting_Laundry_Rasak_78
+  - first:
+      213: -2613375809257033289
+    second: Tileset_Tannery_Painting_Laundry_Rasak_79
+  - first:
+      213: 8644298172994003845
+    second: Tileset_Tannery_Painting_Laundry_Rasak_80
+  - first:
+      213: 6152986973659542847
+    second: Tileset_Tannery_Painting_Laundry_Rasak_81
+  - first:
+      213: 4032584649435231076
+    second: Tileset_Tannery_Painting_Laundry_Rasak_82
+  - first:
+      213: 7429079420117979216
+    second: Tileset_Tannery_Painting_Laundry_Rasak_83
+  - first:
+      213: 9089507456789033520
+    second: Tileset_Tannery_Painting_Laundry_Rasak_84
+  - first:
+      213: -5875394888729199649
+    second: Tileset_Tannery_Painting_Laundry_Rasak_85
+  - first:
+      213: -8533267464015897529
+    second: Tileset_Tannery_Painting_Laundry_Rasak_86
+  - first:
+      213: -113239511239088575
+    second: Tileset_Tannery_Painting_Laundry_Rasak_87
+  - first:
+      213: -2087171156270661078
+    second: Tileset_Tannery_Painting_Laundry_Rasak_88
+  - first:
+      213: 1992170797557660932
+    second: Tileset_Tannery_Painting_Laundry_Rasak_89
+  - first:
+      213: -4667553374680664788
+    second: Tileset_Tannery_Painting_Laundry_Rasak_90
+  - first:
+      213: 4827958835433942456
+    second: Tileset_Tannery_Painting_Laundry_Rasak_91
+  - first:
+      213: -2335268637548193339
+    second: Tileset_Tannery_Painting_Laundry_Rasak_92
+  - first:
+      213: -8682627921578988681
+    second: Tileset_Tannery_Painting_Laundry_Rasak_93
+  - first:
+      213: -4518395974448982079
+    second: Tileset_Tannery_Painting_Laundry_Rasak_94
+  - first:
+      213: -454036364239874907
+    second: Tileset_Tannery_Painting_Laundry_Rasak_95
+  - first:
+      213: -7607261906932556113
+    second: Tileset_Tannery_Painting_Laundry_Rasak_96
+  - first:
+      213: -1809439734941393103
+    second: Tileset_Tannery_Painting_Laundry_Rasak_97
+  - first:
+      213: 5030375465246713679
+    second: Tileset_Tannery_Painting_Laundry_Rasak_98
+  - first:
+      213: 6794788802400709693
+    second: Tileset_Tannery_Painting_Laundry_Rasak_99
+  - first:
+      213: 4361871540299579388
+    second: Tileset_Tannery_Painting_Laundry_Rasak_100
+  - first:
+      213: -2901554039440063802
+    second: Tileset_Tannery_Painting_Laundry_Rasak_101
+  - first:
+      213: 4006395978181548648
+    second: Tileset_Tannery_Painting_Laundry_Rasak_102
+  - first:
+      213: -3793450376288665159
+    second: Tileset_Tannery_Painting_Laundry_Rasak_103
+  - first:
+      213: -8239454726355142015
+    second: Tileset_Tannery_Painting_Laundry_Rasak_104
+  - first:
+      213: -614329742868422463
+    second: Tileset_Tannery_Painting_Laundry_Rasak_105
+  - first:
+      213: 587426477846026443
+    second: Tileset_Tannery_Painting_Laundry_Rasak_106
+  - first:
+      213: -7085168585493375154
+    second: Tileset_Tannery_Painting_Laundry_Rasak_107
+  - first:
+      213: -2096317943739764910
+    second: Tileset_Tannery_Painting_Laundry_Rasak_108
+  - first:
+      213: 157460964541494388
+    second: Tileset_Tannery_Painting_Laundry_Rasak_109
+  - first:
+      213: -6602459875841886708
+    second: Tileset_Tannery_Painting_Laundry_Rasak_110
+  - first:
+      213: -7421102215980756641
+    second: Tileset_Tannery_Painting_Laundry_Rasak_111
+  - first:
+      213: 9210042505854102212
+    second: Tileset_Tannery_Painting_Laundry_Rasak_112
+  - first:
+      213: -918775196717533767
+    second: Tileset_Tannery_Painting_Laundry_Rasak_113
+  - first:
+      213: -3236188061973909314
+    second: Tileset_Tannery_Painting_Laundry_Rasak_114
+  - first:
+      213: -1322607076785419065
+    second: Tileset_Tannery_Painting_Laundry_Rasak_115
+  - first:
+      213: -6700091101735899010
+    second: Tileset_Tannery_Painting_Laundry_Rasak_116
+  - first:
+      213: 8097965493335585166
+    second: Tileset_Tannery_Painting_Laundry_Rasak_117
+  - first:
+      213: 1985497439002420432
+    second: Tileset_Tannery_Painting_Laundry_Rasak_118
+  - first:
+      213: 8280649894968622734
+    second: Tileset_Tannery_Painting_Laundry_Rasak_119
+  - first:
+      213: 280139541338944259
+    second: Tileset_Tannery_Painting_Laundry_Rasak_120
+  - first:
+      213: -3684554160697208397
+    second: Tileset_Tannery_Painting_Laundry_Rasak_121
+  - first:
+      213: -1726037677854002354
+    second: Tileset_Tannery_Painting_Laundry_Rasak_122
+  - first:
+      213: -7299798049927955681
+    second: Tileset_Tannery_Painting_Laundry_Rasak_123
+  - first:
+      213: -3888227540216974550
+    second: Tileset_Tannery_Painting_Laundry_Rasak_124
+  - first:
+      213: 3998665059546104467
+    second: Tileset_Tannery_Painting_Laundry_Rasak_125
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 733
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165070415e80a6b40800000000000000
+      internalID: 5434165680352462177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 719
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7a371edd560e730800000000000000
+      internalID: 4026330070513854434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 721
+        width: 84
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302689f0413772d50800000000000000
+      internalID: 6712460299617198595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 684
+        width: 11
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b706cd1a3a8986d0800000000000000
+      internalID: -2987704895571359824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 750
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6406249958c4ee190800000000000000
+      internalID: -7931317757067239354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 740
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed163ed0b24ba7f0800000000000000
+      internalID: -600312797914063377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 757
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f27ac0033d7af60800000000000000
+      internalID: 8045631462644854573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 721
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee41bce912638a30800000000000000
+      internalID: 4216321539633663726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 721
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0635e3a74249b36b0800000000000000
+      internalID: -5315492050790100128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 721
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc9df1b5a279d000800000000000000
+      internalID: 61206125927570624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 745
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35034d7fb86e522a0800000000000000
+      internalID: -6762745776594210733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 743
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657b7ab235b8e6f50800000000000000
+      internalID: 6876586870372284246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 743
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccf67c53efb08340800000000000000
+      internalID: 4864098580789918916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 726
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4646080f13ca9d0800000000000000
+      internalID: -2761777562468981518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 724
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2758513ce7ffae40800000000000000
+      internalID: 5670023049694959402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 728
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9953aa367109b9c30800000000000000
+      internalID: 4367242693796574617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 725
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1585d1a0b24d2c0800000000000000
+      internalID: -4407850812846878303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 730
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb9f4fe9f3205120800000000000000
+      internalID: 2400458157757275082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 723
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed79aee4a37d2a3b0800000000000000
+      internalID: -5502599149261252642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 636
+        width: 11
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff765150cf2af530800000000000000
+      internalID: 3889473731232694260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 636
+        width: 11
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce30b4b035c2c2720800000000000000
+      internalID: 2822679801637831660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 685
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ed920dfafb818b0800000000000000
+      internalID: -5181180609457168868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 671
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5084a387e7ac74b0800000000000000
+      internalID: -5441289636982521761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 673
+        width: 84
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ac0ed0b21a3e490800000000000000
+      internalID: -7718148130094396889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 702
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb74b366cd66afb0800000000000000
+      internalID: -4636898067487622217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 692
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48147126ad69661a0800000000000000
+      internalID: -6816595121285938812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 709
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56026ed8bc6ddb4d0800000000000000
+      internalID: -3117099197323141019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 649
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffc71222bb8c3f30800000000000000
+      internalID: 4556670520184524784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 649
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d372af3339a716e0800000000000000
+      internalID: -1866837482945743920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 673
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3c63703f51093d0800000000000000
+      internalID: -3202035201518156859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 697
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b378e0338e5f1c5c0800000000000000
+      internalID: -4196803000094783685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 695
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd4ee56008a94fc0800000000000000
+      internalID: -3510089714895008270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 695
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbc1bcfc606b0420800000000000000
+      internalID: 2597275631321467826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 678
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77cde519cfa2bcf0800000000000000
+      internalID: -237934552106023046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 687
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d44c545aaecd5170800000000000000
+      internalID: 8168912530075043024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 665
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cafe1e66e1081f00800000000000000
+      internalID: 1087621399211604675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 680
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5189460d0b00bbce0800000000000000
+      internalID: -1388515300703168491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 677
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3251c9bb4318615a0800000000000000
+      internalID: -6550906544477956829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 682
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a1ddd53f1f01600800000000000000
+      internalID: 437115191409056396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 637
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5830f32361d4720800000000000000
+      internalID: 2831944145747281397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 623
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfc8ab9d9e0e88a0800000000000000
+      internalID: -6301082758560559164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 625
+        width: 84
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352ffe45a9288a100800000000000000
+      internalID: 119488989486903891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 588
+        width: 11
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cdecdc840f481c0800000000000000
+      internalID: -4502209531982455715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 626
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab10317eae4cd850800000000000000
+      internalID: 6403079281344256929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 638
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a97b743dca96780800000000000000
+      internalID: -8689223982593369565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 628
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2991af5f1b8e1e6c0800000000000000
+      internalID: -4115752733406258798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 624
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab827944573e9260800000000000000
+      internalID: 7106178097186245548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 639
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2721f3a89205d2a70800000000000000
+      internalID: 8803780985922458226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 540
+        width: 11
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92923a001a4f33570800000000000000
+      internalID: 8445362698587416873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 537
+        width: 11
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3754f6fb5caba8a40800000000000000
+      internalID: 5371310864075801971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 589
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32537a2a727fc8ec0800000000000000
+      internalID: -3563201455552252637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 575
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e7bd597016d8b80800000000000000
+      internalID: -8390943845514510842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 577
+        width: 84
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cf9eedf22ddea50800000000000000
+      internalID: 6552124135939112063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 575
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90915f4ca85fb9a70800000000000000
+      internalID: 8834925070376048905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 577
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d127c382e19b9ea0800000000000000
+      internalID: -5864933687660437035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 597
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5890776f7b801b0800000000000000
+      internalID: -5690095859995671049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 586
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08751d02d63e629c0800000000000000
+      internalID: -3952221565129500800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 597
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b57bb2594048760800000000000000
+      internalID: 7459091921562458918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_58
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 586
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f504821c5d44e40800000000000000
+      internalID: 5639867658955415429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_59
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 578
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddfb401d3cd05710800000000000000
+      internalID: 1680084815833726419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_60
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 578
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb02c0890cde0fd0800000000000000
+      internalID: -2373718020204655635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_61
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 529
+        width: 84
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e87e2b210633750800000000000000
+      internalID: 6283471538539171439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_62
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 527
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38706321e10b97d70800000000000000
+      internalID: 9041451370124019587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_63
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 541
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50b15edd91cc3960800000000000000
+      internalID: 7583148756368994397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_64
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 492
+        width: 11
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b338822cfa289eba0800000000000000
+      internalID: -6059168132261969093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_65
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 534
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf8ac24549e79220800000000000000
+      internalID: 2492717402455445430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_66
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 530
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cd417f80aa61b10800000000000000
+      internalID: 1951934443993488425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_67
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 530
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4906f39577d4c4200800000000000000
+      internalID: 165592461299638420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_68
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 538
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8f77a5d7e6f9380800000000000000
+      internalID: -8962323248776218456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_69
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 529
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f50797a9c18274e0800000000000000
+      internalID: -1985381782616865287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_70
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 538
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b87d02a9a6e1e1f0800000000000000
+      internalID: -1017278424566368079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_71
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 529
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68e6aab941e03300800000000000000
+      internalID: 229931287776258158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_72
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 444
+        width: 11
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d22347008bd63010800000000000000
+      internalID: 1168362496273359574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_73
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 443
+        width: 11
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc33261f69bdca430800000000000000
+      internalID: 3795650027307807695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_74
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 481
+        width: 84
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6c819f357879b40800000000000000
+      internalID: 5446971069059090100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_75
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 479
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c4e7e4a8eac8f90800000000000000
+      internalID: -6949988215893898136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_76
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 493
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441001841120d3f40800000000000000
+      internalID: 5709722175822364996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_77
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 143
+        width: 382
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504e50e72d762ca30800000000000000
+      internalID: 4234060753436795909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_78
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 433
+        width: 84
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598e8807651db2450800000000000000
+      internalID: 6065171492369918101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_79
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 431
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1b2a83c8c6bbbd0800000000000000
+      internalID: -2613375809257033289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_80
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 445
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583addd8367b6f770800000000000000
+      internalID: 8644298172994003845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_81
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 396
+        width: 11
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3535987d0dc36550800000000000000
+      internalID: 6152986973659542847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_82
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 348
+        width: 11
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463b7448f5e96f730800000000000000
+      internalID: 4032584649435231076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_83
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 346
+        width: 11
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0501c442f54691760800000000000000
+      internalID: 7429079420117979216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_84
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 385
+        width: 84
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032bc29afda642e70800000000000000
+      internalID: 9089507456789033520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_85
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 383
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb76265a77667ea0800000000000000
+      internalID: -5875394888729199649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_86
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 397
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c1fe1e37eb39980800000000000000
+      internalID: -8533267464015897529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_87
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 252
+        width: 11
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1462e06b341bd6ef0800000000000000
+      internalID: -113239511239088575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_88
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 252
+        width: 11
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22cb0544e0e803e0800000000000000
+      internalID: -2087171156270661078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_89
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 308
+        width: 146
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40db45019cc95ab10800000000000000
+      internalID: 1992170797557660932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_90
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 288
+        width: 36
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25bbfb7fe4893fb0800000000000000
+      internalID: -4667553374680664788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_91
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 288
+        width: 36
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdaf303bfa500340800000000000000
+      internalID: 4827958835433942456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_92
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 288
+        width: 36
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c954d30c85779fd0800000000000000
+      internalID: -2335268637548193339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_93
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 288
+        width: 36
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b656968eb118780800000000000000
+      internalID: -8682627921578988681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_94
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 240
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7d96cfcce6b41c0800000000000000
+      internalID: -4518395974448982079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_95
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 205
+        width: 138
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a45f521550f2b9f0800000000000000
+      internalID: -454036364239874907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_96
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 239
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae9ce3c9939d6690800000000000000
+      internalID: -7607261906932556113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_97
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 239
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f575cd52493e6e0800000000000000
+      internalID: -1809439734941393103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_98
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 240
+        width: 70
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47eed465db7fc540800000000000000
+      internalID: 5030375465246713679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_99
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 204
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c65ea5a60fb4e50800000000000000
+      internalID: 6794788802400709693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_100
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 191
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff31734e0b788c30800000000000000
+      internalID: 4361871540299579388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_101
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 191
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2439669fb9bb7d0800000000000000
+      internalID: -2901554039440063802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_102
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 192
+        width: 70
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a90155ae3999730800000000000000
+      internalID: 4006395978181548648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 193
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b10e383bf4fa5bc0800000000000000
+      internalID: -3793450376288665159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_104
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 148
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a30b4b49397ad80800000000000000
+      internalID: -8239454726355142015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_105
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 144
+        width: 70
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0ee5d8a567977f0800000000000000
+      internalID: -614329742868422463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_106
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 99
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8dbafe445f62800800000000000000
+      internalID: 587426477846026443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_107
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 104
+        width: 74
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4719e7d5bc6cad90800000000000000
+      internalID: -7085168585493375154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_108
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 105
+        width: 80
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f2d1bdfe168e2e0800000000000000
+      internalID: -2096317943739764910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_109
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 96
+        width: 70
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4747c79b9e96f2200800000000000000
+      internalID: 157460964541494388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_110
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 47
+        width: 242
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06bca869b95f54a0800000000000000
+      internalID: -6602459875841886708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_111
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 108
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f515a9e6ad2f20990800000000000000
+      internalID: -7421102215980756641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_112
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 106
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caaea7bcd4a0df70800000000000000
+      internalID: 9210042505854102212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_113
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 106
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5363393dadf33f0800000000000000
+      internalID: -918775196717533767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_114
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb07fab8a10c613d0800000000000000
+      internalID: -3236188061973909314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_115
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc89c20fd725ade0800000000000000
+      internalID: -1322607076785419065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_116
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70b64e34ae7403a0800000000000000
+      internalID: -6700091101735899010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_117
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8173a916b0c16070800000000000000
+      internalID: 8097965493335585166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_118
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 60
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4ef22b667ed8b10800000000000000
+      internalID: 1985497439002420432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_119
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 47
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8efafae437cae270800000000000000
+      internalID: 8280649894968622734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_120
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 47
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3037c09bd6143e300800000000000000
+      internalID: 280139541338944259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_121
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 17
+        width: 194
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b194ff2385dddcc0800000000000000
+      internalID: -3684554160697208397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_122
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 13
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43729e70e1eb08e0800000000000000
+      internalID: -1726037677854002354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_123
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 0
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b74fd7958e1ba90800000000000000
+      internalID: -7299798049927955681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_124
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 0
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23f97327ad3a0ac0800000000000000
+      internalID: -3888227540216974550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tannery_Painting_Laundry_Rasak_125
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 0
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39203029fac1e7730800000000000000
+      internalID: 3998665059546104467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Tannery_Painting_Laundry_Rasak_0: 5434165680352462177
+      Tileset_Tannery_Painting_Laundry_Rasak_1: 4026330070513854434
+      Tileset_Tannery_Painting_Laundry_Rasak_10: -6762745776594210733
+      Tileset_Tannery_Painting_Laundry_Rasak_100: 4361871540299579388
+      Tileset_Tannery_Painting_Laundry_Rasak_101: -2901554039440063802
+      Tileset_Tannery_Painting_Laundry_Rasak_102: 4006395978181548648
+      Tileset_Tannery_Painting_Laundry_Rasak_103: -3793450376288665159
+      Tileset_Tannery_Painting_Laundry_Rasak_104: -8239454726355142015
+      Tileset_Tannery_Painting_Laundry_Rasak_105: -614329742868422463
+      Tileset_Tannery_Painting_Laundry_Rasak_106: 587426477846026443
+      Tileset_Tannery_Painting_Laundry_Rasak_107: -7085168585493375154
+      Tileset_Tannery_Painting_Laundry_Rasak_108: -2096317943739764910
+      Tileset_Tannery_Painting_Laundry_Rasak_109: 157460964541494388
+      Tileset_Tannery_Painting_Laundry_Rasak_11: 6876586870372284246
+      Tileset_Tannery_Painting_Laundry_Rasak_110: -6602459875841886708
+      Tileset_Tannery_Painting_Laundry_Rasak_111: -7421102215980756641
+      Tileset_Tannery_Painting_Laundry_Rasak_112: 9210042505854102212
+      Tileset_Tannery_Painting_Laundry_Rasak_113: -918775196717533767
+      Tileset_Tannery_Painting_Laundry_Rasak_114: -3236188061973909314
+      Tileset_Tannery_Painting_Laundry_Rasak_115: -1322607076785419065
+      Tileset_Tannery_Painting_Laundry_Rasak_116: -6700091101735899010
+      Tileset_Tannery_Painting_Laundry_Rasak_117: 8097965493335585166
+      Tileset_Tannery_Painting_Laundry_Rasak_118: 1985497439002420432
+      Tileset_Tannery_Painting_Laundry_Rasak_119: 8280649894968622734
+      Tileset_Tannery_Painting_Laundry_Rasak_12: 4864098580789918916
+      Tileset_Tannery_Painting_Laundry_Rasak_120: 280139541338944259
+      Tileset_Tannery_Painting_Laundry_Rasak_121: -3684554160697208397
+      Tileset_Tannery_Painting_Laundry_Rasak_122: -1726037677854002354
+      Tileset_Tannery_Painting_Laundry_Rasak_123: -7299798049927955681
+      Tileset_Tannery_Painting_Laundry_Rasak_124: -3888227540216974550
+      Tileset_Tannery_Painting_Laundry_Rasak_125: 3998665059546104467
+      Tileset_Tannery_Painting_Laundry_Rasak_13: -2761777562468981518
+      Tileset_Tannery_Painting_Laundry_Rasak_14: 5670023049694959402
+      Tileset_Tannery_Painting_Laundry_Rasak_15: 4367242693796574617
+      Tileset_Tannery_Painting_Laundry_Rasak_16: -4407850812846878303
+      Tileset_Tannery_Painting_Laundry_Rasak_17: 2400458157757275082
+      Tileset_Tannery_Painting_Laundry_Rasak_18: -5502599149261252642
+      Tileset_Tannery_Painting_Laundry_Rasak_19: 3889473731232694260
+      Tileset_Tannery_Painting_Laundry_Rasak_2: 6712460299617198595
+      Tileset_Tannery_Painting_Laundry_Rasak_20: 2822679801637831660
+      Tileset_Tannery_Painting_Laundry_Rasak_21: -5181180609457168868
+      Tileset_Tannery_Painting_Laundry_Rasak_22: -5441289636982521761
+      Tileset_Tannery_Painting_Laundry_Rasak_23: -7718148130094396889
+      Tileset_Tannery_Painting_Laundry_Rasak_24: -4636898067487622217
+      Tileset_Tannery_Painting_Laundry_Rasak_25: -6816595121285938812
+      Tileset_Tannery_Painting_Laundry_Rasak_26: -3117099197323141019
+      Tileset_Tannery_Painting_Laundry_Rasak_27: 4556670520184524784
+      Tileset_Tannery_Painting_Laundry_Rasak_28: -1866837482945743920
+      Tileset_Tannery_Painting_Laundry_Rasak_29: -3202035201518156859
+      Tileset_Tannery_Painting_Laundry_Rasak_3: -2987704895571359824
+      Tileset_Tannery_Painting_Laundry_Rasak_30: -4196803000094783685
+      Tileset_Tannery_Painting_Laundry_Rasak_31: -3510089714895008270
+      Tileset_Tannery_Painting_Laundry_Rasak_32: 2597275631321467826
+      Tileset_Tannery_Painting_Laundry_Rasak_33: -237934552106023046
+      Tileset_Tannery_Painting_Laundry_Rasak_34: 8168912530075043024
+      Tileset_Tannery_Painting_Laundry_Rasak_35: 1087621399211604675
+      Tileset_Tannery_Painting_Laundry_Rasak_36: -1388515300703168491
+      Tileset_Tannery_Painting_Laundry_Rasak_37: -6550906544477956829
+      Tileset_Tannery_Painting_Laundry_Rasak_38: 437115191409056396
+      Tileset_Tannery_Painting_Laundry_Rasak_39: 2831944145747281397
+      Tileset_Tannery_Painting_Laundry_Rasak_4: -7931317757067239354
+      Tileset_Tannery_Painting_Laundry_Rasak_40: -6301082758560559164
+      Tileset_Tannery_Painting_Laundry_Rasak_41: 119488989486903891
+      Tileset_Tannery_Painting_Laundry_Rasak_42: -4502209531982455715
+      Tileset_Tannery_Painting_Laundry_Rasak_43: 6403079281344256929
+      Tileset_Tannery_Painting_Laundry_Rasak_44: -8689223982593369565
+      Tileset_Tannery_Painting_Laundry_Rasak_45: -4115752733406258798
+      Tileset_Tannery_Painting_Laundry_Rasak_46: 7106178097186245548
+      Tileset_Tannery_Painting_Laundry_Rasak_47: 8803780985922458226
+      Tileset_Tannery_Painting_Laundry_Rasak_48: 8445362698587416873
+      Tileset_Tannery_Painting_Laundry_Rasak_49: 5371310864075801971
+      Tileset_Tannery_Painting_Laundry_Rasak_5: -600312797914063377
+      Tileset_Tannery_Painting_Laundry_Rasak_50: -3563201455552252637
+      Tileset_Tannery_Painting_Laundry_Rasak_51: -8390943845514510842
+      Tileset_Tannery_Painting_Laundry_Rasak_52: 6552124135939112063
+      Tileset_Tannery_Painting_Laundry_Rasak_53: 8834925070376048905
+      Tileset_Tannery_Painting_Laundry_Rasak_54: -5864933687660437035
+      Tileset_Tannery_Painting_Laundry_Rasak_55: -5690095859995671049
+      Tileset_Tannery_Painting_Laundry_Rasak_56: -3952221565129500800
+      Tileset_Tannery_Painting_Laundry_Rasak_57: 7459091921562458918
+      Tileset_Tannery_Painting_Laundry_Rasak_58: 5639867658955415429
+      Tileset_Tannery_Painting_Laundry_Rasak_59: 1680084815833726419
+      Tileset_Tannery_Painting_Laundry_Rasak_6: 8045631462644854573
+      Tileset_Tannery_Painting_Laundry_Rasak_60: -2373718020204655635
+      Tileset_Tannery_Painting_Laundry_Rasak_61: 6283471538539171439
+      Tileset_Tannery_Painting_Laundry_Rasak_62: 9041451370124019587
+      Tileset_Tannery_Painting_Laundry_Rasak_63: 7583148756368994397
+      Tileset_Tannery_Painting_Laundry_Rasak_64: -6059168132261969093
+      Tileset_Tannery_Painting_Laundry_Rasak_65: 2492717402455445430
+      Tileset_Tannery_Painting_Laundry_Rasak_66: 1951934443993488425
+      Tileset_Tannery_Painting_Laundry_Rasak_67: 165592461299638420
+      Tileset_Tannery_Painting_Laundry_Rasak_68: -8962323248776218456
+      Tileset_Tannery_Painting_Laundry_Rasak_69: -1985381782616865287
+      Tileset_Tannery_Painting_Laundry_Rasak_7: 4216321539633663726
+      Tileset_Tannery_Painting_Laundry_Rasak_70: -1017278424566368079
+      Tileset_Tannery_Painting_Laundry_Rasak_71: 229931287776258158
+      Tileset_Tannery_Painting_Laundry_Rasak_72: 1168362496273359574
+      Tileset_Tannery_Painting_Laundry_Rasak_73: 3795650027307807695
+      Tileset_Tannery_Painting_Laundry_Rasak_74: 5446971069059090100
+      Tileset_Tannery_Painting_Laundry_Rasak_75: -6949988215893898136
+      Tileset_Tannery_Painting_Laundry_Rasak_76: 5709722175822364996
+      Tileset_Tannery_Painting_Laundry_Rasak_77: 4234060753436795909
+      Tileset_Tannery_Painting_Laundry_Rasak_78: 6065171492369918101
+      Tileset_Tannery_Painting_Laundry_Rasak_79: -2613375809257033289
+      Tileset_Tannery_Painting_Laundry_Rasak_8: -5315492050790100128
+      Tileset_Tannery_Painting_Laundry_Rasak_80: 8644298172994003845
+      Tileset_Tannery_Painting_Laundry_Rasak_81: 6152986973659542847
+      Tileset_Tannery_Painting_Laundry_Rasak_82: 4032584649435231076
+      Tileset_Tannery_Painting_Laundry_Rasak_83: 7429079420117979216
+      Tileset_Tannery_Painting_Laundry_Rasak_84: 9089507456789033520
+      Tileset_Tannery_Painting_Laundry_Rasak_85: -5875394888729199649
+      Tileset_Tannery_Painting_Laundry_Rasak_86: -8533267464015897529
+      Tileset_Tannery_Painting_Laundry_Rasak_87: -113239511239088575
+      Tileset_Tannery_Painting_Laundry_Rasak_88: -2087171156270661078
+      Tileset_Tannery_Painting_Laundry_Rasak_89: 1992170797557660932
+      Tileset_Tannery_Painting_Laundry_Rasak_9: 61206125927570624
+      Tileset_Tannery_Painting_Laundry_Rasak_90: -4667553374680664788
+      Tileset_Tannery_Painting_Laundry_Rasak_91: 4827958835433942456
+      Tileset_Tannery_Painting_Laundry_Rasak_92: -2335268637548193339
+      Tileset_Tannery_Painting_Laundry_Rasak_93: -8682627921578988681
+      Tileset_Tannery_Painting_Laundry_Rasak_94: -4518395974448982079
+      Tileset_Tannery_Painting_Laundry_Rasak_95: -454036364239874907
+      Tileset_Tannery_Painting_Laundry_Rasak_96: -7607261906932556113
+      Tileset_Tannery_Painting_Laundry_Rasak_97: -1809439734941393103
+      Tileset_Tannery_Painting_Laundry_Rasak_98: 5030375465246713679
+      Tileset_Tannery_Painting_Laundry_Rasak_99: 6794788802400709693
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

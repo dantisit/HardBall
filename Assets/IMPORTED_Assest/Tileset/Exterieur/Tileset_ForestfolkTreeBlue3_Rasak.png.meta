@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 951c0b3fa7d906643aaf6ba240e21928
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6663341574329181193
+    second: Tileset_ForestfolkTreeBlue3_Rasak_0
+  - first:
+      213: -4771239151454927632
+    second: Tileset_ForestfolkTreeBlue3_Rasak_1
+  - first:
+      213: -9110835556782431544
+    second: Tileset_ForestfolkTreeBlue3_Rasak_2
+  - first:
+      213: -67248184483138048
+    second: Tileset_ForestfolkTreeBlue3_Rasak_3
+  - first:
+      213: 3346666457877521383
+    second: Tileset_ForestfolkTreeBlue3_Rasak_4
+  - first:
+      213: 4622322712375550137
+    second: Tileset_ForestfolkTreeBlue3_Rasak_5
+  - first:
+      213: 8026928289848208252
+    second: Tileset_ForestfolkTreeBlue3_Rasak_6
+  - first:
+      213: -3279228077338966690
+    second: Tileset_ForestfolkTreeBlue3_Rasak_7
+  - first:
+      213: 1880178368891991906
+    second: Tileset_ForestfolkTreeBlue3_Rasak_8
+  - first:
+      213: -5674054735244395707
+    second: Tileset_ForestfolkTreeBlue3_Rasak_9
+  - first:
+      213: -49135684061465500
+    second: Tileset_ForestfolkTreeBlue3_Rasak_10
+  - first:
+      213: -4846178720635991428
+    second: Tileset_ForestfolkTreeBlue3_Rasak_11
+  - first:
+      213: 3996017609252392334
+    second: Tileset_ForestfolkTreeBlue3_Rasak_12
+  - first:
+      213: 6626176710682015272
+    second: Tileset_ForestfolkTreeBlue3_Rasak_13
+  - first:
+      213: 5446659248552994078
+    second: Tileset_ForestfolkTreeBlue3_Rasak_14
+  - first:
+      213: -4806476369375709147
+    second: Tileset_ForestfolkTreeBlue3_Rasak_15
+  - first:
+      213: -8435295097785674322
+    second: Tileset_ForestfolkTreeBlue3_Rasak_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeBlue3_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 527
+        width: 272
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb540d542e0783a0800000000000000
+      internalID: -6663341574329181193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeBlue3_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 623
+        width: 385
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4c717554729cdb0800000000000000
+      internalID: -4771239151454927632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeBlue3_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 419
+        width: 249
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c22cf6155fcf8180800000000000000
+      internalID: -9110835556782431544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeBlue3_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 483
+        width: 242
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006b71ce126111ff0800000000000000
+      internalID: -67248184483138048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeBlue3_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 431
+        width: 144
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3218b796fb17e20800000000000000
+      internalID: 3346666457877521383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeBlue3_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 384
+        width: 146
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b06d5c440ac52040800000000000000
+      internalID: 4622322712375550137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeBlue3_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 389
+        width: 119
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bafe940c0656f60800000000000000
+      internalID: 8026928289848208252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeBlue3_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 335
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5549b01077dd72d0800000000000000
+      internalID: -3279228077338966690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeBlue3_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 143
+        width: 270
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2673e20d34cb71a10800000000000000
+      internalID: 1880178368891991906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeBlue3_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 335
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b72add745b141b0800000000000000
+      internalID: -5674054735244395707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeBlue3_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 242
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46478bd0b5f615ff0800000000000000
+      internalID: -49135684061465500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeBlue3_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 155
+        width: 143
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a4f66312aeebcb0800000000000000
+      internalID: -4846178720635991428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeBlue3_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 86
+        width: 144
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dc1b308d4b47730800000000000000
+      internalID: 3996017609252392334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeBlue3_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 87
+        width: 146
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826fa238c98e4fb50800000000000000
+      internalID: 6626176710682015272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeBlue3_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 155
+        width: 49
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15e89a9abb669b40800000000000000
+      internalID: 5446659248552994078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeBlue3_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 33
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5283d063537fb4db0800000000000000
+      internalID: -4806476369375709147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeBlue3_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 50
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea514e8fccfcfea80800000000000000
+      internalID: -8435295097785674322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_ForestfolkTreeBlue3_Rasak_0: -6663341574329181193
+      Tileset_ForestfolkTreeBlue3_Rasak_1: -4771239151454927632
+      Tileset_ForestfolkTreeBlue3_Rasak_10: -49135684061465500
+      Tileset_ForestfolkTreeBlue3_Rasak_11: -4846178720635991428
+      Tileset_ForestfolkTreeBlue3_Rasak_12: 3996017609252392334
+      Tileset_ForestfolkTreeBlue3_Rasak_13: 6626176710682015272
+      Tileset_ForestfolkTreeBlue3_Rasak_14: 5446659248552994078
+      Tileset_ForestfolkTreeBlue3_Rasak_15: -4806476369375709147
+      Tileset_ForestfolkTreeBlue3_Rasak_16: -8435295097785674322
+      Tileset_ForestfolkTreeBlue3_Rasak_2: -9110835556782431544
+      Tileset_ForestfolkTreeBlue3_Rasak_3: -67248184483138048
+      Tileset_ForestfolkTreeBlue3_Rasak_4: 3346666457877521383
+      Tileset_ForestfolkTreeBlue3_Rasak_5: 4622322712375550137
+      Tileset_ForestfolkTreeBlue3_Rasak_6: 8026928289848208252
+      Tileset_ForestfolkTreeBlue3_Rasak_7: -3279228077338966690
+      Tileset_ForestfolkTreeBlue3_Rasak_8: 1880178368891991906
+      Tileset_ForestfolkTreeBlue3_Rasak_9: -5674054735244395707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

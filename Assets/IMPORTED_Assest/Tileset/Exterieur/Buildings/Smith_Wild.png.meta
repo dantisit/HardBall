@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 55e60c476f1818949964559706eb432b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6051149093194953814
+    second: Smith_Wild_0
+  - first:
+      213: -2062966875977943543
+    second: Smith_Wild_1
+  - first:
+      213: 5633151767501938284
+    second: Smith_Wild_2
+  - first:
+      213: 3832077362930027224
+    second: Smith_Wild_3
+  - first:
+      213: -3084355158109809353
+    second: Smith_Wild_4
+  - first:
+      213: 375881345946587014
+    second: Smith_Wild_5
+  - first:
+      213: 4948140793432922303
+    second: Smith_Wild_6
+  - first:
+      213: -4666029341508314238
+    second: Smith_Wild_7
+  - first:
+      213: 2710831596978719865
+    second: Smith_Wild_8
+  - first:
+      213: 823833743656889205
+    second: Smith_Wild_9
+  - first:
+      213: 3010761636365014303
+    second: Smith_Wild_10
+  - first:
+      213: 9096575491671924402
+    second: Smith_Wild_11
+  - first:
+      213: -5741848928471274153
+    second: Smith_Wild_12
+  - first:
+      213: 5049759391856653761
+    second: Smith_Wild_13
+  - first:
+      213: -3888335920320079724
+    second: Smith_Wild_14
+  - first:
+      213: 2439624642141430838
+    second: Smith_Wild_15
+  - first:
+      213: -597154928835487904
+    second: Smith_Wild_16
+  - first:
+      213: -4757801485518489684
+    second: Smith_Wild_17
+  - first:
+      213: -310292553924686801
+    second: Smith_Wild_18
+  - first:
+      213: -481232045100180990
+    second: Smith_Wild_19
+  - first:
+      213: -7216812511853252467
+    second: Smith_Wild_20
+  - first:
+      213: 6779897228878945151
+    second: Smith_Wild_21
+  - first:
+      213: -6718318905492705075
+    second: Smith_Wild_22
+  - first:
+      213: -8925818161398973740
+    second: Smith_Wild_23
+  - first:
+      213: -9206616394420213644
+    second: Smith_Wild_24
+  - first:
+      213: -4147156049829419078
+    second: Smith_Wild_25
+  - first:
+      213: -2410441271026214207
+    second: Smith_Wild_26
+  - first:
+      213: 4580990751590709585
+    second: Smith_Wild_27
+  - first:
+      213: 1205224249550774318
+    second: Smith_Wild_28
+  - first:
+      213: -4207362650669167912
+    second: Smith_Wild_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Smith_Wild_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 192
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab0039c5fff50ca0800000000000000
+      internalID: -6051149093194953814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 240
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906ffed6e8ede53e0800000000000000
+      internalID: -2062966875977943543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 236
+        width: 32
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e11d3dfa9fc2e40800000000000000
+      internalID: 5633151767501938284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 182
+        width: 77
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da8241fe064e2530800000000000000
+      internalID: 3832077362930027224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 38
+        width: 111
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73598b7435b2235d0800000000000000
+      internalID: -3084355158109809353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 146
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f87d6b716673500800000000000000
+      internalID: 375881345946587014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 110
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb85033d5d35ba440800000000000000
+      internalID: 4948140793432922303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 104
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bd8db190fee3fb0800000000000000
+      internalID: -4666029341508314238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 109
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c42df89fece9520800000000000000
+      internalID: 2710831596978719865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_9
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 100
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b26accc68de6b00800000000000000
+      internalID: 823833743656889205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 90
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1519eea1cf58c920800000000000000
+      internalID: 3010761636365014303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 82
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be11a5c6378d3e70800000000000000
+      internalID: 9096575491671924402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 76
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d238832dad050b0800000000000000
+      internalID: -5741848928471274153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 70
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5fec08969541640800000000000000
+      internalID: 5049759391856653761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 75
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4981eede41bd90ac0800000000000000
+      internalID: -3888335920320079724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_15
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 66
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6342124bfa94bd120800000000000000
+      internalID: 2439624642141430838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 56
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06713ee81ca76b7f0800000000000000
+      internalID: -597154928835487904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 48
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca738dfb1c4e8fdb0800000000000000
+      internalID: -4757801485518489684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 56
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cced2f09e91bbf0800000000000000
+      internalID: -310292553924686801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_19
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 42
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ad44131025259f0800000000000000
+      internalID: -481232045100180990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_20
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 36
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80746cb14bb8db90800000000000000
+      internalID: -7216812511853252467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_21
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 46
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b1cf4bb98071e50800000000000000
+      internalID: 6779897228878945151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_22
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 33
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0f056fc8cb3c2a0800000000000000
+      internalID: -6718318905492705075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 37
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da75185caf112480800000000000000
+      internalID: -8925818161398973740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_24
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478ab430b278b3080800000000000000
+      internalID: -9206616394420213644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 23
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab72ec59b875276c0800000000000000
+      internalID: -4147156049829419078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_26
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 15
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca9a806f646c8ed0800000000000000
+      internalID: -2410441271026214207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_27
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 23
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159f9e341d2f29f30800000000000000
+      internalID: 4580990751590709585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 17
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e202925c111d9b010800000000000000
+      internalID: 1205224249550774318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smith_Wild_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 13
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da4e95f5f17c95c0800000000000000
+      internalID: -4207362650669167912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Smith_Wild_0: -6051149093194953814
+      Smith_Wild_1: -2062966875977943543
+      Smith_Wild_10: 3010761636365014303
+      Smith_Wild_11: 9096575491671924402
+      Smith_Wild_12: -5741848928471274153
+      Smith_Wild_13: 5049759391856653761
+      Smith_Wild_14: -3888335920320079724
+      Smith_Wild_15: 2439624642141430838
+      Smith_Wild_16: -597154928835487904
+      Smith_Wild_17: -4757801485518489684
+      Smith_Wild_18: -310292553924686801
+      Smith_Wild_19: -481232045100180990
+      Smith_Wild_2: 5633151767501938284
+      Smith_Wild_20: -7216812511853252467
+      Smith_Wild_21: 6779897228878945151
+      Smith_Wild_22: -6718318905492705075
+      Smith_Wild_23: -8925818161398973740
+      Smith_Wild_24: -9206616394420213644
+      Smith_Wild_25: -4147156049829419078
+      Smith_Wild_26: -2410441271026214207
+      Smith_Wild_27: 4580990751590709585
+      Smith_Wild_28: 1205224249550774318
+      Smith_Wild_29: -4207362650669167912
+      Smith_Wild_3: 3832077362930027224
+      Smith_Wild_4: -3084355158109809353
+      Smith_Wild_5: 375881345946587014
+      Smith_Wild_6: 4948140793432922303
+      Smith_Wild_7: -4666029341508314238
+      Smith_Wild_8: 2710831596978719865
+      Smith_Wild_9: 823833743656889205
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

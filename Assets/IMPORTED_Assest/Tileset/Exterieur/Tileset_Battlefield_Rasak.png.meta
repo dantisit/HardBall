@@ -1,0 +1,3029 @@
+fileFormatVersion: 2
+guid: e53815466da5ae84688371849ffaa3e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6727891941930634138
+    second: Tileset_Battlefield_Rasak_0
+  - first:
+      213: 2694627114092162594
+    second: Tileset_Battlefield_Rasak_1
+  - first:
+      213: 8155125219703349656
+    second: Tileset_Battlefield_Rasak_2
+  - first:
+      213: 5372642731576850209
+    second: Tileset_Battlefield_Rasak_3
+  - first:
+      213: -5665232441188188164
+    second: Tileset_Battlefield_Rasak_4
+  - first:
+      213: -3354581575096441444
+    second: Tileset_Battlefield_Rasak_5
+  - first:
+      213: -6028312316424557147
+    second: Tileset_Battlefield_Rasak_6
+  - first:
+      213: -5982462441339938600
+    second: Tileset_Battlefield_Rasak_7
+  - first:
+      213: -8498084397878165055
+    second: Tileset_Battlefield_Rasak_8
+  - first:
+      213: 3398748712060854691
+    second: Tileset_Battlefield_Rasak_9
+  - first:
+      213: 7084873701107213010
+    second: Tileset_Battlefield_Rasak_10
+  - first:
+      213: -8216479989993261303
+    second: Tileset_Battlefield_Rasak_11
+  - first:
+      213: -7038062725952921830
+    second: Tileset_Battlefield_Rasak_12
+  - first:
+      213: 7151347220781661797
+    second: Tileset_Battlefield_Rasak_13
+  - first:
+      213: 1253626618388176645
+    second: Tileset_Battlefield_Rasak_14
+  - first:
+      213: -4200608916359931034
+    second: Tileset_Battlefield_Rasak_15
+  - first:
+      213: 7772096346692911270
+    second: Tileset_Battlefield_Rasak_16
+  - first:
+      213: -2579198081883297198
+    second: Tileset_Battlefield_Rasak_17
+  - first:
+      213: -6906300618116589497
+    second: Tileset_Battlefield_Rasak_18
+  - first:
+      213: -1603065320266345033
+    second: Tileset_Battlefield_Rasak_19
+  - first:
+      213: 299864662445918624
+    second: Tileset_Battlefield_Rasak_20
+  - first:
+      213: -7068523419308023977
+    second: Tileset_Battlefield_Rasak_21
+  - first:
+      213: 1300495578795407855
+    second: Tileset_Battlefield_Rasak_22
+  - first:
+      213: -2224213630175983624
+    second: Tileset_Battlefield_Rasak_23
+  - first:
+      213: -1175263652104568450
+    second: Tileset_Battlefield_Rasak_24
+  - first:
+      213: -8525921507596337971
+    second: Tileset_Battlefield_Rasak_25
+  - first:
+      213: 1213288544553610597
+    second: Tileset_Battlefield_Rasak_26
+  - first:
+      213: 5909398926793122011
+    second: Tileset_Battlefield_Rasak_27
+  - first:
+      213: 421677135629240930
+    second: Tileset_Battlefield_Rasak_28
+  - first:
+      213: -7454370272517193292
+    second: Tileset_Battlefield_Rasak_29
+  - first:
+      213: -3591379643013740982
+    second: Tileset_Battlefield_Rasak_30
+  - first:
+      213: -1786031079954572026
+    second: Tileset_Battlefield_Rasak_31
+  - first:
+      213: 2678917912400565798
+    second: Tileset_Battlefield_Rasak_32
+  - first:
+      213: 8445184640460879156
+    second: Tileset_Battlefield_Rasak_33
+  - first:
+      213: -8650203037886318934
+    second: Tileset_Battlefield_Rasak_34
+  - first:
+      213: -6917776396432347311
+    second: Tileset_Battlefield_Rasak_35
+  - first:
+      213: -3786713495898962962
+    second: Tileset_Battlefield_Rasak_36
+  - first:
+      213: 6684325491601716402
+    second: Tileset_Battlefield_Rasak_37
+  - first:
+      213: -5564006462120781256
+    second: Tileset_Battlefield_Rasak_38
+  - first:
+      213: 6630790123553356883
+    second: Tileset_Battlefield_Rasak_39
+  - first:
+      213: 5595879886425705470
+    second: Tileset_Battlefield_Rasak_40
+  - first:
+      213: 1908069295881408795
+    second: Tileset_Battlefield_Rasak_41
+  - first:
+      213: -405294077374463659
+    second: Tileset_Battlefield_Rasak_42
+  - first:
+      213: -7780020568519944879
+    second: Tileset_Battlefield_Rasak_43
+  - first:
+      213: 6076773401502634755
+    second: Tileset_Battlefield_Rasak_44
+  - first:
+      213: -5040390785266828223
+    second: Tileset_Battlefield_Rasak_45
+  - first:
+      213: -6287181048843246927
+    second: Tileset_Battlefield_Rasak_46
+  - first:
+      213: 2627077817085574934
+    second: Tileset_Battlefield_Rasak_47
+  - first:
+      213: -140971290527578867
+    second: Tileset_Battlefield_Rasak_48
+  - first:
+      213: -7558434369702337431
+    second: Tileset_Battlefield_Rasak_49
+  - first:
+      213: -8664900275747210132
+    second: Tileset_Battlefield_Rasak_50
+  - first:
+      213: -5442341200938498577
+    second: Tileset_Battlefield_Rasak_51
+  - first:
+      213: -5895344396429680676
+    second: Tileset_Battlefield_Rasak_52
+  - first:
+      213: -3669446722597413162
+    second: Tileset_Battlefield_Rasak_53
+  - first:
+      213: -4390570635098871100
+    second: Tileset_Battlefield_Rasak_54
+  - first:
+      213: 8264375586338461284
+    second: Tileset_Battlefield_Rasak_55
+  - first:
+      213: 4223466450935834899
+    second: Tileset_Battlefield_Rasak_56
+  - first:
+      213: 422395592580616718
+    second: Tileset_Battlefield_Rasak_57
+  - first:
+      213: 4398745171618350198
+    second: Tileset_Battlefield_Rasak_58
+  - first:
+      213: -5614210811229537054
+    second: Tileset_Battlefield_Rasak_59
+  - first:
+      213: 2672577034485964385
+    second: Tileset_Battlefield_Rasak_60
+  - first:
+      213: -5215092132949996716
+    second: Tileset_Battlefield_Rasak_61
+  - first:
+      213: 6865224167577911325
+    second: Tileset_Battlefield_Rasak_62
+  - first:
+      213: 4005304384698656635
+    second: Tileset_Battlefield_Rasak_63
+  - first:
+      213: 3177162814249282027
+    second: Tileset_Battlefield_Rasak_64
+  - first:
+      213: -3344165078591451591
+    second: Tileset_Battlefield_Rasak_65
+  - first:
+      213: 3475847908149579063
+    second: Tileset_Battlefield_Rasak_66
+  - first:
+      213: -5008106344658753088
+    second: Tileset_Battlefield_Rasak_67
+  - first:
+      213: 8018862621612138356
+    second: Tileset_Battlefield_Rasak_68
+  - first:
+      213: -8759625913854749381
+    second: Tileset_Battlefield_Rasak_69
+  - first:
+      213: -7885181438343958346
+    second: Tileset_Battlefield_Rasak_70
+  - first:
+      213: 3640742673714507279
+    second: Tileset_Battlefield_Rasak_71
+  - first:
+      213: -4761024597630254494
+    second: Tileset_Battlefield_Rasak_72
+  - first:
+      213: 8844938376999508628
+    second: Tileset_Battlefield_Rasak_73
+  - first:
+      213: 2832198065189779690
+    second: Tileset_Battlefield_Rasak_74
+  - first:
+      213: 2456160312692816651
+    second: Tileset_Battlefield_Rasak_75
+  - first:
+      213: 9039501646708462603
+    second: Tileset_Battlefield_Rasak_76
+  - first:
+      213: -2607856271877071118
+    second: Tileset_Battlefield_Rasak_77
+  - first:
+      213: 5382782966143100255
+    second: Tileset_Battlefield_Rasak_78
+  - first:
+      213: 5303973608465041142
+    second: Tileset_Battlefield_Rasak_79
+  - first:
+      213: 5997182069409281019
+    second: Tileset_Battlefield_Rasak_80
+  - first:
+      213: 810525034178737828
+    second: Tileset_Battlefield_Rasak_81
+  - first:
+      213: -3812679885863445627
+    second: Tileset_Battlefield_Rasak_82
+  - first:
+      213: -2448713044726790143
+    second: Tileset_Battlefield_Rasak_83
+  - first:
+      213: -9163820666952560539
+    second: Tileset_Battlefield_Rasak_84
+  - first:
+      213: -3730161983324172207
+    second: Tileset_Battlefield_Rasak_85
+  - first:
+      213: 1236504521372114420
+    second: Tileset_Battlefield_Rasak_86
+  - first:
+      213: 1888635434028061133
+    second: Tileset_Battlefield_Rasak_87
+  - first:
+      213: -2987302903431132736
+    second: Tileset_Battlefield_Rasak_88
+  - first:
+      213: -4629752738948901376
+    second: Tileset_Battlefield_Rasak_89
+  - first:
+      213: 1655278459549067139
+    second: Tileset_Battlefield_Rasak_90
+  - first:
+      213: 5628482084632242008
+    second: Tileset_Battlefield_Rasak_91
+  - first:
+      213: 4219521993007553799
+    second: Tileset_Battlefield_Rasak_92
+  - first:
+      213: -4362382408639037789
+    second: Tileset_Battlefield_Rasak_93
+  - first:
+      213: 65149999348867842
+    second: Tileset_Battlefield_Rasak_94
+  - first:
+      213: -1139333334166369145
+    second: Tileset_Battlefield_Rasak_95
+  - first:
+      213: 989219507138760619
+    second: Tileset_Battlefield_Rasak_96
+  - first:
+      213: 2153693451818711392
+    second: Tileset_Battlefield_Rasak_97
+  - first:
+      213: -8701504632341184062
+    second: Tileset_Battlefield_Rasak_98
+  - first:
+      213: 1265296724017284767
+    second: Tileset_Battlefield_Rasak_99
+  - first:
+      213: -8742564061170172389
+    second: Tileset_Battlefield_Rasak_100
+  - first:
+      213: -185359748587393344
+    second: Tileset_Battlefield_Rasak_101
+  - first:
+      213: 1795821245394345749
+    second: Tileset_Battlefield_Rasak_102
+  - first:
+      213: 3594623945416600646
+    second: Tileset_Battlefield_Rasak_103
+  - first:
+      213: 2891589659714905571
+    second: Tileset_Battlefield_Rasak_104
+  - first:
+      213: 4982789832783166289
+    second: Tileset_Battlefield_Rasak_105
+  - first:
+      213: 2307589424584580134
+    second: Tileset_Battlefield_Rasak_106
+  - first:
+      213: 5009463720102575313
+    second: Tileset_Battlefield_Rasak_107
+  - first:
+      213: 1853963583096572658
+    second: Tileset_Battlefield_Rasak_108
+  - first:
+      213: 8121127466982175717
+    second: Tileset_Battlefield_Rasak_109
+  - first:
+      213: 3588352694182624182
+    second: Tileset_Battlefield_Rasak_110
+  - first:
+      213: -3669613152402126933
+    second: Tileset_Battlefield_Rasak_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 728
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664f20abce9b1a2a0800000000000000
+      internalID: -6727891941930634138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 735
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e6991651d356520800000000000000
+      internalID: 2694627114092162594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 746
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8916f3bfd23dc2170800000000000000
+      internalID: 8155125219703349656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 733
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127f8b059167f8a40800000000000000
+      internalID: 5372642731576850209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 744
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff75f44c1d0161b0800000000000000
+      internalID: -5665232441188188164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 744
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c956e4ea4d12271d0800000000000000
+      internalID: -3354581575096441444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 743
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ade66833e1275ca0800000000000000
+      internalID: -6028312316424557147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 748
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d811d52b160afca0800000000000000
+      internalID: -5982462441339938600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 719
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1ce21d34db01a80800000000000000
+      internalID: -8498084397878165055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 728
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1243f32f7ca2f20800000000000000
+      internalID: 3398748712060854691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 727
+        width: 58
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2a0090817825260800000000000000
+      internalID: 7084873701107213010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 721
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907b85c5bf239fd80800000000000000
+      internalID: -8216479989993261303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 724
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f98a07d37c35e90800000000000000
+      internalID: -7038062725952921830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 721
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56efa286860be3360800000000000000
+      internalID: 7151347220781661797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 720
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f500674c6c56110800000000000000
+      internalID: 1253626618388176645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 724
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b1704427074b5c0800000000000000
+      internalID: -4200608916359931034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 724
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a00eb0f2780cdb60800000000000000
+      internalID: 7772096346692911270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 725
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a2afb7209d43cd0800000000000000
+      internalID: -2579198081883297198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 724
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7489911dd24e720a0800000000000000
+      internalID: -6906300618116589497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 728
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5d6c9a594c0c9e0800000000000000
+      internalID: -1603065320266345033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 735
+        width: 49
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a908cd5255592400800000000000000
+      internalID: 299864662445918624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 726
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f9d99966f87ed90800000000000000
+      internalID: -7068523419308023977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 661
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9f01ea6d94c0210800000000000000
+      internalID: 1300495578795407855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 650
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f747ccdc710221e0800000000000000
+      internalID: -2224213630175983624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 646
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7101ea6fef90bfe0800000000000000
+      internalID: -1175263652104568450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 641
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc7bd4af87dda980800000000000000
+      internalID: -8525921507596337971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d2b24c08776d010800000000000000
+      internalID: 1213288544553610597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0249bb307620250800000000000000
+      internalID: 5909398926793122011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ac517ee191ad500800000000000000
+      internalID: 421677135629240930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 624
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1816a6bb1cc8890800000000000000
+      internalID: -7454370272517193292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 582
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46c89c1e3bd82ec0800000000000000
+      internalID: -3591379643013740982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 640
+        width: 13
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d1081123eb637e0800000000000000
+      internalID: -1786031079954572026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 672
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6261117d5ad6d2520800000000000000
+      internalID: 2678917912400565798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 666
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435714d9fa2533570800000000000000
+      internalID: 8445184640460879156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 662
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6f7c3fa2e44f780800000000000000
+      internalID: -8650203037886318934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 623
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f6117f40f1fff90800000000000000
+      internalID: -6917776396432347311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 623
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3c3ca6324e27bc0800000000000000
+      internalID: -3786713495898962962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 623
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4320a9e9e73cc50800000000000000
+      internalID: 6684325491601716402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 639
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a10512a9da8c2b0800000000000000
+      internalID: -5564006462120781256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 576
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cf0966c7c450c50800000000000000
+      internalID: 6630790123553356883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 576
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb4824cb1f88ad40800000000000000
+      internalID: 5595879886425705470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 578
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1157db4ae2da7a10800000000000000
+      internalID: 1908069295881408795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 575
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55186881f2b106af0800000000000000
+      internalID: -405294077374463659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155d2246380d70490800000000000000
+      internalID: -7780020568519944879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3035b196639055450800000000000000
+      internalID: 6076773401502634755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cb403394fec0ab0800000000000000
+      internalID: -5040390785266828223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b26121a5227fb8a0800000000000000
+      internalID: -6287181048843246927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 482
+        width: 71
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fb1b41b51457420800000000000000
+      internalID: 2627077817085574934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 527
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d054390bb5b2b0ef0800000000000000
+      internalID: -140971290527578867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 527
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964e9cfacfb0b1790800000000000000
+      internalID: -7558434369702337431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 527
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c37e99b1710c780800000000000000
+      internalID: -8664900275747210132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 490
+        width: 18
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe58693338be874b0800000000000000
+      internalID: -5442341200938498577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 480
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf183e91878f2ea0800000000000000
+      internalID: -5895344396429680676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 548
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de1c59b5a1831dc0800000000000000
+      internalID: -3669446722597413162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 555
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caaba5054f8113c0800000000000000
+      internalID: -4390570635098871100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 534
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4665d1a2fc5f0b270800000000000000
+      internalID: 8264375586338461284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 438
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3196fc83c54cc9a30800000000000000
+      internalID: 4223466450935834899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 519
+        width: 45
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e025572bd86acd500800000000000000
+      internalID: 422395592580616718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_58
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 468
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674c6c39d6b7b0d30800000000000000
+      internalID: 4398745171618350198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_59
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 468
+        width: 82
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec718633015612b0800000000000000
+      internalID: -5614210811229537054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_60
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 479
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e176727a6e61520800000000000000
+      internalID: 2672577034485964385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_61
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 518
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bc498f55540a7b0800000000000000
+      internalID: -5215092132949996716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_62
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 335
+        width: 56
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1088e3c10d264f50800000000000000
+      internalID: 6865224167577911325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_63
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 479
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77274bed13b59730800000000000000
+      internalID: 4005304384698656635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_64
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 431
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9a8e80fbc871c20800000000000000
+      internalID: 3177162814249282027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_65
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 431
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e4a4444932791d0800000000000000
+      internalID: -3344165078591451591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_66
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 431
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d4a82b141bc3030800000000000000
+      internalID: 3475847908149579063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_67
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 412
+        width: 10
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c92c3940d1af7ab0800000000000000
+      internalID: -5008106344658753088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_68
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 400
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f59df8119b84f60800000000000000
+      internalID: 8018862621612138356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_69
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 383
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35916f44ae8f6680800000000000000
+      internalID: -8759625913854749381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_70
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 383
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b031026245329290800000000000000
+      internalID: -7885181438343958346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_71
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 409
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eeb591c24868230800000000000000
+      internalID: 3640742673714507279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_72
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 409
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2620a5b7a517dedb0800000000000000
+      internalID: -4761024597630254494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_73
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 391
+        width: 128
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a964567988fba70800000000000000
+      internalID: 8844938376999508628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_74
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 352
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae87f29722dfd4720800000000000000
+      internalID: 2832198065189779690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_75
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 352
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bb7758ac8061220800000000000000
+      internalID: 2456160312692816651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_76
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 352
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04dd96bad2c27d70800000000000000
+      internalID: 9039501646708462603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_77
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 340
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe1e79a9880fcbd0800000000000000
+      internalID: -2607856271877071118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_78
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 351
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55abf7a69c73ba40800000000000000
+      internalID: 5382782966143100255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_79
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 334
+        width: 82
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f60b9e25ef7b9940800000000000000
+      internalID: 5303973608465041142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_80
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 337
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf37b7451554a3350800000000000000
+      internalID: 5997182069409281019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_81
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 309
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6f8c769309f3b00800000000000000
+      internalID: 810525034178737828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_82
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 343
+        width: 128
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b15d028d3a61bc0800000000000000
+      internalID: -3812679885863445627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 289
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108c13ca57c640ed0800000000000000
+      internalID: -2448713044726790143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_84
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 244
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560d8e8c7a193d080800000000000000
+      internalID: -9163820666952560539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_85
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 242
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150db4d707dcb3cc0800000000000000
+      internalID: -3730161983324172207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_86
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 193
+        width: 50
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd9c879f42f82110800000000000000
+      internalID: 1236504521372114420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_87
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 193
+        width: 50
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1557bbbe7c53a10800000000000000
+      internalID: 1888635434028061133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_88
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 239
+        width: 122
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c98e7436d7fa86d0800000000000000
+      internalID: -2987302903431132736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_89
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 102
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0061f05d960dfbfb0800000000000000
+      internalID: -4629752738948901376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_90
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 195
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38727c92dfab8f610800000000000000
+      internalID: 1655278459549067139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_91
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 196
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857a72f82a26c1e40800000000000000
+      internalID: 5628482084632242008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_92
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0
+        width: 107
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dd92b85e0ce8a30800000000000000
+      internalID: 4219521993007553799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_93
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 9
+        width: 84
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae38aeef44b573c0800000000000000
+      internalID: -4362382408639037789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_94
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 143
+        width: 140
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2036e48449577e000800000000000000
+      internalID: 65149999348867842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_95
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 99
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c80487e564030f0800000000000000
+      internalID: -1139333334166369145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_96
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 143
+        width: 129
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf84ef86e96abd00800000000000000
+      internalID: 989219507138760619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_97
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 46
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0693dbe98c473ed10800000000000000
+      internalID: 2153693451818711392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_98
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 80
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c143e1b3ab0e3780800000000000000
+      internalID: -8701504632341184062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 104
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96048aaaac3f8110800000000000000
+      internalID: 1265296724017284767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_100
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 69
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1efad37e4c2ca680800000000000000
+      internalID: -8742564061170172389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_101
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 117
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ceeacd6a487d6df0800000000000000
+      internalID: -185359748587393344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_102
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 74
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f54d378e90ce810800000000000000
+      internalID: 1795821245394345749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_103
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 82
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c6ba7ee6ba2e130800000000000000
+      internalID: 3594623945416600646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_104
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5ef77a97df02820800000000000000
+      internalID: 2891589659714905571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_105
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bf775f3fc662540800000000000000
+      internalID: 4982789832783166289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_106
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 76
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cdfc30b54360020800000000000000
+      internalID: 2307589424584580134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_107
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 8
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcbbef46b0358540800000000000000
+      internalID: 5009463720102575313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_108
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 24
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa4bfc5e0a9ab910800000000000000
+      internalID: 1853963583096572658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_109
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 16
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3f325576a04b070800000000000000
+      internalID: 8121127466982175717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_110
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb329173c36cc130800000000000000
+      internalID: 3588352694182624182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Battlefield_Rasak_111
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba748f3c74ae21dc0800000000000000
+      internalID: -3669613152402126933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Battlefield_Rasak_0: -6727891941930634138
+      Tileset_Battlefield_Rasak_1: 2694627114092162594
+      Tileset_Battlefield_Rasak_10: 7084873701107213010
+      Tileset_Battlefield_Rasak_100: -8742564061170172389
+      Tileset_Battlefield_Rasak_101: -185359748587393344
+      Tileset_Battlefield_Rasak_102: 1795821245394345749
+      Tileset_Battlefield_Rasak_103: 3594623945416600646
+      Tileset_Battlefield_Rasak_104: 2891589659714905571
+      Tileset_Battlefield_Rasak_105: 4982789832783166289
+      Tileset_Battlefield_Rasak_106: 2307589424584580134
+      Tileset_Battlefield_Rasak_107: 5009463720102575313
+      Tileset_Battlefield_Rasak_108: 1853963583096572658
+      Tileset_Battlefield_Rasak_109: 8121127466982175717
+      Tileset_Battlefield_Rasak_11: -8216479989993261303
+      Tileset_Battlefield_Rasak_110: 3588352694182624182
+      Tileset_Battlefield_Rasak_111: -3669613152402126933
+      Tileset_Battlefield_Rasak_12: -7038062725952921830
+      Tileset_Battlefield_Rasak_13: 7151347220781661797
+      Tileset_Battlefield_Rasak_14: 1253626618388176645
+      Tileset_Battlefield_Rasak_15: -4200608916359931034
+      Tileset_Battlefield_Rasak_16: 7772096346692911270
+      Tileset_Battlefield_Rasak_17: -2579198081883297198
+      Tileset_Battlefield_Rasak_18: -6906300618116589497
+      Tileset_Battlefield_Rasak_19: -1603065320266345033
+      Tileset_Battlefield_Rasak_2: 8155125219703349656
+      Tileset_Battlefield_Rasak_20: 299864662445918624
+      Tileset_Battlefield_Rasak_21: -7068523419308023977
+      Tileset_Battlefield_Rasak_22: 1300495578795407855
+      Tileset_Battlefield_Rasak_23: -2224213630175983624
+      Tileset_Battlefield_Rasak_24: -1175263652104568450
+      Tileset_Battlefield_Rasak_25: -8525921507596337971
+      Tileset_Battlefield_Rasak_26: 1213288544553610597
+      Tileset_Battlefield_Rasak_27: 5909398926793122011
+      Tileset_Battlefield_Rasak_28: 421677135629240930
+      Tileset_Battlefield_Rasak_29: -7454370272517193292
+      Tileset_Battlefield_Rasak_3: 5372642731576850209
+      Tileset_Battlefield_Rasak_30: -3591379643013740982
+      Tileset_Battlefield_Rasak_31: -1786031079954572026
+      Tileset_Battlefield_Rasak_32: 2678917912400565798
+      Tileset_Battlefield_Rasak_33: 8445184640460879156
+      Tileset_Battlefield_Rasak_34: -8650203037886318934
+      Tileset_Battlefield_Rasak_35: -6917776396432347311
+      Tileset_Battlefield_Rasak_36: -3786713495898962962
+      Tileset_Battlefield_Rasak_37: 6684325491601716402
+      Tileset_Battlefield_Rasak_38: -5564006462120781256
+      Tileset_Battlefield_Rasak_39: 6630790123553356883
+      Tileset_Battlefield_Rasak_4: -5665232441188188164
+      Tileset_Battlefield_Rasak_40: 5595879886425705470
+      Tileset_Battlefield_Rasak_41: 1908069295881408795
+      Tileset_Battlefield_Rasak_42: -405294077374463659
+      Tileset_Battlefield_Rasak_43: -7780020568519944879
+      Tileset_Battlefield_Rasak_44: 6076773401502634755
+      Tileset_Battlefield_Rasak_45: -5040390785266828223
+      Tileset_Battlefield_Rasak_46: -6287181048843246927
+      Tileset_Battlefield_Rasak_47: 2627077817085574934
+      Tileset_Battlefield_Rasak_48: -140971290527578867
+      Tileset_Battlefield_Rasak_49: -7558434369702337431
+      Tileset_Battlefield_Rasak_5: -3354581575096441444
+      Tileset_Battlefield_Rasak_50: -8664900275747210132
+      Tileset_Battlefield_Rasak_51: -5442341200938498577
+      Tileset_Battlefield_Rasak_52: -5895344396429680676
+      Tileset_Battlefield_Rasak_53: -3669446722597413162
+      Tileset_Battlefield_Rasak_54: -4390570635098871100
+      Tileset_Battlefield_Rasak_55: 8264375586338461284
+      Tileset_Battlefield_Rasak_56: 4223466450935834899
+      Tileset_Battlefield_Rasak_57: 422395592580616718
+      Tileset_Battlefield_Rasak_58: 4398745171618350198
+      Tileset_Battlefield_Rasak_59: -5614210811229537054
+      Tileset_Battlefield_Rasak_6: -6028312316424557147
+      Tileset_Battlefield_Rasak_60: 2672577034485964385
+      Tileset_Battlefield_Rasak_61: -5215092132949996716
+      Tileset_Battlefield_Rasak_62: 6865224167577911325
+      Tileset_Battlefield_Rasak_63: 4005304384698656635
+      Tileset_Battlefield_Rasak_64: 3177162814249282027
+      Tileset_Battlefield_Rasak_65: -3344165078591451591
+      Tileset_Battlefield_Rasak_66: 3475847908149579063
+      Tileset_Battlefield_Rasak_67: -5008106344658753088
+      Tileset_Battlefield_Rasak_68: 8018862621612138356
+      Tileset_Battlefield_Rasak_69: -8759625913854749381
+      Tileset_Battlefield_Rasak_7: -5982462441339938600
+      Tileset_Battlefield_Rasak_70: -7885181438343958346
+      Tileset_Battlefield_Rasak_71: 3640742673714507279
+      Tileset_Battlefield_Rasak_72: -4761024597630254494
+      Tileset_Battlefield_Rasak_73: 8844938376999508628
+      Tileset_Battlefield_Rasak_74: 2832198065189779690
+      Tileset_Battlefield_Rasak_75: 2456160312692816651
+      Tileset_Battlefield_Rasak_76: 9039501646708462603
+      Tileset_Battlefield_Rasak_77: -2607856271877071118
+      Tileset_Battlefield_Rasak_78: 5382782966143100255
+      Tileset_Battlefield_Rasak_79: 5303973608465041142
+      Tileset_Battlefield_Rasak_8: -8498084397878165055
+      Tileset_Battlefield_Rasak_80: 5997182069409281019
+      Tileset_Battlefield_Rasak_81: 810525034178737828
+      Tileset_Battlefield_Rasak_82: -3812679885863445627
+      Tileset_Battlefield_Rasak_83: -2448713044726790143
+      Tileset_Battlefield_Rasak_84: -9163820666952560539
+      Tileset_Battlefield_Rasak_85: -3730161983324172207
+      Tileset_Battlefield_Rasak_86: 1236504521372114420
+      Tileset_Battlefield_Rasak_87: 1888635434028061133
+      Tileset_Battlefield_Rasak_88: -2987302903431132736
+      Tileset_Battlefield_Rasak_89: -4629752738948901376
+      Tileset_Battlefield_Rasak_9: 3398748712060854691
+      Tileset_Battlefield_Rasak_90: 1655278459549067139
+      Tileset_Battlefield_Rasak_91: 5628482084632242008
+      Tileset_Battlefield_Rasak_92: 4219521993007553799
+      Tileset_Battlefield_Rasak_93: -4362382408639037789
+      Tileset_Battlefield_Rasak_94: 65149999348867842
+      Tileset_Battlefield_Rasak_95: -1139333334166369145
+      Tileset_Battlefield_Rasak_96: 989219507138760619
+      Tileset_Battlefield_Rasak_97: 2153693451818711392
+      Tileset_Battlefield_Rasak_98: -8701504632341184062
+      Tileset_Battlefield_Rasak_99: 1265296724017284767
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

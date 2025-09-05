@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 943ffefb9df80e745a0cd40cc3bef23d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7141939295924604210
+    second: Object_fisher_Rasak_0
+  - first:
+      213: 4804623277362993702
+    second: Object_fisher_Rasak_1
+  - first:
+      213: -7260832673465332274
+    second: Object_fisher_Rasak_2
+  - first:
+      213: 7701820209301951561
+    second: Object_fisher_Rasak_3
+  - first:
+      213: 5603202770193222481
+    second: Object_fisher_Rasak_4
+  - first:
+      213: -4556542720962219193
+    second: Object_fisher_Rasak_5
+  - first:
+      213: -6652517453076030001
+    second: Object_fisher_Rasak_6
+  - first:
+      213: 5621722201100774880
+    second: Object_fisher_Rasak_7
+  - first:
+      213: 3090234855349067819
+    second: Object_fisher_Rasak_8
+  - first:
+      213: 7731785226678682847
+    second: Object_fisher_Rasak_9
+  - first:
+      213: 5088549854288004749
+    second: Object_fisher_Rasak_10
+  - first:
+      213: 925643935457384736
+    second: Object_fisher_Rasak_11
+  - first:
+      213: 3662269588818024000
+    second: Object_fisher_Rasak_12
+  - first:
+      213: 4182789551991105675
+    second: Object_fisher_Rasak_13
+  - first:
+      213: -4623807130152400004
+    second: Object_fisher_Rasak_14
+  - first:
+      213: 5891612410108674318
+    second: Object_fisher_Rasak_15
+  - first:
+      213: 2057266361644357519
+    second: Object_fisher_Rasak_16
+  - first:
+      213: -815108745761956770
+    second: Object_fisher_Rasak_17
+  - first:
+      213: -373091630107083184
+    second: Object_fisher_Rasak_18
+  - first:
+      213: 5576263906340649001
+    second: Object_fisher_Rasak_19
+  - first:
+      213: -5122720024361332174
+    second: Object_fisher_Rasak_20
+  - first:
+      213: 2865882452665743701
+    second: Object_fisher_Rasak_21
+  - first:
+      213: 8308450702771480698
+    second: Object_fisher_Rasak_22
+  - first:
+      213: 2540350077913101532
+    second: Object_fisher_Rasak_23
+  - first:
+      213: -969156749758909419
+    second: Object_fisher_Rasak_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 88
+        width: 601
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d4df433f34d1360800000000000000
+      internalID: 7141939295924604210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 262
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a5bce2a637da240800000000000000
+      internalID: 4804623277362993702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 243
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd8c8c27275c3b90800000000000000
+      internalID: -7260832673465332274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 257
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9441e53acac52ea60800000000000000
+      internalID: 7701820209301951561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 48
+        width: 10
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b0ad18b3392cd40800000000000000
+      internalID: 5603202770193222481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 217
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743b7217988e3c0c0800000000000000
+      internalID: -4556542720962219193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 233
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd115b7f928da3a0800000000000000
+      internalID: -6652517453076030001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 224
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ede9868e8e540e40800000000000000
+      internalID: 5621722201100774880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 189
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20ac996a38b2ea20800000000000000
+      internalID: 3090234855349067819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 196
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4cbcbe2b1dc4b60800000000000000
+      internalID: 7731785226678682847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 186
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86c3b6d1292e9640800000000000000
+      internalID: 5088549854288004749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0299e69414c88dc00800000000000000
+      internalID: 925643935457384736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 10
+        width: 260
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046d63999cef2d230800000000000000
+      internalID: 3662269588818024000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 170
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8825a8afe04c0a30800000000000000
+      internalID: 4182789551991105675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 177
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b0951c9efe4dfb0800000000000000
+      internalID: -4623807130152400004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 151
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e018fca954633c150800000000000000
+      internalID: 5891612410108674318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 141
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f871c262bd0ec8c10800000000000000
+      internalID: 2057266361644357519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c5b831ae620b4f0800000000000000
+      internalID: -815108745761956770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 125
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ebbce932382daf0800000000000000
+      internalID: -373091630107083184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 132
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928344f7a7ed26d40800000000000000
+      internalID: 5576263906340649001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 47
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2329928774178e8b0800000000000000
+      internalID: -5122720024361332174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 41
+        width: 13
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559ba2718e8a5c720800000000000000
+      internalID: 2865882452665743701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 27
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78e984e4eb8d4370800000000000000
+      internalID: 8308450702771480698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 8
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4752fbfe2214320800000000000000
+      internalID: 2540350077913101532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_fisher_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 162
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514b2f6221ddc82f0800000000000000
+      internalID: -969156749758909419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Object_fisher_Rasak_0: 7141939295924604210
+      Object_fisher_Rasak_1: 4804623277362993702
+      Object_fisher_Rasak_10: 5088549854288004749
+      Object_fisher_Rasak_11: 925643935457384736
+      Object_fisher_Rasak_12: 3662269588818024000
+      Object_fisher_Rasak_13: 4182789551991105675
+      Object_fisher_Rasak_14: -4623807130152400004
+      Object_fisher_Rasak_15: 5891612410108674318
+      Object_fisher_Rasak_16: 2057266361644357519
+      Object_fisher_Rasak_17: -815108745761956770
+      Object_fisher_Rasak_18: -373091630107083184
+      Object_fisher_Rasak_19: 5576263906340649001
+      Object_fisher_Rasak_2: -7260832673465332274
+      Object_fisher_Rasak_20: -5122720024361332174
+      Object_fisher_Rasak_21: 2865882452665743701
+      Object_fisher_Rasak_22: 8308450702771480698
+      Object_fisher_Rasak_23: 2540350077913101532
+      Object_fisher_Rasak_24: -969156749758909419
+      Object_fisher_Rasak_3: 7701820209301951561
+      Object_fisher_Rasak_4: 5603202770193222481
+      Object_fisher_Rasak_5: -4556542720962219193
+      Object_fisher_Rasak_6: -6652517453076030001
+      Object_fisher_Rasak_7: 5621722201100774880
+      Object_fisher_Rasak_8: 3090234855349067819
+      Object_fisher_Rasak_9: 7731785226678682847
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

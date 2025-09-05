@@ -1,0 +1,2171 @@
+fileFormatVersion: 2
+guid: 9841400f03f672546b77fbd94603422c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3973478401796478326
+    second: Tileset_Crypt_Rasak_0
+  - first:
+      213: 1975360480746366787
+    second: Tileset_Crypt_Rasak_1
+  - first:
+      213: -7454018544885795167
+    second: Tileset_Crypt_Rasak_2
+  - first:
+      213: -8628555435190411545
+    second: Tileset_Crypt_Rasak_3
+  - first:
+      213: 3682232490643483319
+    second: Tileset_Crypt_Rasak_4
+  - first:
+      213: -3394071724339324263
+    second: Tileset_Crypt_Rasak_5
+  - first:
+      213: 945248526623031474
+    second: Tileset_Crypt_Rasak_6
+  - first:
+      213: 2541208428938215461
+    second: Tileset_Crypt_Rasak_7
+  - first:
+      213: 8114996995322106678
+    second: Tileset_Crypt_Rasak_8
+  - first:
+      213: -473466648149863029
+    second: Tileset_Crypt_Rasak_9
+  - first:
+      213: -586268934504816463
+    second: Tileset_Crypt_Rasak_10
+  - first:
+      213: -1693242301600951898
+    second: Tileset_Crypt_Rasak_11
+  - first:
+      213: 3987846417946437235
+    second: Tileset_Crypt_Rasak_12
+  - first:
+      213: -4238762110723504211
+    second: Tileset_Crypt_Rasak_13
+  - first:
+      213: 3867623114760345469
+    second: Tileset_Crypt_Rasak_14
+  - first:
+      213: -2260222298660005430
+    second: Tileset_Crypt_Rasak_15
+  - first:
+      213: 8634679132522810956
+    second: Tileset_Crypt_Rasak_16
+  - first:
+      213: -5790118282968372229
+    second: Tileset_Crypt_Rasak_17
+  - first:
+      213: 6041810048165748545
+    second: Tileset_Crypt_Rasak_18
+  - first:
+      213: 5887894100202161847
+    second: Tileset_Crypt_Rasak_19
+  - first:
+      213: -5774512520692451680
+    second: Tileset_Crypt_Rasak_20
+  - first:
+      213: 3216109836884961167
+    second: Tileset_Crypt_Rasak_21
+  - first:
+      213: 3716559115633851227
+    second: Tileset_Crypt_Rasak_22
+  - first:
+      213: 1925748213017547652
+    second: Tileset_Crypt_Rasak_23
+  - first:
+      213: 54603548252717864
+    second: Tileset_Crypt_Rasak_24
+  - first:
+      213: 1663587521098006623
+    second: Tileset_Crypt_Rasak_25
+  - first:
+      213: 1349396459805185852
+    second: Tileset_Crypt_Rasak_26
+  - first:
+      213: 5015433543361860621
+    second: Tileset_Crypt_Rasak_27
+  - first:
+      213: -2868782133718800573
+    second: Tileset_Crypt_Rasak_28
+  - first:
+      213: -8646512117807716262
+    second: Tileset_Crypt_Rasak_29
+  - first:
+      213: -7041736872429230853
+    second: Tileset_Crypt_Rasak_30
+  - first:
+      213: -4144560663904163077
+    second: Tileset_Crypt_Rasak_31
+  - first:
+      213: 1655187587990688025
+    second: Tileset_Crypt_Rasak_32
+  - first:
+      213: -7364430239533911577
+    second: Tileset_Crypt_Rasak_33
+  - first:
+      213: 725808694924859097
+    second: Tileset_Crypt_Rasak_34
+  - first:
+      213: 4598600358313670507
+    second: Tileset_Crypt_Rasak_35
+  - first:
+      213: -6273600840918307827
+    second: Tileset_Crypt_Rasak_36
+  - first:
+      213: -1856243848053511531
+    second: Tileset_Crypt_Rasak_37
+  - first:
+      213: 8454876353834151042
+    second: Tileset_Crypt_Rasak_38
+  - first:
+      213: -5081295296462711057
+    second: Tileset_Crypt_Rasak_39
+  - first:
+      213: 7967038908690984413
+    second: Tileset_Crypt_Rasak_40
+  - first:
+      213: -6585356222001478545
+    second: Tileset_Crypt_Rasak_41
+  - first:
+      213: 7332456175671230539
+    second: Tileset_Crypt_Rasak_42
+  - first:
+      213: -6335244623347806545
+    second: Tileset_Crypt_Rasak_43
+  - first:
+      213: 6794782608432243873
+    second: Tileset_Crypt_Rasak_44
+  - first:
+      213: 2192637504775309243
+    second: Tileset_Crypt_Rasak_45
+  - first:
+      213: 6133165509124040558
+    second: Tileset_Crypt_Rasak_46
+  - first:
+      213: 7456879838629893245
+    second: Tileset_Crypt_Rasak_47
+  - first:
+      213: 3982799184715246426
+    second: Tileset_Crypt_Rasak_48
+  - first:
+      213: 5305203359956043233
+    second: Tileset_Crypt_Rasak_49
+  - first:
+      213: -3718971336462093914
+    second: Tileset_Crypt_Rasak_50
+  - first:
+      213: -5460300160934601726
+    second: Tileset_Crypt_Rasak_51
+  - first:
+      213: 7860566182732652727
+    second: Tileset_Crypt_Rasak_52
+  - first:
+      213: 4741824320683811885
+    second: Tileset_Crypt_Rasak_53
+  - first:
+      213: 348096317741375747
+    second: Tileset_Crypt_Rasak_54
+  - first:
+      213: -3799431162069849246
+    second: Tileset_Crypt_Rasak_55
+  - first:
+      213: 2394047047259548063
+    second: Tileset_Crypt_Rasak_56
+  - first:
+      213: 1419894773789847240
+    second: Tileset_Crypt_Rasak_57
+  - first:
+      213: 5331051228778254064
+    second: Tileset_Crypt_Rasak_58
+  - first:
+      213: -3305350650539611421
+    second: Tileset_Crypt_Rasak_59
+  - first:
+      213: -1849942982384307515
+    second: Tileset_Crypt_Rasak_60
+  - first:
+      213: -6066582520222467160
+    second: Tileset_Crypt_Rasak_61
+  - first:
+      213: -8065017321623890863
+    second: Tileset_Crypt_Rasak_62
+  - first:
+      213: -9221774942930789518
+    second: Tileset_Crypt_Rasak_63
+  - first:
+      213: 5389410000034326717
+    second: Tileset_Crypt_Rasak_64
+  - first:
+      213: 2293803384773188636
+    second: Tileset_Crypt_Rasak_65
+  - first:
+      213: -5240303717848518393
+    second: Tileset_Crypt_Rasak_66
+  - first:
+      213: 5906100349057735236
+    second: Tileset_Crypt_Rasak_67
+  - first:
+      213: 2526104098116375144
+    second: Tileset_Crypt_Rasak_68
+  - first:
+      213: 5222854731062987799
+    second: Tileset_Crypt_Rasak_69
+  - first:
+      213: 1969226684709427667
+    second: Tileset_Crypt_Rasak_70
+  - first:
+      213: -4532587357331090098
+    second: Tileset_Crypt_Rasak_71
+  - first:
+      213: 6144395386646788810
+    second: Tileset_Crypt_Rasak_72
+  - first:
+      213: -2737296667073633745
+    second: Tileset_Crypt_Rasak_73
+  - first:
+      213: 8543467546236652803
+    second: Tileset_Crypt_Rasak_74
+  - first:
+      213: -1668761892709122124
+    second: Tileset_Crypt_Rasak_75
+  - first:
+      213: -9172104823352188193
+    second: Tileset_Crypt_Rasak_76
+  - first:
+      213: -1858817102563642192
+    second: Tileset_Crypt_Rasak_77
+  - first:
+      213: 2656370689966275343
+    second: Tileset_Crypt_Rasak_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 385
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8aeb3a227e5bd8c0800000000000000
+      internalID: -3973478401796478326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 676
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3476b3e24e3e96b10800000000000000
+      internalID: 1975360480746366787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 676
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a678e260a10e8890800000000000000
+      internalID: -7454018544885795167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 674
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee95b83c86314880800000000000000
+      internalID: -8628555435190411545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 702
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bae431e0fae91330800000000000000
+      internalID: 3682232490643483319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 698
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a9e80dfb5d5e0d0800000000000000
+      internalID: -3394071724339324263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 697
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0c3ddd6823e1d00800000000000000
+      internalID: 945248526623031474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 700
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520471b2a9f244320800000000000000
+      internalID: 2541208428938215461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 580
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633598ba5c24e9070800000000000000
+      internalID: 8114996995322106678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 580
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8558009798ed69f0800000000000000
+      internalID: -473466648149863029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 578
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b06eff92872dd7f0800000000000000
+      internalID: -586268934504816463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 623
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1196e09156088e0800000000000000
+      internalID: -1693242301600951898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 623
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376e288403da75730800000000000000
+      internalID: 3987846417946437235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 575
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7c0f67154ec25c0800000000000000
+      internalID: -4238762110723504211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 575
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7751683bbe8ca530800000000000000
+      internalID: 3867623114760345469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 484
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac914f66bc312a0e0800000000000000
+      internalID: -2260222298660005430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 484
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e008b2cea84d770800000000000000
+      internalID: 8634679132522810956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 482
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbec28591e55afa0800000000000000
+      internalID: -5790118282968372229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 527
+        width: 87
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f1e495a32d8d350800000000000000
+      internalID: 6041810048165748545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 479
+        width: 87
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b60bad1d7006b150800000000000000
+      internalID: 5887894100202161847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 383
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6b415057fccdfa0800000000000000
+      internalID: -5774512520692451680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 383
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87ea226bdae1ac20800000000000000
+      internalID: 3216109836884961167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 383
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b781213ded39330800000000000000
+      internalID: 3716559115633851227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 383
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48311c3fbc1a9ba10800000000000000
+      internalID: 1925748213017547652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 431
+        width: 87
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823441943adf1c000800000000000000
+      internalID: 54603548252717864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 383
+        width: 87
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50c1df4900461710800000000000000
+      internalID: 1663587521098006623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 262
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c379bd74ee40ab210800000000000000
+      internalID: 1349396459805185852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 262
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0499aa1c366a9540800000000000000
+      internalID: 5015433543361860621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 262
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34724bd49d90038d0800000000000000
+      internalID: -2868782133718800573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 262
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58e5ff3a0b610880800000000000000
+      internalID: -8646512117807716262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 262
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4e51d8f99b64e90800000000000000
+      internalID: -7041736872429230853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 301
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa6fe5f8009b76c0800000000000000
+      internalID: -4144560663904163077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 287
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91112da775868f610800000000000000
+      internalID: 1655187587990688025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 287
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1bf6f27b94cc990800000000000000
+      internalID: -7364430239533911577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 287
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6d2eb9927921a00800000000000000
+      internalID: 725808694924859097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 191
+        width: 92
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67354559a281df30800000000000000
+      internalID: 4598600358313670507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 299
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ce87e2641bfe8a0800000000000000
+      internalID: -6273600840918307827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 299
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a24441e0c4d36e0800000000000000
+      internalID: -1856243848053511531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 253
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c622a7f31c55570800000000000000
+      internalID: 8454876353834151042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 191
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe61a7789dc9b79b0800000000000000
+      internalID: -5081295296462711057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 193
+        width: 38
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddded302dab909e60800000000000000
+      internalID: 7967038908690984413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 166
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f648134286d1c94a0800000000000000
+      internalID: -6585356222001478545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 166
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40c002fa0e12c560800000000000000
+      internalID: 7332456175671230539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 166
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae8624a490b418a0800000000000000
+      internalID: -6335244623347806545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 96
+        width: 45
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a42b9538caeb4e50800000000000000
+      internalID: 6794782608432243873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 96
+        width: 45
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7c4598130dd6e10800000000000000
+      internalID: 2192637504775309243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 207
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67240029816d1550800000000000000
+      internalID: 6133165509124040558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 92
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d749e4a74b82c7760800000000000000
+      internalID: 7456879838629893245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 203
+        width: 79
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5beaa8b1ceb54730800000000000000
+      internalID: 3982799184715246426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 158
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e58363095edf9940800000000000000
+      internalID: 5305203359956043233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 95
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a13150064f836cc0800000000000000
+      internalID: -3718971336462093914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 107
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c1c7cfeed1934b0800000000000000
+      internalID: -5460300160934601726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 107
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b06a3fcb47561d60800000000000000
+      internalID: 7860566182732652727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 97
+        width: 38
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24aaada8185ec140800000000000000
+      internalID: 4741824320683811885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 70
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301a896b1cfa4d400800000000000000
+      internalID: 348096317741375747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 112
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26be6440d75b54bc0800000000000000
+      internalID: -3799431162069849246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 105
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f996a73fa1d593120800000000000000
+      internalID: 2394047047259548063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 112
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce6d2a16ca74b310800000000000000
+      internalID: 1419894773789847240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_58
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 112
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0feccb2f8d2bbf940800000000000000
+      internalID: 5331051228778254064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_59
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 14
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaea7888190122d0800000000000000
+      internalID: -3305350650539611421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_60
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 14
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2b140b8aea356e0800000000000000
+      internalID: -1849942982384307515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_61
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abbb89075b2fcba0800000000000000
+      internalID: -6066582520222467160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_62
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 64
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1545c3de97d431090800000000000000
+      internalID: -8065017321623890863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_63
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 64
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b13086c8ca50080800000000000000
+      internalID: -9221774942930789518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_64
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8ebf837d70bca40800000000000000
+      internalID: 5389410000034326717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_65
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c9efd760a35df10800000000000000
+      internalID: 2293803384773188636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_66
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1
+        width: 38
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701fa7e6883b647b0800000000000000
+      internalID: -5240303717848518393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_67
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1
+        width: 38
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a9561c9fea6f150800000000000000
+      internalID: 5906100349057735236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_68
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 24
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86292e91b468e0320800000000000000
+      internalID: 2526104098116375144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_69
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 25
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c4a7eb4be4b7840800000000000000
+      internalID: 5222854731062987799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_70
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 21
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d953508c39145b10800000000000000
+      internalID: 1969226684709427667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_71
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 24
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e459adc20d30911c0800000000000000
+      internalID: -4532587357331090098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_72
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca71acbc07454550800000000000000
+      internalID: 6144395386646788810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_73
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 25
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2227322f2b230ad0800000000000000
+      internalID: -2737296667073633745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_74
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 16
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d8383d77e709670800000000000000
+      internalID: 8543467546236652803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_75
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf3d5a66ed57d8e0800000000000000
+      internalID: -1668761892709122124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_76
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd22271524326b080800000000000000
+      internalID: -9172104823352188193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_77
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 11
+        width: 79
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4f54391b72436e0800000000000000
+      internalID: -1858817102563642192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crypt_Rasak_78
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bf23781135dd420800000000000000
+      internalID: 2656370689966275343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Crypt_Rasak_0: -3973478401796478326
+      Tileset_Crypt_Rasak_1: 1975360480746366787
+      Tileset_Crypt_Rasak_10: -586268934504816463
+      Tileset_Crypt_Rasak_11: -1693242301600951898
+      Tileset_Crypt_Rasak_12: 3987846417946437235
+      Tileset_Crypt_Rasak_13: -4238762110723504211
+      Tileset_Crypt_Rasak_14: 3867623114760345469
+      Tileset_Crypt_Rasak_15: -2260222298660005430
+      Tileset_Crypt_Rasak_16: 8634679132522810956
+      Tileset_Crypt_Rasak_17: -5790118282968372229
+      Tileset_Crypt_Rasak_18: 6041810048165748545
+      Tileset_Crypt_Rasak_19: 5887894100202161847
+      Tileset_Crypt_Rasak_2: -7454018544885795167
+      Tileset_Crypt_Rasak_20: -5774512520692451680
+      Tileset_Crypt_Rasak_21: 3216109836884961167
+      Tileset_Crypt_Rasak_22: 3716559115633851227
+      Tileset_Crypt_Rasak_23: 1925748213017547652
+      Tileset_Crypt_Rasak_24: 54603548252717864
+      Tileset_Crypt_Rasak_25: 1663587521098006623
+      Tileset_Crypt_Rasak_26: 1349396459805185852
+      Tileset_Crypt_Rasak_27: 5015433543361860621
+      Tileset_Crypt_Rasak_28: -2868782133718800573
+      Tileset_Crypt_Rasak_29: -8646512117807716262
+      Tileset_Crypt_Rasak_3: -8628555435190411545
+      Tileset_Crypt_Rasak_30: -7041736872429230853
+      Tileset_Crypt_Rasak_31: -4144560663904163077
+      Tileset_Crypt_Rasak_32: 1655187587990688025
+      Tileset_Crypt_Rasak_33: -7364430239533911577
+      Tileset_Crypt_Rasak_34: 725808694924859097
+      Tileset_Crypt_Rasak_35: 4598600358313670507
+      Tileset_Crypt_Rasak_36: -6273600840918307827
+      Tileset_Crypt_Rasak_37: -1856243848053511531
+      Tileset_Crypt_Rasak_38: 8454876353834151042
+      Tileset_Crypt_Rasak_39: -5081295296462711057
+      Tileset_Crypt_Rasak_4: 3682232490643483319
+      Tileset_Crypt_Rasak_40: 7967038908690984413
+      Tileset_Crypt_Rasak_41: -6585356222001478545
+      Tileset_Crypt_Rasak_42: 7332456175671230539
+      Tileset_Crypt_Rasak_43: -6335244623347806545
+      Tileset_Crypt_Rasak_44: 6794782608432243873
+      Tileset_Crypt_Rasak_45: 2192637504775309243
+      Tileset_Crypt_Rasak_46: 6133165509124040558
+      Tileset_Crypt_Rasak_47: 7456879838629893245
+      Tileset_Crypt_Rasak_48: 3982799184715246426
+      Tileset_Crypt_Rasak_49: 5305203359956043233
+      Tileset_Crypt_Rasak_5: -3394071724339324263
+      Tileset_Crypt_Rasak_50: -3718971336462093914
+      Tileset_Crypt_Rasak_51: -5460300160934601726
+      Tileset_Crypt_Rasak_52: 7860566182732652727
+      Tileset_Crypt_Rasak_53: 4741824320683811885
+      Tileset_Crypt_Rasak_54: 348096317741375747
+      Tileset_Crypt_Rasak_55: -3799431162069849246
+      Tileset_Crypt_Rasak_56: 2394047047259548063
+      Tileset_Crypt_Rasak_57: 1419894773789847240
+      Tileset_Crypt_Rasak_58: 5331051228778254064
+      Tileset_Crypt_Rasak_59: -3305350650539611421
+      Tileset_Crypt_Rasak_6: 945248526623031474
+      Tileset_Crypt_Rasak_60: -1849942982384307515
+      Tileset_Crypt_Rasak_61: -6066582520222467160
+      Tileset_Crypt_Rasak_62: -8065017321623890863
+      Tileset_Crypt_Rasak_63: -9221774942930789518
+      Tileset_Crypt_Rasak_64: 5389410000034326717
+      Tileset_Crypt_Rasak_65: 2293803384773188636
+      Tileset_Crypt_Rasak_66: -5240303717848518393
+      Tileset_Crypt_Rasak_67: 5906100349057735236
+      Tileset_Crypt_Rasak_68: 2526104098116375144
+      Tileset_Crypt_Rasak_69: 5222854731062987799
+      Tileset_Crypt_Rasak_7: 2541208428938215461
+      Tileset_Crypt_Rasak_70: 1969226684709427667
+      Tileset_Crypt_Rasak_71: -4532587357331090098
+      Tileset_Crypt_Rasak_72: 6144395386646788810
+      Tileset_Crypt_Rasak_73: -2737296667073633745
+      Tileset_Crypt_Rasak_74: 8543467546236652803
+      Tileset_Crypt_Rasak_75: -1668761892709122124
+      Tileset_Crypt_Rasak_76: -9172104823352188193
+      Tileset_Crypt_Rasak_77: -1858817102563642192
+      Tileset_Crypt_Rasak_78: 2656370689966275343
+      Tileset_Crypt_Rasak_8: 8114996995322106678
+      Tileset_Crypt_Rasak_9: -473466648149863029
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3081 @@
+fileFormatVersion: 2
+guid: 27df0c3e3e2b9d9418a68c2ead4beac9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 777233784792449523
+    second: Tileset_Tailoring_Rasak_0
+  - first:
+      213: 176307353335331964
+    second: Tileset_Tailoring_Rasak_1
+  - first:
+      213: 454676740781598038
+    second: Tileset_Tailoring_Rasak_2
+  - first:
+      213: -6328679712368855924
+    second: Tileset_Tailoring_Rasak_3
+  - first:
+      213: 6386708331915431272
+    second: Tileset_Tailoring_Rasak_4
+  - first:
+      213: 1713057687004719183
+    second: Tileset_Tailoring_Rasak_5
+  - first:
+      213: 8689664067994964454
+    second: Tileset_Tailoring_Rasak_6
+  - first:
+      213: -4589060955231519190
+    second: Tileset_Tailoring_Rasak_7
+  - first:
+      213: -405681275568870403
+    second: Tileset_Tailoring_Rasak_8
+  - first:
+      213: 8782604828556184538
+    second: Tileset_Tailoring_Rasak_9
+  - first:
+      213: 5699151712978823208
+    second: Tileset_Tailoring_Rasak_10
+  - first:
+      213: -3929123291990370065
+    second: Tileset_Tailoring_Rasak_11
+  - first:
+      213: -7559029323615465257
+    second: Tileset_Tailoring_Rasak_12
+  - first:
+      213: 8055645990065808376
+    second: Tileset_Tailoring_Rasak_13
+  - first:
+      213: -4795735657276439620
+    second: Tileset_Tailoring_Rasak_14
+  - first:
+      213: -1070749988292070151
+    second: Tileset_Tailoring_Rasak_15
+  - first:
+      213: -6533658554757764526
+    second: Tileset_Tailoring_Rasak_16
+  - first:
+      213: 2545886417304669422
+    second: Tileset_Tailoring_Rasak_17
+  - first:
+      213: 1674726527887590572
+    second: Tileset_Tailoring_Rasak_18
+  - first:
+      213: 4959751967274125216
+    second: Tileset_Tailoring_Rasak_19
+  - first:
+      213: 8189771046641998704
+    second: Tileset_Tailoring_Rasak_20
+  - first:
+      213: 3924720235221724708
+    second: Tileset_Tailoring_Rasak_21
+  - first:
+      213: -7461727552554365760
+    second: Tileset_Tailoring_Rasak_22
+  - first:
+      213: -1260363210796959260
+    second: Tileset_Tailoring_Rasak_23
+  - first:
+      213: -1507913273074995936
+    second: Tileset_Tailoring_Rasak_24
+  - first:
+      213: -3741366156048832937
+    second: Tileset_Tailoring_Rasak_25
+  - first:
+      213: -7256396311441677457
+    second: Tileset_Tailoring_Rasak_26
+  - first:
+      213: -5632302707963151548
+    second: Tileset_Tailoring_Rasak_27
+  - first:
+      213: -7160024007208159022
+    second: Tileset_Tailoring_Rasak_28
+  - first:
+      213: -2831688705249277461
+    second: Tileset_Tailoring_Rasak_29
+  - first:
+      213: -2194079971798524702
+    second: Tileset_Tailoring_Rasak_30
+  - first:
+      213: 5904306242564882635
+    second: Tileset_Tailoring_Rasak_31
+  - first:
+      213: -7372280069520773011
+    second: Tileset_Tailoring_Rasak_32
+  - first:
+      213: -984306093997934127
+    second: Tileset_Tailoring_Rasak_33
+  - first:
+      213: 2387566319868495433
+    second: Tileset_Tailoring_Rasak_34
+  - first:
+      213: -534076358114549440
+    second: Tileset_Tailoring_Rasak_35
+  - first:
+      213: 5002227033560946875
+    second: Tileset_Tailoring_Rasak_36
+  - first:
+      213: 6562733665577758817
+    second: Tileset_Tailoring_Rasak_37
+  - first:
+      213: 6743866144714676877
+    second: Tileset_Tailoring_Rasak_38
+  - first:
+      213: 6510384570956946129
+    second: Tileset_Tailoring_Rasak_39
+  - first:
+      213: 8424907066820646962
+    second: Tileset_Tailoring_Rasak_40
+  - first:
+      213: -5874053629554022490
+    second: Tileset_Tailoring_Rasak_41
+  - first:
+      213: -7437687525750004704
+    second: Tileset_Tailoring_Rasak_42
+  - first:
+      213: -8220501283802258243
+    second: Tileset_Tailoring_Rasak_43
+  - first:
+      213: 171671875981029358
+    second: Tileset_Tailoring_Rasak_44
+  - first:
+      213: 1721449414083714826
+    second: Tileset_Tailoring_Rasak_45
+  - first:
+      213: -4728033815226135763
+    second: Tileset_Tailoring_Rasak_46
+  - first:
+      213: 155312353399633401
+    second: Tileset_Tailoring_Rasak_47
+  - first:
+      213: 3224286322472744906
+    second: Tileset_Tailoring_Rasak_48
+  - first:
+      213: 3073540464614755587
+    second: Tileset_Tailoring_Rasak_49
+  - first:
+      213: -6260594444578319568
+    second: Tileset_Tailoring_Rasak_50
+  - first:
+      213: -4434185689517458561
+    second: Tileset_Tailoring_Rasak_51
+  - first:
+      213: -726910320151753426
+    second: Tileset_Tailoring_Rasak_52
+  - first:
+      213: -4054012671692409039
+    second: Tileset_Tailoring_Rasak_53
+  - first:
+      213: -5760435732453026704
+    second: Tileset_Tailoring_Rasak_54
+  - first:
+      213: -6539898291572621038
+    second: Tileset_Tailoring_Rasak_55
+  - first:
+      213: -7214069023408267209
+    second: Tileset_Tailoring_Rasak_56
+  - first:
+      213: -3418432250290955401
+    second: Tileset_Tailoring_Rasak_57
+  - first:
+      213: 891834259304491089
+    second: Tileset_Tailoring_Rasak_58
+  - first:
+      213: 4559100999206489536
+    second: Tileset_Tailoring_Rasak_59
+  - first:
+      213: 1889427990066194505
+    second: Tileset_Tailoring_Rasak_60
+  - first:
+      213: -3611079102996450582
+    second: Tileset_Tailoring_Rasak_61
+  - first:
+      213: -7522401200817898826
+    second: Tileset_Tailoring_Rasak_62
+  - first:
+      213: 279807377842806303
+    second: Tileset_Tailoring_Rasak_63
+  - first:
+      213: -6275062327254576364
+    second: Tileset_Tailoring_Rasak_64
+  - first:
+      213: 5757579698812909097
+    second: Tileset_Tailoring_Rasak_65
+  - first:
+      213: -2072053386991211380
+    second: Tileset_Tailoring_Rasak_66
+  - first:
+      213: 1076280572631348771
+    second: Tileset_Tailoring_Rasak_67
+  - first:
+      213: 7706762144716476387
+    second: Tileset_Tailoring_Rasak_68
+  - first:
+      213: -4880936249391442236
+    second: Tileset_Tailoring_Rasak_69
+  - first:
+      213: -6978309047903461277
+    second: Tileset_Tailoring_Rasak_70
+  - first:
+      213: -4212568869994915668
+    second: Tileset_Tailoring_Rasak_71
+  - first:
+      213: -6139251345595851885
+    second: Tileset_Tailoring_Rasak_72
+  - first:
+      213: -1866948262586505427
+    second: Tileset_Tailoring_Rasak_73
+  - first:
+      213: 3157470741732532432
+    second: Tileset_Tailoring_Rasak_74
+  - first:
+      213: 4245836454378901182
+    second: Tileset_Tailoring_Rasak_75
+  - first:
+      213: 5985284014812673368
+    second: Tileset_Tailoring_Rasak_76
+  - first:
+      213: 1225277494584308139
+    second: Tileset_Tailoring_Rasak_77
+  - first:
+      213: 4310838945959677461
+    second: Tileset_Tailoring_Rasak_78
+  - first:
+      213: 9012001003088955626
+    second: Tileset_Tailoring_Rasak_79
+  - first:
+      213: -190698180805079122
+    second: Tileset_Tailoring_Rasak_80
+  - first:
+      213: 362295278342199442
+    second: Tileset_Tailoring_Rasak_81
+  - first:
+      213: 6100312857761781366
+    second: Tileset_Tailoring_Rasak_82
+  - first:
+      213: 6604699307817188941
+    second: Tileset_Tailoring_Rasak_83
+  - first:
+      213: -1962935241118854554
+    second: Tileset_Tailoring_Rasak_84
+  - first:
+      213: 6435228256871802177
+    second: Tileset_Tailoring_Rasak_85
+  - first:
+      213: -8791749389791498993
+    second: Tileset_Tailoring_Rasak_86
+  - first:
+      213: 8330628099531874508
+    second: Tileset_Tailoring_Rasak_87
+  - first:
+      213: 1091961375979853886
+    second: Tileset_Tailoring_Rasak_88
+  - first:
+      213: 3365928991323545055
+    second: Tileset_Tailoring_Rasak_89
+  - first:
+      213: 1815513127376484537
+    second: Tileset_Tailoring_Rasak_90
+  - first:
+      213: 6682958985284806350
+    second: Tileset_Tailoring_Rasak_91
+  - first:
+      213: -7629739250442737490
+    second: Tileset_Tailoring_Rasak_92
+  - first:
+      213: -8338657928991426099
+    second: Tileset_Tailoring_Rasak_93
+  - first:
+      213: 9060055124870810822
+    second: Tileset_Tailoring_Rasak_94
+  - first:
+      213: -6312767755915805978
+    second: Tileset_Tailoring_Rasak_95
+  - first:
+      213: 143021848942034167
+    second: Tileset_Tailoring_Rasak_96
+  - first:
+      213: -78493678315764824
+    second: Tileset_Tailoring_Rasak_97
+  - first:
+      213: 7657409485373807708
+    second: Tileset_Tailoring_Rasak_98
+  - first:
+      213: -9160392023627640349
+    second: Tileset_Tailoring_Rasak_99
+  - first:
+      213: -924130856329660015
+    second: Tileset_Tailoring_Rasak_100
+  - first:
+      213: 7284092460984735892
+    second: Tileset_Tailoring_Rasak_101
+  - first:
+      213: 1702854651159653586
+    second: Tileset_Tailoring_Rasak_102
+  - first:
+      213: -5009903010396787473
+    second: Tileset_Tailoring_Rasak_103
+  - first:
+      213: 778642361397242674
+    second: Tileset_Tailoring_Rasak_104
+  - first:
+      213: -7682259722139597835
+    second: Tileset_Tailoring_Rasak_105
+  - first:
+      213: 6790871582730910522
+    second: Tileset_Tailoring_Rasak_106
+  - first:
+      213: -332257218865849841
+    second: Tileset_Tailoring_Rasak_107
+  - first:
+      213: -6627185182177689466
+    second: Tileset_Tailoring_Rasak_108
+  - first:
+      213: 3003062977302353160
+    second: Tileset_Tailoring_Rasak_109
+  - first:
+      213: -2552787139141467263
+    second: Tileset_Tailoring_Rasak_110
+  - first:
+      213: -5647883331085857493
+    second: Tileset_Tailoring_Rasak_111
+  - first:
+      213: -8621440808453123415
+    second: Tileset_Tailoring_Rasak_112
+  - first:
+      213: -6486260945781544167
+    second: Tileset_Tailoring_Rasak_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 738
+        width: 98
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f18cf1620a49ca00800000000000000
+      internalID: 777233784792449523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 704
+        width: 19
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c77de8a9e527200800000000000000
+      internalID: 176307353335331964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 704
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6556be536165f4600800000000000000
+      internalID: 454676740781598038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 747
+        width: 98
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84780715530c28a0800000000000000
+      internalID: -6328679712368855924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 697
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dc8dfb36522a850800000000000000
+      internalID: 6386708331915431272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 679
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f482ba1e3e006c710800000000000000
+      internalID: 1713057687004719183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 679
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1d0561e63e79870800000000000000
+      internalID: 8689664067994964454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 679
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e7fc600616050c0800000000000000
+      internalID: -4589060955231519190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 679
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfba0bd770bbe5af0800000000000000
+      internalID: -405681275568870403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 587
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbc8b03f8412e970800000000000000
+      internalID: 8782604828556184538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 671
+        width: 98
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828692d9944771f40800000000000000
+      internalID: 5699151712978823208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 540
+        width: 62
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8533eee23f879c0800000000000000
+      internalID: -3929123291990370065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 540
+        width: 62
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0932f21eee81790800000000000000
+      internalID: -7559029323615465257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 601
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f32c2ae8576bcf60800000000000000
+      internalID: 8055645990065808376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 583
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb30d5f14df127db0800000000000000
+      internalID: -4795735657276439620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 583
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4f8980f8ee321f0800000000000000
+      internalID: -1070749988292070151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 575
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aa8f74928c355a0800000000000000
+      internalID: -6533658554757764526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 575
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeccfe5353ec45320800000000000000
+      internalID: 2545886417304669422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 443
+        width: 124
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4c9ae67e2dd3710800000000000000
+      internalID: 1674726527887590572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 504
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a74b67e22494d440800000000000000
+      internalID: 4959751967274125216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 487
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b10ea2069e7a170800000000000000
+      internalID: 8189771046641998704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 532
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ead278248677630800000000000000
+      internalID: 3924720235221724708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 532
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc804b235e927890800000000000000
+      internalID: -7461727552554365760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 532
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9f974665a428ee0800000000000000
+      internalID: -1260363210796959260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 479
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02da44e0ed0d21be0800000000000000
+      internalID: -1507913273074995936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 479
+        width: 47
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7566a0ebd4ff31cc0800000000000000
+      internalID: -3741366156048832937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 396
+        width: 62
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f636013300a1c4b90800000000000000
+      internalID: -7256396311441677457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 396
+        width: 62
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bb260478a06d1b0800000000000000
+      internalID: -5632302707963151548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 504
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8b613d91c72ac90800000000000000
+      internalID: -7160024007208159022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 484
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be981212022d3b8d0800000000000000
+      internalID: -2831688705249277461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 484
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec5620f3ef0d81e0800000000000000
+      internalID: -2194079971798524702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 484
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc08339ce3f40f150800000000000000
+      internalID: 5904306242564882635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 299
+        width: 124
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60b587365660b990800000000000000
+      internalID: -7372280069520773011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 408
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9300592da0752f0800000000000000
+      internalID: -984306093997934127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 408
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946c2750be6522120800000000000000
+      internalID: 2387566319868495433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 396
+        width: 21
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041e5a7c1649698f0800000000000000
+      internalID: -534076358114549440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 396
+        width: 21
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8914debfa7b6540800000000000000
+      internalID: 5002227033560946875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 396
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160724c7f73831b50800000000000000
+      internalID: 6562733665577758817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 396
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a50803786079d50800000000000000
+      internalID: 6743866144714676877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 396
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da92171648895a50800000000000000
+      internalID: 6510384570956946129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 396
+        width: 34
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238d58717584be470800000000000000
+      internalID: 8424907066820646962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 383
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7a6d2985b2b7ea0800000000000000
+      internalID: -5874053629554022490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 383
+        width: 47
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02421551a9608c890800000000000000
+      internalID: -7437687525750004704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 252
+        width: 52
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4e25fe2a9eaed80800000000000000
+      internalID: -8220501283802258243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 253
+        width: 50
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef26c169a6e16200800000000000000
+      internalID: 171671875981029358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 290
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f93491f11d3e710800000000000000
+      internalID: 1721449414083714826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 308
+        width: 19
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b49659b46a26eb0800000000000000
+      internalID: -4728033815226135763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 308
+        width: 19
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f57d9533c7c72200800000000000000
+      internalID: 155312353399633401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 308
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac77329c357febc20800000000000000
+      internalID: 3224286322472744906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 308
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dc62ca4c867aa20800000000000000
+      internalID: 3073540464614755587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 308
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0331020d586ed19a0800000000000000
+      internalID: -6260594444578319568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 308
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bf034db9b9672c0800000000000000
+      internalID: -4434185689517458561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 287
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d0ac74aee79e5f0800000000000000
+      internalID: -726910320151753426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 287
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13777d444f04db7c0800000000000000
+      internalID: -4054012671692409039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 145
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0749bafa832de00b0800000000000000
+      internalID: -5760435732453026704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 194
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21141a7572d9d35a0800000000000000
+      internalID: -6539898291572621038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 248
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730e99ae17a72eb90800000000000000
+      internalID: -7214069023408267209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 248
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b1ba0eaf94f80d0800000000000000
+      internalID: -3418432250290955401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_58
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 248
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1582e50a88e606c00800000000000000
+      internalID: 891834259304491089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_59
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 218
+        width: 241
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdc4d0243e254f30800000000000000
+      internalID: 4559100999206489536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_60
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 231
+        width: 146
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94863901fb8983a10800000000000000
+      internalID: 1889427990066194505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_61
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 200
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae27f0a20bed2edc0800000000000000
+      internalID: -3611079102996450582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_62
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 200
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baf64796ff0b9790800000000000000
+      internalID: -7522401200817898826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_63
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 200
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e9ad1e35312e300800000000000000
+      internalID: 279807377842806303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 143
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4131e806f008ae8a0800000000000000
+      internalID: -6275062327254576364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_65
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 129
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9267eb92b3807ef40800000000000000
+      internalID: 5757579698812909097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_66
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 160
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c6eb83c669e33e0800000000000000
+      internalID: -2072053386991211380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_67
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 151
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326785a7a77bfee00800000000000000
+      internalID: 1076280572631348771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_68
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 151
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efc044a65be3fa60800000000000000
+      internalID: 7706762144716476387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 95
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c612bb675e634cb0800000000000000
+      internalID: -4880936249391442236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_70
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 145
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360e1d2c4e0182f90800000000000000
+      internalID: -6978309047903461277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_71
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 115
+        width: 146
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca895109ee2f985c0800000000000000
+      internalID: -4212568869994915668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_72
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 116
+        width: 97
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b9be6ad6ffccaa0800000000000000
+      internalID: -6139251345595851885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_73
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 110
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27af7a52744716e0800000000000000
+      internalID: -1866948262586505427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_74
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 116
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d028ad19e691db20800000000000000
+      internalID: 3157470741732532432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_75
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 120
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe88a582cd3cea30800000000000000
+      internalID: 4245836454378901182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_76
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 118
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855bbbe9910001350800000000000000
+      internalID: 5985284014812673368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_77
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 118
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba17af7b36f010110800000000000000
+      internalID: 1225277494584308139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_78
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 117
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e88d97e2d23db30800000000000000
+      internalID: 4310838945959677461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 95
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8c4982a2f011d70800000000000000
+      internalID: 9012001003088955626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_80
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 131
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafccc1d3018a5df0800000000000000
+      internalID: -190698180805079122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_81
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 131
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2985369d2a1270500800000000000000
+      internalID: 362295278342199442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_82
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 129
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67693a9293aa8a450800000000000000
+      internalID: 6100312857761781366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_83
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 129
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e36baf60b98ab50800000000000000
+      internalID: 6604699307817188941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_84
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 103
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662d30c5cc042c4e0800000000000000
+      internalID: -1962935241118854554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_85
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 127
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145666b11068e4950800000000000000
+      internalID: 6435228256871802177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_86
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 103
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d683bb28e6df580800000000000000
+      internalID: -8791749389791498993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_87
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 54
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc02c747e165c9370800000000000000
+      internalID: 8330628099531874508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38d9b3061d672f00800000000000000
+      internalID: 1091961375979853886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_89
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 52
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd570b859e26be20800000000000000
+      internalID: 3365928991323545055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_90
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 79
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b87552029ff13910800000000000000
+      internalID: 1815513127376484537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_91
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 83
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6e76e0ac3aebc50800000000000000
+      internalID: 6682958985284806350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_92
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 69
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea861886398bd1690800000000000000
+      internalID: -7629739250442737490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9b8fe2bc2274c80800000000000000
+      internalID: -8338657928991426099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccc1634228cbbd70800000000000000
+      internalID: 9060055124870810822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_95
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea39172c2b8468a0800000000000000
+      internalID: -6312767755915805978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_96
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc3f452d9d1cf100800000000000000
+      internalID: 143021848942034167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a300ea5a6229eef0800000000000000
+      internalID: -78493678315764824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_98
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 62
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c99633b55944a60800000000000000
+      internalID: 7657409485373807708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_99
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 54
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e15a540dffbfd080800000000000000
+      internalID: -9160392023627640349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_100
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 55
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1993e76e1e3dc23f0800000000000000
+      internalID: -924130856329660015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_101
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 27
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4989810208b461560800000000000000
+      internalID: 7284092460984735892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_102
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 27
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc2e7a7841c1a710800000000000000
+      internalID: 1702854651159653586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_103
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 8
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feca32271cf397ab0800000000000000
+      internalID: -5009903010396787473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_104
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 27
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b672e2a1b4eca00800000000000000
+      internalID: 778642361397242674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_105
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 26
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3049d2c71236590800000000000000
+      internalID: -7682259722139597835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 15
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b78f399b50e3e50800000000000000
+      internalID: 6790871582730910522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_107
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 20
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a117fd1d5936bf0800000000000000
+      internalID: -332257218865849841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_108
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 33
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680019b60328704a0800000000000000
+      internalID: -6627185182177689466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_109
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 30
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805db30fdd50da920800000000000000
+      internalID: 3003062977302353160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_110
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 29
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18389484f9da29cd0800000000000000
+      internalID: -2552787139141467263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_111
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 14
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d07cdb800be91b0800000000000000
+      internalID: -5647883331085857493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_112
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 6
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a25818534d7a5880800000000000000
+      internalID: -8621440808453123415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Tailoring_Rasak_113
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ba336190c2cf5a0800000000000000
+      internalID: -6486260945781544167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Tailoring_Rasak_0: 777233784792449523
+      Tileset_Tailoring_Rasak_1: 176307353335331964
+      Tileset_Tailoring_Rasak_10: 5699151712978823208
+      Tileset_Tailoring_Rasak_100: -924130856329660015
+      Tileset_Tailoring_Rasak_101: 7284092460984735892
+      Tileset_Tailoring_Rasak_102: 1702854651159653586
+      Tileset_Tailoring_Rasak_103: -5009903010396787473
+      Tileset_Tailoring_Rasak_104: 778642361397242674
+      Tileset_Tailoring_Rasak_105: -7682259722139597835
+      Tileset_Tailoring_Rasak_106: 6790871582730910522
+      Tileset_Tailoring_Rasak_107: -332257218865849841
+      Tileset_Tailoring_Rasak_108: -6627185182177689466
+      Tileset_Tailoring_Rasak_109: 3003062977302353160
+      Tileset_Tailoring_Rasak_11: -3929123291990370065
+      Tileset_Tailoring_Rasak_110: -2552787139141467263
+      Tileset_Tailoring_Rasak_111: -5647883331085857493
+      Tileset_Tailoring_Rasak_112: -8621440808453123415
+      Tileset_Tailoring_Rasak_113: -6486260945781544167
+      Tileset_Tailoring_Rasak_12: -7559029323615465257
+      Tileset_Tailoring_Rasak_13: 8055645990065808376
+      Tileset_Tailoring_Rasak_14: -4795735657276439620
+      Tileset_Tailoring_Rasak_15: -1070749988292070151
+      Tileset_Tailoring_Rasak_16: -6533658554757764526
+      Tileset_Tailoring_Rasak_17: 2545886417304669422
+      Tileset_Tailoring_Rasak_18: 1674726527887590572
+      Tileset_Tailoring_Rasak_19: 4959751967274125216
+      Tileset_Tailoring_Rasak_2: 454676740781598038
+      Tileset_Tailoring_Rasak_20: 8189771046641998704
+      Tileset_Tailoring_Rasak_21: 3924720235221724708
+      Tileset_Tailoring_Rasak_22: -7461727552554365760
+      Tileset_Tailoring_Rasak_23: -1260363210796959260
+      Tileset_Tailoring_Rasak_24: -1507913273074995936
+      Tileset_Tailoring_Rasak_25: -3741366156048832937
+      Tileset_Tailoring_Rasak_26: -7256396311441677457
+      Tileset_Tailoring_Rasak_27: -5632302707963151548
+      Tileset_Tailoring_Rasak_28: -7160024007208159022
+      Tileset_Tailoring_Rasak_29: -2831688705249277461
+      Tileset_Tailoring_Rasak_3: -6328679712368855924
+      Tileset_Tailoring_Rasak_30: -2194079971798524702
+      Tileset_Tailoring_Rasak_31: 5904306242564882635
+      Tileset_Tailoring_Rasak_32: -7372280069520773011
+      Tileset_Tailoring_Rasak_33: -984306093997934127
+      Tileset_Tailoring_Rasak_34: 2387566319868495433
+      Tileset_Tailoring_Rasak_35: -534076358114549440
+      Tileset_Tailoring_Rasak_36: 5002227033560946875
+      Tileset_Tailoring_Rasak_37: 6562733665577758817
+      Tileset_Tailoring_Rasak_38: 6743866144714676877
+      Tileset_Tailoring_Rasak_39: 6510384570956946129
+      Tileset_Tailoring_Rasak_4: 6386708331915431272
+      Tileset_Tailoring_Rasak_40: 8424907066820646962
+      Tileset_Tailoring_Rasak_41: -5874053629554022490
+      Tileset_Tailoring_Rasak_42: -7437687525750004704
+      Tileset_Tailoring_Rasak_43: -8220501283802258243
+      Tileset_Tailoring_Rasak_44: 171671875981029358
+      Tileset_Tailoring_Rasak_45: 1721449414083714826
+      Tileset_Tailoring_Rasak_46: -4728033815226135763
+      Tileset_Tailoring_Rasak_47: 155312353399633401
+      Tileset_Tailoring_Rasak_48: 3224286322472744906
+      Tileset_Tailoring_Rasak_49: 3073540464614755587
+      Tileset_Tailoring_Rasak_5: 1713057687004719183
+      Tileset_Tailoring_Rasak_50: -6260594444578319568
+      Tileset_Tailoring_Rasak_51: -4434185689517458561
+      Tileset_Tailoring_Rasak_52: -726910320151753426
+      Tileset_Tailoring_Rasak_53: -4054012671692409039
+      Tileset_Tailoring_Rasak_54: -5760435732453026704
+      Tileset_Tailoring_Rasak_55: -6539898291572621038
+      Tileset_Tailoring_Rasak_56: -7214069023408267209
+      Tileset_Tailoring_Rasak_57: -3418432250290955401
+      Tileset_Tailoring_Rasak_58: 891834259304491089
+      Tileset_Tailoring_Rasak_59: 4559100999206489536
+      Tileset_Tailoring_Rasak_6: 8689664067994964454
+      Tileset_Tailoring_Rasak_60: 1889427990066194505
+      Tileset_Tailoring_Rasak_61: -3611079102996450582
+      Tileset_Tailoring_Rasak_62: -7522401200817898826
+      Tileset_Tailoring_Rasak_63: 279807377842806303
+      Tileset_Tailoring_Rasak_64: -6275062327254576364
+      Tileset_Tailoring_Rasak_65: 5757579698812909097
+      Tileset_Tailoring_Rasak_66: -2072053386991211380
+      Tileset_Tailoring_Rasak_67: 1076280572631348771
+      Tileset_Tailoring_Rasak_68: 7706762144716476387
+      Tileset_Tailoring_Rasak_69: -4880936249391442236
+      Tileset_Tailoring_Rasak_7: -4589060955231519190
+      Tileset_Tailoring_Rasak_70: -6978309047903461277
+      Tileset_Tailoring_Rasak_71: -4212568869994915668
+      Tileset_Tailoring_Rasak_72: -6139251345595851885
+      Tileset_Tailoring_Rasak_73: -1866948262586505427
+      Tileset_Tailoring_Rasak_74: 3157470741732532432
+      Tileset_Tailoring_Rasak_75: 4245836454378901182
+      Tileset_Tailoring_Rasak_76: 5985284014812673368
+      Tileset_Tailoring_Rasak_77: 1225277494584308139
+      Tileset_Tailoring_Rasak_78: 4310838945959677461
+      Tileset_Tailoring_Rasak_79: 9012001003088955626
+      Tileset_Tailoring_Rasak_8: -405681275568870403
+      Tileset_Tailoring_Rasak_80: -190698180805079122
+      Tileset_Tailoring_Rasak_81: 362295278342199442
+      Tileset_Tailoring_Rasak_82: 6100312857761781366
+      Tileset_Tailoring_Rasak_83: 6604699307817188941
+      Tileset_Tailoring_Rasak_84: -1962935241118854554
+      Tileset_Tailoring_Rasak_85: 6435228256871802177
+      Tileset_Tailoring_Rasak_86: -8791749389791498993
+      Tileset_Tailoring_Rasak_87: 8330628099531874508
+      Tileset_Tailoring_Rasak_88: 1091961375979853886
+      Tileset_Tailoring_Rasak_89: 3365928991323545055
+      Tileset_Tailoring_Rasak_9: 8782604828556184538
+      Tileset_Tailoring_Rasak_90: 1815513127376484537
+      Tileset_Tailoring_Rasak_91: 6682958985284806350
+      Tileset_Tailoring_Rasak_92: -7629739250442737490
+      Tileset_Tailoring_Rasak_93: -8338657928991426099
+      Tileset_Tailoring_Rasak_94: 9060055124870810822
+      Tileset_Tailoring_Rasak_95: -6312767755915805978
+      Tileset_Tailoring_Rasak_96: 143021848942034167
+      Tileset_Tailoring_Rasak_97: -78493678315764824
+      Tileset_Tailoring_Rasak_98: 7657409485373807708
+      Tileset_Tailoring_Rasak_99: -9160392023627640349
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

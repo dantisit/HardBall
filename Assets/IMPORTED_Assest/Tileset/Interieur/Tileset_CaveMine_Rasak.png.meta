@@ -1,0 +1,4355 @@
+fileFormatVersion: 2
+guid: 3deb68b92dfbe8d42839c36f2ff9f7e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2468288355747389056
+    second: Tileset_CaveMine_Rasak_0
+  - first:
+      213: -786729657210480780
+    second: Tileset_CaveMine_Rasak_1
+  - first:
+      213: 7227435829396186285
+    second: Tileset_CaveMine_Rasak_2
+  - first:
+      213: -4346452288972296935
+    second: Tileset_CaveMine_Rasak_3
+  - first:
+      213: 8727179212782784359
+    second: Tileset_CaveMine_Rasak_4
+  - first:
+      213: -7744821688236664816
+    second: Tileset_CaveMine_Rasak_5
+  - first:
+      213: 3719991503711251927
+    second: Tileset_CaveMine_Rasak_6
+  - first:
+      213: -4331225603094487665
+    second: Tileset_CaveMine_Rasak_7
+  - first:
+      213: 4504430851977669648
+    second: Tileset_CaveMine_Rasak_8
+  - first:
+      213: 8005895724881706398
+    second: Tileset_CaveMine_Rasak_9
+  - first:
+      213: 7803514564323061297
+    second: Tileset_CaveMine_Rasak_10
+  - first:
+      213: -7131897325244586649
+    second: Tileset_CaveMine_Rasak_11
+  - first:
+      213: -8905657154612804102
+    second: Tileset_CaveMine_Rasak_12
+  - first:
+      213: -8252803473553837117
+    second: Tileset_CaveMine_Rasak_13
+  - first:
+      213: 8011606598578295324
+    second: Tileset_CaveMine_Rasak_14
+  - first:
+      213: 5635817538072601411
+    second: Tileset_CaveMine_Rasak_15
+  - first:
+      213: 7588618224303950307
+    second: Tileset_CaveMine_Rasak_16
+  - first:
+      213: -7984426619612336829
+    second: Tileset_CaveMine_Rasak_17
+  - first:
+      213: 7896293914920918214
+    second: Tileset_CaveMine_Rasak_18
+  - first:
+      213: -2023634610072282360
+    second: Tileset_CaveMine_Rasak_19
+  - first:
+      213: -9170364953727270491
+    second: Tileset_CaveMine_Rasak_20
+  - first:
+      213: 8598332121530263701
+    second: Tileset_CaveMine_Rasak_21
+  - first:
+      213: 5527261338979979841
+    second: Tileset_CaveMine_Rasak_22
+  - first:
+      213: 8161454970552409579
+    second: Tileset_CaveMine_Rasak_23
+  - first:
+      213: 6318063203678934436
+    second: Tileset_CaveMine_Rasak_24
+  - first:
+      213: 381826023127671431
+    second: Tileset_CaveMine_Rasak_25
+  - first:
+      213: 8382977218778763966
+    second: Tileset_CaveMine_Rasak_26
+  - first:
+      213: -1386456333374849404
+    second: Tileset_CaveMine_Rasak_27
+  - first:
+      213: 8386870128004178505
+    second: Tileset_CaveMine_Rasak_28
+  - first:
+      213: -6784959180173234813
+    second: Tileset_CaveMine_Rasak_29
+  - first:
+      213: 3474258956767760209
+    second: Tileset_CaveMine_Rasak_30
+  - first:
+      213: 3612817194585992576
+    second: Tileset_CaveMine_Rasak_31
+  - first:
+      213: 3930407029317408764
+    second: Tileset_CaveMine_Rasak_32
+  - first:
+      213: -8630635588539846316
+    second: Tileset_CaveMine_Rasak_33
+  - first:
+      213: 5729715145230708935
+    second: Tileset_CaveMine_Rasak_34
+  - first:
+      213: -2006328699856182480
+    second: Tileset_CaveMine_Rasak_35
+  - first:
+      213: 8856016631178695175
+    second: Tileset_CaveMine_Rasak_36
+  - first:
+      213: 3366995444182439984
+    second: Tileset_CaveMine_Rasak_37
+  - first:
+      213: -2792792014620172108
+    second: Tileset_CaveMine_Rasak_38
+  - first:
+      213: 1568646589467629721
+    second: Tileset_CaveMine_Rasak_39
+  - first:
+      213: -681161987448657781
+    second: Tileset_CaveMine_Rasak_40
+  - first:
+      213: -1361350999797885521
+    second: Tileset_CaveMine_Rasak_41
+  - first:
+      213: -2188647517997851071
+    second: Tileset_CaveMine_Rasak_42
+  - first:
+      213: 6656911637577427151
+    second: Tileset_CaveMine_Rasak_43
+  - first:
+      213: 4825684193649029688
+    second: Tileset_CaveMine_Rasak_44
+  - first:
+      213: -2384462329402274700
+    second: Tileset_CaveMine_Rasak_45
+  - first:
+      213: -3734034612315176718
+    second: Tileset_CaveMine_Rasak_46
+  - first:
+      213: 8119790947468366182
+    second: Tileset_CaveMine_Rasak_47
+  - first:
+      213: -484328431214081241
+    second: Tileset_CaveMine_Rasak_48
+  - first:
+      213: -5485517441217695314
+    second: Tileset_CaveMine_Rasak_49
+  - first:
+      213: -6053515748084120707
+    second: Tileset_CaveMine_Rasak_50
+  - first:
+      213: -6297416557975971309
+    second: Tileset_CaveMine_Rasak_51
+  - first:
+      213: -4685664103352661500
+    second: Tileset_CaveMine_Rasak_52
+  - first:
+      213: -6307515526766751349
+    second: Tileset_CaveMine_Rasak_53
+  - first:
+      213: -8951647051962879448
+    second: Tileset_CaveMine_Rasak_54
+  - first:
+      213: -4672563066496231808
+    second: Tileset_CaveMine_Rasak_55
+  - first:
+      213: -1871720794798776308
+    second: Tileset_CaveMine_Rasak_56
+  - first:
+      213: -7271593238905028334
+    second: Tileset_CaveMine_Rasak_57
+  - first:
+      213: 5630741403353037781
+    second: Tileset_CaveMine_Rasak_58
+  - first:
+      213: 8114339636118950528
+    second: Tileset_CaveMine_Rasak_59
+  - first:
+      213: 2506416929115148367
+    second: Tileset_CaveMine_Rasak_60
+  - first:
+      213: -1078937477901223757
+    second: Tileset_CaveMine_Rasak_61
+  - first:
+      213: 1890345892928709802
+    second: Tileset_CaveMine_Rasak_62
+  - first:
+      213: -6752534475964989844
+    second: Tileset_CaveMine_Rasak_63
+  - first:
+      213: -6778113988670360282
+    second: Tileset_CaveMine_Rasak_64
+  - first:
+      213: 7997512218035377768
+    second: Tileset_CaveMine_Rasak_65
+  - first:
+      213: 2912635018588343526
+    second: Tileset_CaveMine_Rasak_66
+  - first:
+      213: -3845414955778373274
+    second: Tileset_CaveMine_Rasak_67
+  - first:
+      213: 6079720004597042410
+    second: Tileset_CaveMine_Rasak_68
+  - first:
+      213: -7523770963877877330
+    second: Tileset_CaveMine_Rasak_69
+  - first:
+      213: 1760493424945945784
+    second: Tileset_CaveMine_Rasak_70
+  - first:
+      213: -1382729791989231750
+    second: Tileset_CaveMine_Rasak_71
+  - first:
+      213: 7071394190576957217
+    second: Tileset_CaveMine_Rasak_72
+  - first:
+      213: 1870802957272416800
+    second: Tileset_CaveMine_Rasak_73
+  - first:
+      213: -2478358284106597602
+    second: Tileset_CaveMine_Rasak_74
+  - first:
+      213: -7709159171101315053
+    second: Tileset_CaveMine_Rasak_75
+  - first:
+      213: -7234296590085508006
+    second: Tileset_CaveMine_Rasak_76
+  - first:
+      213: 8589747152708090210
+    second: Tileset_CaveMine_Rasak_77
+  - first:
+      213: 5366145948672039119
+    second: Tileset_CaveMine_Rasak_78
+  - first:
+      213: 7359284318778634478
+    second: Tileset_CaveMine_Rasak_79
+  - first:
+      213: 5750961057379798437
+    second: Tileset_CaveMine_Rasak_80
+  - first:
+      213: 4730206767405901026
+    second: Tileset_CaveMine_Rasak_81
+  - first:
+      213: 6088798854109082252
+    second: Tileset_CaveMine_Rasak_82
+  - first:
+      213: -7552159093757501701
+    second: Tileset_CaveMine_Rasak_83
+  - first:
+      213: 8247726961561742210
+    second: Tileset_CaveMine_Rasak_84
+  - first:
+      213: -4177686295113587550
+    second: Tileset_CaveMine_Rasak_85
+  - first:
+      213: 49967914126099651
+    second: Tileset_CaveMine_Rasak_86
+  - first:
+      213: 8030540323160629062
+    second: Tileset_CaveMine_Rasak_87
+  - first:
+      213: -1697645005118983329
+    second: Tileset_CaveMine_Rasak_88
+  - first:
+      213: 4265616806286052038
+    second: Tileset_CaveMine_Rasak_89
+  - first:
+      213: 5549829655517725496
+    second: Tileset_CaveMine_Rasak_90
+  - first:
+      213: -8530649055741637715
+    second: Tileset_CaveMine_Rasak_91
+  - first:
+      213: -1981958932396258404
+    second: Tileset_CaveMine_Rasak_92
+  - first:
+      213: 7315251954388177117
+    second: Tileset_CaveMine_Rasak_93
+  - first:
+      213: 4756538084175218658
+    second: Tileset_CaveMine_Rasak_94
+  - first:
+      213: -3119609186727791912
+    second: Tileset_CaveMine_Rasak_95
+  - first:
+      213: -6927210937116515380
+    second: Tileset_CaveMine_Rasak_96
+  - first:
+      213: 2693571527158371346
+    second: Tileset_CaveMine_Rasak_97
+  - first:
+      213: 7094565443177261171
+    second: Tileset_CaveMine_Rasak_98
+  - first:
+      213: 8930369568813493107
+    second: Tileset_CaveMine_Rasak_99
+  - first:
+      213: 8351774409339679359
+    second: Tileset_CaveMine_Rasak_100
+  - first:
+      213: 806998768382874166
+    second: Tileset_CaveMine_Rasak_101
+  - first:
+      213: 2872859474865023721
+    second: Tileset_CaveMine_Rasak_102
+  - first:
+      213: -6675068543223139715
+    second: Tileset_CaveMine_Rasak_103
+  - first:
+      213: -1793674242402477799
+    second: Tileset_CaveMine_Rasak_104
+  - first:
+      213: -4293623381593795469
+    second: Tileset_CaveMine_Rasak_105
+  - first:
+      213: 7623918527646049482
+    second: Tileset_CaveMine_Rasak_106
+  - first:
+      213: 1044733282649460212
+    second: Tileset_CaveMine_Rasak_107
+  - first:
+      213: -5159089618082478930
+    second: Tileset_CaveMine_Rasak_108
+  - first:
+      213: -3417149618967842383
+    second: Tileset_CaveMine_Rasak_109
+  - first:
+      213: -9007468707092912742
+    second: Tileset_CaveMine_Rasak_110
+  - first:
+      213: 8128283501056158475
+    second: Tileset_CaveMine_Rasak_111
+  - first:
+      213: 3503531919604521035
+    second: Tileset_CaveMine_Rasak_112
+  - first:
+      213: 6569096455013431024
+    second: Tileset_CaveMine_Rasak_113
+  - first:
+      213: 4972709123331643078
+    second: Tileset_CaveMine_Rasak_114
+  - first:
+      213: -7918024247620059945
+    second: Tileset_CaveMine_Rasak_115
+  - first:
+      213: 5744510858181362763
+    second: Tileset_CaveMine_Rasak_116
+  - first:
+      213: 1052152647747632770
+    second: Tileset_CaveMine_Rasak_117
+  - first:
+      213: -3125812607101440956
+    second: Tileset_CaveMine_Rasak_118
+  - first:
+      213: 1138865778469642049
+    second: Tileset_CaveMine_Rasak_119
+  - first:
+      213: -9066472223043051573
+    second: Tileset_CaveMine_Rasak_120
+  - first:
+      213: 943875137238015828
+    second: Tileset_CaveMine_Rasak_121
+  - first:
+      213: 592863058570489515
+    second: Tileset_CaveMine_Rasak_122
+  - first:
+      213: -1364913607397627610
+    second: Tileset_CaveMine_Rasak_123
+  - first:
+      213: -6043873254720152798
+    second: Tileset_CaveMine_Rasak_124
+  - first:
+      213: 8401977625087715287
+    second: Tileset_CaveMine_Rasak_125
+  - first:
+      213: 1286538119385642677
+    second: Tileset_CaveMine_Rasak_126
+  - first:
+      213: -5454144617115002463
+    second: Tileset_CaveMine_Rasak_127
+  - first:
+      213: 4639498551013026527
+    second: Tileset_CaveMine_Rasak_128
+  - first:
+      213: 2262731044179839399
+    second: Tileset_CaveMine_Rasak_129
+  - first:
+      213: -8674198553519274545
+    second: Tileset_CaveMine_Rasak_130
+  - first:
+      213: 3658504002591354362
+    second: Tileset_CaveMine_Rasak_131
+  - first:
+      213: 3019388639822367712
+    second: Tileset_CaveMine_Rasak_132
+  - first:
+      213: 2064940894729516736
+    second: Tileset_CaveMine_Rasak_133
+  - first:
+      213: -7961809361716072985
+    second: Tileset_CaveMine_Rasak_134
+  - first:
+      213: 237467699430688384
+    second: Tileset_CaveMine_Rasak_135
+  - first:
+      213: -8286709556712016421
+    second: Tileset_CaveMine_Rasak_136
+  - first:
+      213: 2895913364870274653
+    second: Tileset_CaveMine_Rasak_137
+  - first:
+      213: -5649329674500692089
+    second: Tileset_CaveMine_Rasak_138
+  - first:
+      213: -494602932981597469
+    second: Tileset_CaveMine_Rasak_139
+  - first:
+      213: -7720764314530725786
+    second: Tileset_CaveMine_Rasak_140
+  - first:
+      213: -3100038064648027239
+    second: Tileset_CaveMine_Rasak_141
+  - first:
+      213: -3945813635196862728
+    second: Tileset_CaveMine_Rasak_142
+  - first:
+      213: -3217504826798797513
+    second: Tileset_CaveMine_Rasak_143
+  - first:
+      213: 7258752831632565350
+    second: Tileset_CaveMine_Rasak_144
+  - first:
+      213: -4957328577329911941
+    second: Tileset_CaveMine_Rasak_145
+  - first:
+      213: -2265211937455677906
+    second: Tileset_CaveMine_Rasak_146
+  - first:
+      213: 1701233458009748160
+    second: Tileset_CaveMine_Rasak_147
+  - first:
+      213: 3458671807674958086
+    second: Tileset_CaveMine_Rasak_148
+  - first:
+      213: 3730222799221808196
+    second: Tileset_CaveMine_Rasak_149
+  - first:
+      213: -6177865353848672469
+    second: Tileset_CaveMine_Rasak_150
+  - first:
+      213: -7959529336138529539
+    second: Tileset_CaveMine_Rasak_151
+  - first:
+      213: -6541043635889259885
+    second: Tileset_CaveMine_Rasak_152
+  - first:
+      213: -7425789098887423210
+    second: Tileset_CaveMine_Rasak_153
+  - first:
+      213: 7625636147545490130
+    second: Tileset_CaveMine_Rasak_154
+  - first:
+      213: 8217420200352606041
+    second: Tileset_CaveMine_Rasak_155
+  - first:
+      213: 8624806587944212847
+    second: Tileset_CaveMine_Rasak_156
+  - first:
+      213: -1484331664437688409
+    second: Tileset_CaveMine_Rasak_157
+  - first:
+      213: 6725997745950458546
+    second: Tileset_CaveMine_Rasak_158
+  - first:
+      213: -3882582249381446511
+    second: Tileset_CaveMine_Rasak_159
+  - first:
+      213: 3270583948355907230
+    second: Tileset_CaveMine_Rasak_160
+  - first:
+      213: 4670601763129134344
+    second: Tileset_CaveMine_Rasak_161
+  - first:
+      213: -6910290189861822626
+    second: Tileset_CaveMine_Rasak_162
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 337
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e5e879e2f114220800000000000000
+      internalID: 2468288355747389056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 673
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47754b78b89f415f0800000000000000
+      internalID: -786729657210480780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 719
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4271028920d4460800000000000000
+      internalID: 7227435829396186285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 671
+        width: 129
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d6f92fbac4ea3c0800000000000000
+      internalID: -4346452288972296935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 672
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f4715614b2d1970800000000000000
+      internalID: 8727179212782784359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 722
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01899e755bdd48490800000000000000
+      internalID: -7744821688236664816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 719
+        width: 92
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd2e22309010a330800000000000000
+      internalID: 3719991503711251927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 685
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dd975034564e3c0800000000000000
+      internalID: -4331225603094487665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 671
+        width: 145
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c607f8ef3f28e30800000000000000
+      internalID: 4504430851977669648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 577
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d7466aeb7aa1f60800000000000000
+      internalID: 8005895724881706398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 527
+        width: 178
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e2016c627ab4c60800000000000000
+      internalID: 7803514564323061297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 637
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765ec3a4b29660d90800000000000000
+      internalID: -7131897325244586649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 637
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af543e78000c86480800000000000000
+      internalID: -8905657154612804102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 623
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3b6bd47f6287d80800000000000000
+      internalID: -8252803473553837117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 637
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c125f6c01c1fe2f60800000000000000
+      internalID: 8011606598578295324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 637
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343ebb7e032763e40800000000000000
+      internalID: 5635817538072601411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 623
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e941bb9110305960800000000000000
+      internalID: 7588618224303950307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 527
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d65d2fa4e913190800000000000000
+      internalID: -7984426619612336829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 527
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc90f0ba75459d60800000000000000
+      internalID: 7896293914920918214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 527
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b94773b0b9ae3e0800000000000000
+      internalID: -2023634610072282360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 527
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1056849a15cb080800000000000000
+      internalID: -9170364953727270491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 527
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59864a43289635770800000000000000
+      internalID: 8598332121530263701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 527
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142d6a237e6c4bc40800000000000000
+      internalID: 5527261338979979841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 503
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed5f12fd00534170800000000000000
+      internalID: 8161454970552409579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 479
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5dfbb52054ea750800000000000000
+      internalID: 6318063203678934436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 479
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782668abeb48c4500800000000000000
+      internalID: 381826023127671431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 479
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb210859d51565470800000000000000
+      internalID: 8382977218778763966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 431
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ef9908f4152cce0800000000000000
+      internalID: -1386456333374849404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 431
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942260522f5246470800000000000000
+      internalID: 8386870128004178505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 431
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38daf3ae29bf6d1a0800000000000000
+      internalID: -6784959180173234813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 431
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f8cdf1d1c073030800000000000000
+      internalID: 3474258956767760209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 431
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08da8b1d81e432230800000000000000
+      internalID: 3612817194585992576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 431
+        width: 112
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf799257e5c9b8630800000000000000
+      internalID: 3930407029317408764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 431
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451fc37c8a2d93880800000000000000
+      internalID: -8630635588539846316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 431
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0f6a73199048f40800000000000000
+      internalID: 5729715145230708935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 431
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033a66e6da61824e0800000000000000
+      internalID: -2006328699856182480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 396
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7029b527434e6ea70800000000000000
+      internalID: 8856016631178695175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 408
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0385ad27488f9be20800000000000000
+      internalID: 3366995444182439984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 401
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b06405a5720e39d0800000000000000
+      internalID: -2792792014620172108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 401
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998985713c3f4c510800000000000000
+      internalID: 1568646589467629721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 401
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88af9708c60c86f0800000000000000
+      internalID: -681161987448657781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 405
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa59c6a7a728b1de0800000000000000
+      internalID: -1361350999797885521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 413
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e9237adac50a1e0800000000000000
+      internalID: -2188647517997851071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 410
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc867f25dd9126c50800000000000000
+      internalID: 6656911637577427151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 405
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832faa0e43648f240800000000000000
+      internalID: 4825684193649029688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 413
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c4da31520b8eed0800000000000000
+      internalID: -2384462329402274700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 410
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0c0f9cd4b0e2cc0800000000000000
+      internalID: -3734034612315176718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 405
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661d842a8da4fa070800000000000000
+      internalID: 8119790947468366182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 413
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bccde9bd15749f0800000000000000
+      internalID: -484328431214081241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 410
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1720363f68fd3b0800000000000000
+      internalID: -5485517441217695314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 405
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73863100879dfba0800000000000000
+      internalID: -6053515748084120707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 413
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31add2371051b98a0800000000000000
+      internalID: -6297416557975971309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 410
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a8dded25d29feb0800000000000000
+      internalID: -4685664103352661500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 405
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b819ecb0c043778a0800000000000000
+      internalID: -6307515526766751349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 413
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82274112f6c55c380800000000000000
+      internalID: -8951647051962879448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 410
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086d1e6b5a8b72fb0800000000000000
+      internalID: -4672563066496231808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 379
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00ae4b9adf4606e0800000000000000
+      internalID: -1871720794798776308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 388
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2110febc97c161b90800000000000000
+      internalID: -7271593238905028334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_58
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 388
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db31f03979642e40800000000000000
+      internalID: 5630741403353037781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_59
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 388
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0821ebd48eceb9070800000000000000
+      internalID: 8114339636118950528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_60
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 390
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f401feedae498c220800000000000000
+      internalID: 2506416929115148367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_61
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 387
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b877de8418d601f0800000000000000
+      internalID: -1078937477901223757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_62
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 390
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa462aaf29bdb3a10800000000000000
+      internalID: 1890345892928709802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_63
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 387
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e378aabad2a42a0800000000000000
+      internalID: -6752534475964989844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_64
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 390
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62572324d3d4fe1a0800000000000000
+      internalID: -6778113988670360282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_65
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 387
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86658da5dfedcfe60800000000000000
+      internalID: 7997512218035377768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_66
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 390
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec425b1e12cb6820800000000000000
+      internalID: 2912635018588343526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_67
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 387
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6690bdab87752aac0800000000000000
+      internalID: -3845414955778373274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_68
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 390
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecc7d7e1218f5450800000000000000
+      internalID: 6079720004597042410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_69
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 387
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea929a6cb22369790800000000000000
+      internalID: -7523770963877877330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_70
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 360
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc505741778e6810800000000000000
+      internalID: 1760493424945945784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_71
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 351
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fc128849e8fcce0800000000000000
+      internalID: -1382729791989231750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_72
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 353
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127b91cec83a22260800000000000000
+      internalID: 7071394190576957217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_73
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 353
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02209f0b06d66f910800000000000000
+      internalID: 1870802957272416800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_74
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 353
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bfda1854a1b9dd0800000000000000
+      internalID: -2478358284106597602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_75
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 340
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310bf892490930590800000000000000
+      internalID: -7709159171101315053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_76
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 340
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54322c849d9a9b90800000000000000
+      internalID: -7234296590085508006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_77
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 340
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269b6936689e43770800000000000000
+      internalID: 8589747152708090210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_78
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 340
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc89f7b2f41687a40800000000000000
+      internalID: 5366145948672039119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_79
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 340
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee037e5c81e612660800000000000000
+      internalID: 7359284318778634478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_80
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 336
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad4a3e9c948fcf40800000000000000
+      internalID: 5750961057379798437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_81
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 331
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4a0654ef115a140800000000000000
+      internalID: 4730206767405901026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_82
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 340
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c823af74c42cf7450800000000000000
+      internalID: 6088798854109082252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_83
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 340
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe19593157513790800000000000000
+      internalID: -7552159093757501701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_84
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 340
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bac4429ffc57270800000000000000
+      internalID: 8247726961561742210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_85
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 341
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4acbce270e506c0800000000000000
+      internalID: -4177686295113587550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_86
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 341
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c447ab9d8581b000800000000000000
+      internalID: 49967914126099651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_87
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 341
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f907450e5327f60800000000000000
+      internalID: 8030540323160629062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_88
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 341
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53ba23ccd0c078e0800000000000000
+      internalID: -1697645005118983329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_89
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 341
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cacd9692e3823b30800000000000000
+      internalID: 4265616806286052038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_90
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 323
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833001ddaa4f40d40800000000000000
+      internalID: 5549829655517725496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_91
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 313
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab8ff091eb0d9980800000000000000
+      internalID: -8530649055741637715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_92
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 287
+        width: 146
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bcb131adaae74e0800000000000000
+      internalID: -1981958932396258404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_93
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 306
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd01ac705eef48560800000000000000
+      internalID: 7315251954388177117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_94
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 306
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e781e3bf2e920240800000000000000
+      internalID: 4756538084175218658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_95
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 306
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d27b0b19fbe4b4d0800000000000000
+      internalID: -3119609186727791912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_96
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 306
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc328f8ca5a9ddf90800000000000000
+      internalID: -6927210937116515380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_97
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 306
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2149165680d716520800000000000000
+      internalID: 2693571527158371346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_98
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 301
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378a7549ea5f47260800000000000000
+      internalID: 7094565443177261171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_99
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 291
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b2616cecb0feb70800000000000000
+      internalID: 8930369568813493107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_100
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 275
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72b3e0639677e370800000000000000
+      internalID: 8351774409339679359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_101
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 265
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63293abaa19033b00800000000000000
+      internalID: 806998768382874166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_102
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 145
+        width: 146
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eae1f8a8727ed720800000000000000
+      internalID: 2872859474865023721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_103
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72fcc5a6846d53a0800000000000000
+      internalID: -6675068543223139715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_104
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91915d2a7c69b17e0800000000000000
+      internalID: -1793674242402477799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_105
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3745ac4784cf964c0800000000000000
+      internalID: -4293623381593795469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_106
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4acd4f1899dc960800000000000000
+      internalID: 7623918527646049482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_107
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd4955a263af7e00800000000000000
+      internalID: 1044733282649460212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_108
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 253
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4c9cd835b3768b0800000000000000
+      internalID: -5159089618082478930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_109
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 243
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b17f01c688d390d0800000000000000
+      internalID: -3417149618967842383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_110
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 198
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95a74c3fea0ff280800000000000000
+      internalID: -9007468707092912742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_111
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 193
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bee1a57c67dc070800000000000000
+      internalID: 8128283501056158475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_112
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 193
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b481547e7bb0f9030800000000000000
+      internalID: 3503531919604521035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_113
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 193
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f67a58db6e1a2b50800000000000000
+      internalID: 6569096455013431024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_114
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 193
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6d683e99c920540800000000000000
+      internalID: 4972709123331643078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_115
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 193
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc3da5f5e68d1290800000000000000
+      internalID: -7918024247620059945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_116
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 150
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b444646903a98bf40800000000000000
+      internalID: 5744510858181362763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_117
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 100
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28efb72324ff99e00800000000000000
+      internalID: 1052152647747632770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_118
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 147
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ce74fbef1ee94d0800000000000000
+      internalID: -3125812607101440956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_119
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 147
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f188c34601ecf00800000000000000
+      internalID: 1138865778469642049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_120
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 147
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf9293ac8b6d2280800000000000000
+      internalID: -9066472223043051573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_121
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 147
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f156bbf61591d00800000000000000
+      internalID: 943875137238015828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_122
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 147
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baeab868fc54a3800800000000000000
+      internalID: 592863058570489515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_123
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629a7f14e4ade0de0800000000000000
+      internalID: -1364913607397627610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_124
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 116
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bdbe0fb49df1ca0800000000000000
+      internalID: -6043873254720152798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_125
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 95
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7222a6222d99470800000000000000
+      internalID: 8401977625087715287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_126
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 47
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6fafb6a93bad110800000000000000
+      internalID: 1286538119385642677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_127
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 42
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a950473e5cfe44b0800000000000000
+      internalID: -5454144617115002463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_128
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 95
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda221dd95fc26040800000000000000
+      internalID: 4639498551013026527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_129
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9869e65e5d66f10800000000000000
+      internalID: 2262731044179839399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_130
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 95
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5c64a9f5e0f9780800000000000000
+      internalID: -8674198553519274545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_131
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 97
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd6dcbb10e95c230800000000000000
+      internalID: 3658504002591354362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_132
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 97
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb467378f507e920800000000000000
+      internalID: 3019388639822367712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_133
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 97
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6b780adc428ac10800000000000000
+      internalID: 2064940894729516736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_134
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 97
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eda889a198f18190800000000000000
+      internalID: -7961809361716072985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_135
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 97
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086023e4d97ab4300800000000000000
+      internalID: 237467699430688384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_136
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 97
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd578532091bffc80800000000000000
+      internalID: -8286709556712016421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_137
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 97
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e1665bcd9503820800000000000000
+      internalID: 2895913364870274653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_138
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787205ca79c8991b0800000000000000
+      internalID: -5649329674500692089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_139
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 29
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaf3c2c041d229f0800000000000000
+      internalID: -494602932981597469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_140
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1
+        width: 46
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66042e523c55ad490800000000000000
+      internalID: -7720764314530725786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_141
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 52
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993077e0ec37af4d0800000000000000
+      internalID: -3100038064648027239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_142
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 47
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feb2349767ad39c0800000000000000
+      internalID: -3945813635196862728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_143
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 54
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d8d8738602953d0800000000000000
+      internalID: -3217504826798797513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_144
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 47
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664e1d9ed354cb460800000000000000
+      internalID: 7258752831632565350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_145
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 49
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77ab598ce7043bb0800000000000000
+      internalID: -4957328577329911941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_146
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2edaf69eb95090e0800000000000000
+      internalID: -2265211937455677906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_147
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 4
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c23ea801defb9710800000000000000
+      internalID: 1701233458009748160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_148
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 4
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601cf1b2fabafff20800000000000000
+      internalID: 3458671807674958086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_149
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 4
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cdda05fd964c330800000000000000
+      internalID: 3730222799221808196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_150
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 4
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f28a14130d34aa0800000000000000
+      internalID: -6177865353848672469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_151
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 4
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4892c7d321a8190800000000000000
+      internalID: -7959529336138529539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_152
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39abd76187b8935a0800000000000000
+      internalID: -6541043635889259885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bd8d7782c42f890800000000000000
+      internalID: -7425789098887423210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_154
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 13
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2c3d08ca3b3d960800000000000000
+      internalID: 7625636147545490130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_155
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957e22c62242a0270800000000000000
+      internalID: 8217420200352606041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_156
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 6
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f691dd245e771b770800000000000000
+      internalID: 8624806587944212847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_157
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 7
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7c35c2738966be0800000000000000
+      internalID: -1484331664437688409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_158
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 21
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b28477605b875d50800000000000000
+      internalID: 6725997745950458546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_159
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 29
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cb166d30c4e1ac0800000000000000
+      internalID: -3882582249381446511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_160
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 26
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e29d1d5c2736d20800000000000000
+      internalID: 3270583948355907230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_161
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 6
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d00a2ce8f41d040800000000000000
+      internalID: 4670601763129134344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveMine_Rasak_162
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 3
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f5b624fa7b910a0800000000000000
+      internalID: -6910290189861822626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_CaveMine_Rasak_0: 2468288355747389056
+      Tileset_CaveMine_Rasak_1: -786729657210480780
+      Tileset_CaveMine_Rasak_10: 7803514564323061297
+      Tileset_CaveMine_Rasak_100: 8351774409339679359
+      Tileset_CaveMine_Rasak_101: 806998768382874166
+      Tileset_CaveMine_Rasak_102: 2872859474865023721
+      Tileset_CaveMine_Rasak_103: -6675068543223139715
+      Tileset_CaveMine_Rasak_104: -1793674242402477799
+      Tileset_CaveMine_Rasak_105: -4293623381593795469
+      Tileset_CaveMine_Rasak_106: 7623918527646049482
+      Tileset_CaveMine_Rasak_107: 1044733282649460212
+      Tileset_CaveMine_Rasak_108: -5159089618082478930
+      Tileset_CaveMine_Rasak_109: -3417149618967842383
+      Tileset_CaveMine_Rasak_11: -7131897325244586649
+      Tileset_CaveMine_Rasak_110: -9007468707092912742
+      Tileset_CaveMine_Rasak_111: 8128283501056158475
+      Tileset_CaveMine_Rasak_112: 3503531919604521035
+      Tileset_CaveMine_Rasak_113: 6569096455013431024
+      Tileset_CaveMine_Rasak_114: 4972709123331643078
+      Tileset_CaveMine_Rasak_115: -7918024247620059945
+      Tileset_CaveMine_Rasak_116: 5744510858181362763
+      Tileset_CaveMine_Rasak_117: 1052152647747632770
+      Tileset_CaveMine_Rasak_118: -3125812607101440956
+      Tileset_CaveMine_Rasak_119: 1138865778469642049
+      Tileset_CaveMine_Rasak_12: -8905657154612804102
+      Tileset_CaveMine_Rasak_120: -9066472223043051573
+      Tileset_CaveMine_Rasak_121: 943875137238015828
+      Tileset_CaveMine_Rasak_122: 592863058570489515
+      Tileset_CaveMine_Rasak_123: -1364913607397627610
+      Tileset_CaveMine_Rasak_124: -6043873254720152798
+      Tileset_CaveMine_Rasak_125: 8401977625087715287
+      Tileset_CaveMine_Rasak_126: 1286538119385642677
+      Tileset_CaveMine_Rasak_127: -5454144617115002463
+      Tileset_CaveMine_Rasak_128: 4639498551013026527
+      Tileset_CaveMine_Rasak_129: 2262731044179839399
+      Tileset_CaveMine_Rasak_13: -8252803473553837117
+      Tileset_CaveMine_Rasak_130: -8674198553519274545
+      Tileset_CaveMine_Rasak_131: 3658504002591354362
+      Tileset_CaveMine_Rasak_132: 3019388639822367712
+      Tileset_CaveMine_Rasak_133: 2064940894729516736
+      Tileset_CaveMine_Rasak_134: -7961809361716072985
+      Tileset_CaveMine_Rasak_135: 237467699430688384
+      Tileset_CaveMine_Rasak_136: -8286709556712016421
+      Tileset_CaveMine_Rasak_137: 2895913364870274653
+      Tileset_CaveMine_Rasak_138: -5649329674500692089
+      Tileset_CaveMine_Rasak_139: -494602932981597469
+      Tileset_CaveMine_Rasak_14: 8011606598578295324
+      Tileset_CaveMine_Rasak_140: -7720764314530725786
+      Tileset_CaveMine_Rasak_141: -3100038064648027239
+      Tileset_CaveMine_Rasak_142: -3945813635196862728
+      Tileset_CaveMine_Rasak_143: -3217504826798797513
+      Tileset_CaveMine_Rasak_144: 7258752831632565350
+      Tileset_CaveMine_Rasak_145: -4957328577329911941
+      Tileset_CaveMine_Rasak_146: -2265211937455677906
+      Tileset_CaveMine_Rasak_147: 1701233458009748160
+      Tileset_CaveMine_Rasak_148: 3458671807674958086
+      Tileset_CaveMine_Rasak_149: 3730222799221808196
+      Tileset_CaveMine_Rasak_15: 5635817538072601411
+      Tileset_CaveMine_Rasak_150: -6177865353848672469
+      Tileset_CaveMine_Rasak_151: -7959529336138529539
+      Tileset_CaveMine_Rasak_152: -6541043635889259885
+      Tileset_CaveMine_Rasak_153: -7425789098887423210
+      Tileset_CaveMine_Rasak_154: 7625636147545490130
+      Tileset_CaveMine_Rasak_155: 8217420200352606041
+      Tileset_CaveMine_Rasak_156: 8624806587944212847
+      Tileset_CaveMine_Rasak_157: -1484331664437688409
+      Tileset_CaveMine_Rasak_158: 6725997745950458546
+      Tileset_CaveMine_Rasak_159: -3882582249381446511
+      Tileset_CaveMine_Rasak_16: 7588618224303950307
+      Tileset_CaveMine_Rasak_160: 3270583948355907230
+      Tileset_CaveMine_Rasak_161: 4670601763129134344
+      Tileset_CaveMine_Rasak_162: -6910290189861822626
+      Tileset_CaveMine_Rasak_17: -7984426619612336829
+      Tileset_CaveMine_Rasak_18: 7896293914920918214
+      Tileset_CaveMine_Rasak_19: -2023634610072282360
+      Tileset_CaveMine_Rasak_2: 7227435829396186285
+      Tileset_CaveMine_Rasak_20: -9170364953727270491
+      Tileset_CaveMine_Rasak_21: 8598332121530263701
+      Tileset_CaveMine_Rasak_22: 5527261338979979841
+      Tileset_CaveMine_Rasak_23: 8161454970552409579
+      Tileset_CaveMine_Rasak_24: 6318063203678934436
+      Tileset_CaveMine_Rasak_25: 381826023127671431
+      Tileset_CaveMine_Rasak_26: 8382977218778763966
+      Tileset_CaveMine_Rasak_27: -1386456333374849404
+      Tileset_CaveMine_Rasak_28: 8386870128004178505
+      Tileset_CaveMine_Rasak_29: -6784959180173234813
+      Tileset_CaveMine_Rasak_3: -4346452288972296935
+      Tileset_CaveMine_Rasak_30: 3474258956767760209
+      Tileset_CaveMine_Rasak_31: 3612817194585992576
+      Tileset_CaveMine_Rasak_32: 3930407029317408764
+      Tileset_CaveMine_Rasak_33: -8630635588539846316
+      Tileset_CaveMine_Rasak_34: 5729715145230708935
+      Tileset_CaveMine_Rasak_35: -2006328699856182480
+      Tileset_CaveMine_Rasak_36: 8856016631178695175
+      Tileset_CaveMine_Rasak_37: 3366995444182439984
+      Tileset_CaveMine_Rasak_38: -2792792014620172108
+      Tileset_CaveMine_Rasak_39: 1568646589467629721
+      Tileset_CaveMine_Rasak_4: 8727179212782784359
+      Tileset_CaveMine_Rasak_40: -681161987448657781
+      Tileset_CaveMine_Rasak_41: -1361350999797885521
+      Tileset_CaveMine_Rasak_42: -2188647517997851071
+      Tileset_CaveMine_Rasak_43: 6656911637577427151
+      Tileset_CaveMine_Rasak_44: 4825684193649029688
+      Tileset_CaveMine_Rasak_45: -2384462329402274700
+      Tileset_CaveMine_Rasak_46: -3734034612315176718
+      Tileset_CaveMine_Rasak_47: 8119790947468366182
+      Tileset_CaveMine_Rasak_48: -484328431214081241
+      Tileset_CaveMine_Rasak_49: -5485517441217695314
+      Tileset_CaveMine_Rasak_5: -7744821688236664816
+      Tileset_CaveMine_Rasak_50: -6053515748084120707
+      Tileset_CaveMine_Rasak_51: -6297416557975971309
+      Tileset_CaveMine_Rasak_52: -4685664103352661500
+      Tileset_CaveMine_Rasak_53: -6307515526766751349
+      Tileset_CaveMine_Rasak_54: -8951647051962879448
+      Tileset_CaveMine_Rasak_55: -4672563066496231808
+      Tileset_CaveMine_Rasak_56: -1871720794798776308
+      Tileset_CaveMine_Rasak_57: -7271593238905028334
+      Tileset_CaveMine_Rasak_58: 5630741403353037781
+      Tileset_CaveMine_Rasak_59: 8114339636118950528
+      Tileset_CaveMine_Rasak_6: 3719991503711251927
+      Tileset_CaveMine_Rasak_60: 2506416929115148367
+      Tileset_CaveMine_Rasak_61: -1078937477901223757
+      Tileset_CaveMine_Rasak_62: 1890345892928709802
+      Tileset_CaveMine_Rasak_63: -6752534475964989844
+      Tileset_CaveMine_Rasak_64: -6778113988670360282
+      Tileset_CaveMine_Rasak_65: 7997512218035377768
+      Tileset_CaveMine_Rasak_66: 2912635018588343526
+      Tileset_CaveMine_Rasak_67: -3845414955778373274
+      Tileset_CaveMine_Rasak_68: 6079720004597042410
+      Tileset_CaveMine_Rasak_69: -7523770963877877330
+      Tileset_CaveMine_Rasak_7: -4331225603094487665
+      Tileset_CaveMine_Rasak_70: 1760493424945945784
+      Tileset_CaveMine_Rasak_71: -1382729791989231750
+      Tileset_CaveMine_Rasak_72: 7071394190576957217
+      Tileset_CaveMine_Rasak_73: 1870802957272416800
+      Tileset_CaveMine_Rasak_74: -2478358284106597602
+      Tileset_CaveMine_Rasak_75: -7709159171101315053
+      Tileset_CaveMine_Rasak_76: -7234296590085508006
+      Tileset_CaveMine_Rasak_77: 8589747152708090210
+      Tileset_CaveMine_Rasak_78: 5366145948672039119
+      Tileset_CaveMine_Rasak_79: 7359284318778634478
+      Tileset_CaveMine_Rasak_8: 4504430851977669648
+      Tileset_CaveMine_Rasak_80: 5750961057379798437
+      Tileset_CaveMine_Rasak_81: 4730206767405901026
+      Tileset_CaveMine_Rasak_82: 6088798854109082252
+      Tileset_CaveMine_Rasak_83: -7552159093757501701
+      Tileset_CaveMine_Rasak_84: 8247726961561742210
+      Tileset_CaveMine_Rasak_85: -4177686295113587550
+      Tileset_CaveMine_Rasak_86: 49967914126099651
+      Tileset_CaveMine_Rasak_87: 8030540323160629062
+      Tileset_CaveMine_Rasak_88: -1697645005118983329
+      Tileset_CaveMine_Rasak_89: 4265616806286052038
+      Tileset_CaveMine_Rasak_9: 8005895724881706398
+      Tileset_CaveMine_Rasak_90: 5549829655517725496
+      Tileset_CaveMine_Rasak_91: -8530649055741637715
+      Tileset_CaveMine_Rasak_92: -1981958932396258404
+      Tileset_CaveMine_Rasak_93: 7315251954388177117
+      Tileset_CaveMine_Rasak_94: 4756538084175218658
+      Tileset_CaveMine_Rasak_95: -3119609186727791912
+      Tileset_CaveMine_Rasak_96: -6927210937116515380
+      Tileset_CaveMine_Rasak_97: 2693571527158371346
+      Tileset_CaveMine_Rasak_98: 7094565443177261171
+      Tileset_CaveMine_Rasak_99: 8930369568813493107
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

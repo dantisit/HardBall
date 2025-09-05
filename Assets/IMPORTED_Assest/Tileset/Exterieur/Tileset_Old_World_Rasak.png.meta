@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 1360f49b5b334794e85b7407c586a6d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3649784639511074958
+    second: Tileset_Old_World_Rasak_0
+  - first:
+      213: 5958612341591178845
+    second: Tileset_Old_World_Rasak_1
+  - first:
+      213: -2694198548756455003
+    second: Tileset_Old_World_Rasak_2
+  - first:
+      213: 5599963044063962793
+    second: Tileset_Old_World_Rasak_3
+  - first:
+      213: -6973037336609018768
+    second: Tileset_Old_World_Rasak_4
+  - first:
+      213: 1657759137047081499
+    second: Tileset_Old_World_Rasak_5
+  - first:
+      213: -532271705172629238
+    second: Tileset_Old_World_Rasak_6
+  - first:
+      213: -3685714533383631046
+    second: Tileset_Old_World_Rasak_7
+  - first:
+      213: 170650987817418458
+    second: Tileset_Old_World_Rasak_8
+  - first:
+      213: 1935703667101099525
+    second: Tileset_Old_World_Rasak_9
+  - first:
+      213: 5012531758934190597
+    second: Tileset_Old_World_Rasak_10
+  - first:
+      213: -5413435677333588333
+    second: Tileset_Old_World_Rasak_11
+  - first:
+      213: -2125808615056747776
+    second: Tileset_Old_World_Rasak_12
+  - first:
+      213: -3377662477607950325
+    second: Tileset_Old_World_Rasak_13
+  - first:
+      213: 3065148596179022553
+    second: Tileset_Old_World_Rasak_14
+  - first:
+      213: -2918781863112432598
+    second: Tileset_Old_World_Rasak_15
+  - first:
+      213: 7120153946598402470
+    second: Tileset_Old_World_Rasak_16
+  - first:
+      213: -8794594204149335082
+    second: Tileset_Old_World_Rasak_17
+  - first:
+      213: 4029819257821865174
+    second: Tileset_Old_World_Rasak_18
+  - first:
+      213: -6858140794152440824
+    second: Tileset_Old_World_Rasak_19
+  - first:
+      213: 7868569769110042802
+    second: Tileset_Old_World_Rasak_20
+  - first:
+      213: 8679974089846138680
+    second: Tileset_Old_World_Rasak_21
+  - first:
+      213: 6731932629779978924
+    second: Tileset_Old_World_Rasak_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 579
+        width: 64
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277e34f253c595dc0800000000000000
+      internalID: -3649784639511074958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 579
+        width: 63
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5efcc6ca5e31b250800000000000000
+      internalID: 5958612341591178845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 579
+        width: 63
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1aff2c1b84c9ad0800000000000000
+      internalID: -2694198548756455003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 575
+        width: 25
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a66fbcf7b017bd40800000000000000
+      internalID: 5599963044063962793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 578
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c22e1bc7bca3f90800000000000000
+      internalID: -6973037336609018768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 479
+        width: 27
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1279d6e62b810710800000000000000
+      internalID: 1657759137047081499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 385
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09a13944bdfc98f0800000000000000
+      internalID: -532271705172629238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 483
+        width: 53
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f8c2ed826b9dcc0800000000000000
+      internalID: -3685714533383631046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 483
+        width: 53
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade3d655b264e5200800000000000000
+      internalID: 170650987817418458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 483
+        width: 53
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5066bfbba300dda10800000000000000
+      internalID: 1935703667101099525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 383
+        width: 27
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ae2a4c317109540800000000000000
+      internalID: 5012531758934190597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396fa1edeec9fd4b0800000000000000
+      internalID: -5413435677333588333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 341
+        width: 42
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003d31fd35c9f72e0800000000000000
+      internalID: -2125808615056747776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 341
+        width: 42
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08230b4fd12021d0800000000000000
+      internalID: -3377662477607950325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 341
+        width: 42
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2b90b8868998a20800000000000000
+      internalID: 3065148596179022553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 386
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24a4502c576e77d0800000000000000
+      internalID: -2918781863112432598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 383
+        width: 16
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9e71d4a4edfc260800000000000000
+      internalID: 7120153946598402470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 287
+        width: 286
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db38f5ca2353f580800000000000000
+      internalID: -8794594204149335082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 321
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4208b934bcce730800000000000000
+      internalID: 4029819257821865174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 231
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cade0a84df2d0a0800000000000000
+      internalID: -6858140794152440824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 199
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b87e2af386c23d60800000000000000
+      internalID: 7868569769110042802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837afdc3276757870800000000000000
+      internalID: 8679974089846138680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Old_World_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa95e93f01ac6d50800000000000000
+      internalID: 6731932629779978924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Old_World_Rasak_0: -3649784639511074958
+      Tileset_Old_World_Rasak_1: 5958612341591178845
+      Tileset_Old_World_Rasak_10: 5012531758934190597
+      Tileset_Old_World_Rasak_11: -5413435677333588333
+      Tileset_Old_World_Rasak_12: -2125808615056747776
+      Tileset_Old_World_Rasak_13: -3377662477607950325
+      Tileset_Old_World_Rasak_14: 3065148596179022553
+      Tileset_Old_World_Rasak_15: -2918781863112432598
+      Tileset_Old_World_Rasak_16: 7120153946598402470
+      Tileset_Old_World_Rasak_17: -8794594204149335082
+      Tileset_Old_World_Rasak_18: 4029819257821865174
+      Tileset_Old_World_Rasak_19: -6858140794152440824
+      Tileset_Old_World_Rasak_2: -2694198548756455003
+      Tileset_Old_World_Rasak_20: 7868569769110042802
+      Tileset_Old_World_Rasak_21: 8679974089846138680
+      Tileset_Old_World_Rasak_22: 6731932629779978924
+      Tileset_Old_World_Rasak_3: 5599963044063962793
+      Tileset_Old_World_Rasak_4: -6973037336609018768
+      Tileset_Old_World_Rasak_5: 1657759137047081499
+      Tileset_Old_World_Rasak_6: -532271705172629238
+      Tileset_Old_World_Rasak_7: -3685714533383631046
+      Tileset_Old_World_Rasak_8: 170650987817418458
+      Tileset_Old_World_Rasak_9: 1935703667101099525
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

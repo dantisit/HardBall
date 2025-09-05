@@ -1,0 +1,7111 @@
+fileFormatVersion: 2
+guid: 60fbe9c0d19edbf4a9b65945fc454365
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2484147412547554433
+    second: Tileset_Storage_Rasak_0
+  - first:
+      213: -3757897675968379224
+    second: Tileset_Storage_Rasak_1
+  - first:
+      213: -3243384941399451875
+    second: Tileset_Storage_Rasak_2
+  - first:
+      213: -3794627383243903305
+    second: Tileset_Storage_Rasak_3
+  - first:
+      213: -894943083404548853
+    second: Tileset_Storage_Rasak_4
+  - first:
+      213: -7045101574695194476
+    second: Tileset_Storage_Rasak_5
+  - first:
+      213: 5916829700505295688
+    second: Tileset_Storage_Rasak_6
+  - first:
+      213: -3460318339943204444
+    second: Tileset_Storage_Rasak_7
+  - first:
+      213: -6240567974187230197
+    second: Tileset_Storage_Rasak_8
+  - first:
+      213: -298279163660313207
+    second: Tileset_Storage_Rasak_9
+  - first:
+      213: 3973322713411037811
+    second: Tileset_Storage_Rasak_10
+  - first:
+      213: -6363191993149117434
+    second: Tileset_Storage_Rasak_11
+  - first:
+      213: 5447633489816612850
+    second: Tileset_Storage_Rasak_12
+  - first:
+      213: -568549278265182971
+    second: Tileset_Storage_Rasak_13
+  - first:
+      213: -4381196539936237571
+    second: Tileset_Storage_Rasak_14
+  - first:
+      213: 2001398535580288882
+    second: Tileset_Storage_Rasak_15
+  - first:
+      213: 7252296764161596741
+    second: Tileset_Storage_Rasak_16
+  - first:
+      213: -522763172158319318
+    second: Tileset_Storage_Rasak_17
+  - first:
+      213: 3215799674941191307
+    second: Tileset_Storage_Rasak_18
+  - first:
+      213: -4203396121149006941
+    second: Tileset_Storage_Rasak_19
+  - first:
+      213: -1439143205058681273
+    second: Tileset_Storage_Rasak_20
+  - first:
+      213: 1770196444761049094
+    second: Tileset_Storage_Rasak_21
+  - first:
+      213: 2296788485190200828
+    second: Tileset_Storage_Rasak_22
+  - first:
+      213: 7684622480186523774
+    second: Tileset_Storage_Rasak_23
+  - first:
+      213: 8711230811351996184
+    second: Tileset_Storage_Rasak_24
+  - first:
+      213: 7455679273375558579
+    second: Tileset_Storage_Rasak_25
+  - first:
+      213: 5101520991449453474
+    second: Tileset_Storage_Rasak_26
+  - first:
+      213: 2585771609841152122
+    second: Tileset_Storage_Rasak_27
+  - first:
+      213: 6770557756616780969
+    second: Tileset_Storage_Rasak_28
+  - first:
+      213: -4903171193125381993
+    second: Tileset_Storage_Rasak_29
+  - first:
+      213: 4808952655608636367
+    second: Tileset_Storage_Rasak_30
+  - first:
+      213: 773188751163649813
+    second: Tileset_Storage_Rasak_31
+  - first:
+      213: -1545394168055170890
+    second: Tileset_Storage_Rasak_32
+  - first:
+      213: 1346061396164100835
+    second: Tileset_Storage_Rasak_33
+  - first:
+      213: -2913880613083956171
+    second: Tileset_Storage_Rasak_34
+  - first:
+      213: -1682236008183418653
+    second: Tileset_Storage_Rasak_35
+  - first:
+      213: 5254389244935400733
+    second: Tileset_Storage_Rasak_36
+  - first:
+      213: -1554230798004591576
+    second: Tileset_Storage_Rasak_37
+  - first:
+      213: -8283975505143787440
+    second: Tileset_Storage_Rasak_38
+  - first:
+      213: -8680863028600347000
+    second: Tileset_Storage_Rasak_39
+  - first:
+      213: -5128250233847358128
+    second: Tileset_Storage_Rasak_40
+  - first:
+      213: 8233845422941948600
+    second: Tileset_Storage_Rasak_41
+  - first:
+      213: 1289141094516509466
+    second: Tileset_Storage_Rasak_42
+  - first:
+      213: -1354627640749055542
+    second: Tileset_Storage_Rasak_43
+  - first:
+      213: 9200330549540812215
+    second: Tileset_Storage_Rasak_44
+  - first:
+      213: -4508623636433784769
+    second: Tileset_Storage_Rasak_45
+  - first:
+      213: 5893489183214144896
+    second: Tileset_Storage_Rasak_46
+  - first:
+      213: 1499167128032143673
+    second: Tileset_Storage_Rasak_47
+  - first:
+      213: 643557946863077901
+    second: Tileset_Storage_Rasak_48
+  - first:
+      213: -7821359431514055634
+    second: Tileset_Storage_Rasak_49
+  - first:
+      213: 1712805061487050406
+    second: Tileset_Storage_Rasak_50
+  - first:
+      213: -645620187561964603
+    second: Tileset_Storage_Rasak_51
+  - first:
+      213: -8261354420036327783
+    second: Tileset_Storage_Rasak_52
+  - first:
+      213: -5374080903141068177
+    second: Tileset_Storage_Rasak_53
+  - first:
+      213: 7004319307975961974
+    second: Tileset_Storage_Rasak_54
+  - first:
+      213: 162664640018777096
+    second: Tileset_Storage_Rasak_55
+  - first:
+      213: 6438631472633685788
+    second: Tileset_Storage_Rasak_56
+  - first:
+      213: 2532755144553380368
+    second: Tileset_Storage_Rasak_57
+  - first:
+      213: 5229208829094839447
+    second: Tileset_Storage_Rasak_58
+  - first:
+      213: 3093563367616247901
+    second: Tileset_Storage_Rasak_59
+  - first:
+      213: 2757185591600431484
+    second: Tileset_Storage_Rasak_60
+  - first:
+      213: -3848568955146016542
+    second: Tileset_Storage_Rasak_61
+  - first:
+      213: 2103522533336798387
+    second: Tileset_Storage_Rasak_62
+  - first:
+      213: -4803054817555150175
+    second: Tileset_Storage_Rasak_63
+  - first:
+      213: -1590447203610629427
+    second: Tileset_Storage_Rasak_64
+  - first:
+      213: 5399370337564632398
+    second: Tileset_Storage_Rasak_65
+  - first:
+      213: 806247580846748789
+    second: Tileset_Storage_Rasak_66
+  - first:
+      213: 4222077880882775040
+    second: Tileset_Storage_Rasak_67
+  - first:
+      213: 6646274058123945485
+    second: Tileset_Storage_Rasak_68
+  - first:
+      213: 8617284344669573802
+    second: Tileset_Storage_Rasak_69
+  - first:
+      213: 7561683328410300157
+    second: Tileset_Storage_Rasak_70
+  - first:
+      213: -2705451558993330810
+    second: Tileset_Storage_Rasak_71
+  - first:
+      213: 7394874666666100363
+    second: Tileset_Storage_Rasak_72
+  - first:
+      213: 8387810023707574352
+    second: Tileset_Storage_Rasak_73
+  - first:
+      213: 1361725730062074799
+    second: Tileset_Storage_Rasak_74
+  - first:
+      213: 4929247640599603978
+    second: Tileset_Storage_Rasak_75
+  - first:
+      213: -6554372162435156769
+    second: Tileset_Storage_Rasak_76
+  - first:
+      213: 439070401379575054
+    second: Tileset_Storage_Rasak_77
+  - first:
+      213: 6561683529805298814
+    second: Tileset_Storage_Rasak_78
+  - first:
+      213: 3788598044626228044
+    second: Tileset_Storage_Rasak_79
+  - first:
+      213: 6099681854747843118
+    second: Tileset_Storage_Rasak_80
+  - first:
+      213: 2925200711624816437
+    second: Tileset_Storage_Rasak_81
+  - first:
+      213: 4179372680310254956
+    second: Tileset_Storage_Rasak_82
+  - first:
+      213: 2548009807454979198
+    second: Tileset_Storage_Rasak_83
+  - first:
+      213: -345709074418199017
+    second: Tileset_Storage_Rasak_84
+  - first:
+      213: 4281878982450687010
+    second: Tileset_Storage_Rasak_85
+  - first:
+      213: -1115769201820252443
+    second: Tileset_Storage_Rasak_86
+  - first:
+      213: -6728110662874531887
+    second: Tileset_Storage_Rasak_87
+  - first:
+      213: -8316974201929020169
+    second: Tileset_Storage_Rasak_88
+  - first:
+      213: 1740552346579784178
+    second: Tileset_Storage_Rasak_89
+  - first:
+      213: 4349421347128793187
+    second: Tileset_Storage_Rasak_90
+  - first:
+      213: 7541126128524838928
+    second: Tileset_Storage_Rasak_91
+  - first:
+      213: 2868341349181451357
+    second: Tileset_Storage_Rasak_92
+  - first:
+      213: -6870996153592481738
+    second: Tileset_Storage_Rasak_93
+  - first:
+      213: -2530099124899239302
+    second: Tileset_Storage_Rasak_94
+  - first:
+      213: 5993160775350110427
+    second: Tileset_Storage_Rasak_95
+  - first:
+      213: -4709807404155090692
+    second: Tileset_Storage_Rasak_96
+  - first:
+      213: 6071258332711594322
+    second: Tileset_Storage_Rasak_97
+  - first:
+      213: -8231456415950881029
+    second: Tileset_Storage_Rasak_98
+  - first:
+      213: 2690590228075167771
+    second: Tileset_Storage_Rasak_99
+  - first:
+      213: -3806348858541352584
+    second: Tileset_Storage_Rasak_100
+  - first:
+      213: 4827849278858737916
+    second: Tileset_Storage_Rasak_101
+  - first:
+      213: 2178950070001586929
+    second: Tileset_Storage_Rasak_102
+  - first:
+      213: -2522853228343805180
+    second: Tileset_Storage_Rasak_103
+  - first:
+      213: -7913567213040545090
+    second: Tileset_Storage_Rasak_104
+  - first:
+      213: 5154454090084608625
+    second: Tileset_Storage_Rasak_105
+  - first:
+      213: 944720184472956572
+    second: Tileset_Storage_Rasak_106
+  - first:
+      213: 151202867917446279
+    second: Tileset_Storage_Rasak_107
+  - first:
+      213: 722922001362283815
+    second: Tileset_Storage_Rasak_108
+  - first:
+      213: -2902073272037083964
+    second: Tileset_Storage_Rasak_109
+  - first:
+      213: 3019144813882612398
+    second: Tileset_Storage_Rasak_110
+  - first:
+      213: 7981242605829542142
+    second: Tileset_Storage_Rasak_111
+  - first:
+      213: -7351691242789317220
+    second: Tileset_Storage_Rasak_112
+  - first:
+      213: 6910806007000413569
+    second: Tileset_Storage_Rasak_113
+  - first:
+      213: -783919173110927144
+    second: Tileset_Storage_Rasak_114
+  - first:
+      213: 5006447613626751056
+    second: Tileset_Storage_Rasak_115
+  - first:
+      213: -3003120784293160415
+    second: Tileset_Storage_Rasak_116
+  - first:
+      213: -6935648549806904749
+    second: Tileset_Storage_Rasak_117
+  - first:
+      213: 8278944423064319196
+    second: Tileset_Storage_Rasak_118
+  - first:
+      213: 8512573245827944382
+    second: Tileset_Storage_Rasak_119
+  - first:
+      213: -234508749316165426
+    second: Tileset_Storage_Rasak_120
+  - first:
+      213: -3996072399017545614
+    second: Tileset_Storage_Rasak_121
+  - first:
+      213: -7367417538709729952
+    second: Tileset_Storage_Rasak_122
+  - first:
+      213: -1007519374783974308
+    second: Tileset_Storage_Rasak_123
+  - first:
+      213: -1890807324111555922
+    second: Tileset_Storage_Rasak_124
+  - first:
+      213: -5364474756756802535
+    second: Tileset_Storage_Rasak_125
+  - first:
+      213: 2270529729892960956
+    second: Tileset_Storage_Rasak_126
+  - first:
+      213: -3134747149857495553
+    second: Tileset_Storage_Rasak_127
+  - first:
+      213: -2790247832383937325
+    second: Tileset_Storage_Rasak_128
+  - first:
+      213: -6848314673447729000
+    second: Tileset_Storage_Rasak_129
+  - first:
+      213: -752348389461931865
+    second: Tileset_Storage_Rasak_130
+  - first:
+      213: -535621593994081698
+    second: Tileset_Storage_Rasak_131
+  - first:
+      213: -3830394211159060655
+    second: Tileset_Storage_Rasak_132
+  - first:
+      213: 1145840096469841877
+    second: Tileset_Storage_Rasak_133
+  - first:
+      213: -7229258207189100172
+    second: Tileset_Storage_Rasak_134
+  - first:
+      213: 6842383954320156549
+    second: Tileset_Storage_Rasak_135
+  - first:
+      213: -2129883258347388731
+    second: Tileset_Storage_Rasak_136
+  - first:
+      213: -3227395951258672929
+    second: Tileset_Storage_Rasak_137
+  - first:
+      213: 6920712038571919511
+    second: Tileset_Storage_Rasak_138
+  - first:
+      213: -3386123603895340258
+    second: Tileset_Storage_Rasak_139
+  - first:
+      213: -2458750834924553368
+    second: Tileset_Storage_Rasak_140
+  - first:
+      213: -7183344161623422335
+    second: Tileset_Storage_Rasak_141
+  - first:
+      213: 1473940247999080030
+    second: Tileset_Storage_Rasak_142
+  - first:
+      213: 7512389439142450004
+    second: Tileset_Storage_Rasak_143
+  - first:
+      213: 8852038539634192051
+    second: Tileset_Storage_Rasak_144
+  - first:
+      213: -403844126482665877
+    second: Tileset_Storage_Rasak_145
+  - first:
+      213: -7956246638441964410
+    second: Tileset_Storage_Rasak_146
+  - first:
+      213: 3401508924053454680
+    second: Tileset_Storage_Rasak_147
+  - first:
+      213: 2200148534662504003
+    second: Tileset_Storage_Rasak_148
+  - first:
+      213: -2753467662813503255
+    second: Tileset_Storage_Rasak_149
+  - first:
+      213: 3346298117305316315
+    second: Tileset_Storage_Rasak_150
+  - first:
+      213: -8023366012919754127
+    second: Tileset_Storage_Rasak_151
+  - first:
+      213: -5616826324790140347
+    second: Tileset_Storage_Rasak_152
+  - first:
+      213: 8001160379864436468
+    second: Tileset_Storage_Rasak_153
+  - first:
+      213: -1830507289322104469
+    second: Tileset_Storage_Rasak_154
+  - first:
+      213: -6230597195659518095
+    second: Tileset_Storage_Rasak_155
+  - first:
+      213: 8109750466573615921
+    second: Tileset_Storage_Rasak_156
+  - first:
+      213: -8406257367266422165
+    second: Tileset_Storage_Rasak_157
+  - first:
+      213: -5888919725524297978
+    second: Tileset_Storage_Rasak_158
+  - first:
+      213: -5127140622584095695
+    second: Tileset_Storage_Rasak_159
+  - first:
+      213: -7538437444388460245
+    second: Tileset_Storage_Rasak_160
+  - first:
+      213: 7676626172501274047
+    second: Tileset_Storage_Rasak_161
+  - first:
+      213: -374225596543266884
+    second: Tileset_Storage_Rasak_162
+  - first:
+      213: -3944549358157894474
+    second: Tileset_Storage_Rasak_163
+  - first:
+      213: -2560862154592823353
+    second: Tileset_Storage_Rasak_164
+  - first:
+      213: 8270935089237415689
+    second: Tileset_Storage_Rasak_165
+  - first:
+      213: -2246472987648997657
+    second: Tileset_Storage_Rasak_166
+  - first:
+      213: 7506342768332557253
+    second: Tileset_Storage_Rasak_167
+  - first:
+      213: 2514183962838456836
+    second: Tileset_Storage_Rasak_168
+  - first:
+      213: 3439283806420397565
+    second: Tileset_Storage_Rasak_169
+  - first:
+      213: 4022994717597084759
+    second: Tileset_Storage_Rasak_170
+  - first:
+      213: 2478749422537523996
+    second: Tileset_Storage_Rasak_171
+  - first:
+      213: -7409555426824170362
+    second: Tileset_Storage_Rasak_172
+  - first:
+      213: 4858829169803953170
+    second: Tileset_Storage_Rasak_173
+  - first:
+      213: 2598215584533047168
+    second: Tileset_Storage_Rasak_174
+  - first:
+      213: 8712026267044981155
+    second: Tileset_Storage_Rasak_175
+  - first:
+      213: 722343243247003330
+    second: Tileset_Storage_Rasak_176
+  - first:
+      213: 8889564982651405281
+    second: Tileset_Storage_Rasak_177
+  - first:
+      213: 6226363903942860251
+    second: Tileset_Storage_Rasak_178
+  - first:
+      213: -2828853611745966975
+    second: Tileset_Storage_Rasak_179
+  - first:
+      213: -6815273876219612004
+    second: Tileset_Storage_Rasak_180
+  - first:
+      213: 8343922771436675089
+    second: Tileset_Storage_Rasak_181
+  - first:
+      213: -6625564347248407452
+    second: Tileset_Storage_Rasak_182
+  - first:
+      213: 5085010153649649707
+    second: Tileset_Storage_Rasak_183
+  - first:
+      213: 3148066924581521501
+    second: Tileset_Storage_Rasak_184
+  - first:
+      213: -4491607846525724745
+    second: Tileset_Storage_Rasak_185
+  - first:
+      213: -6392949001541494513
+    second: Tileset_Storage_Rasak_186
+  - first:
+      213: -7022521050259011691
+    second: Tileset_Storage_Rasak_187
+  - first:
+      213: -325295780083258545
+    second: Tileset_Storage_Rasak_188
+  - first:
+      213: 4245022944766756973
+    second: Tileset_Storage_Rasak_189
+  - first:
+      213: -8143527155235751599
+    second: Tileset_Storage_Rasak_190
+  - first:
+      213: -6525540220761014334
+    second: Tileset_Storage_Rasak_191
+  - first:
+      213: -5787317152966660771
+    second: Tileset_Storage_Rasak_192
+  - first:
+      213: -7362516097086478324
+    second: Tileset_Storage_Rasak_193
+  - first:
+      213: -2141170632367590144
+    second: Tileset_Storage_Rasak_194
+  - first:
+      213: 626355697554750651
+    second: Tileset_Storage_Rasak_195
+  - first:
+      213: -5997455550207975390
+    second: Tileset_Storage_Rasak_196
+  - first:
+      213: -2160448849792300325
+    second: Tileset_Storage_Rasak_197
+  - first:
+      213: 6489796466540142892
+    second: Tileset_Storage_Rasak_198
+  - first:
+      213: -4992965376064924075
+    second: Tileset_Storage_Rasak_199
+  - first:
+      213: 1490997590857824761
+    second: Tileset_Storage_Rasak_200
+  - first:
+      213: 4399594837111136749
+    second: Tileset_Storage_Rasak_201
+  - first:
+      213: -7052391271825839064
+    second: Tileset_Storage_Rasak_202
+  - first:
+      213: 8523550261829127444
+    second: Tileset_Storage_Rasak_203
+  - first:
+      213: -5143545207767859814
+    second: Tileset_Storage_Rasak_204
+  - first:
+      213: -6474325326770665120
+    second: Tileset_Storage_Rasak_205
+  - first:
+      213: 1251685286852561743
+    second: Tileset_Storage_Rasak_206
+  - first:
+      213: 8892353972260307772
+    second: Tileset_Storage_Rasak_207
+  - first:
+      213: 4900139234708031824
+    second: Tileset_Storage_Rasak_208
+  - first:
+      213: -2422073193643410279
+    second: Tileset_Storage_Rasak_209
+  - first:
+      213: -6295469834291961644
+    second: Tileset_Storage_Rasak_210
+  - first:
+      213: 8713904572256969451
+    second: Tileset_Storage_Rasak_211
+  - first:
+      213: -6387799388875747661
+    second: Tileset_Storage_Rasak_212
+  - first:
+      213: 8559507151160391750
+    second: Tileset_Storage_Rasak_213
+  - first:
+      213: 5609575959908784951
+    second: Tileset_Storage_Rasak_214
+  - first:
+      213: -2394990785610692182
+    second: Tileset_Storage_Rasak_215
+  - first:
+      213: -728122107178664014
+    second: Tileset_Storage_Rasak_216
+  - first:
+      213: -6884595545348583151
+    second: Tileset_Storage_Rasak_217
+  - first:
+      213: -1032480456305132833
+    second: Tileset_Storage_Rasak_218
+  - first:
+      213: 5532791569185602528
+    second: Tileset_Storage_Rasak_219
+  - first:
+      213: 8493004937235515585
+    second: Tileset_Storage_Rasak_220
+  - first:
+      213: -2367311652015171152
+    second: Tileset_Storage_Rasak_221
+  - first:
+      213: -8127171547580772391
+    second: Tileset_Storage_Rasak_222
+  - first:
+      213: 1119259109755938948
+    second: Tileset_Storage_Rasak_223
+  - first:
+      213: 7837467961802949985
+    second: Tileset_Storage_Rasak_224
+  - first:
+      213: 6896538864191106562
+    second: Tileset_Storage_Rasak_225
+  - first:
+      213: 7467770919506786208
+    second: Tileset_Storage_Rasak_226
+  - first:
+      213: 4812369625403086243
+    second: Tileset_Storage_Rasak_227
+  - first:
+      213: 4272496388496632799
+    second: Tileset_Storage_Rasak_228
+  - first:
+      213: -3362023711292236537
+    second: Tileset_Storage_Rasak_229
+  - first:
+      213: -1933898344409051324
+    second: Tileset_Storage_Rasak_230
+  - first:
+      213: 3856268472190724166
+    second: Tileset_Storage_Rasak_231
+  - first:
+      213: -2821283188923607187
+    second: Tileset_Storage_Rasak_232
+  - first:
+      213: -46857238179589475
+    second: Tileset_Storage_Rasak_233
+  - first:
+      213: 3693133215012604446
+    second: Tileset_Storage_Rasak_234
+  - first:
+      213: -1396768405896326095
+    second: Tileset_Storage_Rasak_235
+  - first:
+      213: 8225211687585658464
+    second: Tileset_Storage_Rasak_236
+  - first:
+      213: -5449819667127884695
+    second: Tileset_Storage_Rasak_237
+  - first:
+      213: 8479317054423452192
+    second: Tileset_Storage_Rasak_238
+  - first:
+      213: -8431285245412949577
+    second: Tileset_Storage_Rasak_239
+  - first:
+      213: -8269573865414719596
+    second: Tileset_Storage_Rasak_240
+  - first:
+      213: 1140433341351135507
+    second: Tileset_Storage_Rasak_241
+  - first:
+      213: -6863278881482195838
+    second: Tileset_Storage_Rasak_242
+  - first:
+      213: -7282407010850976793
+    second: Tileset_Storage_Rasak_243
+  - first:
+      213: 704222984703397350
+    second: Tileset_Storage_Rasak_244
+  - first:
+      213: 7305448156035171399
+    second: Tileset_Storage_Rasak_245
+  - first:
+      213: -5650589766513075440
+    second: Tileset_Storage_Rasak_246
+  - first:
+      213: -6459852573831513669
+    second: Tileset_Storage_Rasak_247
+  - first:
+      213: -1775701518357722148
+    second: Tileset_Storage_Rasak_248
+  - first:
+      213: -4397917979708860982
+    second: Tileset_Storage_Rasak_249
+  - first:
+      213: 1217154009127978780
+    second: Tileset_Storage_Rasak_250
+  - first:
+      213: 7761380033647574822
+    second: Tileset_Storage_Rasak_251
+  - first:
+      213: -5867588349250905176
+    second: Tileset_Storage_Rasak_252
+  - first:
+      213: 4899056649310577038
+    second: Tileset_Storage_Rasak_253
+  - first:
+      213: -1879463571654254280
+    second: Tileset_Storage_Rasak_254
+  - first:
+      213: -1646895288384951832
+    second: Tileset_Storage_Rasak_255
+  - first:
+      213: 5708798666210809670
+    second: Tileset_Storage_Rasak_256
+  - first:
+      213: 7300111478221036424
+    second: Tileset_Storage_Rasak_257
+  - first:
+      213: 5546450959880806308
+    second: Tileset_Storage_Rasak_258
+  - first:
+      213: -1778208216546014210
+    second: Tileset_Storage_Rasak_259
+  - first:
+      213: -645327348326346323
+    second: Tileset_Storage_Rasak_260
+  - first:
+      213: 7429827174825821894
+    second: Tileset_Storage_Rasak_261
+  - first:
+      213: -3929815210499650504
+    second: Tileset_Storage_Rasak_262
+  - first:
+      213: -8193605634900844754
+    second: Tileset_Storage_Rasak_263
+  - first:
+      213: -5254498654004373128
+    second: Tileset_Storage_Rasak_264
+  - first:
+      213: -3919686619123302951
+    second: Tileset_Storage_Rasak_265
+  - first:
+      213: 2018586529288335845
+    second: Tileset_Storage_Rasak_266
+  - first:
+      213: 4820598558962572004
+    second: Tileset_Storage_Rasak_267
+  - first:
+      213: 8468831133928650498
+    second: Tileset_Storage_Rasak_268
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 481
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73b5610719868dd0800000000000000
+      internalID: -2484147412547554433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 725
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a683a159f349dbc0800000000000000
+      internalID: -3757897675968379224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 720
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17d80a749e2df2d0800000000000000
+      internalID: -3243384941399451875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 722
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bee6ceef76c65bc0800000000000000
+      internalID: -3794627383243903305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 723
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05aa7bd1068493f0800000000000000
+      internalID: -894943083404548853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 725
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4907fb1c175ca3e90800000000000000
+      internalID: -7045101574695194476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 724
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b591f834dcc1250800000000000000
+      internalID: 5916829700505295688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 723
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a97ae9adca7affc0800000000000000
+      internalID: -3460318339943204444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 723
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c14edcd7c0569a0800000000000000
+      internalID: -6240567974187230197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 721
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d50265eac4cdbf0800000000000000
+      internalID: -298279163660313207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 723
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a2bdec4f3142730800000000000000
+      internalID: 3973322713411037811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 722
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cacba889661b7a0800000000000000
+      internalID: -6363191993149117434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 724
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff6a03dbc1e99b40800000000000000
+      internalID: 5447633489816612850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 724
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505f2b7917b1c18f0800000000000000
+      internalID: -568549278265182971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 723
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df71ee1a5fcd233c0800000000000000
+      internalID: -4381196539936237571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 723
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277004f3d5566cb10800000000000000
+      internalID: 2001398535580288882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 723
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d11919b7555a460800000000000000
+      internalID: 7252296764161596741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 723
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25d8d52aa5ceb8f0800000000000000
+      internalID: -522763172158319318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 707
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84bfad24c0d0ac20800000000000000
+      internalID: 3215799674941191307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 707
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab98a49f798aa5c0800000000000000
+      internalID: -4203396121149006941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 708
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7466f8141e2270ce0800000000000000
+      internalID: -1439143205058681273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 706
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60844a0a940019810800000000000000
+      internalID: 1770196444761049094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 708
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd28f755f4dfdf10800000000000000
+      internalID: 2296788485190200828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 709
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70cf7c4e6345aa60800000000000000
+      internalID: 7684622480186523774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 707
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817d213d44284e870800000000000000
+      internalID: 8711230811351996184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 706
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbeac81cc4e77760800000000000000
+      internalID: 7455679273375558579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 708
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a31b8d005e3cc640800000000000000
+      internalID: 5101520991449453474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 706
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a703fd2449182e320800000000000000
+      internalID: 2585771609841152122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 708
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aca86e586ad5fd50800000000000000
+      internalID: 6770557756616780969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 708
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79855d827cf64fbb0800000000000000
+      internalID: -4903171193125381993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 708
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3693b16f4dcb240800000000000000
+      internalID: 4808952655608636367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 708
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fef69921beaba00800000000000000
+      internalID: 773188751163649813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 710
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b87c172138ad8ae0800000000000000
+      internalID: -1545394168055170890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 710
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e24a3445bb2ea210800000000000000
+      internalID: 1346061396164100835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 710
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cbb335501df87d0800000000000000
+      internalID: -2913880613083956171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 709
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e03bdf634f77a8e0800000000000000
+      internalID: -1682236008183418653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 710
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1de108ed275be840800000000000000
+      internalID: 5254389244935400733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 693
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824e6f9e2534e6ae0800000000000000
+      internalID: -1554230798004591576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 691
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0501edf1b28690d80800000000000000
+      internalID: -8283975505143787440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 692
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88664749111678780800000000000000
+      internalID: -8680863028600347000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 691
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dd63c359bc4d8b0800000000000000
+      internalID: -5128250233847358128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 694
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba4ee199ce744270800000000000000
+      internalID: 8233845422941948600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 692
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bc30ccef2f3e110800000000000000
+      internalID: 1289141094516509466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 691
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac12a3e7655633de0800000000000000
+      internalID: -1354627640749055542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 693
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5fd8da3e32eaf70800000000000000
+      internalID: 9200330549540812215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 692
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f303f6cb0b62e61c0800000000000000
+      internalID: -4508623636433784769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 692
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d0615ef21e9c150800000000000000
+      internalID: 5893489183214144896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 692
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9396c4d5f8c1ec410800000000000000
+      internalID: 1499167128032143673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 693
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a472ffa806ee800800000000000000
+      internalID: 643557946863077901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 693
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c14ff4903f47390800000000000000
+      internalID: -7821359431514055634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 693
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae3d6be02b15c710800000000000000
+      internalID: 1712805061487050406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 694
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb4c8c2cdb4a07f0800000000000000
+      internalID: -645620187561964603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 694
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996a12eece5c95d80800000000000000
+      internalID: -8261354420036327783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 694
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62f01644ed6b65b0800000000000000
+      internalID: -5374080903141068177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 694
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d2155dc47543160800000000000000
+      internalID: 7004319307975961974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 694
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80406d5d0a6e14200800000000000000
+      internalID: 162664640018777096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 676
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c172bf5063d9a5950800000000000000
+      internalID: 6438631472633685788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 678
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ab5268267262320800000000000000
+      internalID: 2532755144553380368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_58
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 678
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794c88a79b1e19840800000000000000
+      internalID: 5229208829094839447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_59
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 680
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d587de01e7b8eea20800000000000000
+      internalID: 3093563367616247901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_60
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 677
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c714b27ffad734620800000000000000
+      internalID: 2757185591600431484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_61
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 676
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8ece60de2279ac0800000000000000
+      internalID: -3848568955146016542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_62
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 676
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4d1906996313d10800000000000000
+      internalID: 2103522533336798387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_63
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 678
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa85e2571f185db0800000000000000
+      internalID: -4803054817555150175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_64
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 676
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca66c2e1b89de9e0800000000000000
+      internalID: -1590447203610629427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_65
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 676
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45225507ba6eea40800000000000000
+      internalID: 5399370337564632398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_66
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 678
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574736137ed503b00800000000000000
+      internalID: 806247580846748789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_67
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 678
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0044d009675d79a30800000000000000
+      internalID: 4222077880882775040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_68
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 678
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d062f5ada0f4c3c50800000000000000
+      internalID: 6646274058123945485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_69
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 678
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa29094847eb69770800000000000000
+      internalID: 8617284344669573802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_70
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 678
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfea3e57cee70f860800000000000000
+      internalID: 7561683328410300157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_71
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 680
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dfc25242e447ad0800000000000000
+      internalID: -2705451558993330810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_72
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 679
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b860b21645fdf9660800000000000000
+      internalID: 7394874666666100363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_73
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 679
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0500d8aa6cc776470800000000000000
+      internalID: 8387810023707574352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_74
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 625
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa30cd53652d5e210800000000000000
+      internalID: 1361725730062074799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_75
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 626
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b2fd3ec94386440800000000000000
+      internalID: 4929247640599603978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_76
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 627
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4f75cae313a05a0800000000000000
+      internalID: -6554372162435156769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_77
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 629
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e052e992434e71600800000000000000
+      internalID: 439070401379575054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_78
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 628
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c7392b768cf0b50800000000000000
+      internalID: 6561683529805298814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_79
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 627
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c439fa649ddc39430800000000000000
+      internalID: 3788598044626228044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_80
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 627
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a1423545c66a450800000000000000
+      internalID: 6099681854747843118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_81
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 625
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537fd118c86689820800000000000000
+      internalID: 2925200711624816437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_82
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 627
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d6dd93f4d100a30800000000000000
+      internalID: 4179372680310254956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_83
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 626
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74c0918b695c5320800000000000000
+      internalID: 2548009807454979198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_84
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 626
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7169cafad6bc33bf0800000000000000
+      internalID: -345709074418199017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_85
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 626
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c2f288f3a4c6b30800000000000000
+      internalID: 4281878982450687010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_86
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 625
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6ce2292ddf380f0800000000000000
+      internalID: -1115769201820252443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_87
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 625
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d778d9cff2f0a2a0800000000000000
+      internalID: -6728110662874531887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_88
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 625
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcceef470c249c80800000000000000
+      internalID: -8316974201929020169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_89
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 625
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f15cda232fa72810800000000000000
+      internalID: 1740552346579784178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_90
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 613
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368dc16cbaf3c5c30800000000000000
+      internalID: 4349421347128793187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_91
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 613
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018c321624677a860800000000000000
+      internalID: 7541126128524838928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 614
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c668c82456ec720800000000000000
+      internalID: 2868341349181451357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_93
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 612
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6387b04076155a0a0800000000000000
+      internalID: -6870996153592481738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_94
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 614
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7aaadd304843ecd0800000000000000
+      internalID: -2530099124899239302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_95
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 615
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd84c88d8fbfb2350800000000000000
+      internalID: 5993160775350110427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_96
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 613
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8c4da9e1763aeb0800000000000000
+      internalID: -4709807404155090692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_97
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 612
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259a7e46941714450800000000000000
+      internalID: 6071258332711594322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_98
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 614
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe3327700ef3cd80800000000000000
+      internalID: -8231456415950881029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_99
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 612
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10ce8c9e85e65520800000000000000
+      internalID: 2690590228075167771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_100
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 612
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879dd6b41e12d2bc0800000000000000
+      internalID: -3806348858541352584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_101
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 612
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8308f0757fff240800000000000000
+      internalID: 4827849278858737916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_102
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 612
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2d1c94b8f2d3e10800000000000000
+      internalID: 2178950070001586929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_103
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 612
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bbe100b560dfcd0800000000000000
+      internalID: -2522853228343805180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_104
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 614
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb25a803c8c5d2290800000000000000
+      internalID: -7913567213040545090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_105
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 614
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a6d8a7fac488740800000000000000
+      internalID: 5154454090084608625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_106
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 614
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ee6af90025c1d00800000000000000
+      internalID: 944720184472956572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_107
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 613
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c5d3f053e291200800000000000000
+      internalID: 151202867917446279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_108
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 614
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d6383eab5580a00800000000000000
+      internalID: 722922001362283815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_109
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 600
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4f2142cb3c9b7d0800000000000000
+      internalID: -2902073272037083964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_110
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 598
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa9fec463826e920800000000000000
+      internalID: 3019144813882612398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_111
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 599
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0dea21dd113ce60800000000000000
+      internalID: 7981242605829542142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_112
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 598
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95513ff3cb89f990800000000000000
+      internalID: -7351691242789317220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_113
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 601
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18535e6c27d18ef50800000000000000
+      internalID: 6910806007000413569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_114
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 599
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0fa1a5aa5fe15f0800000000000000
+      internalID: -783919173110927144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_115
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 598
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05813dc44997a7540800000000000000
+      internalID: 5006447613626751056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_116
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 600
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a1d92de85c256d0800000000000000
+      internalID: -3003120784293160415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_117
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 599
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a6ecdf360afbf90800000000000000
+      internalID: -6935648549806904749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_118
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 599
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd433fbc618b4e270800000000000000
+      internalID: 8278944423064319196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_119
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 599
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf811af34cb22670800000000000000
+      internalID: 8512573245827944382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_120
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 599
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0f944f88bdebcf0800000000000000
+      internalID: -234508749316165426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_121
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 599
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270f0df33591b88c0800000000000000
+      internalID: -3996072399017545614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_122
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 599
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d493568cca1c990800000000000000
+      internalID: -7367417538709729952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_123
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 600
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c547da977729402f0800000000000000
+      internalID: -1007519374783974308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_124
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 600
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2bf93b1c082c5e0800000000000000
+      internalID: -1890807324111555922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_125
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 600
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914f5f481ae8d85b0800000000000000
+      internalID: -5364474756756802535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_126
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 600
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbacb3272ca828f10800000000000000
+      internalID: 2270529729892960956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_127
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 600
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5631863142f74d0800000000000000
+      internalID: -3134747149857495553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_128
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 515
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4a37b316c0749d0800000000000000
+      internalID: -2790247832383937325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_129
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 515
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8988d03a616e5f0a0800000000000000
+      internalID: -6848314673447729000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_130
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 536
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8c8ca302f1f85f0800000000000000
+      internalID: -752348389461931865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_131
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 528
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a44f38ff61198f0800000000000000
+      internalID: -535621593994081698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_132
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 537
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fc62e52c4b7dac0800000000000000
+      internalID: -3830394211159060655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_133
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 531
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7fb7f2f77d6ef00800000000000000
+      internalID: 1145840096469841877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_134
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 490
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4799aea76f38cab90800000000000000
+      internalID: -7229258207189100172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_135
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 490
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587e51634f705fe50800000000000000
+      internalID: 6842383954320156549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_136
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 484
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0072d06722172e0800000000000000
+      internalID: -2129883258347388731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_137
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 480
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd061b75b7cf533d0800000000000000
+      internalID: -3227395951258672929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_138
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 418
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79849db7eee4b0060800000000000000
+      internalID: 6920712038571919511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_139
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 418
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13b040d5821201d0800000000000000
+      internalID: -3386123603895340258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_140
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 446
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b70258423c0edd0800000000000000
+      internalID: -2458750834924553368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_141
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 446
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a4f034b82af4c90800000000000000
+      internalID: -7183344161623422335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_142
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 420
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56e226a8dc747410800000000000000
+      internalID: 1473940247999080030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_143
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 437
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4535b7e746e514860800000000000000
+      internalID: 7512389439142450004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_144
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 422
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bea6f4d622c8da70800000000000000
+      internalID: 8852038539634192051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_145
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 144
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e6f5818e1456af0800000000000000
+      internalID: -403844126482665877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_146
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 144
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c554a16dbb59190800000000000000
+      internalID: -7956246638441964410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_147
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 150
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ff68e2856943f20800000000000000
+      internalID: 3401508924053454680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_148
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 148
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e97a57f6f788e10800000000000000
+      internalID: 2200148534662504003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_149
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 148
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0e979cfb7b9c9d0800000000000000
+      internalID: -2753467662813503255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_150
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 151
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3ba828860707e20800000000000000
+      internalID: 3346298117305316315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_151
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 151
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172d9f0fe1747a090800000000000000
+      internalID: -8023366012919754127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_152
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 148
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54222d187360d02b0800000000000000
+      internalID: -5616826324790140347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_153
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 148
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fecfb839f4d90f60800000000000000
+      internalID: 8001160379864436468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_154
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 148
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69513d915bb896e0800000000000000
+      internalID: -1830507289322104469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_155
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 148
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f5b269cd87889a0800000000000000
+      internalID: -6230597195659518095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_156
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 149
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133cd21051f9b8070800000000000000
+      internalID: 8109750466573615921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_157
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 149
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6213957679f65b80800000000000000
+      internalID: -8406257367266422165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_158
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 146
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6075551e5ba564ea0800000000000000
+      internalID: -5888919725524297978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_159
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 148
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c566db4ccb8d8b0800000000000000
+      internalID: -5127140622584095695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_160
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 146
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29e8bda517126790800000000000000
+      internalID: -7538437444388460245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_161
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 148
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbda765d4dad88a60800000000000000
+      internalID: 7676626172501274047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_162
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 56
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf0e2c7dcb7ecaf0800000000000000
+      internalID: -374225596543266884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_163
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 98
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bce00402452249c0800000000000000
+      internalID: -3944549358157894474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_164
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 0
+        width: 56
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7d0cc307df57cd0800000000000000
+      internalID: -2560862154592823353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_165
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 97
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9075f4274a348c270800000000000000
+      internalID: 8270935089237415689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_166
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 129
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6cba558bce2d0e0800000000000000
+      internalID: -2246472987648997657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_167
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 133
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbc8cc3af2eb2860800000000000000
+      internalID: 7506342768332557253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_168
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 130
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a58f45efc24e220800000000000000
+      internalID: 2514183962838456836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_169
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 130
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfde07b566acabf20800000000000000
+      internalID: 3439283806420397565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_170
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 133
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ca5a3816c84d730800000000000000
+      internalID: 4022994717597084759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_171
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 135
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13cd818779466220800000000000000
+      internalID: 2478749422537523996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_172
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 134
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684d398c898fb2990800000000000000
+      internalID: -7409555426824170362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_173
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 134
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214887203670e6340800000000000000
+      internalID: 4858829169803953170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_174
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 133
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087e9f5ee47be0420800000000000000
+      internalID: 2598215584533047168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_175
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 133
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9a6194bb557e870800000000000000
+      internalID: 8712026267044981155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_176
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 133
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c624a34a57460a00800000000000000
+      internalID: 722343243247003330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_177
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 135
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e340b6b0441e5b70800000000000000
+      internalID: 8889564982651405281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_178
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 133
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd14d06bfc786650800000000000000
+      internalID: 6226363903942860251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_179
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 134
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1840d46c0a4edb8d0800000000000000
+      internalID: -2828853611745966975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_180
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 131
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c943ee8b4884b61a0800000000000000
+      internalID: -6815273876219612004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_181
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 131
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110a6c87d819bc370800000000000000
+      internalID: 8343922771436675089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_182
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 133
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c04c574544d04a0800000000000000
+      internalID: -6625564347248407452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_183
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 115
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28ba8f0bc5919640800000000000000
+      internalID: 5085010153649649707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_184
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 115
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5886d0503e20bb20800000000000000
+      internalID: 3148066924581521501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_185
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 115
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b71a7d067a9aa1c0800000000000000
+      internalID: -4491607846525724745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_186
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 102
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f095eef11cea747a0800000000000000
+      internalID: -6392949001541494513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_187
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 118
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597cb9bcf4efa8e90800000000000000
+      internalID: -7022521050259011691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_188
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 120
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b243526315c7bf0800000000000000
+      internalID: -325295780083258545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_189
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 119
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68843e80e959ea30800000000000000
+      internalID: 4245022944766756973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_190
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 119
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159fc65d2316cfe80800000000000000
+      internalID: -8143527155235751599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_191
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 119
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cff3063ebf9075a0800000000000000
+      internalID: -6525540220761014334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_192
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 120
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5da5ee36b15fafa0800000000000000
+      internalID: -5787317152966660771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_193
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 118
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08a0143e9613d990800000000000000
+      internalID: -7362516097086478324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_194
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 118
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0053b3e77a80942e0800000000000000
+      internalID: -2141170632367590144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_195
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 118
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcfac7303341b800800000000000000
+      internalID: 626355697554750651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_196
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 118
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220a8a5f3f1c4cca0800000000000000
+      internalID: -5997455550207975390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_197
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 119
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda8ab8b73b8402e0800000000000000
+      internalID: -2160448849792300325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_198
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 119
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21e5bc7083601a50800000000000000
+      internalID: 6489796466540142892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_199
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 116
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55653dfb17c65bab0800000000000000
+      internalID: -4992965376064924075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_200
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 116
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f93b04c86611b410800000000000000
+      internalID: 1490997590857824761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_201
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 98
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1e6adb1308e0d30800000000000000
+      internalID: 4399594837111136749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_202
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 100
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c61c1e08fd02e90800000000000000
+      internalID: -7052391271825839064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_203
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 101
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d438dadcbb94670800000000000000
+      internalID: 8523550261829127444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_204
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d75dc92e47e98b0800000000000000
+      internalID: -5143545207767859814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_205
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 103
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0690581fa639626a0800000000000000
+      internalID: -6474325326770665120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_206
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 103
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b0e6df221ee5110800000000000000
+      internalID: 1251685286852561743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_207
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 103
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c330c95f2dcf76b70800000000000000
+      internalID: 8892353972260307772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_208
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 103
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0590ab20caac00440800000000000000
+      internalID: 4900139234708031824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_209
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 105
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c73e85341136ed0800000000000000
+      internalID: -2422073193643410279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_210
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 103
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d027d06a8ff1a8a0800000000000000
+      internalID: -6295469834291961644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_211
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 104
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2670c4a020ee870800000000000000
+      internalID: 8713904572256969451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_212
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 101
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be8a91cc4af957a0800000000000000
+      internalID: -6387799388875747661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_213
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 101
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648b45d576a79c670800000000000000
+      internalID: 8559507151160391750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_214
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 101
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b1fee5d9739dd40800000000000000
+      internalID: 5609575959908784951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_215
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 104
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa94757d19843ced0800000000000000
+      internalID: -2394990785610692182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_216
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 103
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfb1802dc035e5f0800000000000000
+      internalID: -728122107178664014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_217
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 47
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111d241e3d00570a0800000000000000
+      internalID: -6884595545348583151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_218
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 37
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda366cce74eba1f0800000000000000
+      internalID: -1032480456305132833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_219
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 52
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb75914e9c68cc40800000000000000
+      internalID: 5532791569185602528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_220
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 50
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8cf871ef63dd570800000000000000
+      internalID: 8493004937235515585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_221
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 50
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b91ef4589e952fd0800000000000000
+      internalID: -2367311652015171152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_222
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 52
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df49cd798c763f80800000000000000
+      internalID: -8127171547580772391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_223
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 52
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4886f90fa38688f00800000000000000
+      internalID: 1119259109755938948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_224
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 49
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16505c9269744cc60800000000000000
+      internalID: 7837467961802949985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_225
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 49
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e69cbbe8d65bf50800000000000000
+      internalID: 6896538864191106562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_226
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 49
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7b139d51ad2a760800000000000000
+      internalID: 7467770919506786208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_227
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 49
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5d7026da8f8c240800000000000000
+      internalID: 4812369625403086243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_228
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 50
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb2b7424d4fa4b30800000000000000
+      internalID: 4272496388496632799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_229
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 50
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d5cf15f31b751d0800000000000000
+      internalID: -3362023711292236537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_230
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 50
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f48c5b3b96925e0800000000000000
+      internalID: -1933898344409051324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_231
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 52
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648677b7eb7348530800000000000000
+      internalID: 3856268472190724166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_232
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d675d6133e9c8d8d0800000000000000
+      internalID: -2821283188923607187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_233
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 52
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9256231797895ff0800000000000000
+      internalID: -46857238179589475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_234
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 35
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ac50d8715a04330800000000000000
+      internalID: 3693133215012604446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_235
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 34
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1349f05098ead9ce0800000000000000
+      internalID: -1396768405896326095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_236
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 36
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0663fe86372d52270800000000000000
+      internalID: 8225211687585658464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_237
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964a7ea13e95e54b0800000000000000
+      internalID: -5449819667127884695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_238
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 38
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a42d68fe59ca570800000000000000
+      internalID: 8479317054423452192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_239
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 37
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b14b2b7dbe0efa80800000000000000
+      internalID: -8431285245412949577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_240
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 37
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4970a1c22629c3d80800000000000000
+      internalID: -8269573865414719596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_241
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 36
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3190f39e412a3df00800000000000000
+      internalID: 1140433341351135507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_242
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 36
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c30d2783cb0c0a0800000000000000
+      internalID: -6863278881482195838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_243
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 36
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebc9605861bfea90800000000000000
+      internalID: -7282407010850976793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_244
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 38
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed49edc217e5c900800000000000000
+      internalID: 704222984703397350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_245
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 36
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7444289546a226560800000000000000
+      internalID: 7305448156035171399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_246
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 37
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bd783ab821591b0800000000000000
+      internalID: -5650589766513075440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_247
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 35
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb931635f4ef956a0800000000000000
+      internalID: -6459852573831513669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_248
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 35
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb8a2b80e07b57e0800000000000000
+      internalID: -1775701518357722148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_249
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 37
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5562c06e477f2c0800000000000000
+      internalID: -4397917979708860982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_250
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 23
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17040f5f1334e010800000000000000
+      internalID: 1217154009127978780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_251
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 23
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f7f50e406f5bb60800000000000000
+      internalID: 7761380033647574822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_252
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 23
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abdda2fb73229ea0800000000000000
+      internalID: -5867588349250905176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_253
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 23
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e812ca4f012fcf340800000000000000
+      internalID: 4899056649310577038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_254
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 22
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831e243e6ddcae5e0800000000000000
+      internalID: -1879463571654254280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_255
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 23
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9ec89f57d0529e0800000000000000
+      internalID: -1646895288384951832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_256
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 25
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64718b1f32ab93f40800000000000000
+      internalID: 5708798666210809670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_257
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 24
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bdd1836b43f4560800000000000000
+      internalID: 7300111478221036424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_258
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 24
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afd1dbf2c3f8fc40800000000000000
+      internalID: 5546450959880806308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_259
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 21
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb08146c098257e0800000000000000
+      internalID: -1778208216546014210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_260
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 25
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1d92f12365b07f0800000000000000
+      internalID: -645327348326346323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_261
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 23
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6890a537c0c1760800000000000000
+      internalID: 7429827174825821894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_262
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 23
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ccd3913ed7679c0800000000000000
+      internalID: -3929815210499650504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_263
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 23
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f981e26177a4e80800000000000000
+      internalID: -8193605634900844754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_264
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 23
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8791d4f40554417b0800000000000000
+      internalID: -5254498654004373128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_265
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 24
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddbd4c89c97a99c0800000000000000
+      internalID: -3919686619123302951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_266
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 24
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1be92e0c5730c10800000000000000
+      internalID: 2018586529288335845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_267
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 22
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea59b749d436e240800000000000000
+      internalID: 4820598558962572004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Storage_Rasak_268
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 22
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207f598eb05578570800000000000000
+      internalID: 8468831133928650498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Storage_Rasak_0: -2484147412547554433
+      Tileset_Storage_Rasak_1: -3757897675968379224
+      Tileset_Storage_Rasak_10: 3973322713411037811
+      Tileset_Storage_Rasak_100: -3806348858541352584
+      Tileset_Storage_Rasak_101: 4827849278858737916
+      Tileset_Storage_Rasak_102: 2178950070001586929
+      Tileset_Storage_Rasak_103: -2522853228343805180
+      Tileset_Storage_Rasak_104: -7913567213040545090
+      Tileset_Storage_Rasak_105: 5154454090084608625
+      Tileset_Storage_Rasak_106: 944720184472956572
+      Tileset_Storage_Rasak_107: 151202867917446279
+      Tileset_Storage_Rasak_108: 722922001362283815
+      Tileset_Storage_Rasak_109: -2902073272037083964
+      Tileset_Storage_Rasak_11: -6363191993149117434
+      Tileset_Storage_Rasak_110: 3019144813882612398
+      Tileset_Storage_Rasak_111: 7981242605829542142
+      Tileset_Storage_Rasak_112: -7351691242789317220
+      Tileset_Storage_Rasak_113: 6910806007000413569
+      Tileset_Storage_Rasak_114: -783919173110927144
+      Tileset_Storage_Rasak_115: 5006447613626751056
+      Tileset_Storage_Rasak_116: -3003120784293160415
+      Tileset_Storage_Rasak_117: -6935648549806904749
+      Tileset_Storage_Rasak_118: 8278944423064319196
+      Tileset_Storage_Rasak_119: 8512573245827944382
+      Tileset_Storage_Rasak_12: 5447633489816612850
+      Tileset_Storage_Rasak_120: -234508749316165426
+      Tileset_Storage_Rasak_121: -3996072399017545614
+      Tileset_Storage_Rasak_122: -7367417538709729952
+      Tileset_Storage_Rasak_123: -1007519374783974308
+      Tileset_Storage_Rasak_124: -1890807324111555922
+      Tileset_Storage_Rasak_125: -5364474756756802535
+      Tileset_Storage_Rasak_126: 2270529729892960956
+      Tileset_Storage_Rasak_127: -3134747149857495553
+      Tileset_Storage_Rasak_128: -2790247832383937325
+      Tileset_Storage_Rasak_129: -6848314673447729000
+      Tileset_Storage_Rasak_13: -568549278265182971
+      Tileset_Storage_Rasak_130: -752348389461931865
+      Tileset_Storage_Rasak_131: -535621593994081698
+      Tileset_Storage_Rasak_132: -3830394211159060655
+      Tileset_Storage_Rasak_133: 1145840096469841877
+      Tileset_Storage_Rasak_134: -7229258207189100172
+      Tileset_Storage_Rasak_135: 6842383954320156549
+      Tileset_Storage_Rasak_136: -2129883258347388731
+      Tileset_Storage_Rasak_137: -3227395951258672929
+      Tileset_Storage_Rasak_138: 6920712038571919511
+      Tileset_Storage_Rasak_139: -3386123603895340258
+      Tileset_Storage_Rasak_14: -4381196539936237571
+      Tileset_Storage_Rasak_140: -2458750834924553368
+      Tileset_Storage_Rasak_141: -7183344161623422335
+      Tileset_Storage_Rasak_142: 1473940247999080030
+      Tileset_Storage_Rasak_143: 7512389439142450004
+      Tileset_Storage_Rasak_144: 8852038539634192051
+      Tileset_Storage_Rasak_145: -403844126482665877
+      Tileset_Storage_Rasak_146: -7956246638441964410
+      Tileset_Storage_Rasak_147: 3401508924053454680
+      Tileset_Storage_Rasak_148: 2200148534662504003
+      Tileset_Storage_Rasak_149: -2753467662813503255
+      Tileset_Storage_Rasak_15: 2001398535580288882
+      Tileset_Storage_Rasak_150: 3346298117305316315
+      Tileset_Storage_Rasak_151: -8023366012919754127
+      Tileset_Storage_Rasak_152: -5616826324790140347
+      Tileset_Storage_Rasak_153: 8001160379864436468
+      Tileset_Storage_Rasak_154: -1830507289322104469
+      Tileset_Storage_Rasak_155: -6230597195659518095
+      Tileset_Storage_Rasak_156: 8109750466573615921
+      Tileset_Storage_Rasak_157: -8406257367266422165
+      Tileset_Storage_Rasak_158: -5888919725524297978
+      Tileset_Storage_Rasak_159: -5127140622584095695
+      Tileset_Storage_Rasak_16: 7252296764161596741
+      Tileset_Storage_Rasak_160: -7538437444388460245
+      Tileset_Storage_Rasak_161: 7676626172501274047
+      Tileset_Storage_Rasak_162: -374225596543266884
+      Tileset_Storage_Rasak_163: -3944549358157894474
+      Tileset_Storage_Rasak_164: -2560862154592823353
+      Tileset_Storage_Rasak_165: 8270935089237415689
+      Tileset_Storage_Rasak_166: -2246472987648997657
+      Tileset_Storage_Rasak_167: 7506342768332557253
+      Tileset_Storage_Rasak_168: 2514183962838456836
+      Tileset_Storage_Rasak_169: 3439283806420397565
+      Tileset_Storage_Rasak_17: -522763172158319318
+      Tileset_Storage_Rasak_170: 4022994717597084759
+      Tileset_Storage_Rasak_171: 2478749422537523996
+      Tileset_Storage_Rasak_172: -7409555426824170362
+      Tileset_Storage_Rasak_173: 4858829169803953170
+      Tileset_Storage_Rasak_174: 2598215584533047168
+      Tileset_Storage_Rasak_175: 8712026267044981155
+      Tileset_Storage_Rasak_176: 722343243247003330
+      Tileset_Storage_Rasak_177: 8889564982651405281
+      Tileset_Storage_Rasak_178: 6226363903942860251
+      Tileset_Storage_Rasak_179: -2828853611745966975
+      Tileset_Storage_Rasak_18: 3215799674941191307
+      Tileset_Storage_Rasak_180: -6815273876219612004
+      Tileset_Storage_Rasak_181: 8343922771436675089
+      Tileset_Storage_Rasak_182: -6625564347248407452
+      Tileset_Storage_Rasak_183: 5085010153649649707
+      Tileset_Storage_Rasak_184: 3148066924581521501
+      Tileset_Storage_Rasak_185: -4491607846525724745
+      Tileset_Storage_Rasak_186: -6392949001541494513
+      Tileset_Storage_Rasak_187: -7022521050259011691
+      Tileset_Storage_Rasak_188: -325295780083258545
+      Tileset_Storage_Rasak_189: 4245022944766756973
+      Tileset_Storage_Rasak_19: -4203396121149006941
+      Tileset_Storage_Rasak_190: -8143527155235751599
+      Tileset_Storage_Rasak_191: -6525540220761014334
+      Tileset_Storage_Rasak_192: -5787317152966660771
+      Tileset_Storage_Rasak_193: -7362516097086478324
+      Tileset_Storage_Rasak_194: -2141170632367590144
+      Tileset_Storage_Rasak_195: 626355697554750651
+      Tileset_Storage_Rasak_196: -5997455550207975390
+      Tileset_Storage_Rasak_197: -2160448849792300325
+      Tileset_Storage_Rasak_198: 6489796466540142892
+      Tileset_Storage_Rasak_199: -4992965376064924075
+      Tileset_Storage_Rasak_2: -3243384941399451875
+      Tileset_Storage_Rasak_20: -1439143205058681273
+      Tileset_Storage_Rasak_200: 1490997590857824761
+      Tileset_Storage_Rasak_201: 4399594837111136749
+      Tileset_Storage_Rasak_202: -7052391271825839064
+      Tileset_Storage_Rasak_203: 8523550261829127444
+      Tileset_Storage_Rasak_204: -5143545207767859814
+      Tileset_Storage_Rasak_205: -6474325326770665120
+      Tileset_Storage_Rasak_206: 1251685286852561743
+      Tileset_Storage_Rasak_207: 8892353972260307772
+      Tileset_Storage_Rasak_208: 4900139234708031824
+      Tileset_Storage_Rasak_209: -2422073193643410279
+      Tileset_Storage_Rasak_21: 1770196444761049094
+      Tileset_Storage_Rasak_210: -6295469834291961644
+      Tileset_Storage_Rasak_211: 8713904572256969451
+      Tileset_Storage_Rasak_212: -6387799388875747661
+      Tileset_Storage_Rasak_213: 8559507151160391750
+      Tileset_Storage_Rasak_214: 5609575959908784951
+      Tileset_Storage_Rasak_215: -2394990785610692182
+      Tileset_Storage_Rasak_216: -728122107178664014
+      Tileset_Storage_Rasak_217: -6884595545348583151
+      Tileset_Storage_Rasak_218: -1032480456305132833
+      Tileset_Storage_Rasak_219: 5532791569185602528
+      Tileset_Storage_Rasak_22: 2296788485190200828
+      Tileset_Storage_Rasak_220: 8493004937235515585
+      Tileset_Storage_Rasak_221: -2367311652015171152
+      Tileset_Storage_Rasak_222: -8127171547580772391
+      Tileset_Storage_Rasak_223: 1119259109755938948
+      Tileset_Storage_Rasak_224: 7837467961802949985
+      Tileset_Storage_Rasak_225: 6896538864191106562
+      Tileset_Storage_Rasak_226: 7467770919506786208
+      Tileset_Storage_Rasak_227: 4812369625403086243
+      Tileset_Storage_Rasak_228: 4272496388496632799
+      Tileset_Storage_Rasak_229: -3362023711292236537
+      Tileset_Storage_Rasak_23: 7684622480186523774
+      Tileset_Storage_Rasak_230: -1933898344409051324
+      Tileset_Storage_Rasak_231: 3856268472190724166
+      Tileset_Storage_Rasak_232: -2821283188923607187
+      Tileset_Storage_Rasak_233: -46857238179589475
+      Tileset_Storage_Rasak_234: 3693133215012604446
+      Tileset_Storage_Rasak_235: -1396768405896326095
+      Tileset_Storage_Rasak_236: 8225211687585658464
+      Tileset_Storage_Rasak_237: -5449819667127884695
+      Tileset_Storage_Rasak_238: 8479317054423452192
+      Tileset_Storage_Rasak_239: -8431285245412949577
+      Tileset_Storage_Rasak_24: 8711230811351996184
+      Tileset_Storage_Rasak_240: -8269573865414719596
+      Tileset_Storage_Rasak_241: 1140433341351135507
+      Tileset_Storage_Rasak_242: -6863278881482195838
+      Tileset_Storage_Rasak_243: -7282407010850976793
+      Tileset_Storage_Rasak_244: 704222984703397350
+      Tileset_Storage_Rasak_245: 7305448156035171399
+      Tileset_Storage_Rasak_246: -5650589766513075440
+      Tileset_Storage_Rasak_247: -6459852573831513669
+      Tileset_Storage_Rasak_248: -1775701518357722148
+      Tileset_Storage_Rasak_249: -4397917979708860982
+      Tileset_Storage_Rasak_25: 7455679273375558579
+      Tileset_Storage_Rasak_250: 1217154009127978780
+      Tileset_Storage_Rasak_251: 7761380033647574822
+      Tileset_Storage_Rasak_252: -5867588349250905176
+      Tileset_Storage_Rasak_253: 4899056649310577038
+      Tileset_Storage_Rasak_254: -1879463571654254280
+      Tileset_Storage_Rasak_255: -1646895288384951832
+      Tileset_Storage_Rasak_256: 5708798666210809670
+      Tileset_Storage_Rasak_257: 7300111478221036424
+      Tileset_Storage_Rasak_258: 5546450959880806308
+      Tileset_Storage_Rasak_259: -1778208216546014210
+      Tileset_Storage_Rasak_26: 5101520991449453474
+      Tileset_Storage_Rasak_260: -645327348326346323
+      Tileset_Storage_Rasak_261: 7429827174825821894
+      Tileset_Storage_Rasak_262: -3929815210499650504
+      Tileset_Storage_Rasak_263: -8193605634900844754
+      Tileset_Storage_Rasak_264: -5254498654004373128
+      Tileset_Storage_Rasak_265: -3919686619123302951
+      Tileset_Storage_Rasak_266: 2018586529288335845
+      Tileset_Storage_Rasak_267: 4820598558962572004
+      Tileset_Storage_Rasak_268: 8468831133928650498
+      Tileset_Storage_Rasak_27: 2585771609841152122
+      Tileset_Storage_Rasak_28: 6770557756616780969
+      Tileset_Storage_Rasak_29: -4903171193125381993
+      Tileset_Storage_Rasak_3: -3794627383243903305
+      Tileset_Storage_Rasak_30: 4808952655608636367
+      Tileset_Storage_Rasak_31: 773188751163649813
+      Tileset_Storage_Rasak_32: -1545394168055170890
+      Tileset_Storage_Rasak_33: 1346061396164100835
+      Tileset_Storage_Rasak_34: -2913880613083956171
+      Tileset_Storage_Rasak_35: -1682236008183418653
+      Tileset_Storage_Rasak_36: 5254389244935400733
+      Tileset_Storage_Rasak_37: -1554230798004591576
+      Tileset_Storage_Rasak_38: -8283975505143787440
+      Tileset_Storage_Rasak_39: -8680863028600347000
+      Tileset_Storage_Rasak_4: -894943083404548853
+      Tileset_Storage_Rasak_40: -5128250233847358128
+      Tileset_Storage_Rasak_41: 8233845422941948600
+      Tileset_Storage_Rasak_42: 1289141094516509466
+      Tileset_Storage_Rasak_43: -1354627640749055542
+      Tileset_Storage_Rasak_44: 9200330549540812215
+      Tileset_Storage_Rasak_45: -4508623636433784769
+      Tileset_Storage_Rasak_46: 5893489183214144896
+      Tileset_Storage_Rasak_47: 1499167128032143673
+      Tileset_Storage_Rasak_48: 643557946863077901
+      Tileset_Storage_Rasak_49: -7821359431514055634
+      Tileset_Storage_Rasak_5: -7045101574695194476
+      Tileset_Storage_Rasak_50: 1712805061487050406
+      Tileset_Storage_Rasak_51: -645620187561964603
+      Tileset_Storage_Rasak_52: -8261354420036327783
+      Tileset_Storage_Rasak_53: -5374080903141068177
+      Tileset_Storage_Rasak_54: 7004319307975961974
+      Tileset_Storage_Rasak_55: 162664640018777096
+      Tileset_Storage_Rasak_56: 6438631472633685788
+      Tileset_Storage_Rasak_57: 2532755144553380368
+      Tileset_Storage_Rasak_58: 5229208829094839447
+      Tileset_Storage_Rasak_59: 3093563367616247901
+      Tileset_Storage_Rasak_6: 5916829700505295688
+      Tileset_Storage_Rasak_60: 2757185591600431484
+      Tileset_Storage_Rasak_61: -3848568955146016542
+      Tileset_Storage_Rasak_62: 2103522533336798387
+      Tileset_Storage_Rasak_63: -4803054817555150175
+      Tileset_Storage_Rasak_64: -1590447203610629427
+      Tileset_Storage_Rasak_65: 5399370337564632398
+      Tileset_Storage_Rasak_66: 806247580846748789
+      Tileset_Storage_Rasak_67: 4222077880882775040
+      Tileset_Storage_Rasak_68: 6646274058123945485
+      Tileset_Storage_Rasak_69: 8617284344669573802
+      Tileset_Storage_Rasak_7: -3460318339943204444
+      Tileset_Storage_Rasak_70: 7561683328410300157
+      Tileset_Storage_Rasak_71: -2705451558993330810
+      Tileset_Storage_Rasak_72: 7394874666666100363
+      Tileset_Storage_Rasak_73: 8387810023707574352
+      Tileset_Storage_Rasak_74: 1361725730062074799
+      Tileset_Storage_Rasak_75: 4929247640599603978
+      Tileset_Storage_Rasak_76: -6554372162435156769
+      Tileset_Storage_Rasak_77: 439070401379575054
+      Tileset_Storage_Rasak_78: 6561683529805298814
+      Tileset_Storage_Rasak_79: 3788598044626228044
+      Tileset_Storage_Rasak_8: -6240567974187230197
+      Tileset_Storage_Rasak_80: 6099681854747843118
+      Tileset_Storage_Rasak_81: 2925200711624816437
+      Tileset_Storage_Rasak_82: 4179372680310254956
+      Tileset_Storage_Rasak_83: 2548009807454979198
+      Tileset_Storage_Rasak_84: -345709074418199017
+      Tileset_Storage_Rasak_85: 4281878982450687010
+      Tileset_Storage_Rasak_86: -1115769201820252443
+      Tileset_Storage_Rasak_87: -6728110662874531887
+      Tileset_Storage_Rasak_88: -8316974201929020169
+      Tileset_Storage_Rasak_89: 1740552346579784178
+      Tileset_Storage_Rasak_9: -298279163660313207
+      Tileset_Storage_Rasak_90: 4349421347128793187
+      Tileset_Storage_Rasak_91: 7541126128524838928
+      Tileset_Storage_Rasak_92: 2868341349181451357
+      Tileset_Storage_Rasak_93: -6870996153592481738
+      Tileset_Storage_Rasak_94: -2530099124899239302
+      Tileset_Storage_Rasak_95: 5993160775350110427
+      Tileset_Storage_Rasak_96: -4709807404155090692
+      Tileset_Storage_Rasak_97: 6071258332711594322
+      Tileset_Storage_Rasak_98: -8231456415950881029
+      Tileset_Storage_Rasak_99: 2690590228075167771
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

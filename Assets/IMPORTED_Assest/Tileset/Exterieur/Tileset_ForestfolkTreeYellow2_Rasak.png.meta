@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: ad7cb02a68731794285a9d0fb6e3fc5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7045493269753604774
+    second: Tileset_ForestfolkTreeYellow2_Rasak_0
+  - first:
+      213: -8162674412231143816
+    second: Tileset_ForestfolkTreeYellow2_Rasak_1
+  - first:
+      213: 1130392259563606727
+    second: Tileset_ForestfolkTreeYellow2_Rasak_2
+  - first:
+      213: 7843080462349778346
+    second: Tileset_ForestfolkTreeYellow2_Rasak_3
+  - first:
+      213: -4253731360605977719
+    second: Tileset_ForestfolkTreeYellow2_Rasak_4
+  - first:
+      213: -4895495681966624479
+    second: Tileset_ForestfolkTreeYellow2_Rasak_5
+  - first:
+      213: 5867647017356833592
+    second: Tileset_ForestfolkTreeYellow2_Rasak_6
+  - first:
+      213: -6612158161028107451
+    second: Tileset_ForestfolkTreeYellow2_Rasak_7
+  - first:
+      213: 1139662496230035674
+    second: Tileset_ForestfolkTreeYellow2_Rasak_8
+  - first:
+      213: 7251271963863118806
+    second: Tileset_ForestfolkTreeYellow2_Rasak_9
+  - first:
+      213: -5572588556376300698
+    second: Tileset_ForestfolkTreeYellow2_Rasak_10
+  - first:
+      213: -5611597733524906260
+    second: Tileset_ForestfolkTreeYellow2_Rasak_11
+  - first:
+      213: 6741501788526424320
+    second: Tileset_ForestfolkTreeYellow2_Rasak_12
+  - first:
+      213: -6598598845985571747
+    second: Tileset_ForestfolkTreeYellow2_Rasak_13
+  - first:
+      213: -9162773377278103868
+    second: Tileset_ForestfolkTreeYellow2_Rasak_14
+  - first:
+      213: 8721304692511337171
+    second: Tileset_ForestfolkTreeYellow2_Rasak_15
+  - first:
+      213: 6680038131590217131
+    second: Tileset_ForestfolkTreeYellow2_Rasak_16
+  - first:
+      213: 6032403548243276641
+    second: Tileset_ForestfolkTreeYellow2_Rasak_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeYellow2_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 448
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaa11bdcce96c160800000000000000
+      internalID: 7045493269753604774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeYellow2_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 719
+        width: 137
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ecac9aeda58be80800000000000000
+      internalID: -8162674412231143816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeYellow2_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 589
+        width: 213
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2d32065c5ffaf00800000000000000
+      internalID: 1130392259563606727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeYellow2_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 527
+        width: 145
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad3a27402838dc60800000000000000
+      internalID: 7843080462349778346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeYellow2_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 533
+        width: 119
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98344216dd5b7f4c0800000000000000
+      internalID: -4253731360605977719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeYellow2_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 419
+        width: 249
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121bbec5d94bf0cb0800000000000000
+      internalID: -4895495681966624479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeYellow2_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 491
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8333fe8cfd11e6150800000000000000
+      internalID: 5867647017356833592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeYellow2_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 491
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543383d6f25ec34a0800000000000000
+      internalID: -6612158161028107451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeYellow2_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 394
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad050ab8005e0df00800000000000000
+      internalID: 1139662496230035674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeYellow2_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 383
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d37fc7ae61b1a460800000000000000
+      internalID: 7251271963863118806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeYellow2_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 383
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663a8c99b303aa2b0800000000000000
+      internalID: -5572588556376300698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeYellow2_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 346
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee5cd6c7999f12b0800000000000000
+      internalID: -5611597733524906260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeYellow2_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 143
+        width: 272
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00137cd9820ae8d50800000000000000
+      internalID: 6741501788526424320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeYellow2_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 298
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c3ab97f411d64a0800000000000000
+      internalID: -6598598845985571747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeYellow2_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 145
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ceaee9e82a47d080800000000000000
+      internalID: -9162773377278103868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeYellow2_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 95
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dae51f096c480970800000000000000
+      internalID: 8721304692511337171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeYellow2_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 270
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badbf7fc94344bc50800000000000000
+      internalID: 6680038131590217131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_ForestfolkTreeYellow2_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 95
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163b8dae01767b350800000000000000
+      internalID: 6032403548243276641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_ForestfolkTreeYellow2_Rasak_0: 7045493269753604774
+      Tileset_ForestfolkTreeYellow2_Rasak_1: -8162674412231143816
+      Tileset_ForestfolkTreeYellow2_Rasak_10: -5572588556376300698
+      Tileset_ForestfolkTreeYellow2_Rasak_11: -5611597733524906260
+      Tileset_ForestfolkTreeYellow2_Rasak_12: 6741501788526424320
+      Tileset_ForestfolkTreeYellow2_Rasak_13: -6598598845985571747
+      Tileset_ForestfolkTreeYellow2_Rasak_14: -9162773377278103868
+      Tileset_ForestfolkTreeYellow2_Rasak_15: 8721304692511337171
+      Tileset_ForestfolkTreeYellow2_Rasak_16: 6680038131590217131
+      Tileset_ForestfolkTreeYellow2_Rasak_17: 6032403548243276641
+      Tileset_ForestfolkTreeYellow2_Rasak_2: 1130392259563606727
+      Tileset_ForestfolkTreeYellow2_Rasak_3: 7843080462349778346
+      Tileset_ForestfolkTreeYellow2_Rasak_4: -4253731360605977719
+      Tileset_ForestfolkTreeYellow2_Rasak_5: -4895495681966624479
+      Tileset_ForestfolkTreeYellow2_Rasak_6: 5867647017356833592
+      Tileset_ForestfolkTreeYellow2_Rasak_7: -6612158161028107451
+      Tileset_ForestfolkTreeYellow2_Rasak_8: 1139662496230035674
+      Tileset_ForestfolkTreeYellow2_Rasak_9: 7251271963863118806
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

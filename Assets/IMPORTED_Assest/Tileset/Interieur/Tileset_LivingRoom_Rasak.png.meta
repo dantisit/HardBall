@@ -1,0 +1,1625 @@
+fileFormatVersion: 2
+guid: 56ece40bd42dc5c458e397ef451447b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3799561750858024727
+    second: Tileset_LivingRoom_Rasak_0
+  - first:
+      213: 373001641815549562
+    second: Tileset_LivingRoom_Rasak_1
+  - first:
+      213: 6705602294543818735
+    second: Tileset_LivingRoom_Rasak_2
+  - first:
+      213: -367587906416162031
+    second: Tileset_LivingRoom_Rasak_3
+  - first:
+      213: -7787723462517939312
+    second: Tileset_LivingRoom_Rasak_4
+  - first:
+      213: -1357985691095160681
+    second: Tileset_LivingRoom_Rasak_5
+  - first:
+      213: -4538271737269509760
+    second: Tileset_LivingRoom_Rasak_6
+  - first:
+      213: -3197787692794516726
+    second: Tileset_LivingRoom_Rasak_7
+  - first:
+      213: -2774042729739968251
+    second: Tileset_LivingRoom_Rasak_8
+  - first:
+      213: 8249613572115521430
+    second: Tileset_LivingRoom_Rasak_9
+  - first:
+      213: 7960459222056454943
+    second: Tileset_LivingRoom_Rasak_10
+  - first:
+      213: 1547639410203995826
+    second: Tileset_LivingRoom_Rasak_11
+  - first:
+      213: 2695718525087931777
+    second: Tileset_LivingRoom_Rasak_12
+  - first:
+      213: -7073504617819323020
+    second: Tileset_LivingRoom_Rasak_13
+  - first:
+      213: -6143990359868671209
+    second: Tileset_LivingRoom_Rasak_14
+  - first:
+      213: -4298321909767273138
+    second: Tileset_LivingRoom_Rasak_15
+  - first:
+      213: 249586800784330306
+    second: Tileset_LivingRoom_Rasak_16
+  - first:
+      213: -8738300258251493844
+    second: Tileset_LivingRoom_Rasak_17
+  - first:
+      213: -5989298757715188845
+    second: Tileset_LivingRoom_Rasak_18
+  - first:
+      213: 8142872350648862960
+    second: Tileset_LivingRoom_Rasak_19
+  - first:
+      213: -5271895142394245682
+    second: Tileset_LivingRoom_Rasak_20
+  - first:
+      213: -6988634424298173180
+    second: Tileset_LivingRoom_Rasak_21
+  - first:
+      213: -2603810805881232319
+    second: Tileset_LivingRoom_Rasak_22
+  - first:
+      213: -1064180429533754961
+    second: Tileset_LivingRoom_Rasak_23
+  - first:
+      213: 7488842591251080723
+    second: Tileset_LivingRoom_Rasak_24
+  - first:
+      213: 7741362798067054818
+    second: Tileset_LivingRoom_Rasak_25
+  - first:
+      213: 2376198801445675632
+    second: Tileset_LivingRoom_Rasak_26
+  - first:
+      213: -2888920324593661956
+    second: Tileset_LivingRoom_Rasak_27
+  - first:
+      213: -575583051507270103
+    second: Tileset_LivingRoom_Rasak_28
+  - first:
+      213: -1374389546022079922
+    second: Tileset_LivingRoom_Rasak_29
+  - first:
+      213: 4782818361944515937
+    second: Tileset_LivingRoom_Rasak_30
+  - first:
+      213: 5069520230451306717
+    second: Tileset_LivingRoom_Rasak_31
+  - first:
+      213: 8256802908376953280
+    second: Tileset_LivingRoom_Rasak_32
+  - first:
+      213: -7215995335262930041
+    second: Tileset_LivingRoom_Rasak_33
+  - first:
+      213: -2075028876771619668
+    second: Tileset_LivingRoom_Rasak_34
+  - first:
+      213: 3726698683999693536
+    second: Tileset_LivingRoom_Rasak_35
+  - first:
+      213: -1079557846075860940
+    second: Tileset_LivingRoom_Rasak_36
+  - first:
+      213: -2006453137172991813
+    second: Tileset_LivingRoom_Rasak_37
+  - first:
+      213: -569888175918093832
+    second: Tileset_LivingRoom_Rasak_38
+  - first:
+      213: 2707595681066499120
+    second: Tileset_LivingRoom_Rasak_39
+  - first:
+      213: -4517032174989100371
+    second: Tileset_LivingRoom_Rasak_40
+  - first:
+      213: 718206808324690501
+    second: Tileset_LivingRoom_Rasak_41
+  - first:
+      213: 4459202836831951069
+    second: Tileset_LivingRoom_Rasak_42
+  - first:
+      213: 1298472175861000951
+    second: Tileset_LivingRoom_Rasak_43
+  - first:
+      213: 4073794057651079493
+    second: Tileset_LivingRoom_Rasak_44
+  - first:
+      213: 7823453480931782990
+    second: Tileset_LivingRoom_Rasak_45
+  - first:
+      213: -503173285118221729
+    second: Tileset_LivingRoom_Rasak_46
+  - first:
+      213: 3953497054977931593
+    second: Tileset_LivingRoom_Rasak_47
+  - first:
+      213: 5766683702309475854
+    second: Tileset_LivingRoom_Rasak_48
+  - first:
+      213: -455898823222349095
+    second: Tileset_LivingRoom_Rasak_49
+  - first:
+      213: -3129995915803590333
+    second: Tileset_LivingRoom_Rasak_50
+  - first:
+      213: 899547141356223192
+    second: Tileset_LivingRoom_Rasak_51
+  - first:
+      213: -7931078411416123035
+    second: Tileset_LivingRoom_Rasak_52
+  - first:
+      213: -2681654219920214103
+    second: Tileset_LivingRoom_Rasak_53
+  - first:
+      213: -2805820842014765654
+    second: Tileset_LivingRoom_Rasak_54
+  - first:
+      213: 3041370590348554892
+    second: Tileset_LivingRoom_Rasak_55
+  - first:
+      213: 3743315491708320447
+    second: Tileset_LivingRoom_Rasak_56
+  - first:
+      213: 6638655817235877025
+    second: Tileset_LivingRoom_Rasak_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 701
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e832f1f7be354bc0800000000000000
+      internalID: -3799561750858024727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 693
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76ad09540b2d2500800000000000000
+      internalID: 373001641815549562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 697
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef145352c51f0d50800000000000000
+      internalID: 6705602294543818735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 701
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bc5562fb016eaf0800000000000000
+      internalID: -367587906416162031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 623
+        width: 224
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093a4af95c27ce390800000000000000
+      internalID: -7787723462517939312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 623
+        width: 11
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798a5387537772de0800000000000000
+      internalID: -1357985691095160681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 733
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0812bd556e1d401c0800000000000000
+      internalID: -4538271737269509760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 721
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bedd7390d2f93d0800000000000000
+      internalID: -3197787692794516726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 709
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5012816b5de9089d0800000000000000
+      internalID: -2774042729739968251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 709
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fdf24e5d38c7270800000000000000
+      internalID: 8249613572115521430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 709
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b48a37c7b397e60800000000000000
+      internalID: 7960459222056454943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 687
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2beaa9508d15a7510800000000000000
+      internalID: 1547639410203995826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 703
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d5e4e47bd196520800000000000000
+      internalID: 2695718525087931777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 703
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4754bc1f60dd5dd90800000000000000
+      internalID: -7073504617819323020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 703
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b7a98e1592cbaa0800000000000000
+      internalID: -6143990359868671209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 703
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e450b0e1ffa4954c0800000000000000
+      internalID: -4298321909767273138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 703
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e40697fd5b67300800000000000000
+      internalID: 249586800784330306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 703
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e273e66325bb680800000000000000
+      internalID: -8738300258251493844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 583
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393a2b4338cb1eca0800000000000000
+      internalID: -5989298757715188845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 595
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f886c7924b410170800000000000000
+      internalID: 8142872350648862960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 648
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdcb78bc4776d6b0800000000000000
+      internalID: -5271895142394245682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 654
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d04aab402630f90800000000000000
+      internalID: -6988634424298173180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 643
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144202d1ed76ddbd0800000000000000
+      internalID: -2603810805881232319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 654
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9c7b0a9854b31f0800000000000000
+      internalID: -1064180429533754961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 644
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316265eb8a6bde760800000000000000
+      internalID: 7488842591251080723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 647
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8f5380378de6b60800000000000000
+      internalID: 7741362798067054818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 657
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072e0e36834f9f020800000000000000
+      internalID: 2376198801445675632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 596
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7403c554e78e7d0800000000000000
+      internalID: -2888920324593661956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 589
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e7c24a34e1308f0800000000000000
+      internalID: -575583051507270103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 588
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42f75e5dff2dece0800000000000000
+      internalID: -1374389546022079922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 596
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1652be0b5fbff5240800000000000000
+      internalID: 4782818361944515937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 594
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0e4b54acd8a5640800000000000000
+      internalID: 5069520230451306717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 642
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1783eaf7e069270800000000000000
+      internalID: 8256802908376953280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 575
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bf6cc7972abdb90800000000000000
+      internalID: -7215995335262930041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 587
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac89550b340433e0800000000000000
+      internalID: -2075028876771619668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 543
+        width: 145
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eaa7bc45b4e7b330800000000000000
+      internalID: 3726698683999693536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 575
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4389926dbd3a401f0800000000000000
+      internalID: -1079557846075860940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 580
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0f55c9085a724e0800000000000000
+      internalID: -2006453137172991813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 580
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9e4b039b95718f0800000000000000
+      internalID: -569888175918093832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 595
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cb95d2def439520800000000000000
+      internalID: 2707595681066499120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 673
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daab3ca4b274051c0800000000000000
+      internalID: -4517032174989100371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 532
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542d575794597f900800000000000000
+      internalID: 718206808324690501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 532
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd858ceaa5542ed30800000000000000
+      internalID: 4459202836831951069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 488
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa6ce87099150210800000000000000
+      internalID: 1298472175861000951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 488
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549c36e8c16098830800000000000000
+      internalID: 4073794057651079493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 432
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e417bbf8d7d729c60800000000000000
+      internalID: 7823453480931782990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 391
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52ef08209e5409f0800000000000000
+      internalID: -503173285118221729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 432
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949338eff94add630800000000000000
+      internalID: 3953497054977931593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 388
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06d0382640670050800000000000000
+      internalID: 5766683702309475854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 241
+        width: 187
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2305c8f625ca9f0800000000000000
+      internalID: -455898823222349095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 191
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3418a1a4c450094d0800000000000000
+      internalID: -3129995915803590333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 191
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da714beb55db7c00800000000000000
+      internalID: 899547141356223192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 95
+        width: 146
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569c5c994362fe190800000000000000
+      internalID: -7931078411416123035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 143
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a77a3be1b9d8cad0800000000000000
+      internalID: -2681654219920214103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 99
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad82506fc8bf09d0800000000000000
+      internalID: -2805820842014765654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 102
+        width: 34
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82bb04207e153a20800000000000000
+      internalID: 3041370590348554892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 53
+        width: 145
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbabd755b9de2f330800000000000000
+      internalID: 3743315491708320447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_LivingRoom_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 241
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1accc6cea4e312c50800000000000000
+      internalID: 6638655817235877025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_LivingRoom_Rasak_0: -3799561750858024727
+      Tileset_LivingRoom_Rasak_1: 373001641815549562
+      Tileset_LivingRoom_Rasak_10: 7960459222056454943
+      Tileset_LivingRoom_Rasak_11: 1547639410203995826
+      Tileset_LivingRoom_Rasak_12: 2695718525087931777
+      Tileset_LivingRoom_Rasak_13: -7073504617819323020
+      Tileset_LivingRoom_Rasak_14: -6143990359868671209
+      Tileset_LivingRoom_Rasak_15: -4298321909767273138
+      Tileset_LivingRoom_Rasak_16: 249586800784330306
+      Tileset_LivingRoom_Rasak_17: -8738300258251493844
+      Tileset_LivingRoom_Rasak_18: -5989298757715188845
+      Tileset_LivingRoom_Rasak_19: 8142872350648862960
+      Tileset_LivingRoom_Rasak_2: 6705602294543818735
+      Tileset_LivingRoom_Rasak_20: -5271895142394245682
+      Tileset_LivingRoom_Rasak_21: -6988634424298173180
+      Tileset_LivingRoom_Rasak_22: -2603810805881232319
+      Tileset_LivingRoom_Rasak_23: -1064180429533754961
+      Tileset_LivingRoom_Rasak_24: 7488842591251080723
+      Tileset_LivingRoom_Rasak_25: 7741362798067054818
+      Tileset_LivingRoom_Rasak_26: 2376198801445675632
+      Tileset_LivingRoom_Rasak_27: -2888920324593661956
+      Tileset_LivingRoom_Rasak_28: -575583051507270103
+      Tileset_LivingRoom_Rasak_29: -1374389546022079922
+      Tileset_LivingRoom_Rasak_3: -367587906416162031
+      Tileset_LivingRoom_Rasak_30: 4782818361944515937
+      Tileset_LivingRoom_Rasak_31: 5069520230451306717
+      Tileset_LivingRoom_Rasak_32: 8256802908376953280
+      Tileset_LivingRoom_Rasak_33: -7215995335262930041
+      Tileset_LivingRoom_Rasak_34: -2075028876771619668
+      Tileset_LivingRoom_Rasak_35: 3726698683999693536
+      Tileset_LivingRoom_Rasak_36: -1079557846075860940
+      Tileset_LivingRoom_Rasak_37: -2006453137172991813
+      Tileset_LivingRoom_Rasak_38: -569888175918093832
+      Tileset_LivingRoom_Rasak_39: 2707595681066499120
+      Tileset_LivingRoom_Rasak_4: -7787723462517939312
+      Tileset_LivingRoom_Rasak_40: -4517032174989100371
+      Tileset_LivingRoom_Rasak_41: 718206808324690501
+      Tileset_LivingRoom_Rasak_42: 4459202836831951069
+      Tileset_LivingRoom_Rasak_43: 1298472175861000951
+      Tileset_LivingRoom_Rasak_44: 4073794057651079493
+      Tileset_LivingRoom_Rasak_45: 7823453480931782990
+      Tileset_LivingRoom_Rasak_46: -503173285118221729
+      Tileset_LivingRoom_Rasak_47: 3953497054977931593
+      Tileset_LivingRoom_Rasak_48: 5766683702309475854
+      Tileset_LivingRoom_Rasak_49: -455898823222349095
+      Tileset_LivingRoom_Rasak_5: -1357985691095160681
+      Tileset_LivingRoom_Rasak_50: -3129995915803590333
+      Tileset_LivingRoom_Rasak_51: 899547141356223192
+      Tileset_LivingRoom_Rasak_52: -7931078411416123035
+      Tileset_LivingRoom_Rasak_53: -2681654219920214103
+      Tileset_LivingRoom_Rasak_54: -2805820842014765654
+      Tileset_LivingRoom_Rasak_55: 3041370590348554892
+      Tileset_LivingRoom_Rasak_56: 3743315491708320447
+      Tileset_LivingRoom_Rasak_57: 6638655817235877025
+      Tileset_LivingRoom_Rasak_6: -4538271737269509760
+      Tileset_LivingRoom_Rasak_7: -3197787692794516726
+      Tileset_LivingRoom_Rasak_8: -2774042729739968251
+      Tileset_LivingRoom_Rasak_9: 8249613572115521430
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

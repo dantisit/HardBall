@@ -1,0 +1,5863 @@
+fileFormatVersion: 2
+guid: 9c93e29324d331149bd6bc636abd8122
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3884649362048533480
+    second: Tileset_Plants_Rasak_0
+  - first:
+      213: 4942743133767079965
+    second: Tileset_Plants_Rasak_1
+  - first:
+      213: 5342015474331266641
+    second: Tileset_Plants_Rasak_2
+  - first:
+      213: 988075232567482118
+    second: Tileset_Plants_Rasak_3
+  - first:
+      213: 7399085978280013937
+    second: Tileset_Plants_Rasak_4
+  - first:
+      213: -3842019150269750776
+    second: Tileset_Plants_Rasak_5
+  - first:
+      213: 5455390880190164125
+    second: Tileset_Plants_Rasak_6
+  - first:
+      213: 3312129596338004658
+    second: Tileset_Plants_Rasak_7
+  - first:
+      213: -3240513642459087508
+    second: Tileset_Plants_Rasak_8
+  - first:
+      213: 5907517124977869946
+    second: Tileset_Plants_Rasak_9
+  - first:
+      213: -3371103612710776703
+    second: Tileset_Plants_Rasak_10
+  - first:
+      213: -6342819648674283679
+    second: Tileset_Plants_Rasak_11
+  - first:
+      213: 2977143910417888910
+    second: Tileset_Plants_Rasak_12
+  - first:
+      213: -7066043572825857248
+    second: Tileset_Plants_Rasak_13
+  - first:
+      213: -8668628821104161648
+    second: Tileset_Plants_Rasak_14
+  - first:
+      213: 7105927101864473966
+    second: Tileset_Plants_Rasak_15
+  - first:
+      213: -434809602821992192
+    second: Tileset_Plants_Rasak_16
+  - first:
+      213: 358168697295896526
+    second: Tileset_Plants_Rasak_17
+  - first:
+      213: -5422832808663406633
+    second: Tileset_Plants_Rasak_18
+  - first:
+      213: 3187367076923219270
+    second: Tileset_Plants_Rasak_19
+  - first:
+      213: 4513588346204923224
+    second: Tileset_Plants_Rasak_20
+  - first:
+      213: 4150470555673727950
+    second: Tileset_Plants_Rasak_21
+  - first:
+      213: -5639695442881010363
+    second: Tileset_Plants_Rasak_22
+  - first:
+      213: -4377234522323311412
+    second: Tileset_Plants_Rasak_23
+  - first:
+      213: 3513417500780222254
+    second: Tileset_Plants_Rasak_24
+  - first:
+      213: 9192651132259695556
+    second: Tileset_Plants_Rasak_25
+  - first:
+      213: 6415628472523175932
+    second: Tileset_Plants_Rasak_26
+  - first:
+      213: -8292668505605225945
+    second: Tileset_Plants_Rasak_27
+  - first:
+      213: -6625027564516949996
+    second: Tileset_Plants_Rasak_28
+  - first:
+      213: -956344061641158529
+    second: Tileset_Plants_Rasak_29
+  - first:
+      213: 4811887293860833770
+    second: Tileset_Plants_Rasak_30
+  - first:
+      213: 630335749149286796
+    second: Tileset_Plants_Rasak_31
+  - first:
+      213: -9181933705736233813
+    second: Tileset_Plants_Rasak_32
+  - first:
+      213: 8727233056024364617
+    second: Tileset_Plants_Rasak_33
+  - first:
+      213: 4136886159869140824
+    second: Tileset_Plants_Rasak_34
+  - first:
+      213: 5285829566833291968
+    second: Tileset_Plants_Rasak_35
+  - first:
+      213: 2776560849026436850
+    second: Tileset_Plants_Rasak_36
+  - first:
+      213: -3694699859519650221
+    second: Tileset_Plants_Rasak_37
+  - first:
+      213: 8067146484423390729
+    second: Tileset_Plants_Rasak_38
+  - first:
+      213: 7293086091293382744
+    second: Tileset_Plants_Rasak_39
+  - first:
+      213: -5947791026099791789
+    second: Tileset_Plants_Rasak_40
+  - first:
+      213: 648277956824833432
+    second: Tileset_Plants_Rasak_41
+  - first:
+      213: -6120662502955798811
+    second: Tileset_Plants_Rasak_42
+  - first:
+      213: 8959543152910516273
+    second: Tileset_Plants_Rasak_43
+  - first:
+      213: -302368330577927074
+    second: Tileset_Plants_Rasak_44
+  - first:
+      213: 6608871913322096261
+    second: Tileset_Plants_Rasak_45
+  - first:
+      213: 8195932026733805826
+    second: Tileset_Plants_Rasak_46
+  - first:
+      213: -2876142898588806371
+    second: Tileset_Plants_Rasak_47
+  - first:
+      213: 1736826591401920080
+    second: Tileset_Plants_Rasak_48
+  - first:
+      213: 3712661298798923490
+    second: Tileset_Plants_Rasak_49
+  - first:
+      213: 2989981554548772171
+    second: Tileset_Plants_Rasak_50
+  - first:
+      213: -2273261507012017061
+    second: Tileset_Plants_Rasak_51
+  - first:
+      213: -2403351472111347865
+    second: Tileset_Plants_Rasak_52
+  - first:
+      213: -7918963041176377488
+    second: Tileset_Plants_Rasak_53
+  - first:
+      213: 7270880586959680943
+    second: Tileset_Plants_Rasak_54
+  - first:
+      213: -6301535435584968701
+    second: Tileset_Plants_Rasak_55
+  - first:
+      213: -6109319204249903172
+    second: Tileset_Plants_Rasak_56
+  - first:
+      213: 2193544599539849419
+    second: Tileset_Plants_Rasak_57
+  - first:
+      213: -5358002017280815660
+    second: Tileset_Plants_Rasak_58
+  - first:
+      213: -862170840464923702
+    second: Tileset_Plants_Rasak_59
+  - first:
+      213: -411332714495386499
+    second: Tileset_Plants_Rasak_60
+  - first:
+      213: 5081252738110322185
+    second: Tileset_Plants_Rasak_61
+  - first:
+      213: 552692888311769836
+    second: Tileset_Plants_Rasak_62
+  - first:
+      213: 8684658884414549864
+    second: Tileset_Plants_Rasak_63
+  - first:
+      213: -7018284132513661691
+    second: Tileset_Plants_Rasak_64
+  - first:
+      213: 8610721540367995707
+    second: Tileset_Plants_Rasak_65
+  - first:
+      213: -7385739674302678547
+    second: Tileset_Plants_Rasak_66
+  - first:
+      213: 5477391163837870499
+    second: Tileset_Plants_Rasak_67
+  - first:
+      213: -7393584411056987284
+    second: Tileset_Plants_Rasak_68
+  - first:
+      213: 3940180636169970329
+    second: Tileset_Plants_Rasak_69
+  - first:
+      213: -1847229500252160059
+    second: Tileset_Plants_Rasak_70
+  - first:
+      213: 4678208682699246311
+    second: Tileset_Plants_Rasak_71
+  - first:
+      213: 5991017199017985814
+    second: Tileset_Plants_Rasak_72
+  - first:
+      213: -710282609287676444
+    second: Tileset_Plants_Rasak_73
+  - first:
+      213: -7255636333062665176
+    second: Tileset_Plants_Rasak_74
+  - first:
+      213: -1942739423314884224
+    second: Tileset_Plants_Rasak_75
+  - first:
+      213: 7318268116396395226
+    second: Tileset_Plants_Rasak_76
+  - first:
+      213: 4966498160320883665
+    second: Tileset_Plants_Rasak_77
+  - first:
+      213: 7198769349671106930
+    second: Tileset_Plants_Rasak_78
+  - first:
+      213: -2347580840992255513
+    second: Tileset_Plants_Rasak_79
+  - first:
+      213: -2336580547990645912
+    second: Tileset_Plants_Rasak_80
+  - first:
+      213: -2986522638076626403
+    second: Tileset_Plants_Rasak_81
+  - first:
+      213: 3961001849279026649
+    second: Tileset_Plants_Rasak_82
+  - first:
+      213: -5240531108879182170
+    second: Tileset_Plants_Rasak_83
+  - first:
+      213: -1705075364932102822
+    second: Tileset_Plants_Rasak_84
+  - first:
+      213: 6670112048968709911
+    second: Tileset_Plants_Rasak_85
+  - first:
+      213: -5322279853464893776
+    second: Tileset_Plants_Rasak_86
+  - first:
+      213: 4551942488461744972
+    second: Tileset_Plants_Rasak_87
+  - first:
+      213: 990993571466694033
+    second: Tileset_Plants_Rasak_88
+  - first:
+      213: 222492571110658554
+    second: Tileset_Plants_Rasak_89
+  - first:
+      213: -5999316597551524066
+    second: Tileset_Plants_Rasak_90
+  - first:
+      213: -3958128856577414474
+    second: Tileset_Plants_Rasak_91
+  - first:
+      213: 1970704943800429292
+    second: Tileset_Plants_Rasak_92
+  - first:
+      213: 5855263895749392419
+    second: Tileset_Plants_Rasak_93
+  - first:
+      213: -8059240453358944029
+    second: Tileset_Plants_Rasak_94
+  - first:
+      213: -370864079685910737
+    second: Tileset_Plants_Rasak_95
+  - first:
+      213: -3865322414537252333
+    second: Tileset_Plants_Rasak_96
+  - first:
+      213: -6873789274242777322
+    second: Tileset_Plants_Rasak_97
+  - first:
+      213: 5343926652075099279
+    second: Tileset_Plants_Rasak_98
+  - first:
+      213: -7676013240871770372
+    second: Tileset_Plants_Rasak_99
+  - first:
+      213: 4982632133812638368
+    second: Tileset_Plants_Rasak_100
+  - first:
+      213: -8083634675959842913
+    second: Tileset_Plants_Rasak_101
+  - first:
+      213: 4043472194711372135
+    second: Tileset_Plants_Rasak_102
+  - first:
+      213: -3570048524114944072
+    second: Tileset_Plants_Rasak_103
+  - first:
+      213: -136634298183262276
+    second: Tileset_Plants_Rasak_104
+  - first:
+      213: 9054095959267542839
+    second: Tileset_Plants_Rasak_105
+  - first:
+      213: -775463140078744333
+    second: Tileset_Plants_Rasak_106
+  - first:
+      213: -2105491668253822808
+    second: Tileset_Plants_Rasak_107
+  - first:
+      213: 5173754466908113412
+    second: Tileset_Plants_Rasak_108
+  - first:
+      213: -8516790512299644301
+    second: Tileset_Plants_Rasak_109
+  - first:
+      213: -7286761355129649119
+    second: Tileset_Plants_Rasak_110
+  - first:
+      213: -4632294103421851239
+    second: Tileset_Plants_Rasak_111
+  - first:
+      213: -465593831445177762
+    second: Tileset_Plants_Rasak_112
+  - first:
+      213: 196642476633487202
+    second: Tileset_Plants_Rasak_113
+  - first:
+      213: -5040440504264384000
+    second: Tileset_Plants_Rasak_114
+  - first:
+      213: 6623860793373823754
+    second: Tileset_Plants_Rasak_115
+  - first:
+      213: 6849874167198666328
+    second: Tileset_Plants_Rasak_116
+  - first:
+      213: 4315701951158327747
+    second: Tileset_Plants_Rasak_117
+  - first:
+      213: -241201011952971228
+    second: Tileset_Plants_Rasak_118
+  - first:
+      213: -8459144157337377266
+    second: Tileset_Plants_Rasak_119
+  - first:
+      213: -3670503781758917892
+    second: Tileset_Plants_Rasak_120
+  - first:
+      213: 3485839196758698154
+    second: Tileset_Plants_Rasak_121
+  - first:
+      213: 3186713257362846352
+    second: Tileset_Plants_Rasak_122
+  - first:
+      213: -806106462781296827
+    second: Tileset_Plants_Rasak_123
+  - first:
+      213: 2458188761216159029
+    second: Tileset_Plants_Rasak_124
+  - first:
+      213: -4691240172056812838
+    second: Tileset_Plants_Rasak_125
+  - first:
+      213: 7066254743218162672
+    second: Tileset_Plants_Rasak_126
+  - first:
+      213: 2814602970012866513
+    second: Tileset_Plants_Rasak_127
+  - first:
+      213: -3600937864778094413
+    second: Tileset_Plants_Rasak_128
+  - first:
+      213: 52872445372493212
+    second: Tileset_Plants_Rasak_129
+  - first:
+      213: 3224789075945282927
+    second: Tileset_Plants_Rasak_130
+  - first:
+      213: 4907603328987317097
+    second: Tileset_Plants_Rasak_131
+  - first:
+      213: 8717695750405279
+    second: Tileset_Plants_Rasak_132
+  - first:
+      213: -4798425826146159903
+    second: Tileset_Plants_Rasak_133
+  - first:
+      213: -4889771441893500369
+    second: Tileset_Plants_Rasak_134
+  - first:
+      213: -5392608127244548120
+    second: Tileset_Plants_Rasak_135
+  - first:
+      213: 2907552836909833686
+    second: Tileset_Plants_Rasak_136
+  - first:
+      213: 946947430779880611
+    second: Tileset_Plants_Rasak_137
+  - first:
+      213: -5066798458245488657
+    second: Tileset_Plants_Rasak_138
+  - first:
+      213: 4158852937203799961
+    second: Tileset_Plants_Rasak_139
+  - first:
+      213: -7614763602662677869
+    second: Tileset_Plants_Rasak_140
+  - first:
+      213: -3018849645315966194
+    second: Tileset_Plants_Rasak_141
+  - first:
+      213: 817240021858230145
+    second: Tileset_Plants_Rasak_142
+  - first:
+      213: -3068457491647502071
+    second: Tileset_Plants_Rasak_143
+  - first:
+      213: 6590175422821512718
+    second: Tileset_Plants_Rasak_144
+  - first:
+      213: -7043543543269647130
+    second: Tileset_Plants_Rasak_145
+  - first:
+      213: -2834820048506187045
+    second: Tileset_Plants_Rasak_146
+  - first:
+      213: 5890213156391811598
+    second: Tileset_Plants_Rasak_147
+  - first:
+      213: 933063342769335939
+    second: Tileset_Plants_Rasak_148
+  - first:
+      213: 4105615884246520049
+    second: Tileset_Plants_Rasak_149
+  - first:
+      213: 5783711706469642085
+    second: Tileset_Plants_Rasak_150
+  - first:
+      213: 2365975509864751010
+    second: Tileset_Plants_Rasak_151
+  - first:
+      213: -7818107710002064183
+    second: Tileset_Plants_Rasak_152
+  - first:
+      213: -4223605637211469730
+    second: Tileset_Plants_Rasak_153
+  - first:
+      213: 6409630425846824631
+    second: Tileset_Plants_Rasak_154
+  - first:
+      213: 4179048180212878454
+    second: Tileset_Plants_Rasak_155
+  - first:
+      213: -3311797185274466630
+    second: Tileset_Plants_Rasak_156
+  - first:
+      213: -7259465627041022939
+    second: Tileset_Plants_Rasak_157
+  - first:
+      213: -7819808783795492613
+    second: Tileset_Plants_Rasak_158
+  - first:
+      213: 5970756495742992338
+    second: Tileset_Plants_Rasak_159
+  - first:
+      213: 5289284596807764159
+    second: Tileset_Plants_Rasak_160
+  - first:
+      213: -5869494443723009187
+    second: Tileset_Plants_Rasak_161
+  - first:
+      213: 7654716451892238953
+    second: Tileset_Plants_Rasak_162
+  - first:
+      213: 5524705732969039538
+    second: Tileset_Plants_Rasak_163
+  - first:
+      213: -993776625171462957
+    second: Tileset_Plants_Rasak_164
+  - first:
+      213: -7995921859642409410
+    second: Tileset_Plants_Rasak_165
+  - first:
+      213: -7472106569629696487
+    second: Tileset_Plants_Rasak_166
+  - first:
+      213: -6637193919021274242
+    second: Tileset_Plants_Rasak_167
+  - first:
+      213: 8340747732324577615
+    second: Tileset_Plants_Rasak_168
+  - first:
+      213: 4183396815746678813
+    second: Tileset_Plants_Rasak_169
+  - first:
+      213: 7678605696255303480
+    second: Tileset_Plants_Rasak_170
+  - first:
+      213: -6779959811913474588
+    second: Tileset_Plants_Rasak_171
+  - first:
+      213: 8729894675795847419
+    second: Tileset_Plants_Rasak_172
+  - first:
+      213: 218012827881631155
+    second: Tileset_Plants_Rasak_173
+  - first:
+      213: -6059423733521640905
+    second: Tileset_Plants_Rasak_174
+  - first:
+      213: -1307752647749389711
+    second: Tileset_Plants_Rasak_175
+  - first:
+      213: -4900752878410021809
+    second: Tileset_Plants_Rasak_176
+  - first:
+      213: -497869569505920412
+    second: Tileset_Plants_Rasak_177
+  - first:
+      213: 8456844546253314995
+    second: Tileset_Plants_Rasak_178
+  - first:
+      213: -9051980658777075446
+    second: Tileset_Plants_Rasak_179
+  - first:
+      213: 8966313245563514086
+    second: Tileset_Plants_Rasak_180
+  - first:
+      213: 4631379380468895218
+    second: Tileset_Plants_Rasak_181
+  - first:
+      213: 225118889654609990
+    second: Tileset_Plants_Rasak_182
+  - first:
+      213: 3915316175841983006
+    second: Tileset_Plants_Rasak_183
+  - first:
+      213: 7670482391924381934
+    second: Tileset_Plants_Rasak_184
+  - first:
+      213: 4845279422246492313
+    second: Tileset_Plants_Rasak_185
+  - first:
+      213: 1044403175515970408
+    second: Tileset_Plants_Rasak_186
+  - first:
+      213: 4153930262575696887
+    second: Tileset_Plants_Rasak_187
+  - first:
+      213: -4090465229519102742
+    second: Tileset_Plants_Rasak_188
+  - first:
+      213: -8038196131228801206
+    second: Tileset_Plants_Rasak_189
+  - first:
+      213: 7289141618261781581
+    second: Tileset_Plants_Rasak_190
+  - first:
+      213: 8457926864977190708
+    second: Tileset_Plants_Rasak_191
+  - first:
+      213: -2464753340787624939
+    second: Tileset_Plants_Rasak_192
+  - first:
+      213: 491910824857058048
+    second: Tileset_Plants_Rasak_193
+  - first:
+      213: -2867913903668620153
+    second: Tileset_Plants_Rasak_194
+  - first:
+      213: -6198682980597785751
+    second: Tileset_Plants_Rasak_195
+  - first:
+      213: 2400829119896223988
+    second: Tileset_Plants_Rasak_196
+  - first:
+      213: 2309932492482094822
+    second: Tileset_Plants_Rasak_197
+  - first:
+      213: 1072389524222462305
+    second: Tileset_Plants_Rasak_198
+  - first:
+      213: -7649415464122699195
+    second: Tileset_Plants_Rasak_199
+  - first:
+      213: -2545949420375762249
+    second: Tileset_Plants_Rasak_200
+  - first:
+      213: 1640309998104065311
+    second: Tileset_Plants_Rasak_201
+  - first:
+      213: -5239409957729984821
+    second: Tileset_Plants_Rasak_202
+  - first:
+      213: 6556816510174547118
+    second: Tileset_Plants_Rasak_203
+  - first:
+      213: 4919739012512974455
+    second: Tileset_Plants_Rasak_204
+  - first:
+      213: 868000793444277185
+    second: Tileset_Plants_Rasak_205
+  - first:
+      213: -2951075159216094962
+    second: Tileset_Plants_Rasak_206
+  - first:
+      213: -7980452953119287975
+    second: Tileset_Plants_Rasak_207
+  - first:
+      213: 3358150791593235776
+    second: Tileset_Plants_Rasak_208
+  - first:
+      213: 2389700552260623193
+    second: Tileset_Plants_Rasak_209
+  - first:
+      213: -4778208188691606321
+    second: Tileset_Plants_Rasak_210
+  - first:
+      213: 6259302268228085517
+    second: Tileset_Plants_Rasak_211
+  - first:
+      213: 1240128375455489778
+    second: Tileset_Plants_Rasak_212
+  - first:
+      213: -5423513531938664321
+    second: Tileset_Plants_Rasak_213
+  - first:
+      213: 8286063527125769445
+    second: Tileset_Plants_Rasak_214
+  - first:
+      213: -4494235391039035109
+    second: Tileset_Plants_Rasak_215
+  - first:
+      213: 528638088074666386
+    second: Tileset_Plants_Rasak_216
+  - first:
+      213: 7272951890199532158
+    second: Tileset_Plants_Rasak_217
+  - first:
+      213: -7569196229239726743
+    second: Tileset_Plants_Rasak_218
+  - first:
+      213: 8577241726465070912
+    second: Tileset_Plants_Rasak_219
+  - first:
+      213: -1388458922712492159
+    second: Tileset_Plants_Rasak_220
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 730
+        width: 78
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3c9d5530c09e530800000000000000
+      internalID: 3884649362048533480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 726
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18103041b6289440800000000000000
+      internalID: 4942743133767079965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 732
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ea72c45c6a22a40800000000000000
+      internalID: 5342015474331266641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 726
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607db80603956bd00800000000000000
+      internalID: 988075232567482118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 744
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17034f5ce75dea660800000000000000
+      internalID: 7399085978280013937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 704
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8026cef40f76eaac0800000000000000
+      internalID: -3842019150269750776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 737
+        width: 82
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ce3a40a1175bb40800000000000000
+      internalID: 5455390880190164125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 528
+        width: 90
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2e8c7c15c07fd20800000000000000
+      internalID: 3312129596338004658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 575
+        width: 98
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d3b6bd2026703d0800000000000000
+      internalID: -3240513642459087508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 677
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74c7da9687bbf150800000000000000
+      internalID: 5907517124977869946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 677
+        width: 45
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1809657002f6731d0800000000000000
+      internalID: -3371103612710776703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 677
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fb66e9227c9f7a0800000000000000
+      internalID: -6342819648674283679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 677
+        width: 45
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86fca9ec90f05920800000000000000
+      internalID: 2977143910417888910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023684adece50fd90800000000000000
+      internalID: -7066043572825857248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 683
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c8f5cf308d2b780800000000000000
+      internalID: -8668628821104161648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 672
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65f372ec035d9260800000000000000
+      internalID: 7105927101864473966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 691
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001ddde48fe37f9f0800000000000000
+      internalID: -434809602821992192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 687
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf7cf3588878f400800000000000000
+      internalID: 358168697295896526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 698
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7a84bba4a3eb4b0800000000000000
+      internalID: -5422832808663406633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 689
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d98c4187dcb3c20800000000000000
+      internalID: 3187367076923219270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 671
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85523e5dfac73ae30800000000000000
+      internalID: 4513588346204923224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 684
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec396a1fafe699930800000000000000
+      internalID: 4150470555673727950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 624
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54520b500e6cbb1b0800000000000000
+      internalID: -5639695442881010363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 623
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4a75eb460f043c0800000000000000
+      internalID: -4377234522323311412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 643
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2755a12a9a22c030800000000000000
+      internalID: 3513417500780222254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 646
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb7e62008bd29f70800000000000000
+      internalID: 9192651132259695556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 642
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf730a3ba14e80950800000000000000
+      internalID: 6415628472523175932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 629
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722c45b3ee58aec80800000000000000
+      internalID: -8292668505605225945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 657
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410cbcde78c2f04a0800000000000000
+      internalID: -6625027564516949996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 662
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7013d294226ab2f0800000000000000
+      internalID: -956344061641158529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 621
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae96ac1dff147c240800000000000000
+      internalID: 4811887293860833770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 581
+        width: 42
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81e54136076fb800800000000000000
+      internalID: 630335749149286796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 581
+        width: 45
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacd76e41f7339080800000000000000
+      internalID: -9181933705736233813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 623
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9460160c93c5d1970800000000000000
+      internalID: 8727233056024364617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 623
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fda335b0c296930800000000000000
+      internalID: 4136886159869140824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 611
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2fa5a4cf90b5940800000000000000
+      internalID: 5285829566833291968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 632
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe4a7f9163588620800000000000000
+      internalID: 2776560849026436850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 634
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35645a99d0ac9bcc0800000000000000
+      internalID: -3694699859519650221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 636
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906f81b6cf244ff60800000000000000
+      internalID: 8067146484423390729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 49
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85852ebd82f363560800000000000000
+      internalID: 7293086091293382744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 575
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358d0131393357da0800000000000000
+      internalID: -5947791026099791789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 575
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d9244fd552ff800800000000000000
+      internalID: 648277956824833432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 612
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee2449d1e90f0ba0800000000000000
+      internalID: -6120662502955798811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 606
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130c3032701b65c70800000000000000
+      internalID: 8959543152910516273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 600
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e542398fa95cdcbf0800000000000000
+      internalID: -302368330577927074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 614
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586ae976dfd67bb50800000000000000
+      internalID: 6608871913322096261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 610
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20147b021cccdb170800000000000000
+      internalID: 8195932026733805826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 611
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d131a5ea543e518d0800000000000000
+      internalID: -2876142898588806371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 601
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056c6f035927a1810800000000000000
+      internalID: 1736826591401920080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 610
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee004ed7c5068330800000000000000
+      internalID: 3712661298798923490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 597
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d89dbd16c8e7920800000000000000
+      internalID: 2989981554548772171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 575
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54caf024b0c370e0800000000000000
+      internalID: -2273261507012017061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 575
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7671462d19495aed0800000000000000
+      internalID: -2403351472111347865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 596
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0772c3d02113a1290800000000000000
+      internalID: -7918963041176377488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 603
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5f30efe5b57e460800000000000000
+      internalID: 7270880586959680943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 592
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308eb6688e27c88a0800000000000000
+      internalID: -6301535435584968701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 596
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf56336d86573ba0800000000000000
+      internalID: -6109319204249903172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 552
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc89c8ef039017e10800000000000000
+      internalID: 2193544599539849419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_58
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 598
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd862e9d8d84a5b0800000000000000
+      internalID: -5358002017280815660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_59
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 587
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac363664034f804f0800000000000000
+      internalID: -862170840464923702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_60
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 589
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c51045317aa4af0800000000000000
+      internalID: -411332714495386499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_61
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 585
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906fb05917c348640800000000000000
+      internalID: 5081252738110322185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_62
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 592
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea25bde04f8ba700800000000000000
+      internalID: 552692888311769836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 581
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f28f8fd3b168870800000000000000
+      internalID: 8684658884414549864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_64
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 589
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d33c414cb0a9e90800000000000000
+      internalID: -7018284132513661691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_65
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 580
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3350719e9d6f7770800000000000000
+      internalID: 8610721540367995707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_66
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 577
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9fda5c5e4908990800000000000000
+      internalID: -7385739674302678547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_67
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 479
+        width: 37
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a17b683e3a930c40800000000000000
+      internalID: 5477391163837870499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_68
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 539
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63251aa626b46990800000000000000
+      internalID: -7393584411056987284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_69
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 533
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992a8c1a9655ea630800000000000000
+      internalID: 3940180636169970329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_70
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 552
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cff8da7e825d56e0800000000000000
+      internalID: -1847229500252160059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_71
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 548
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eacf6db2065ce040800000000000000
+      internalID: 4678208682699246311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_72
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 514
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61709b6966e542350800000000000000
+      internalID: 5991017199017985814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_73
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 533
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed3547eab19426f0800000000000000
+      internalID: -710282609287676444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_74
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 545
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cc164723dce4b90800000000000000
+      internalID: -7255636333062665176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_75
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 542
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0894b2e99c00a05e0800000000000000
+      internalID: -1942739423314884224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_76
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 533
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adacfd8f316bf8560800000000000000
+      internalID: 7318268116396395226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_77
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 558
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbae8f53cb8ce440800000000000000
+      internalID: 4966498160320883665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_78
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 531
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279bd13359a27e360800000000000000
+      internalID: 7198769349671106930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_79
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 536
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1d423c9a7bb6fd0800000000000000
+      internalID: -2347580840992255513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_80
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 527
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8631eef0f5cc29fd0800000000000000
+      internalID: -2336580547990645912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_81
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 527
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ab7c3eb7dbd86d0800000000000000
+      internalID: -2986522638076626403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_82
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 535
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d511f4123e48f630800000000000000
+      internalID: 3961001849279026649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_83
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 543
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a65fd4d8b4e547b0800000000000000
+      internalID: -5240531108879182170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_84
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 536
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55d3fd4dfa5658e0800000000000000
+      internalID: -1705075364932102822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_85
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 528
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71735da919ff09c50800000000000000
+      internalID: 6670112048968709911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_86
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 479
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6c1030ca67326b0800000000000000
+      internalID: -5322279853464893776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_87
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 487
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b15c6739fbb2f30800000000000000
+      internalID: 4551942488461744972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_88
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 491
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dc7f91767b0cd00800000000000000
+      internalID: 990993571466694033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_89
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 485
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1d63a80d3761300800000000000000
+      internalID: 222492571110658554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_90
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 487
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1716db17552ebca0800000000000000
+      internalID: -5999316597551524066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_91
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 491
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baea78a6c6e119c0800000000000000
+      internalID: -3958128856577414474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_92
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 485
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaa45484b9595b10800000000000000
+      internalID: 1970704943800429292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_93
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 487
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328ff4c9d73124150800000000000000
+      internalID: 5855263895749392419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_94
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 491
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e00512e183d72090800000000000000
+      internalID: -8059240453358944029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_95
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 485
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f7e5e951d6adaf0800000000000000
+      internalID: -370864079685910737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_96
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 484
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312e62b4ebd9b5ac0800000000000000
+      internalID: -3865322414537252333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_97
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 496
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f7edfe2156b90a0800000000000000
+      internalID: -6873789274242777322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_98
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 491
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84cdaa0af0792a40800000000000000
+      internalID: 5343926652075099279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_99
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 384
+        width: 96
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6a4ae60a2597590800000000000000
+      internalID: -7676013240871770372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_100
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 239
+        width: 286
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2595ec68dd52540800000000000000
+      internalID: 4982632133812638368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_101
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 479
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f973265571921df80800000000000000
+      internalID: -8083634675959842913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_102
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 483
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761c0f0b98c4d1830800000000000000
+      internalID: 4043472194711372135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf983148c3a47ec0800000000000000
+      internalID: -3570048524114944072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_104
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 442
+        width: 83
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfd6a864d39a1ef0800000000000000
+      internalID: -136634298183262276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_105
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 383
+        width: 13
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7370176ed4c96ad70800000000000000
+      internalID: 9054095959267542839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_106
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 431
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc8237f1600d35f0800000000000000
+      internalID: -775463140078744333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_107
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 439
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0bf2cab7ac7c2e0800000000000000
+      internalID: -2105491668253822808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_108
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 448
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a0623a64edcc740800000000000000
+      internalID: 5173754466908113412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_109
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 436
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a66f727284ec980800000000000000
+      internalID: -8516790512299644301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_110
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 448
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1280478872930ea90800000000000000
+      internalID: -7286761355129649119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_111
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 443
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999676e4e09c6bfb0800000000000000
+      internalID: -4632294103421851239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_112
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 448
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ad81b80e0e989f0800000000000000
+      internalID: -465593831445177762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_113
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 443
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267fd776a4d9ab200800000000000000
+      internalID: 196642476633487202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_114
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 435
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002a4d71112cc0ab0800000000000000
+      internalID: -5040440504264384000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_115
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 435
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a031faefb4eaceb50800000000000000
+      internalID: 6623860793373823754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e400c4344af0f50800000000000000
+      internalID: 6849874167198666328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_117
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 387
+        width: 83
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9904b1f0474eb30800000000000000
+      internalID: 4315701951158327747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_118
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 384
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422141325f417acf0800000000000000
+      internalID: -241201011952971228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_119
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 393
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06a51615351b9a80800000000000000
+      internalID: -8459144157337377266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_120
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 400
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf22885f140cf0dc0800000000000000
+      internalID: -3670503781758917892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_121
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 345
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa86fead740306030800000000000000
+      internalID: 3485839196758698154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_122
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 345
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092f32ad2da793c20800000000000000
+      internalID: 3186713257362846352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_123
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 347
+        width: 81
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f26ca617220d4f0800000000000000
+      internalID: -806106462781296827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_124
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 339
+        width: 81
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d852f77ad3d1220800000000000000
+      internalID: 2458188761216159029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_125
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 336
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2e2843bed55eeb0800000000000000
+      internalID: -4691240172056812838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_126
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 352
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb00f51041601260800000000000000
+      internalID: 7066254743218162672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_127
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 347
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d750632d7a7f0720800000000000000
+      internalID: 2814602970012866513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_128
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 206
+        width: 150
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8e5af2716e60ec0800000000000000
+      internalID: -3600937864778094413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_129
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 339
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d65dc7537dbb000800000000000000
+      internalID: 52872445372493212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 193
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d57433490c0cc20800000000000000
+      internalID: 3224789075945282927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_131
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 288
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96340d2e93f4b1440800000000000000
+      internalID: 4907603328987317097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_132
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 310
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c7676b2b8fe1000800000000000000
+      internalID: 8717695750405279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_133
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 249
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e27f7f5221986db0800000000000000
+      internalID: -4798425826146159903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_134
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 249
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a961dd7ca042cb0800000000000000
+      internalID: -4889771441893500369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_135
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 242
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e744b2ca7b9925b0800000000000000
+      internalID: -5392608127244548120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_136
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 255
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd90b976e3b95820800000000000000
+      internalID: 2907552836909833686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_137
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 228
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a48a90dbab342d00800000000000000
+      internalID: 946947430779880611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_138
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 203
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefd7c3b5ad1fa9b0800000000000000
+      internalID: -5066798458245488657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_139
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 231
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9975f1b36b637b930800000000000000
+      internalID: 4158852937203799961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_140
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 217
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392a7be19dce25690800000000000000
+      internalID: -7614763602662677869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_141
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 207
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bb0acfd34ea16d0800000000000000
+      internalID: -3018849645315966194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_142
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 192
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f971f487b675b00800000000000000
+      internalID: 817240021858230145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_143
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 202
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909e6f13b26aa65d0800000000000000
+      internalID: -3068457491647502071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_144
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 217
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0639cc71a1057b50800000000000000
+      internalID: 6590175422821512718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_145
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 222
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec9a67377e404e90800000000000000
+      internalID: -7043543543269647130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_146
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 206
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd212a67f22b8a8d0800000000000000
+      internalID: -2834820048506187045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_147
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 200
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0af01678ad3eb150800000000000000
+      internalID: 5890213156391811598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_148
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 197
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e64baaa28e2fc00800000000000000
+      internalID: 933063342769335939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_149
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 194
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f017bce4e31af830800000000000000
+      internalID: 4105615884246520049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_150
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 156
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f2463572fd34050800000000000000
+      internalID: 5783711706469642085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_151
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 214
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af13c4d032a5d020800000000000000
+      internalID: 2365975509864751010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_152
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 205
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c49599b570808390800000000000000
+      internalID: -7818107710002064183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_153
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 199
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e584ca2fc0db265c0800000000000000
+      internalID: -4223605637211469730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_154
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 200
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7beb222a9e493f850800000000000000
+      internalID: 6409630425846824631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_155
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 198
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cc4d8ad26fef930800000000000000
+      internalID: 4179048180212878454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_156
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 204
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abea393b1022a02d0800000000000000
+      internalID: -3311797185274466630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_157
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 158
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cbf097972314b90800000000000000
+      internalID: -7259465627041022939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_158
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 157
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8e36e97557a7390800000000000000
+      internalID: -7819808783795492613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_159
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 150
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dffd1106636cd250800000000000000
+      internalID: 5970756495742992338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_160
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 149
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb80ca42150576940800000000000000
+      internalID: 5289284596807764159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_161
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 47
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53d2ceb6ed5b8ea0800000000000000
+      internalID: -5869494443723009187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_162
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 10
+        width: 150
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a106b7e040b3a60800000000000000
+      internalID: 7654716451892238953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_163
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 96
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b60f2ec792bbac40800000000000000
+      internalID: 5524705732969039538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_164
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 96
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d48196bc656532f0800000000000000
+      internalID: -993776625171462957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_165
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 120
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ebb30de67c80190800000000000000
+      internalID: -7995921859642409410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_166
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 102
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91efb51f9aebd4890800000000000000
+      internalID: -7472106569629696487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_167
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 113
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7baa57cb43f3e3a0800000000000000
+      internalID: -6637193919021274242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_168
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 106
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41f9521fd940c370800000000000000
+      internalID: 8340747732324577615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_169
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 120
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10c4154d396e0a30800000000000000
+      internalID: 4183396815746678813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_170
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 102
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f969f9233ef8a60800000000000000
+      internalID: 7678605696255303480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_171
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 113
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed197b097eb8e1a0800000000000000
+      internalID: -6779959811913474588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_172
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 106
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8a26564f0d62970800000000000000
+      internalID: 8729894675795847419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_173
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 120
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdec5a0389860300800000000000000
+      internalID: 218012827881631155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_174
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 102
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7321fd3f73a98eba0800000000000000
+      internalID: -6059423733521640905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_175
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 113
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17232d845ede9dde0800000000000000
+      internalID: -1307752647749389711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_176
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 106
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44c56ee8370dfbb0800000000000000
+      internalID: -4900752878410021809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_177
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 101
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a7f1da3463719f0800000000000000
+      internalID: -497869569505920412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_178
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 60
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbd02cfe4fbc5570800000000000000
+      internalID: 8456844546253314995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_179
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 96
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01d2efdc87e06280800000000000000
+      internalID: -9051980658777075446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_180
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 96
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec61ba246ebe6c70800000000000000
+      internalID: 8966313245563514086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_181
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 96
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdcae82207f54040800000000000000
+      internalID: 4631379380468895218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_182
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 72
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648e71aff68cf1300800000000000000
+      internalID: 225118889654609990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_183
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 54
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1af664515ff55630800000000000000
+      internalID: 3915316175841983006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_184
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 65
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee89a827817037a60800000000000000
+      internalID: 7670482391924381934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_185
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 58
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998138096f3ed3340800000000000000
+      internalID: 4845279422246492313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_186
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 72
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b5be697277e7e00800000000000000
+      internalID: 1044403175515970408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_187
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 54
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbc19ab099b5a930800000000000000
+      internalID: 4153930262575696887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_188
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 65
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec5d64cb8fbb37c0800000000000000
+      internalID: -4090465229519102742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_189
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 58
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a472033f437927090800000000000000
+      internalID: -8038196131228801206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_190
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 72
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c620aaeab382560800000000000000
+      internalID: 7289141618261781581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_191
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 54
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fd233fba7906570800000000000000
+      internalID: 8457926864977190708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_192
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 65
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514756735ef6bcdd0800000000000000
+      internalID: -2464753340787624939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_193
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 58
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b36c8f94e93d600800000000000000
+      internalID: 491910824857058048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_194
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 53
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7849d6ddf7f1338d0800000000000000
+      internalID: -2867913903668620153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_195
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 32
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b9532dbaad9f9a0800000000000000
+      internalID: -6198682980597785751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_196
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 32
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f004d94d55715120800000000000000
+      internalID: 2400829119896223988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_197
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 53
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e627850d578e0020800000000000000
+      internalID: 2309932492482094822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_198
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169412c2794e1ee00800000000000000
+      internalID: 1072389524222462305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_199
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5423699e921d7d590800000000000000
+      internalID: -7649415464122699195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_200
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 48
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba146ebd78faacd0800000000000000
+      internalID: -2545949420375762249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_201
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 48
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15b386a04d83c610800000000000000
+      internalID: 1640309998104065311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_202
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 48
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce1cdc2760e947b0800000000000000
+      internalID: -5239409957729984821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_203
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacce5260ed7efa50800000000000000
+      internalID: 6556816510174547118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_204
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 24
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7768774e09c664440800000000000000
+      internalID: 4919739012512974455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_205
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbd00e6f12cb0c00800000000000000
+      internalID: 868000793444277185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_206
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 17
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01027537ccab07d0800000000000000
+      internalID: -2951075159216094962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_207
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 10
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9559b96425cbf3190800000000000000
+      internalID: -7980452953119287975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_208
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 24
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0459c1b4a5c8a9e20800000000000000
+      internalID: 3358150791593235776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_209
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 6
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b9c09bdfbe92120800000000000000
+      internalID: 2389700552260623193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_210
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc49c2ae7f460bdb0800000000000000
+      internalID: -4778208188691606321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_211
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 10
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07288fef328dd650800000000000000
+      internalID: 6259302268228085517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_212
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 24
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe18eedf22d53110800000000000000
+      internalID: 1240128375455489778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_213
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 6
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70954e7d2fcbb4b0800000000000000
+      internalID: -5423513531938664321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_214
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 17
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecd6a060e20ef270800000000000000
+      internalID: 8286063527125769445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_215
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 10
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19212c29b441a1c0800000000000000
+      internalID: -4494235391039035109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_216
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291ae6e4a89165700800000000000000
+      internalID: 528638088074666386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_217
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 7
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7259dbd537bee460800000000000000
+      internalID: 7272951890199532158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_218
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d90f00220d4f690800000000000000
+      internalID: -7569196229239726743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_219
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047db92f7eb780770800000000000000
+      internalID: 8577241726465070912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Plants_Rasak_220
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187108657f33bbce0800000000000000
+      internalID: -1388458922712492159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Plants_Rasak_0: 3884649362048533480
+      Tileset_Plants_Rasak_1: 4942743133767079965
+      Tileset_Plants_Rasak_10: -3371103612710776703
+      Tileset_Plants_Rasak_100: 4982632133812638368
+      Tileset_Plants_Rasak_101: -8083634675959842913
+      Tileset_Plants_Rasak_102: 4043472194711372135
+      Tileset_Plants_Rasak_103: -3570048524114944072
+      Tileset_Plants_Rasak_104: -136634298183262276
+      Tileset_Plants_Rasak_105: 9054095959267542839
+      Tileset_Plants_Rasak_106: -775463140078744333
+      Tileset_Plants_Rasak_107: -2105491668253822808
+      Tileset_Plants_Rasak_108: 5173754466908113412
+      Tileset_Plants_Rasak_109: -8516790512299644301
+      Tileset_Plants_Rasak_11: -6342819648674283679
+      Tileset_Plants_Rasak_110: -7286761355129649119
+      Tileset_Plants_Rasak_111: -4632294103421851239
+      Tileset_Plants_Rasak_112: -465593831445177762
+      Tileset_Plants_Rasak_113: 196642476633487202
+      Tileset_Plants_Rasak_114: -5040440504264384000
+      Tileset_Plants_Rasak_115: 6623860793373823754
+      Tileset_Plants_Rasak_116: 6849874167198666328
+      Tileset_Plants_Rasak_117: 4315701951158327747
+      Tileset_Plants_Rasak_118: -241201011952971228
+      Tileset_Plants_Rasak_119: -8459144157337377266
+      Tileset_Plants_Rasak_12: 2977143910417888910
+      Tileset_Plants_Rasak_120: -3670503781758917892
+      Tileset_Plants_Rasak_121: 3485839196758698154
+      Tileset_Plants_Rasak_122: 3186713257362846352
+      Tileset_Plants_Rasak_123: -806106462781296827
+      Tileset_Plants_Rasak_124: 2458188761216159029
+      Tileset_Plants_Rasak_125: -4691240172056812838
+      Tileset_Plants_Rasak_126: 7066254743218162672
+      Tileset_Plants_Rasak_127: 2814602970012866513
+      Tileset_Plants_Rasak_128: -3600937864778094413
+      Tileset_Plants_Rasak_129: 52872445372493212
+      Tileset_Plants_Rasak_13: -7066043572825857248
+      Tileset_Plants_Rasak_130: 3224789075945282927
+      Tileset_Plants_Rasak_131: 4907603328987317097
+      Tileset_Plants_Rasak_132: 8717695750405279
+      Tileset_Plants_Rasak_133: -4798425826146159903
+      Tileset_Plants_Rasak_134: -4889771441893500369
+      Tileset_Plants_Rasak_135: -5392608127244548120
+      Tileset_Plants_Rasak_136: 2907552836909833686
+      Tileset_Plants_Rasak_137: 946947430779880611
+      Tileset_Plants_Rasak_138: -5066798458245488657
+      Tileset_Plants_Rasak_139: 4158852937203799961
+      Tileset_Plants_Rasak_14: -8668628821104161648
+      Tileset_Plants_Rasak_140: -7614763602662677869
+      Tileset_Plants_Rasak_141: -3018849645315966194
+      Tileset_Plants_Rasak_142: 817240021858230145
+      Tileset_Plants_Rasak_143: -3068457491647502071
+      Tileset_Plants_Rasak_144: 6590175422821512718
+      Tileset_Plants_Rasak_145: -7043543543269647130
+      Tileset_Plants_Rasak_146: -2834820048506187045
+      Tileset_Plants_Rasak_147: 5890213156391811598
+      Tileset_Plants_Rasak_148: 933063342769335939
+      Tileset_Plants_Rasak_149: 4105615884246520049
+      Tileset_Plants_Rasak_15: 7105927101864473966
+      Tileset_Plants_Rasak_150: 5783711706469642085
+      Tileset_Plants_Rasak_151: 2365975509864751010
+      Tileset_Plants_Rasak_152: -7818107710002064183
+      Tileset_Plants_Rasak_153: -4223605637211469730
+      Tileset_Plants_Rasak_154: 6409630425846824631
+      Tileset_Plants_Rasak_155: 4179048180212878454
+      Tileset_Plants_Rasak_156: -3311797185274466630
+      Tileset_Plants_Rasak_157: -7259465627041022939
+      Tileset_Plants_Rasak_158: -7819808783795492613
+      Tileset_Plants_Rasak_159: 5970756495742992338
+      Tileset_Plants_Rasak_16: -434809602821992192
+      Tileset_Plants_Rasak_160: 5289284596807764159
+      Tileset_Plants_Rasak_161: -5869494443723009187
+      Tileset_Plants_Rasak_162: 7654716451892238953
+      Tileset_Plants_Rasak_163: 5524705732969039538
+      Tileset_Plants_Rasak_164: -993776625171462957
+      Tileset_Plants_Rasak_165: -7995921859642409410
+      Tileset_Plants_Rasak_166: -7472106569629696487
+      Tileset_Plants_Rasak_167: -6637193919021274242
+      Tileset_Plants_Rasak_168: 8340747732324577615
+      Tileset_Plants_Rasak_169: 4183396815746678813
+      Tileset_Plants_Rasak_17: 358168697295896526
+      Tileset_Plants_Rasak_170: 7678605696255303480
+      Tileset_Plants_Rasak_171: -6779959811913474588
+      Tileset_Plants_Rasak_172: 8729894675795847419
+      Tileset_Plants_Rasak_173: 218012827881631155
+      Tileset_Plants_Rasak_174: -6059423733521640905
+      Tileset_Plants_Rasak_175: -1307752647749389711
+      Tileset_Plants_Rasak_176: -4900752878410021809
+      Tileset_Plants_Rasak_177: -497869569505920412
+      Tileset_Plants_Rasak_178: 8456844546253314995
+      Tileset_Plants_Rasak_179: -9051980658777075446
+      Tileset_Plants_Rasak_18: -5422832808663406633
+      Tileset_Plants_Rasak_180: 8966313245563514086
+      Tileset_Plants_Rasak_181: 4631379380468895218
+      Tileset_Plants_Rasak_182: 225118889654609990
+      Tileset_Plants_Rasak_183: 3915316175841983006
+      Tileset_Plants_Rasak_184: 7670482391924381934
+      Tileset_Plants_Rasak_185: 4845279422246492313
+      Tileset_Plants_Rasak_186: 1044403175515970408
+      Tileset_Plants_Rasak_187: 4153930262575696887
+      Tileset_Plants_Rasak_188: -4090465229519102742
+      Tileset_Plants_Rasak_189: -8038196131228801206
+      Tileset_Plants_Rasak_19: 3187367076923219270
+      Tileset_Plants_Rasak_190: 7289141618261781581
+      Tileset_Plants_Rasak_191: 8457926864977190708
+      Tileset_Plants_Rasak_192: -2464753340787624939
+      Tileset_Plants_Rasak_193: 491910824857058048
+      Tileset_Plants_Rasak_194: -2867913903668620153
+      Tileset_Plants_Rasak_195: -6198682980597785751
+      Tileset_Plants_Rasak_196: 2400829119896223988
+      Tileset_Plants_Rasak_197: 2309932492482094822
+      Tileset_Plants_Rasak_198: 1072389524222462305
+      Tileset_Plants_Rasak_199: -7649415464122699195
+      Tileset_Plants_Rasak_2: 5342015474331266641
+      Tileset_Plants_Rasak_20: 4513588346204923224
+      Tileset_Plants_Rasak_200: -2545949420375762249
+      Tileset_Plants_Rasak_201: 1640309998104065311
+      Tileset_Plants_Rasak_202: -5239409957729984821
+      Tileset_Plants_Rasak_203: 6556816510174547118
+      Tileset_Plants_Rasak_204: 4919739012512974455
+      Tileset_Plants_Rasak_205: 868000793444277185
+      Tileset_Plants_Rasak_206: -2951075159216094962
+      Tileset_Plants_Rasak_207: -7980452953119287975
+      Tileset_Plants_Rasak_208: 3358150791593235776
+      Tileset_Plants_Rasak_209: 2389700552260623193
+      Tileset_Plants_Rasak_21: 4150470555673727950
+      Tileset_Plants_Rasak_210: -4778208188691606321
+      Tileset_Plants_Rasak_211: 6259302268228085517
+      Tileset_Plants_Rasak_212: 1240128375455489778
+      Tileset_Plants_Rasak_213: -5423513531938664321
+      Tileset_Plants_Rasak_214: 8286063527125769445
+      Tileset_Plants_Rasak_215: -4494235391039035109
+      Tileset_Plants_Rasak_216: 528638088074666386
+      Tileset_Plants_Rasak_217: 7272951890199532158
+      Tileset_Plants_Rasak_218: -7569196229239726743
+      Tileset_Plants_Rasak_219: 8577241726465070912
+      Tileset_Plants_Rasak_22: -5639695442881010363
+      Tileset_Plants_Rasak_220: -1388458922712492159
+      Tileset_Plants_Rasak_23: -4377234522323311412
+      Tileset_Plants_Rasak_24: 3513417500780222254
+      Tileset_Plants_Rasak_25: 9192651132259695556
+      Tileset_Plants_Rasak_26: 6415628472523175932
+      Tileset_Plants_Rasak_27: -8292668505605225945
+      Tileset_Plants_Rasak_28: -6625027564516949996
+      Tileset_Plants_Rasak_29: -956344061641158529
+      Tileset_Plants_Rasak_3: 988075232567482118
+      Tileset_Plants_Rasak_30: 4811887293860833770
+      Tileset_Plants_Rasak_31: 630335749149286796
+      Tileset_Plants_Rasak_32: -9181933705736233813
+      Tileset_Plants_Rasak_33: 8727233056024364617
+      Tileset_Plants_Rasak_34: 4136886159869140824
+      Tileset_Plants_Rasak_35: 5285829566833291968
+      Tileset_Plants_Rasak_36: 2776560849026436850
+      Tileset_Plants_Rasak_37: -3694699859519650221
+      Tileset_Plants_Rasak_38: 8067146484423390729
+      Tileset_Plants_Rasak_39: 7293086091293382744
+      Tileset_Plants_Rasak_4: 7399085978280013937
+      Tileset_Plants_Rasak_40: -5947791026099791789
+      Tileset_Plants_Rasak_41: 648277956824833432
+      Tileset_Plants_Rasak_42: -6120662502955798811
+      Tileset_Plants_Rasak_43: 8959543152910516273
+      Tileset_Plants_Rasak_44: -302368330577927074
+      Tileset_Plants_Rasak_45: 6608871913322096261
+      Tileset_Plants_Rasak_46: 8195932026733805826
+      Tileset_Plants_Rasak_47: -2876142898588806371
+      Tileset_Plants_Rasak_48: 1736826591401920080
+      Tileset_Plants_Rasak_49: 3712661298798923490
+      Tileset_Plants_Rasak_5: -3842019150269750776
+      Tileset_Plants_Rasak_50: 2989981554548772171
+      Tileset_Plants_Rasak_51: -2273261507012017061
+      Tileset_Plants_Rasak_52: -2403351472111347865
+      Tileset_Plants_Rasak_53: -7918963041176377488
+      Tileset_Plants_Rasak_54: 7270880586959680943
+      Tileset_Plants_Rasak_55: -6301535435584968701
+      Tileset_Plants_Rasak_56: -6109319204249903172
+      Tileset_Plants_Rasak_57: 2193544599539849419
+      Tileset_Plants_Rasak_58: -5358002017280815660
+      Tileset_Plants_Rasak_59: -862170840464923702
+      Tileset_Plants_Rasak_6: 5455390880190164125
+      Tileset_Plants_Rasak_60: -411332714495386499
+      Tileset_Plants_Rasak_61: 5081252738110322185
+      Tileset_Plants_Rasak_62: 552692888311769836
+      Tileset_Plants_Rasak_63: 8684658884414549864
+      Tileset_Plants_Rasak_64: -7018284132513661691
+      Tileset_Plants_Rasak_65: 8610721540367995707
+      Tileset_Plants_Rasak_66: -7385739674302678547
+      Tileset_Plants_Rasak_67: 5477391163837870499
+      Tileset_Plants_Rasak_68: -7393584411056987284
+      Tileset_Plants_Rasak_69: 3940180636169970329
+      Tileset_Plants_Rasak_7: 3312129596338004658
+      Tileset_Plants_Rasak_70: -1847229500252160059
+      Tileset_Plants_Rasak_71: 4678208682699246311
+      Tileset_Plants_Rasak_72: 5991017199017985814
+      Tileset_Plants_Rasak_73: -710282609287676444
+      Tileset_Plants_Rasak_74: -7255636333062665176
+      Tileset_Plants_Rasak_75: -1942739423314884224
+      Tileset_Plants_Rasak_76: 7318268116396395226
+      Tileset_Plants_Rasak_77: 4966498160320883665
+      Tileset_Plants_Rasak_78: 7198769349671106930
+      Tileset_Plants_Rasak_79: -2347580840992255513
+      Tileset_Plants_Rasak_8: -3240513642459087508
+      Tileset_Plants_Rasak_80: -2336580547990645912
+      Tileset_Plants_Rasak_81: -2986522638076626403
+      Tileset_Plants_Rasak_82: 3961001849279026649
+      Tileset_Plants_Rasak_83: -5240531108879182170
+      Tileset_Plants_Rasak_84: -1705075364932102822
+      Tileset_Plants_Rasak_85: 6670112048968709911
+      Tileset_Plants_Rasak_86: -5322279853464893776
+      Tileset_Plants_Rasak_87: 4551942488461744972
+      Tileset_Plants_Rasak_88: 990993571466694033
+      Tileset_Plants_Rasak_89: 222492571110658554
+      Tileset_Plants_Rasak_9: 5907517124977869946
+      Tileset_Plants_Rasak_90: -5999316597551524066
+      Tileset_Plants_Rasak_91: -3958128856577414474
+      Tileset_Plants_Rasak_92: 1970704943800429292
+      Tileset_Plants_Rasak_93: 5855263895749392419
+      Tileset_Plants_Rasak_94: -8059240453358944029
+      Tileset_Plants_Rasak_95: -370864079685910737
+      Tileset_Plants_Rasak_96: -3865322414537252333
+      Tileset_Plants_Rasak_97: -6873789274242777322
+      Tileset_Plants_Rasak_98: 5343926652075099279
+      Tileset_Plants_Rasak_99: -7676013240871770372
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5655 @@
+fileFormatVersion: 2
+guid: b3d70ba019bf70649bb7920fb3d95134
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8127072647071620221
+    second: Tileset_CaveIceLava_Rasak_0
+  - first:
+      213: -4123257085211830473
+    second: Tileset_CaveIceLava_Rasak_1
+  - first:
+      213: -5523021815134144318
+    second: Tileset_CaveIceLava_Rasak_2
+  - first:
+      213: -383230701334148316
+    second: Tileset_CaveIceLava_Rasak_3
+  - first:
+      213: -106014519836969136
+    second: Tileset_CaveIceLava_Rasak_4
+  - first:
+      213: 1765541020535822114
+    second: Tileset_CaveIceLava_Rasak_5
+  - first:
+      213: -4214019585005713175
+    second: Tileset_CaveIceLava_Rasak_6
+  - first:
+      213: -2035951099751562805
+    second: Tileset_CaveIceLava_Rasak_7
+  - first:
+      213: -4392716240124823982
+    second: Tileset_CaveIceLava_Rasak_8
+  - first:
+      213: -8478634572970817149
+    second: Tileset_CaveIceLava_Rasak_9
+  - first:
+      213: 3745536073371741543
+    second: Tileset_CaveIceLava_Rasak_10
+  - first:
+      213: 1922821044569573693
+    second: Tileset_CaveIceLava_Rasak_11
+  - first:
+      213: 7763557402938292294
+    second: Tileset_CaveIceLava_Rasak_12
+  - first:
+      213: -6921783287702732972
+    second: Tileset_CaveIceLava_Rasak_13
+  - first:
+      213: -8742729330610122183
+    second: Tileset_CaveIceLava_Rasak_14
+  - first:
+      213: 2401185586936614130
+    second: Tileset_CaveIceLava_Rasak_15
+  - first:
+      213: 2061656678706913700
+    second: Tileset_CaveIceLava_Rasak_16
+  - first:
+      213: -2577159207573586055
+    second: Tileset_CaveIceLava_Rasak_17
+  - first:
+      213: -7458434926276825905
+    second: Tileset_CaveIceLava_Rasak_18
+  - first:
+      213: -7052113316969084020
+    second: Tileset_CaveIceLava_Rasak_19
+  - first:
+      213: 4707018074264184272
+    second: Tileset_CaveIceLava_Rasak_20
+  - first:
+      213: 4124561616537867023
+    second: Tileset_CaveIceLava_Rasak_21
+  - first:
+      213: -474102095790464672
+    second: Tileset_CaveIceLava_Rasak_22
+  - first:
+      213: -390599741081005171
+    second: Tileset_CaveIceLava_Rasak_23
+  - first:
+      213: 6888656893988286039
+    second: Tileset_CaveIceLava_Rasak_24
+  - first:
+      213: 8564176402440934052
+    second: Tileset_CaveIceLava_Rasak_25
+  - first:
+      213: -4174099134538265846
+    second: Tileset_CaveIceLava_Rasak_26
+  - first:
+      213: 7055381308335167953
+    second: Tileset_CaveIceLava_Rasak_27
+  - first:
+      213: 1071294945514655249
+    second: Tileset_CaveIceLava_Rasak_28
+  - first:
+      213: -1215485620037977912
+    second: Tileset_CaveIceLava_Rasak_29
+  - first:
+      213: 8492158199819175267
+    second: Tileset_CaveIceLava_Rasak_30
+  - first:
+      213: 5142485231548776857
+    second: Tileset_CaveIceLava_Rasak_31
+  - first:
+      213: 1194764865238536000
+    second: Tileset_CaveIceLava_Rasak_32
+  - first:
+      213: -2007111294541668084
+    second: Tileset_CaveIceLava_Rasak_33
+  - first:
+      213: 6022145032164547390
+    second: Tileset_CaveIceLava_Rasak_34
+  - first:
+      213: -3667592792844492225
+    second: Tileset_CaveIceLava_Rasak_35
+  - first:
+      213: 7080190476819379593
+    second: Tileset_CaveIceLava_Rasak_36
+  - first:
+      213: -7987387384664075969
+    second: Tileset_CaveIceLava_Rasak_37
+  - first:
+      213: -8899656905228717983
+    second: Tileset_CaveIceLava_Rasak_38
+  - first:
+      213: -2900283760984254987
+    second: Tileset_CaveIceLava_Rasak_39
+  - first:
+      213: -9070970102217370128
+    second: Tileset_CaveIceLava_Rasak_40
+  - first:
+      213: 1585187382093406502
+    second: Tileset_CaveIceLava_Rasak_41
+  - first:
+      213: -3396768089773054273
+    second: Tileset_CaveIceLava_Rasak_42
+  - first:
+      213: -5345042986058914993
+    second: Tileset_CaveIceLava_Rasak_43
+  - first:
+      213: -240810848642684688
+    second: Tileset_CaveIceLava_Rasak_44
+  - first:
+      213: 2530973667618532048
+    second: Tileset_CaveIceLava_Rasak_45
+  - first:
+      213: -7229514552046289786
+    second: Tileset_CaveIceLava_Rasak_46
+  - first:
+      213: 9217725013734872716
+    second: Tileset_CaveIceLava_Rasak_47
+  - first:
+      213: -1955815595293740317
+    second: Tileset_CaveIceLava_Rasak_48
+  - first:
+      213: -3801104062123156052
+    second: Tileset_CaveIceLava_Rasak_49
+  - first:
+      213: -2790379414227598451
+    second: Tileset_CaveIceLava_Rasak_50
+  - first:
+      213: 1793226696058765944
+    second: Tileset_CaveIceLava_Rasak_51
+  - first:
+      213: -9119519875651985940
+    second: Tileset_CaveIceLava_Rasak_52
+  - first:
+      213: -1022613496079764651
+    second: Tileset_CaveIceLava_Rasak_53
+  - first:
+      213: 4663612848492751302
+    second: Tileset_CaveIceLava_Rasak_54
+  - first:
+      213: -6505557945711585880
+    second: Tileset_CaveIceLava_Rasak_55
+  - first:
+      213: -3690135160415672311
+    second: Tileset_CaveIceLava_Rasak_56
+  - first:
+      213: -3745054371635768393
+    second: Tileset_CaveIceLava_Rasak_57
+  - first:
+      213: 8000554897205577409
+    second: Tileset_CaveIceLava_Rasak_58
+  - first:
+      213: 1003200289525847740
+    second: Tileset_CaveIceLava_Rasak_59
+  - first:
+      213: 7242471380616833441
+    second: Tileset_CaveIceLava_Rasak_60
+  - first:
+      213: 7078586345982293648
+    second: Tileset_CaveIceLava_Rasak_61
+  - first:
+      213: 2126631477724589017
+    second: Tileset_CaveIceLava_Rasak_62
+  - first:
+      213: 5421848046508750207
+    second: Tileset_CaveIceLava_Rasak_63
+  - first:
+      213: -5506541180446084543
+    second: Tileset_CaveIceLava_Rasak_64
+  - first:
+      213: -4100929343375971458
+    second: Tileset_CaveIceLava_Rasak_65
+  - first:
+      213: -1230194207848478816
+    second: Tileset_CaveIceLava_Rasak_66
+  - first:
+      213: -4164680395717151224
+    second: Tileset_CaveIceLava_Rasak_67
+  - first:
+      213: 7364474183441634435
+    second: Tileset_CaveIceLava_Rasak_68
+  - first:
+      213: 7744769971215941648
+    second: Tileset_CaveIceLava_Rasak_69
+  - first:
+      213: -5875901384335911090
+    second: Tileset_CaveIceLava_Rasak_70
+  - first:
+      213: 4500434461944639869
+    second: Tileset_CaveIceLava_Rasak_71
+  - first:
+      213: -1753922535161954199
+    second: Tileset_CaveIceLava_Rasak_72
+  - first:
+      213: -9127613140027297028
+    second: Tileset_CaveIceLava_Rasak_73
+  - first:
+      213: 2681671858667726401
+    second: Tileset_CaveIceLava_Rasak_74
+  - first:
+      213: 1085581910295774107
+    second: Tileset_CaveIceLava_Rasak_75
+  - first:
+      213: -6447695835715655868
+    second: Tileset_CaveIceLava_Rasak_76
+  - first:
+      213: -7078126263206974742
+    second: Tileset_CaveIceLava_Rasak_77
+  - first:
+      213: -4821951292544951092
+    second: Tileset_CaveIceLava_Rasak_78
+  - first:
+      213: 1185468061542257004
+    second: Tileset_CaveIceLava_Rasak_79
+  - first:
+      213: -3247375383805684728
+    second: Tileset_CaveIceLava_Rasak_80
+  - first:
+      213: -1565191911668042618
+    second: Tileset_CaveIceLava_Rasak_81
+  - first:
+      213: 1994884323661450708
+    second: Tileset_CaveIceLava_Rasak_82
+  - first:
+      213: 5810911360795493721
+    second: Tileset_CaveIceLava_Rasak_83
+  - first:
+      213: 7442956481319536271
+    second: Tileset_CaveIceLava_Rasak_84
+  - first:
+      213: 4678623659583885213
+    second: Tileset_CaveIceLava_Rasak_85
+  - first:
+      213: 6812647129378538998
+    second: Tileset_CaveIceLava_Rasak_86
+  - first:
+      213: -3161591441776853758
+    second: Tileset_CaveIceLava_Rasak_87
+  - first:
+      213: -4794335616449990672
+    second: Tileset_CaveIceLava_Rasak_88
+  - first:
+      213: 2718836900746433287
+    second: Tileset_CaveIceLava_Rasak_89
+  - first:
+      213: 1637936237038419991
+    second: Tileset_CaveIceLava_Rasak_90
+  - first:
+      213: -7384852740778880702
+    second: Tileset_CaveIceLava_Rasak_91
+  - first:
+      213: 8749223912119522800
+    second: Tileset_CaveIceLava_Rasak_92
+  - first:
+      213: -8396321978353541921
+    second: Tileset_CaveIceLava_Rasak_93
+  - first:
+      213: 4662101916641469558
+    second: Tileset_CaveIceLava_Rasak_94
+  - first:
+      213: 178865702396459806
+    second: Tileset_CaveIceLava_Rasak_95
+  - first:
+      213: -8583924854210204685
+    second: Tileset_CaveIceLava_Rasak_96
+  - first:
+      213: 8509427380886139865
+    second: Tileset_CaveIceLava_Rasak_97
+  - first:
+      213: -9096209520045613587
+    second: Tileset_CaveIceLava_Rasak_98
+  - first:
+      213: 8555059691195425231
+    second: Tileset_CaveIceLava_Rasak_99
+  - first:
+      213: -7791636321109980049
+    second: Tileset_CaveIceLava_Rasak_100
+  - first:
+      213: -5047577359003815617
+    second: Tileset_CaveIceLava_Rasak_101
+  - first:
+      213: 8977500274066247187
+    second: Tileset_CaveIceLava_Rasak_102
+  - first:
+      213: 7113237861315811965
+    second: Tileset_CaveIceLava_Rasak_103
+  - first:
+      213: -760350730129385453
+    second: Tileset_CaveIceLava_Rasak_104
+  - first:
+      213: -1806118167112421131
+    second: Tileset_CaveIceLava_Rasak_105
+  - first:
+      213: 1706160227505827459
+    second: Tileset_CaveIceLava_Rasak_106
+  - first:
+      213: -1028217572935317606
+    second: Tileset_CaveIceLava_Rasak_107
+  - first:
+      213: 7120717049331038204
+    second: Tileset_CaveIceLava_Rasak_108
+  - first:
+      213: -5103290815515036027
+    second: Tileset_CaveIceLava_Rasak_109
+  - first:
+      213: 2159196789320284631
+    second: Tileset_CaveIceLava_Rasak_110
+  - first:
+      213: 561862219752760699
+    second: Tileset_CaveIceLava_Rasak_111
+  - first:
+      213: 6028742296883147029
+    second: Tileset_CaveIceLava_Rasak_112
+  - first:
+      213: -1890846678934077724
+    second: Tileset_CaveIceLava_Rasak_113
+  - first:
+      213: -8401745769191014131
+    second: Tileset_CaveIceLava_Rasak_114
+  - first:
+      213: -5693930816894967343
+    second: Tileset_CaveIceLava_Rasak_115
+  - first:
+      213: -2616573113076344046
+    second: Tileset_CaveIceLava_Rasak_116
+  - first:
+      213: -3958278321221475201
+    second: Tileset_CaveIceLava_Rasak_117
+  - first:
+      213: 5327381589098517990
+    second: Tileset_CaveIceLava_Rasak_118
+  - first:
+      213: -4573170306738867026
+    second: Tileset_CaveIceLava_Rasak_119
+  - first:
+      213: 536508895162651507
+    second: Tileset_CaveIceLava_Rasak_120
+  - first:
+      213: -7354983030538231352
+    second: Tileset_CaveIceLava_Rasak_121
+  - first:
+      213: -1817167151829728965
+    second: Tileset_CaveIceLava_Rasak_122
+  - first:
+      213: 4025548202606759094
+    second: Tileset_CaveIceLava_Rasak_123
+  - first:
+      213: -3632853515142243855
+    second: Tileset_CaveIceLava_Rasak_124
+  - first:
+      213: -6296538753997834533
+    second: Tileset_CaveIceLava_Rasak_125
+  - first:
+      213: 1323985137389678791
+    second: Tileset_CaveIceLava_Rasak_126
+  - first:
+      213: -1480573373625247524
+    second: Tileset_CaveIceLava_Rasak_127
+  - first:
+      213: -3966319631520895021
+    second: Tileset_CaveIceLava_Rasak_128
+  - first:
+      213: 5019952537874281778
+    second: Tileset_CaveIceLava_Rasak_129
+  - first:
+      213: 4556554637557014207
+    second: Tileset_CaveIceLava_Rasak_130
+  - first:
+      213: -5635162226146300432
+    second: Tileset_CaveIceLava_Rasak_131
+  - first:
+      213: -7490968536168328915
+    second: Tileset_CaveIceLava_Rasak_132
+  - first:
+      213: -1715935934852744615
+    second: Tileset_CaveIceLava_Rasak_133
+  - first:
+      213: 5363793690043181061
+    second: Tileset_CaveIceLava_Rasak_134
+  - first:
+      213: -1133796825102565726
+    second: Tileset_CaveIceLava_Rasak_135
+  - first:
+      213: 8084028754706116918
+    second: Tileset_CaveIceLava_Rasak_136
+  - first:
+      213: -4259852475265321157
+    second: Tileset_CaveIceLava_Rasak_137
+  - first:
+      213: -4734424948520932521
+    second: Tileset_CaveIceLava_Rasak_138
+  - first:
+      213: 3984124079607765139
+    second: Tileset_CaveIceLava_Rasak_139
+  - first:
+      213: -9155731978798021055
+    second: Tileset_CaveIceLava_Rasak_140
+  - first:
+      213: 2361863471162493873
+    second: Tileset_CaveIceLava_Rasak_141
+  - first:
+      213: 1018580816144143839
+    second: Tileset_CaveIceLava_Rasak_142
+  - first:
+      213: 58331147721632179
+    second: Tileset_CaveIceLava_Rasak_143
+  - first:
+      213: -343771311925195889
+    second: Tileset_CaveIceLava_Rasak_144
+  - first:
+      213: 62670119297089108
+    second: Tileset_CaveIceLava_Rasak_145
+  - first:
+      213: 7083748656596623081
+    second: Tileset_CaveIceLava_Rasak_146
+  - first:
+      213: 4825328357890997612
+    second: Tileset_CaveIceLava_Rasak_147
+  - first:
+      213: 7826860917110239344
+    second: Tileset_CaveIceLava_Rasak_148
+  - first:
+      213: -3402949929721167665
+    second: Tileset_CaveIceLava_Rasak_149
+  - first:
+      213: 6433834709985582410
+    second: Tileset_CaveIceLava_Rasak_150
+  - first:
+      213: 7066332764041974304
+    second: Tileset_CaveIceLava_Rasak_151
+  - first:
+      213: -6987379734843907223
+    second: Tileset_CaveIceLava_Rasak_152
+  - first:
+      213: 9149004059256634406
+    second: Tileset_CaveIceLava_Rasak_153
+  - first:
+      213: 7692354112706825353
+    second: Tileset_CaveIceLava_Rasak_154
+  - first:
+      213: 4352468017028434965
+    second: Tileset_CaveIceLava_Rasak_155
+  - first:
+      213: -592319738663956843
+    second: Tileset_CaveIceLava_Rasak_156
+  - first:
+      213: -3945851583165361412
+    second: Tileset_CaveIceLava_Rasak_157
+  - first:
+      213: -5502644475267744220
+    second: Tileset_CaveIceLava_Rasak_158
+  - first:
+      213: 9166079339991923125
+    second: Tileset_CaveIceLava_Rasak_159
+  - first:
+      213: -7019133215850531845
+    second: Tileset_CaveIceLava_Rasak_160
+  - first:
+      213: -7453202772759398443
+    second: Tileset_CaveIceLava_Rasak_161
+  - first:
+      213: -5878863110811439910
+    second: Tileset_CaveIceLava_Rasak_162
+  - first:
+      213: 9146330260471142778
+    second: Tileset_CaveIceLava_Rasak_163
+  - first:
+      213: 2663977826148558464
+    second: Tileset_CaveIceLava_Rasak_164
+  - first:
+      213: -3666758399405853019
+    second: Tileset_CaveIceLava_Rasak_165
+  - first:
+      213: 5507861876090210703
+    second: Tileset_CaveIceLava_Rasak_166
+  - first:
+      213: -4022917207102550311
+    second: Tileset_CaveIceLava_Rasak_167
+  - first:
+      213: 2397472725001917999
+    second: Tileset_CaveIceLava_Rasak_168
+  - first:
+      213: 7840671117334031401
+    second: Tileset_CaveIceLava_Rasak_169
+  - first:
+      213: 6412103529104789155
+    second: Tileset_CaveIceLava_Rasak_170
+  - first:
+      213: 3903355505160310766
+    second: Tileset_CaveIceLava_Rasak_171
+  - first:
+      213: 872226940017914647
+    second: Tileset_CaveIceLava_Rasak_172
+  - first:
+      213: 5287609424744028766
+    second: Tileset_CaveIceLava_Rasak_173
+  - first:
+      213: 3002180296374956561
+    second: Tileset_CaveIceLava_Rasak_174
+  - first:
+      213: -4881790661727337841
+    second: Tileset_CaveIceLava_Rasak_175
+  - first:
+      213: -6198950870245738121
+    second: Tileset_CaveIceLava_Rasak_176
+  - first:
+      213: -1720364266115789728
+    second: Tileset_CaveIceLava_Rasak_177
+  - first:
+      213: -1787087752950571679
+    second: Tileset_CaveIceLava_Rasak_178
+  - first:
+      213: -7168245457539796215
+    second: Tileset_CaveIceLava_Rasak_179
+  - first:
+      213: 3843330968067598201
+    second: Tileset_CaveIceLava_Rasak_180
+  - first:
+      213: -6061337151224619162
+    second: Tileset_CaveIceLava_Rasak_181
+  - first:
+      213: -4797809586733942316
+    second: Tileset_CaveIceLava_Rasak_182
+  - first:
+      213: -4093141263059457873
+    second: Tileset_CaveIceLava_Rasak_183
+  - first:
+      213: -2723952845950001242
+    second: Tileset_CaveIceLava_Rasak_184
+  - first:
+      213: 6933383726133872186
+    second: Tileset_CaveIceLava_Rasak_185
+  - first:
+      213: 8914706503700525396
+    second: Tileset_CaveIceLava_Rasak_186
+  - first:
+      213: -7976411353983606913
+    second: Tileset_CaveIceLava_Rasak_187
+  - first:
+      213: -3842701813739419889
+    second: Tileset_CaveIceLava_Rasak_188
+  - first:
+      213: -8108973515831262768
+    second: Tileset_CaveIceLava_Rasak_189
+  - first:
+      213: -5461767012603160720
+    second: Tileset_CaveIceLava_Rasak_190
+  - first:
+      213: -6547362744435346176
+    second: Tileset_CaveIceLava_Rasak_191
+  - first:
+      213: -8049610137262344434
+    second: Tileset_CaveIceLava_Rasak_192
+  - first:
+      213: 6456407593925193351
+    second: Tileset_CaveIceLava_Rasak_193
+  - first:
+      213: 4786846560305600339
+    second: Tileset_CaveIceLava_Rasak_194
+  - first:
+      213: -6662816601451072266
+    second: Tileset_CaveIceLava_Rasak_195
+  - first:
+      213: 584741193874096079
+    second: Tileset_CaveIceLava_Rasak_196
+  - first:
+      213: 4423468402972761766
+    second: Tileset_CaveIceLava_Rasak_197
+  - first:
+      213: -5640804789443782600
+    second: Tileset_CaveIceLava_Rasak_198
+  - first:
+      213: 2782575949094341114
+    second: Tileset_CaveIceLava_Rasak_199
+  - first:
+      213: -1380112703966867577
+    second: Tileset_CaveIceLava_Rasak_200
+  - first:
+      213: 87009541710294310
+    second: Tileset_CaveIceLava_Rasak_201
+  - first:
+      213: 4640072077637348867
+    second: Tileset_CaveIceLava_Rasak_202
+  - first:
+      213: -1277759654540484130
+    second: Tileset_CaveIceLava_Rasak_203
+  - first:
+      213: -6355676629130209689
+    second: Tileset_CaveIceLava_Rasak_204
+  - first:
+      213: 8740466121392763908
+    second: Tileset_CaveIceLava_Rasak_205
+  - first:
+      213: 9209934057723788636
+    second: Tileset_CaveIceLava_Rasak_206
+  - first:
+      213: -8661877353137454556
+    second: Tileset_CaveIceLava_Rasak_207
+  - first:
+      213: -7373692448176639145
+    second: Tileset_CaveIceLava_Rasak_208
+  - first:
+      213: -7882926667437851135
+    second: Tileset_CaveIceLava_Rasak_209
+  - first:
+      213: 4752809773175819022
+    second: Tileset_CaveIceLava_Rasak_210
+  - first:
+      213: -2248976218492804071
+    second: Tileset_CaveIceLava_Rasak_211
+  - first:
+      213: -6358281000374436358
+    second: Tileset_CaveIceLava_Rasak_212
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 671
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c5f70738929c070800000000000000
+      internalID: 8127072647071620221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 691
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7371656e68f37c6c0800000000000000
+      internalID: -4123257085211830473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 682
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8323edbe84a53b0800000000000000
+      internalID: -5523021815134144318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 753
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b44f325bd7eaaf0800000000000000
+      internalID: -383230701334148316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 747
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057751c1b5c578ef0800000000000000
+      internalID: -106014519836969136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 752
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2271b653436708810800000000000000
+      internalID: 1765541020535822114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 743
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e80237a38bc485c0800000000000000
+      internalID: -4214019585005713175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 753
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc10e3ff249deb3e0800000000000000
+      internalID: -2035951099751562805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 747
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256354c6adfe903c0800000000000000
+      internalID: -4392716240124823982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 752
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3898ab117c6d55a80800000000000000
+      internalID: -8478634572970817149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 743
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76debbac631daf330800000000000000
+      internalID: 3745536073371741543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 670
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3907307d8b3faa10800000000000000
+      internalID: 1922821044569573693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 670
+        width: 140
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648bd7b2352bdbb60800000000000000
+      internalID: 7763557402938292294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 753
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f3e34e5c2e0ff90800000000000000
+      internalID: -6921783287702732972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 747
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9325899aef59ba680800000000000000
+      internalID: -8742729330610122183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 752
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc052db199b25120800000000000000
+      internalID: 2401185586936614130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 743
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1232f73d97c9c10800000000000000
+      internalID: 2061656678706913700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 722
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ff2f6ea571c3cd0800000000000000
+      internalID: -2577159207573586055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 733
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc27e673f05e7890800000000000000
+      internalID: -7458434926276825905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 725
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b814a4d4cd12e90800000000000000
+      internalID: -7052113316969084020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 733
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d52cdbefffa25140800000000000000
+      internalID: 4707018074264184272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 733
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0353f7ffe26d3930800000000000000
+      internalID: 4124561616537867023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 725
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0612421e7a6ab69f0800000000000000
+      internalID: -474102095790464672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 733
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83d18fda9f449af0800000000000000
+      internalID: -390599741081005171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 733
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ea7b982fc699f50800000000000000
+      internalID: 6888656893988286039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 725
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2564520111ad670800000000000000
+      internalID: 8564176402440934052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 733
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bc494d3fe9216c0800000000000000
+      internalID: -4174099134538265846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 723
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d99f3e3befb9e160800000000000000
+      internalID: 7055381308335167953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 723
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e8215b3110ede00800000000000000
+      internalID: 1071294945514655249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 723
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c87a0cb44ab12fe0800000000000000
+      internalID: -1215485620037977912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 720
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36584aca3e43ad570800000000000000
+      internalID: 8492158199819175267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 640
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99148217217cd5740800000000000000
+      internalID: 5142485231548776857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 697
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f09a69058a49010800000000000000
+      internalID: 1194764865238536000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 693
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c016b2869ee4524e0800000000000000
+      internalID: -2007111294541668084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 701
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b1d040005f29350800000000000000
+      internalID: 6022145032164547390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 698
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32a8b169c71a1dc0800000000000000
+      internalID: -3667592792844492225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 693
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9853ce8e9b3e14260800000000000000
+      internalID: 7080190476819379593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 701
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3159ad1e79172190800000000000000
+      internalID: -7987387384664075969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 698
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1607df472311e7480800000000000000
+      internalID: -8899656905228717983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 684
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f513b6294f10c7d0800000000000000
+      internalID: -2900283760984254987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 696
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5152980c07d1280800000000000000
+      internalID: -9070970102217370128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 693
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621eb1c7687bff510800000000000000
+      internalID: 1585187382093406502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 701
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6e1b05b614cd0d0800000000000000
+      internalID: -3396768089773054273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 698
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43e3c239b792d5b0800000000000000
+      internalID: -5345042986058914993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 693
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8a79c1fc778acf0800000000000000
+      internalID: -240810848642684688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 701
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da254a1423df1320800000000000000
+      internalID: 2530973667618532048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 698
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c73ca81da9bab90800000000000000
+      internalID: -7229514552046289786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 668
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8656e8ff00fbef70800000000000000
+      internalID: 9217725013734872716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 678
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2f854141c8bd4e0800000000000000
+      internalID: -1955815595293740317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 675
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caddade9ef3cf3bc0800000000000000
+      internalID: -3801104062123156052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 678
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83c662f4b49649d0800000000000000
+      internalID: -2790379414227598451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 675
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872845cdd22d2e810800000000000000
+      internalID: 1793226696058765944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 667
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced16a98df4f07180800000000000000
+      internalID: -9119519875651985940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 678
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55335af7172fec1f0800000000000000
+      internalID: -1022613496079764651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 675
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9ab544d2b78b040800000000000000
+      internalID: 4663612848492751302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 678
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5142c248d97b5a0800000000000000
+      internalID: -6505557945711585880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 675
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908ae3e6f910accc0800000000000000
+      internalID: -3690135160415672311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 586
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3502224e4e60cc0800000000000000
+      internalID: -3745054371635768393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_58
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 575
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c643fd4a4ea70f60800000000000000
+      internalID: 8000554897205577409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_59
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 584
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6d1cf19551ced00800000000000000
+      internalID: 1003200289525847740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_60
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 576
+        width: 41
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a96991395d628460800000000000000
+      internalID: 7242471380616833441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_61
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 623
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096743817c03c3260800000000000000
+      internalID: 7078586345982293648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_62
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 623
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db20f5cf00538d10800000000000000
+      internalID: 2126631477724589017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_63
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 648
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75bc4672164e3b40800000000000000
+      internalID: 5421848046508750207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_64
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 639
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1427376a8f5d493b0800000000000000
+      internalID: -5506541180446084543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_65
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 577
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b69176d729617c0800000000000000
+      internalID: -4100929343375971458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_66
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 596
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7c274c2e87deee0800000000000000
+      internalID: -1230194207848478816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_67
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 575
+        width: 39
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806fe3ade351436c0800000000000000
+      internalID: -4164680395717151224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_68
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 623
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384d29d404ed33660800000000000000
+      internalID: 7364474183441634435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_69
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 623
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01040795143fa7b60800000000000000
+      internalID: 7744769971215941648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_70
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 624
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e479e63a2da947ea0800000000000000
+      internalID: -5875901384335911090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_71
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 619
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71f22f7c41c47e30800000000000000
+      internalID: 4500434461944639869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 607
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9608e183fb0d8a7e0800000000000000
+      internalID: -1753922535161954199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_73
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 599
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf23c759534345180800000000000000
+      internalID: -9127613140027297028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_74
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 580
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1462d0ce856373520800000000000000
+      internalID: 2681671858667726401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_75
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 580
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9305c9eef2c01f00800000000000000
+      internalID: 1085581910295774107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_76
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 611
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447276c7cce2586a0800000000000000
+      internalID: -6447695835715655868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_77
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 601
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea6f264aa175cd90800000000000000
+      internalID: -7078126263206974742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_78
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 580
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc5f93e8dcf41db0800000000000000
+      internalID: -4821951292544951092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_79
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 580
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c611ccccbe0a37010800000000000000
+      internalID: 1185468061542257004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_80
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 587
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8041ae33b410fe2d0800000000000000
+      internalID: -3247375383805684728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_81
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 579
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68436b3cf32574ae0800000000000000
+      internalID: -1565191911668042618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_82
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 589
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd06d719b04fab10800000000000000
+      internalID: 1994884323661450708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_83
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 579
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9554f79581184a050800000000000000
+      internalID: 5810911360795493721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 538
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f860ebb3c71ba4760800000000000000
+      internalID: 7442956481319536271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_85
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 551
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f4c331e6fcde040800000000000000
+      internalID: 4678623659583885213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_86
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 557
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f541be18726b8e50800000000000000
+      internalID: 6812647129378538998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_87
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 550
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20db9f3a555cf14d0800000000000000
+      internalID: -3161591441776853758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_88
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 562
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffae778829177db0800000000000000
+      internalID: -4794335616449990672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 556
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703173791cf3bb520800000000000000
+      internalID: 2718836900746433287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_90
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 563
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7104a65545e1bb610800000000000000
+      internalID: 1637936237038419991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_91
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 558
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2411e431f8bb38990800000000000000
+      internalID: -7384852740778880702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_92
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 538
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5dc3eeacc7b6970800000000000000
+      internalID: 8749223912119522800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_93
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 538
+        width: 79
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc9e6475a54a7b80800000000000000
+      internalID: -8396321978353541921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_94
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 532
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67425180efc13b040800000000000000
+      internalID: 4662101916641469558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_95
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 532
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b77dd98657b7200800000000000000
+      internalID: 178865702396459806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_96
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 563
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb672e13d5cfd880800000000000000
+      internalID: -8583924854210204685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_97
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 553
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d373b73e1f871670800000000000000
+      internalID: 8509427380886139865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_98
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 481
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded9723a2a5c3c180800000000000000
+      internalID: -9096209520045613587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_99
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 529
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc167f5667da9b670800000000000000
+      internalID: 8555059691195425231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_100
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 484
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c453d3c0c8ed390800000000000000
+      internalID: -7791636321109980049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_101
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 529
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31f54c922763f9b0800000000000000
+      internalID: -5047577359003815617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_102
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 484
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ec0b63fec769c70800000000000000
+      internalID: 8977500274066247187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_103
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 530
+        width: 93
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a9696b52c47b260800000000000000
+      internalID: 7113237861315811965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_104
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 539
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318dde91a01b275f0800000000000000
+      internalID: -760350730129385453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_105
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 535
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f072e2a8116fe6e0800000000000000
+      internalID: -1806118167112421131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_106
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 554
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e6262ffaf7da710800000000000000
+      internalID: 1706160227505827459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_107
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 541
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97406da0990bb1f0800000000000000
+      internalID: -1028217572935317606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_108
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 531
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7b17fdd6ed1d260800000000000000
+      internalID: 7120717049331038204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_109
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 538
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58676bbaa087d29b0800000000000000
+      internalID: -5103290815515036027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_110
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 535
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9799b3a0207fd10800000000000000
+      internalID: 2159196789320284631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_111
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 535
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75631546b22cc700800000000000000
+      internalID: 561862219752760699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_112
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 533
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511b7186d256aa350800000000000000
+      internalID: 6028742296883147029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_113
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 533
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee3861b6fc52c5e0800000000000000
+      internalID: -1890846678934077724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_114
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 533
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d018a3ebcb0076b80800000000000000
+      internalID: -8401745769191014131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_115
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 531
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1635bf6181bf0b0800000000000000
+      internalID: -5693930816894967343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_116
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 533
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b1f3aed9010bbd0800000000000000
+      internalID: -2616573113076344046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_117
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 445
+        width: 235
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74e675b6de5119c0800000000000000
+      internalID: -3958278321221475201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_118
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 431
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e55c216459aee940800000000000000
+      internalID: 5327381589098517990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_119
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 431
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea43771f5d5d880c0800000000000000
+      internalID: -4573170306738867026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_120
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 481
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373d1036fff027700800000000000000
+      internalID: 536508895162651507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_121
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 481
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c12ebfe6e9dde990800000000000000
+      internalID: -7354983030538231352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_122
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 491
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b314ea96a1028c6e0800000000000000
+      internalID: -1817167151829728965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_123
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 431
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc869213ce9dd730800000000000000
+      internalID: 4025548202606759094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_124
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 429
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9dae4c9f2859dc0800000000000000
+      internalID: -3632853515142243855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_125
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 442
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd67a7d1d533e98a0800000000000000
+      internalID: -6296538753997834533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_126
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 442
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0320ab77dbf5210800000000000000
+      internalID: 1323985137389678791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_127
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 442
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd85a217c52f37be0800000000000000
+      internalID: -1480573373625247524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_128
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 442
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfe9814f4dc4f8c0800000000000000
+      internalID: -3966319631520895021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_129
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 451
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23531518c347aa540800000000000000
+      internalID: 5019952537874281778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_130
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 435
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe9e3b1d422c3f30800000000000000
+      internalID: 4556554637557014207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_131
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 437
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fda9dacfc1ebc1b0800000000000000
+      internalID: -5635162226146300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 49
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d211f022ecbba0890800000000000000
+      internalID: -7490968536168328915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_133
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 50
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a36c1db55cf28e0800000000000000
+      internalID: -1715935934852744615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_134
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 292
+        width: 98
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508618741f5007a40800000000000000
+      internalID: 5363793690043181061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_135
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 371
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aebb407bc1f340f0800000000000000
+      internalID: -1133796825102565726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_136
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 370
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6313d46425d303070800000000000000
+      internalID: 8084028754706116918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_137
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 306
+        width: 48
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37fd305eb6f1e4c0800000000000000
+      internalID: -4259852475265321157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_138
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 306
+        width: 48
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ba9a7e791fb4eb0800000000000000
+      internalID: -4734424948520932521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_139
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 387
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398d91addb37a4730800000000000000
+      internalID: 3984124079607765139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_140
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 387
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1464f01464e40f080800000000000000
+      internalID: -9155731978798021055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_141
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 387
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb8c96305607c020800000000000000
+      internalID: 2361863471162493873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_142
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 387
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd59c490bd9b22e00800000000000000
+      internalID: 1018580816144143839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_143
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 392
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9e94baedb3fc000800000000000000
+      internalID: 58331147721632179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_144
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 306
+        width: 48
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b8abc20ddaa3bf0800000000000000
+      internalID: -343771311925195889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_145
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 306
+        width: 49
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45efbb63426aed000800000000000000
+      internalID: 62670119297089108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_146
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 340
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee97923fd78e4260800000000000000
+      internalID: 7083748656596623081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_147
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 340
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d36b8639207f240800000000000000
+      internalID: 4825328357890997612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_148
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 340
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0707ebe19889e9c60800000000000000
+      internalID: 7826860917110239344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_149
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 340
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0878a811b46c0d0800000000000000
+      internalID: -3402949929721167665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_150
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 344
+        width: 83
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dd440b492994950800000000000000
+      internalID: 6433834709985582410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_151
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 299
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0221d69b538a01260800000000000000
+      internalID: 7066332764041974304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_152
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 289
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963add1e627d70f90800000000000000
+      internalID: -6987379734843907223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_153
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 244
+        width: 115
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c3998e7bac7fe70800000000000000
+      internalID: 9149004059256634406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_154
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 288
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cc7664f4bb0ca60800000000000000
+      internalID: 7692354112706825353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c8a33e992176c30800000000000000
+      internalID: 4352468017028434965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_156
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 287
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e8b7ff558a7c7f0800000000000000
+      internalID: -592319738663956843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_157
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 205
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2140124e48d39c0800000000000000
+      internalID: -3945851583165361412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_158
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 210
+        width: 138
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e7666010ea2a3b0800000000000000
+      internalID: -5502644475267744220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_159
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9f3438894743f70800000000000000
+      internalID: 9166079339991923125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_160
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf375167787079e90800000000000000
+      internalID: -7019133215850531845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_161
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 239
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d738b22197e09890800000000000000
+      internalID: -7453202772759398443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_162
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 253
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcafe4f5251a6ea0800000000000000
+      internalID: -5878863110811439910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_163
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 239
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79d9cd99ea4eee70800000000000000
+      internalID: 9146330260471142778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_164
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 250
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0862a11f7b958f420800000000000000
+      internalID: 2663977826148558464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_165
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 239
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6fb3eb9ae0d1dc0800000000000000
+      internalID: -3666758399405853019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_166
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f890644c13bdf6c40800000000000000
+      internalID: 5507861876090210703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_167
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de88dd4d1abb28c0800000000000000
+      internalID: -4022917207102550311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f265d64bdb8854120800000000000000
+      internalID: 2397472725001917999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_169
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 193
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c2c5de6d8afcc60800000000000000
+      internalID: 7840671117334031401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_170
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 193
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aec15bdf2e5cf850800000000000000
+      internalID: 6412103529104789155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_171
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 148
+        width: 115
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef452da6218b2630800000000000000
+      internalID: 3903355505160310766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_172
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 223
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7133b4bd7c5ca1c00800000000000000
+      internalID: 872226940017914647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_173
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 205
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a10e0c1cc516940800000000000000
+      internalID: 5287609424744028766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_174
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 212
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1123b15c213e9a920800000000000000
+      internalID: 3002180296374956561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_175
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 192
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f824ceb0245604cb0800000000000000
+      internalID: -4881790661727337841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_176
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 208
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77977e6e607e8f9a0800000000000000
+      internalID: -6198950870245738121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_177
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 193
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c84e990d90028e0800000000000000
+      internalID: -1720364266115789728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_178
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 193
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d1ee6382df237e0800000000000000
+      internalID: -1787087752950571679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_179
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 191
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90378804cb6458c90800000000000000
+      internalID: -7168245457539796215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_180
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 158
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9776de11721465530800000000000000
+      internalID: 3843330968067598201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_181
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 191
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fd06da9fdc1eba0800000000000000
+      internalID: -6061337151224619162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_182
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 104
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d972cac991ca6db0800000000000000
+      internalID: -4797809586733942316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_183
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 98
+        width: 142
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8e8d725bd3237c0800000000000000
+      internalID: -4093141263059457873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_184
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 147
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af5c389153923ad0800000000000000
+      internalID: -2723952845950001242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_185
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 147
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a360fa7a3c3583060800000000000000
+      internalID: 6933383726133872186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_186
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 145
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4513fed355667bb70800000000000000
+      internalID: 8914706503700525396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_187
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 152
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f1a6762281e4190800000000000000
+      internalID: -7976411353983606913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_188
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 147
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0700565f0bfbaac0800000000000000
+      internalID: -3842701813739419889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_189
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 147
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1c3dfec83277f80800000000000000
+      internalID: -8108973515831262768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_190
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 97
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07797d7f6d7e334b0800000000000000
+      internalID: -5461767012603160720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_191
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 97
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005fd4af5481325a0800000000000000
+      internalID: -6547362744435346176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_192
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 103
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0738149a3a0a4090800000000000000
+      internalID: -8049610137262344434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_193
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 116
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eab09cf74c99950800000000000000
+      internalID: 6456407593925193351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_194
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 95
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357d055b59b4e6240800000000000000
+      internalID: 4786846560305600339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_195
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 47
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4fee22a9be883a0800000000000000
+      internalID: -6662816601451072266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_196
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 43
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf376a840b6d1800800000000000000
+      internalID: 584741193874096079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_197
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 95
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae1b527311536d30800000000000000
+      internalID: 4423468402972761766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_198
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 97
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83891e52ee5d7b1b0800000000000000
+      internalID: -5640804789443782600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_199
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 97
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9405e3512bd9620800000000000000
+      internalID: 2782575949094341114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_200
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 8
+        width: 121
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f0d02decad8dce0800000000000000
+      internalID: -1380112703966867577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_201
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 142
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d26b997be153100800000000000000
+      internalID: 87009541710294310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_202
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 4
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e68cf68f8d46040800000000000000
+      internalID: 4640072077637348867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_203
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 4
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1e9c23d5c744ee0800000000000000
+      internalID: -1277759654540484130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_204
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766117597c91cc7a0800000000000000
+      internalID: -6355676629130209689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_205
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1
+        width: 29
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404b3f0e0af5c4970800000000000000
+      internalID: 8740466121392763908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_206
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1
+        width: 46
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5df56baa3240df70800000000000000
+      internalID: 9209934057723788636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_207
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 47
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422cd3e9074dac780800000000000000
+      internalID: -8661877353137454556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_208
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 4
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753737f29c16ba990800000000000000
+      internalID: -7373692448176639145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_209
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 4
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10eb9e426f73a9290800000000000000
+      internalID: -7882926667437851135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_210
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b4627ae4f55f140800000000000000
+      internalID: 4752809773175819022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_211
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9146f6c7b080ac0e0800000000000000
+      internalID: -2248976218492804071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_CaveIceLava_Rasak_212
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 0
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdf0962e19d2c7a0800000000000000
+      internalID: -6358281000374436358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_CaveIceLava_Rasak_0: 8127072647071620221
+      Tileset_CaveIceLava_Rasak_1: -4123257085211830473
+      Tileset_CaveIceLava_Rasak_10: 3745536073371741543
+      Tileset_CaveIceLava_Rasak_100: -7791636321109980049
+      Tileset_CaveIceLava_Rasak_101: -5047577359003815617
+      Tileset_CaveIceLava_Rasak_102: 8977500274066247187
+      Tileset_CaveIceLava_Rasak_103: 7113237861315811965
+      Tileset_CaveIceLava_Rasak_104: -760350730129385453
+      Tileset_CaveIceLava_Rasak_105: -1806118167112421131
+      Tileset_CaveIceLava_Rasak_106: 1706160227505827459
+      Tileset_CaveIceLava_Rasak_107: -1028217572935317606
+      Tileset_CaveIceLava_Rasak_108: 7120717049331038204
+      Tileset_CaveIceLava_Rasak_109: -5103290815515036027
+      Tileset_CaveIceLava_Rasak_11: 1922821044569573693
+      Tileset_CaveIceLava_Rasak_110: 2159196789320284631
+      Tileset_CaveIceLava_Rasak_111: 561862219752760699
+      Tileset_CaveIceLava_Rasak_112: 6028742296883147029
+      Tileset_CaveIceLava_Rasak_113: -1890846678934077724
+      Tileset_CaveIceLava_Rasak_114: -8401745769191014131
+      Tileset_CaveIceLava_Rasak_115: -5693930816894967343
+      Tileset_CaveIceLava_Rasak_116: -2616573113076344046
+      Tileset_CaveIceLava_Rasak_117: -3958278321221475201
+      Tileset_CaveIceLava_Rasak_118: 5327381589098517990
+      Tileset_CaveIceLava_Rasak_119: -4573170306738867026
+      Tileset_CaveIceLava_Rasak_12: 7763557402938292294
+      Tileset_CaveIceLava_Rasak_120: 536508895162651507
+      Tileset_CaveIceLava_Rasak_121: -7354983030538231352
+      Tileset_CaveIceLava_Rasak_122: -1817167151829728965
+      Tileset_CaveIceLava_Rasak_123: 4025548202606759094
+      Tileset_CaveIceLava_Rasak_124: -3632853515142243855
+      Tileset_CaveIceLava_Rasak_125: -6296538753997834533
+      Tileset_CaveIceLava_Rasak_126: 1323985137389678791
+      Tileset_CaveIceLava_Rasak_127: -1480573373625247524
+      Tileset_CaveIceLava_Rasak_128: -3966319631520895021
+      Tileset_CaveIceLava_Rasak_129: 5019952537874281778
+      Tileset_CaveIceLava_Rasak_13: -6921783287702732972
+      Tileset_CaveIceLava_Rasak_130: 4556554637557014207
+      Tileset_CaveIceLava_Rasak_131: -5635162226146300432
+      Tileset_CaveIceLava_Rasak_132: -7490968536168328915
+      Tileset_CaveIceLava_Rasak_133: -1715935934852744615
+      Tileset_CaveIceLava_Rasak_134: 5363793690043181061
+      Tileset_CaveIceLava_Rasak_135: -1133796825102565726
+      Tileset_CaveIceLava_Rasak_136: 8084028754706116918
+      Tileset_CaveIceLava_Rasak_137: -4259852475265321157
+      Tileset_CaveIceLava_Rasak_138: -4734424948520932521
+      Tileset_CaveIceLava_Rasak_139: 3984124079607765139
+      Tileset_CaveIceLava_Rasak_14: -8742729330610122183
+      Tileset_CaveIceLava_Rasak_140: -9155731978798021055
+      Tileset_CaveIceLava_Rasak_141: 2361863471162493873
+      Tileset_CaveIceLava_Rasak_142: 1018580816144143839
+      Tileset_CaveIceLava_Rasak_143: 58331147721632179
+      Tileset_CaveIceLava_Rasak_144: -343771311925195889
+      Tileset_CaveIceLava_Rasak_145: 62670119297089108
+      Tileset_CaveIceLava_Rasak_146: 7083748656596623081
+      Tileset_CaveIceLava_Rasak_147: 4825328357890997612
+      Tileset_CaveIceLava_Rasak_148: 7826860917110239344
+      Tileset_CaveIceLava_Rasak_149: -3402949929721167665
+      Tileset_CaveIceLava_Rasak_15: 2401185586936614130
+      Tileset_CaveIceLava_Rasak_150: 6433834709985582410
+      Tileset_CaveIceLava_Rasak_151: 7066332764041974304
+      Tileset_CaveIceLava_Rasak_152: -6987379734843907223
+      Tileset_CaveIceLava_Rasak_153: 9149004059256634406
+      Tileset_CaveIceLava_Rasak_154: 7692354112706825353
+      Tileset_CaveIceLava_Rasak_155: 4352468017028434965
+      Tileset_CaveIceLava_Rasak_156: -592319738663956843
+      Tileset_CaveIceLava_Rasak_157: -3945851583165361412
+      Tileset_CaveIceLava_Rasak_158: -5502644475267744220
+      Tileset_CaveIceLava_Rasak_159: 9166079339991923125
+      Tileset_CaveIceLava_Rasak_16: 2061656678706913700
+      Tileset_CaveIceLava_Rasak_160: -7019133215850531845
+      Tileset_CaveIceLava_Rasak_161: -7453202772759398443
+      Tileset_CaveIceLava_Rasak_162: -5878863110811439910
+      Tileset_CaveIceLava_Rasak_163: 9146330260471142778
+      Tileset_CaveIceLava_Rasak_164: 2663977826148558464
+      Tileset_CaveIceLava_Rasak_165: -3666758399405853019
+      Tileset_CaveIceLava_Rasak_166: 5507861876090210703
+      Tileset_CaveIceLava_Rasak_167: -4022917207102550311
+      Tileset_CaveIceLava_Rasak_168: 2397472725001917999
+      Tileset_CaveIceLava_Rasak_169: 7840671117334031401
+      Tileset_CaveIceLava_Rasak_17: -2577159207573586055
+      Tileset_CaveIceLava_Rasak_170: 6412103529104789155
+      Tileset_CaveIceLava_Rasak_171: 3903355505160310766
+      Tileset_CaveIceLava_Rasak_172: 872226940017914647
+      Tileset_CaveIceLava_Rasak_173: 5287609424744028766
+      Tileset_CaveIceLava_Rasak_174: 3002180296374956561
+      Tileset_CaveIceLava_Rasak_175: -4881790661727337841
+      Tileset_CaveIceLava_Rasak_176: -6198950870245738121
+      Tileset_CaveIceLava_Rasak_177: -1720364266115789728
+      Tileset_CaveIceLava_Rasak_178: -1787087752950571679
+      Tileset_CaveIceLava_Rasak_179: -7168245457539796215
+      Tileset_CaveIceLava_Rasak_18: -7458434926276825905
+      Tileset_CaveIceLava_Rasak_180: 3843330968067598201
+      Tileset_CaveIceLava_Rasak_181: -6061337151224619162
+      Tileset_CaveIceLava_Rasak_182: -4797809586733942316
+      Tileset_CaveIceLava_Rasak_183: -4093141263059457873
+      Tileset_CaveIceLava_Rasak_184: -2723952845950001242
+      Tileset_CaveIceLava_Rasak_185: 6933383726133872186
+      Tileset_CaveIceLava_Rasak_186: 8914706503700525396
+      Tileset_CaveIceLava_Rasak_187: -7976411353983606913
+      Tileset_CaveIceLava_Rasak_188: -3842701813739419889
+      Tileset_CaveIceLava_Rasak_189: -8108973515831262768
+      Tileset_CaveIceLava_Rasak_19: -7052113316969084020
+      Tileset_CaveIceLava_Rasak_190: -5461767012603160720
+      Tileset_CaveIceLava_Rasak_191: -6547362744435346176
+      Tileset_CaveIceLava_Rasak_192: -8049610137262344434
+      Tileset_CaveIceLava_Rasak_193: 6456407593925193351
+      Tileset_CaveIceLava_Rasak_194: 4786846560305600339
+      Tileset_CaveIceLava_Rasak_195: -6662816601451072266
+      Tileset_CaveIceLava_Rasak_196: 584741193874096079
+      Tileset_CaveIceLava_Rasak_197: 4423468402972761766
+      Tileset_CaveIceLava_Rasak_198: -5640804789443782600
+      Tileset_CaveIceLava_Rasak_199: 2782575949094341114
+      Tileset_CaveIceLava_Rasak_2: -5523021815134144318
+      Tileset_CaveIceLava_Rasak_20: 4707018074264184272
+      Tileset_CaveIceLava_Rasak_200: -1380112703966867577
+      Tileset_CaveIceLava_Rasak_201: 87009541710294310
+      Tileset_CaveIceLava_Rasak_202: 4640072077637348867
+      Tileset_CaveIceLava_Rasak_203: -1277759654540484130
+      Tileset_CaveIceLava_Rasak_204: -6355676629130209689
+      Tileset_CaveIceLava_Rasak_205: 8740466121392763908
+      Tileset_CaveIceLava_Rasak_206: 9209934057723788636
+      Tileset_CaveIceLava_Rasak_207: -8661877353137454556
+      Tileset_CaveIceLava_Rasak_208: -7373692448176639145
+      Tileset_CaveIceLava_Rasak_209: -7882926667437851135
+      Tileset_CaveIceLava_Rasak_21: 4124561616537867023
+      Tileset_CaveIceLava_Rasak_210: 4752809773175819022
+      Tileset_CaveIceLava_Rasak_211: -2248976218492804071
+      Tileset_CaveIceLava_Rasak_212: -6358281000374436358
+      Tileset_CaveIceLava_Rasak_22: -474102095790464672
+      Tileset_CaveIceLava_Rasak_23: -390599741081005171
+      Tileset_CaveIceLava_Rasak_24: 6888656893988286039
+      Tileset_CaveIceLava_Rasak_25: 8564176402440934052
+      Tileset_CaveIceLava_Rasak_26: -4174099134538265846
+      Tileset_CaveIceLava_Rasak_27: 7055381308335167953
+      Tileset_CaveIceLava_Rasak_28: 1071294945514655249
+      Tileset_CaveIceLava_Rasak_29: -1215485620037977912
+      Tileset_CaveIceLava_Rasak_3: -383230701334148316
+      Tileset_CaveIceLava_Rasak_30: 8492158199819175267
+      Tileset_CaveIceLava_Rasak_31: 5142485231548776857
+      Tileset_CaveIceLava_Rasak_32: 1194764865238536000
+      Tileset_CaveIceLava_Rasak_33: -2007111294541668084
+      Tileset_CaveIceLava_Rasak_34: 6022145032164547390
+      Tileset_CaveIceLava_Rasak_35: -3667592792844492225
+      Tileset_CaveIceLava_Rasak_36: 7080190476819379593
+      Tileset_CaveIceLava_Rasak_37: -7987387384664075969
+      Tileset_CaveIceLava_Rasak_38: -8899656905228717983
+      Tileset_CaveIceLava_Rasak_39: -2900283760984254987
+      Tileset_CaveIceLava_Rasak_4: -106014519836969136
+      Tileset_CaveIceLava_Rasak_40: -9070970102217370128
+      Tileset_CaveIceLava_Rasak_41: 1585187382093406502
+      Tileset_CaveIceLava_Rasak_42: -3396768089773054273
+      Tileset_CaveIceLava_Rasak_43: -5345042986058914993
+      Tileset_CaveIceLava_Rasak_44: -240810848642684688
+      Tileset_CaveIceLava_Rasak_45: 2530973667618532048
+      Tileset_CaveIceLava_Rasak_46: -7229514552046289786
+      Tileset_CaveIceLava_Rasak_47: 9217725013734872716
+      Tileset_CaveIceLava_Rasak_48: -1955815595293740317
+      Tileset_CaveIceLava_Rasak_49: -3801104062123156052
+      Tileset_CaveIceLava_Rasak_5: 1765541020535822114
+      Tileset_CaveIceLava_Rasak_50: -2790379414227598451
+      Tileset_CaveIceLava_Rasak_51: 1793226696058765944
+      Tileset_CaveIceLava_Rasak_52: -9119519875651985940
+      Tileset_CaveIceLava_Rasak_53: -1022613496079764651
+      Tileset_CaveIceLava_Rasak_54: 4663612848492751302
+      Tileset_CaveIceLava_Rasak_55: -6505557945711585880
+      Tileset_CaveIceLava_Rasak_56: -3690135160415672311
+      Tileset_CaveIceLava_Rasak_57: -3745054371635768393
+      Tileset_CaveIceLava_Rasak_58: 8000554897205577409
+      Tileset_CaveIceLava_Rasak_59: 1003200289525847740
+      Tileset_CaveIceLava_Rasak_6: -4214019585005713175
+      Tileset_CaveIceLava_Rasak_60: 7242471380616833441
+      Tileset_CaveIceLava_Rasak_61: 7078586345982293648
+      Tileset_CaveIceLava_Rasak_62: 2126631477724589017
+      Tileset_CaveIceLava_Rasak_63: 5421848046508750207
+      Tileset_CaveIceLava_Rasak_64: -5506541180446084543
+      Tileset_CaveIceLava_Rasak_65: -4100929343375971458
+      Tileset_CaveIceLava_Rasak_66: -1230194207848478816
+      Tileset_CaveIceLava_Rasak_67: -4164680395717151224
+      Tileset_CaveIceLava_Rasak_68: 7364474183441634435
+      Tileset_CaveIceLava_Rasak_69: 7744769971215941648
+      Tileset_CaveIceLava_Rasak_7: -2035951099751562805
+      Tileset_CaveIceLava_Rasak_70: -5875901384335911090
+      Tileset_CaveIceLava_Rasak_71: 4500434461944639869
+      Tileset_CaveIceLava_Rasak_72: -1753922535161954199
+      Tileset_CaveIceLava_Rasak_73: -9127613140027297028
+      Tileset_CaveIceLava_Rasak_74: 2681671858667726401
+      Tileset_CaveIceLava_Rasak_75: 1085581910295774107
+      Tileset_CaveIceLava_Rasak_76: -6447695835715655868
+      Tileset_CaveIceLava_Rasak_77: -7078126263206974742
+      Tileset_CaveIceLava_Rasak_78: -4821951292544951092
+      Tileset_CaveIceLava_Rasak_79: 1185468061542257004
+      Tileset_CaveIceLava_Rasak_8: -4392716240124823982
+      Tileset_CaveIceLava_Rasak_80: -3247375383805684728
+      Tileset_CaveIceLava_Rasak_81: -1565191911668042618
+      Tileset_CaveIceLava_Rasak_82: 1994884323661450708
+      Tileset_CaveIceLava_Rasak_83: 5810911360795493721
+      Tileset_CaveIceLava_Rasak_84: 7442956481319536271
+      Tileset_CaveIceLava_Rasak_85: 4678623659583885213
+      Tileset_CaveIceLava_Rasak_86: 6812647129378538998
+      Tileset_CaveIceLava_Rasak_87: -3161591441776853758
+      Tileset_CaveIceLava_Rasak_88: -4794335616449990672
+      Tileset_CaveIceLava_Rasak_89: 2718836900746433287
+      Tileset_CaveIceLava_Rasak_9: -8478634572970817149
+      Tileset_CaveIceLava_Rasak_90: 1637936237038419991
+      Tileset_CaveIceLava_Rasak_91: -7384852740778880702
+      Tileset_CaveIceLava_Rasak_92: 8749223912119522800
+      Tileset_CaveIceLava_Rasak_93: -8396321978353541921
+      Tileset_CaveIceLava_Rasak_94: 4662101916641469558
+      Tileset_CaveIceLava_Rasak_95: 178865702396459806
+      Tileset_CaveIceLava_Rasak_96: -8583924854210204685
+      Tileset_CaveIceLava_Rasak_97: 8509427380886139865
+      Tileset_CaveIceLava_Rasak_98: -9096209520045613587
+      Tileset_CaveIceLava_Rasak_99: 8555059691195425231
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
