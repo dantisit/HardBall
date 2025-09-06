@@ -3,17 +3,19 @@ using UnityEngine;
 public class IsWalk : MonoBehaviour
 {
     public Animator animator;
-    public float speed = 5f;
+    private Vector3 lastPosition;
 
-    void FidexUpdate()
+    void Start()
     {
-        float move = Input.GetAxis("Horizontal"); // или Vertical, в зависимости от управлени€
+        lastPosition = transform.position;
+    }
 
-        // ƒвижение персонажа
-        transform.Translate(Vector3.right * move * speed * Time.fixedDeltaTime);
+    void FixedUpdate()
+    {
+        // ѕровер€ем изменение позиции
+        float distanceMoved = Vector3.Distance(transform.position, lastPosition);
 
-        // ”становка параметра анимации
-        if (Mathf.Abs(move) > 0.1f)
+        if (distanceMoved > 0.001f)
         {
             animator.SetBool("isWalk", true);
         }
@@ -21,5 +23,7 @@ public class IsWalk : MonoBehaviour
         {
             animator.SetBool("isWalk", false);
         }
+
+        lastPosition = transform.position;
     }
 }
