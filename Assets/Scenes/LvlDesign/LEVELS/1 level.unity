@@ -684,7 +684,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceStrength: 12
+  ForceOfKnockback: 10
 --- !u!60 &113585928
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -1078,7 +1078,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceStrength: 18
+  ForceOfKnockback: 10
 --- !u!60 &242600529
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -1734,7 +1734,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceStrength: 18
+  ForceOfKnockback: 10
 --- !u!58 &378623015
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -2098,7 +2098,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceStrength: 8
+  ForceOfKnockback: 10
 --- !u!50 &424212641
 Rigidbody2D:
   serializedVersion: 5
@@ -2511,7 +2511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceStrength: 18
+  ForceOfKnockback: 10
 --- !u!60 &457966970
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -3253,7 +3253,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceStrength: 18
+  ForceOfKnockback: 10
 --- !u!58 &566519498
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -3427,7 +3427,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceStrength: 20
+  ForceOfKnockback: 10
 --- !u!212 &582779051
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3859,7 +3859,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceStrength: 12
+  ForceOfKnockback: 10
 --- !u!50 &609472288
 Rigidbody2D:
   serializedVersion: 5
@@ -4508,7 +4508,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceStrength: 18
+  ForceOfKnockback: 10
 --- !u!58 &889013778
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -5534,7 +5534,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceStrength: 20
+  ForceOfKnockback: 10
 --- !u!212 &1103079541
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6262,7 +6262,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceStrength: 16
+  ForceOfKnockback: 10
 --- !u!1001 &1223893452
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6409,7 +6409,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceStrength: 12
+  ForceOfKnockback: 10
 --- !u!50 &1274168179
 Rigidbody2D:
   serializedVersion: 5
@@ -15800,7 +15800,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceStrength: 18
+  ForceOfKnockback: 10
 --- !u!60 &1363852486
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -16118,7 +16118,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceStrength: 22
+  ForceOfKnockback: 10
 --- !u!114 &1389041992 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 4163372492872762399, guid: 7ec0c527f6ceef14ebae5dae65ba91db, type: 3}
@@ -18606,7 +18606,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceStrength: 18
+  ForceOfKnockback: 10
 --- !u!58 &1853413176
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -19842,7 +19842,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceStrength: 18
+  ForceOfKnockback: 10
 --- !u!58 &2051828781
 CircleCollider2D:
   m_ObjectHideFlags: 0

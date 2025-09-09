@@ -13,8 +13,7 @@ GameObject:
   - component: {fileID: 656837537252886263}
   - component: {fileID: 3969718409899926453}
   - component: {fileID: 2323742213716201095}
-  - component: {fileID: 6938745096563705777}
-  - component: {fileID: 8094584035439693868}
+  - component: {fileID: 8386780185738445299}
   m_Layer: 0
   m_Name: Chest
   m_TagString: Untagged
@@ -179,8 +178,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceStrength: 10
---- !u!114 &6938745096563705777
+  ForceOfKnockback: 10
+--- !u!114 &8386780185738445299
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -189,40 +188,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 5897467582464775650}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b82af90f71aef0a4bbc8a3f452c12c93, type: 3}
+  m_Script: {fileID: 11500000, guid: 419a6e28ae51505419d09d7cd981e736, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EffectPool: {fileID: 8094584035439693868}
-  HealthLineTransform: {fileID: 1300280744503811556}
-  HealthLine: {fileID: 9182635744677514458}
-  OpenChest: {fileID: 8282577288890936122, guid: 3adced99c7852454f86572b726057d3c, type: 3}
-  OpenChestsFolder: {fileID: 0}
-  maxHits: 4
---- !u!114 &8094584035439693868
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5897467582464775650}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eea08375da243a441b88d1e6b0713006, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  prefab: {fileID: 4675464517880775072, guid: e2d5d0dc74147af4bb8df2a378b706d6, type: 3}
-  notification: 3
-  strategy: 0
-  preload: 0
-  capacity: 0
-  recycle: 0
-  persist: 0
-  stamp: 0
-  warnings: 1
-  spawnedClonesList: []
-  despawnedClones: []
-  delays: []
-  deactivatedChild: {fileID: 0}
+  HealthBar: {fileID: 9182635744677514458}
+  HealthPivot: {fileID: 1300280744503811556}
+  effectPrefab: {fileID: 4675464517880775072, guid: e2d5d0dc74147af4bb8df2a378b706d6, type: 3}
+  maxHits: 3
+  OpenChestPrefab: {fileID: 8282577288890936122, guid: 3adced99c7852454f86572b726057d3c, type: 3}
+  OpenChestFolder: {fileID: 0}
 --- !u!1 &8497881501749226986
 GameObject:
   m_ObjectHideFlags: 0
