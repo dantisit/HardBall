@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
-using TMPro; // Добавляем
+using TMPro; 
 
 public class SettingsManager : MonoBehaviour
 {
