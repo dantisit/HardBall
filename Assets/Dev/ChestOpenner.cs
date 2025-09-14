@@ -3,21 +3,18 @@ using UnityEngine;
 public class ChestOpenner : DestroyableObjects
 {
     [SerializeField] private GameObject OpenChestPrefab;
-    [SerializeField][Tooltip("Объект в котором будут храниться открытые сундуки")] 
-    private GameObject OpenChestFolder;
+    [SerializeField][Tooltip("пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ")] 
 
-    protected override void Destroy()
+    protected override void DestroyObject()
     {
-        EffectProvide(); // Создаём эффект открытия сундука
-        OpenChest(); // Создаём префаб открытого сундука
-        base.Destroy();
-
+        EffectProvide(); // пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+        OpenChest(); // пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+        base.DestroyObject();
+        Debug.Log("destroy");
     }
 
     private void OpenChest() 
     {
-        GameObject newOpenChest = Instantiate(OpenChestPrefab, transform);
-        newOpenChest.transform.SetParent(OpenChestFolder.transform, worldPositionStays: true);
-        newOpenChest.transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z);
+        Instantiate(OpenChestPrefab, transform.position, transform.rotation);
     }
 }
