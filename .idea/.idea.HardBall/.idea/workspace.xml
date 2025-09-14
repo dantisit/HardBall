@@ -1,18 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:design" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dev" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:devv" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:design" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dev" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:devv" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="24ca3f68-c6bd-44d7-ab73-43df1bcc3c6d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Dev/1 ver..unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Dev/1 ver..unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Dev/ChestOpenner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Dev/ChestOpenner.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Dev/DestroyableObjects.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Dev/DestroyableObjects.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Dev/Scripts/ParentDestroyer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Dev/Scripts/ParentDestroyer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Dev/TestAbstarct.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Dev/TestAbstarct.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Dev/TestScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Dev/TestScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HardBall/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HardBall/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HardBall/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HardBall/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Dev/AbstractsClasses/DestroyableObjects.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Dev/AbstractsClasses/DestroyableObjects.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Dev/ChestOpenner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Dev/ChestOpenner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/NIK/Chest.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/NIK/Chest.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/NIK/Jug.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/NIK/Jug.prefab.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/TEST LEVELS/1 ver..unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TEST LEVELS/1 ver..unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +74,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Dev/Prefabs/DestroyableObjects/DestroyableObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dev/Prefabs/DestroyableObjects/DestroyableEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dev/Prefabs/DestroyableObjects/Scripts/OpennerObject.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Dev/ContainObject.cs" />
         <option value="$PROJECT_DIR$/Assets/Dev/AbstractsClasses/DestroyableObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dev/Prefabs/DestroyableObjects/DestroyableEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dev/Prefabs/DestroyableObjects/DestroyableObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dev/Prefabs/DestroyableObjects/Scripts/OpennerObject.cs" />
       </list>
     </option>
   </component>
@@ -70,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757830581395</updated>
-      <workItem from="1757830585270" duration="3583000" />
+      <workItem from="1757830585270" duration="5508000" />
     </task>
     <servers />
   </component>
@@ -79,6 +138,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

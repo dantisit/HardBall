@@ -67,7 +67,6 @@ public abstract class DestroyableObjects : MonoBehaviour
 
         if (HealthBar != null)
         {
-            Debug.Log(t);
             HealthBar.SetActive(t > 0); // скрыть когда достигли полного
         }
     }

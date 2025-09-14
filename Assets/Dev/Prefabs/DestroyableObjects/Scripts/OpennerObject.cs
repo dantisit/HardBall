@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ChestOpenner : DestroyableObjects
+public class OpennerObject : DestroyableObjects
 {
     [SerializeField] private GameObject OpenChestPrefab;
     [SerializeField][Tooltip("������ � ������� ����� ��������� �������� �������")] 
