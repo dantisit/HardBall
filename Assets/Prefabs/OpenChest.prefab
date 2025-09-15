@@ -43,7 +43,6 @@ GameObject:
   - component: {fileID: 5597797686893820898}
   - component: {fileID: 5684679519520880433}
   - component: {fileID: 5303061503925711021}
-  - component: {fileID: 2688617137012333549}
   m_Layer: 0
   m_Name: OpenChest
   m_TagString: Untagged
@@ -112,7 +111,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300040, guid: 29c9cded5e558164aaf8c9bf08aa1510, type: 3}
-  m_Color: {r: 0.9245283, g: 0.83952653, b: 0.6497864, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -138,7 +137,7 @@ Rigidbody2D:
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: c46ad71c9d7a20f408cd3b385785041d, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -195,16 +194,3 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &2688617137012333549
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8282577288890936122}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  forceStrength: 10

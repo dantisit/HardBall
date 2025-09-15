@@ -217,11 +217,11 @@ GameObject:
   - component: {fileID: 1360291346093823872}
   - component: {fileID: 7967205824185187750}
   - component: {fileID: 4450268559860244034}
-  - component: {fileID: 6801210439172079803}
-  - component: {fileID: 311264359939417743}
   - component: {fileID: 991331634857927109}
+  - component: {fileID: 6801210439172079803}
   - component: {fileID: 1450463486832316686}
   - component: {fileID: 4487022568171510532}
+  - component: {fileID: 979879539101312221}
   m_Layer: 0
   m_Name: Soldier
   m_TagString: Untagged
@@ -328,37 +328,6 @@ Rigidbody2D:
   m_SleepingMode: 2
   m_CollisionDetection: 1
   m_Constraints: 4
---- !u!114 &6801210439172079803
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4246835021228737829}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  forceStrength: 10
---- !u!114 &311264359939417743
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4246835021228737829}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b82af90f71aef0a4bbc8a3f452c12c93, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  EffectPool: {fileID: 0}
-  HealthLineTransform: {fileID: 3160540035003562053}
-  HealthLine: {fileID: 4583895256579009135}
-  OpenChest: {fileID: 0}
-  OpenChestsFolder: {fileID: 0}
-  maxHits: 3
 --- !u!70 &991331634857927109
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -396,6 +365,19 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0.5}
   m_Size: {x: 0.5, y: 1}
   m_Direction: 0
+--- !u!114 &6801210439172079803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4246835021228737829}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52079291e54d96a43a25021c75b33796, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ForceOfKnockback: 10
 --- !u!114 &1450463486832316686
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -462,6 +444,23 @@ MonoBehaviour:
     - rid: 704527601866113129
       type: {class: ShadowShape2DProvider_Collider2D, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.2D.Runtime}
       data: 
+--- !u!114 &979879539101312221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4246835021228737829}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76f011ab1acbf4a44b08b3c57fb9d4f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HealthBar: {fileID: 4583895256579009135}
+  HealthPivot: {fileID: 3160540035003562053}
+  effectPrefab: {fileID: 0}
+  maxHits: 5
+  IsIndestructible: 0
 --- !u!1 &4330028268561575503
 GameObject:
   m_ObjectHideFlags: 0

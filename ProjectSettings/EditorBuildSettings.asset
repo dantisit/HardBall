@@ -18,6 +18,12 @@ EditorBuildSettings:
     path: Assets/Scenes/LvlDesign/LEVELS/3 level.unity
     guid: 45ce6adcb2d21a8448f407ce4c24c28f
   - enabled: 1
+    path: Assets/Scenes/LvlDesign/LEVELS/4 level.unity
+    guid: cac04308a4e912746a7f0bf96934a4cc
+  - enabled: 1
+    path: Assets/Scenes/LvlDesign/LEVELS/5 level.unity
+    guid: ce0946b5ee3954d468ff1e85bddcdfce
+  - enabled: 1
     path: Assets/Scenes/Dev_Marina/Scenes_Marina/Menues.unity
     guid: c60c1a60200655c42b636261c73e48af
   m_configObjects:

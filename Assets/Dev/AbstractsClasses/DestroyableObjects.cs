@@ -30,7 +30,7 @@ public abstract class DestroyableObjects : MonoBehaviour
         }
 
         // Считаем объект, если он находится в контейнере
-        Container = transform?.parent.GetComponent<ContainObject>();
+        Container = transform.parent?.GetComponent<ContainObject>();
 
         if (Container != null)
             Container.ChildrenCount++;
