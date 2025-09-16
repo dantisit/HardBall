@@ -2152,6 +2152,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2749835323154649891, guid: 7ec0c527f6ceef14ebae5dae65ba91db, type: 3}
+      propertyPath: m_Text
+      value: "\u0421\u043B\u043E\u043C\u0430\u0439 \u0432\u0441\u0435 \u0441\u0443\u043D\u0434\u0443\u043A\u0438"
+      objectReference: {fileID: 0}
     - target: {fileID: 2808637009739244167, guid: 7ec0c527f6ceef14ebae5dae65ba91db, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -2239,6 +2243,10 @@ PrefabInstance:
     - target: {fileID: 3785323684626464546, guid: 7ec0c527f6ceef14ebae5dae65ba91db, type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 4021142622710304598, guid: 7ec0c527f6ceef14ebae5dae65ba91db, type: 3}
+      propertyPath: m_Name
+      value: Quest
       objectReference: {fileID: 0}
     - target: {fileID: 4120822231416665565, guid: 7ec0c527f6ceef14ebae5dae65ba91db, type: 3}
       propertyPath: m_Color.a
