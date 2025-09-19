@@ -7,7 +7,7 @@ public class HLtexte : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     public Text buttonText;
     public Color normalColor = Color.white;
     public Color highlightColor = Color.yellow;
-    public float colorChangeSpeed = 5f; // скорость плавного изменения цвета
+    public float colorChangeSpeed = 5f; // СЃРєРѕСЂРѕСЃС‚СЊ РїР»Р°РІРЅРѕРіРѕ РёР·РјРµРЅРµРЅРёСЏ С†РІРµС‚Р°
 
     private Color targetColor;
     private Color currentColor;
@@ -23,7 +23,7 @@ public class HLtexte : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 
     void FixedUpdate()
     {
-        // Плавно интерполируем текущий цвет к целевому
+        // РџР»Р°РІРЅРѕ РёРЅС‚РµСЂРїРѕР»РёСЂСѓРµРј С‚РµРєСѓС‰РёР№ С†РІРµС‚ Рє С†РµР»РµРІРѕРјСѓ
         currentColor = Color.Lerp(currentColor, targetColor, Time.fixedDeltaTime * colorChangeSpeed);
         buttonText.color = currentColor;
     }

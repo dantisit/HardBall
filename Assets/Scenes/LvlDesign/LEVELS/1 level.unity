@@ -2038,6 +2038,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 150
       objectReference: {fileID: 0}
+    - target: {fileID: 8863762311869784713, guid: 7ec0c527f6ceef14ebae5dae65ba91db, type: 3}
+      propertyPath: GameConrroller
+      value: 
+      objectReference: {fileID: 273757739}
     m_RemovedComponents:
     - {fileID: 825673422928452035, guid: 7ec0c527f6ceef14ebae5dae65ba91db, type: 3}
     m_RemovedGameObjects:
@@ -6519,6 +6523,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5967299606969532524, guid: 26ab49deedecde44d8ec17a67cb3ea2c, type: 3}
+      propertyPath: System
+      value: 
+      objectReference: {fileID: 273757739}
     - target: {fileID: 5967299606969532524, guid: 26ab49deedecde44d8ec17a67cb3ea2c, type: 3}
       propertyPath: Controller
       value: 

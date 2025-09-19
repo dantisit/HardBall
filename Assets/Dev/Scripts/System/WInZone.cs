@@ -1,10 +1,11 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.Serialization;
 
 public class WInZone : MonoBehaviour
 {
     public GameObject WinMenu;
-    public GameConrroller Controller;
+    public GameConrroller System;
     public int SceneIndex;
 
     public bool WinMenuOnSwitch = false;
@@ -14,9 +15,9 @@ public class WInZone : MonoBehaviour
         if (!collision.CompareTag("Player")) return;
 
         if (!WinMenuOnSwitch)
-            SceneManager.LoadScene(SceneIndex);
+            SceneManager.LoadScene(SceneIndex); // Переключаем сцену если не предусмотрено отображение винменю
 
-        Controller.StopGame();
+        System.StopGame();
         WinMenu.SetActive(true);
     }
 }

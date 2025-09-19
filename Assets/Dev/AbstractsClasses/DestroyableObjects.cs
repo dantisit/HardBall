@@ -1,6 +1,5 @@
 using System;
 using System.ComponentModel;
-using UnityEditor.Timeline;
 using UnityEngine;
 using UnityEngine.Serialization;
 
@@ -13,7 +12,7 @@ public abstract class DestroyableObjects : MonoBehaviour
 
     public float maxHits; // количество попаданий до уничтожения
 
-    protected float currentHits; // текущие попадания
+    [HideInInspector] public float currentHits; // текущие попадания
     protected float maxWidth; // Максимальная ширина полоски здоровья
 
     public bool IsIndestructible = false;
@@ -41,20 +40,15 @@ public abstract class DestroyableObjects : MonoBehaviour
     {
         if (other == null || other.gameObject == null) return;
         if (!other.gameObject.CompareTag("Player")) return;
-        if (IsIndestructible) return; // Проверяем объект на наличие неуязвимости
 
-        currentHits++;
-        UpdateFill(); // Обновляем заполнение на полоске ХП
-
-        if (currentHits >= maxHits) // Проверяем кол-во                             
-            DestroyObject(); // Уничтожаем объект
+        Hits(); // фиксируем попадание
     }
     protected void ParentDestroyChecker()
     {
         transform.parent?.GetComponent<ParentDestroyer>()?.CheckChildren();
     }
 
-    protected void UpdateFill()
+    public void UpdateFill()
     {
         if (HealthBar == null || HealthPivot == null) return;
 
@@ -69,6 +63,9 @@ public abstract class DestroyableObjects : MonoBehaviour
         {
             HealthBar.SetActive(t > 0); // скрыть когда достигли полного
         }
+        
+        if (currentHits >= maxHits) // Проверяем кол-во                             
+            DestroyObject(); // Уничтожаем объект
     }
 
     protected virtual void EffectProvide()
@@ -89,5 +86,13 @@ public abstract class DestroyableObjects : MonoBehaviour
     { 
         currentHits = 0;
         UpdateFill();
+    }
+
+    public void Hits()
+    {
+        if (IsIndestructible) return; // Проверяем объект на наличие неуязвимости
+
+        currentHits++;
+        UpdateFill(); // Обновляем заполнение на полоске ХП
     }
 }

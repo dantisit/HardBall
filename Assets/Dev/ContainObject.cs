@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Security;
-using UnityEditor.Timeline;
 using UnityEngine;
 
 public class ContainObject : MonoBehaviour
@@ -32,7 +31,7 @@ public class ContainObject : MonoBehaviour
             ChildrenCount = StartChildrenCount;
         }
     }
-    public void ChildDestroy(GameObject child) 
+    public void ChildDestroy(GameObject child) // функция используется внутри ребёнка
     {
         ChildrenCount--;
 

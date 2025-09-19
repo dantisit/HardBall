@@ -4,7 +4,7 @@ public class Win : MonoBehaviour
 {
     public GameConrroller Game;
     public GameObject WinMenu;
-    [Tooltip("Объект, который необходимо уничтожить для победы")] public GameObject WinObject;
+    [Tooltip("РћР±СЉРµРєС‚, РєРѕС‚РѕСЂС‹Р№ РЅРµРѕР±С…РѕРґРёРјРѕ СѓРЅРёС‡С‚РѕР¶РёС‚СЊ РґР»СЏ РїРѕР±РµРґС‹")] public GameObject WinObject;
     public void Update()
     {
         if (WinObject != null) return;

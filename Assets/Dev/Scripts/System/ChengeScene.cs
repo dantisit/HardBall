@@ -1,13 +1,13 @@
-using UnityEditor.SearchService;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Restart : MonoBehaviour
+public class ChengeScene : MonoBehaviour
 {
     public int SceneIndex;
+    public GameConrroller GameConrroller;
 
-    public void Loader() 
-    { 
+    public void Loader()
+    {   
         SceneManager.LoadScene(SceneIndex);
     }
       

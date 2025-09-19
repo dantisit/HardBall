@@ -1,9 +1,15 @@
+using System;
 using System.Net;
 using UnityEngine;
 
 public class GameConrroller : MonoBehaviour
 {
-    [HideInInspector] public bool isStopped = true; // В будущем желательно запретить назначать эту переменную при помощи геттеров и сеттеров
+    [HideInInspector] public bool isStopped = true; // Р’ Р±СѓРґСѓС‰РµРј Р¶РµР»Р°С‚РµР»СЊРЅРѕ Р·Р°РїСЂРµС‚РёС‚СЊ РЅР°Р·РЅР°С‡Р°С‚СЊ СЌС‚Сѓ РїРµСЂРµРјРµРЅРЅСѓСЋ РїСЂРё РїРѕРјРѕС‰Рё РіРµС‚С‚РµСЂРѕРІ Рё СЃРµС‚С‚РµСЂРѕРІ
+
+    public void Start()
+    {
+        ContinueGame();
+    }
 
     public void StopGame() 
     { 
@@ -17,5 +23,5 @@ public class GameConrroller : MonoBehaviour
         isStopped = false;
     }
 
-    // Ну ещё возможно сюда нужно добавить первичный запуск игры и манипуляции со временем, звуком.
+    // РќСѓ РµС‰С‘ РІРѕР·РјРѕР¶РЅРѕ СЃСЋРґР° РЅСѓР¶РЅРѕ РґРѕР±Р°РІРёС‚СЊ РїРµСЂРІРёС‡РЅС‹Р№ Р·Р°РїСѓСЃРє РёРіСЂС‹ Рё РјР°РЅРёРїСѓР»СЏС†РёРё СЃРѕ РІСЂРµРјРµРЅРµРј, Р·РІСѓРєРѕРј.
 }
